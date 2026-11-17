@@ -1,0 +1,52 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+175,TKT-LQGEFSNV,2,159455,RIYA2700,,open,Ebank minutes,Bug Report,0,2026-02-13 20:49:24,2026-02-13 20:49:24,card_ebank_bugs
+347,TKT-IEYUHRV4,1,17749,KARNAIL25,8.0,solved,Visa card,Bug Report,0,2026-02-28 11:39:56,2026-03-03 11:46:02,card_ebank_bugs
+628,TKT-RFIXOGAN,1,40166,GAGAN69,3.0,open,Visa,Bug Report,0,2026-03-18 15:32:19,2026-03-19 11:51:08,card_ebank_bugs
+717,TKT-6HLHUWKH,1,14932,BHUPINDER3199,9.0,closed,Visa,Bug Report,0,2026-03-23 14:28:09,2026-03-24 13:51:29,card_ebank_bugs
+799,TKT-L6CNQWXI,1,32618,JASWINDER25,9.0,closed,Visa,Bug Report,0,2026-03-30 15:01:21,2026-04-08 14:55:40,card_ebank_bugs
+882,TKT-W68XRWBT,1,20997,JASVIRBHATHAL1,8.0,solved,Visa,Bug Report,0,2026-04-07 13:40:23,2026-04-08 11:26:53,card_ebank_bugs
+961,TKT-KZGEQ1WK,1,9963,BAKAR92,9.0,closed,M CARD,Bug Report,0,2026-04-12 18:45:09,2026-04-17 17:44:14,card_ebank_bugs
+1007,TKT-FCBFPOMG,1,13002,ARYA1001,3.0,closed,Ebank income,Bug Report,0,2026-04-15 08:13:59,2026-04-15 10:49:53,card_ebank_bugs
+1602,TKT-PRLA6TMJ,2,159455,RIYA2700,8.0,solved,Ebank minus,Bug Report,0,2026-05-11 06:57:22,2026-05-11 11:20:58,card_ebank_bugs
+1629,TKT-X8TBFEGF,2,159455,RIYA2700,8.0,solved,Ebank minus,Bug Report,0,2026-05-11 19:53:59,2026-05-14 14:35:50,card_ebank_bugs
+1648,TKT-KGMCG1FH,1,42962,AVNISH25,9.0,closed,Visa card,Bug Report,0,2026-05-13 16:13:06,2026-05-18 16:26:17,card_ebank_bugs
+1728,TKT-E6NOGG3D,2,159455,RIYA2700,8.0,solved,Ebank minues,Bug Report,0,2026-05-19 00:02:53,2026-05-19 11:00:36,card_ebank_bugs
+1768,TKT-4AUYDXP8,2,159455,RIYA2700,10.0,open,Ebank minues,Bug Report,0,2026-05-20 06:13:08,2026-05-20 12:35:43,card_ebank_bugs
+1791,TKT-QJ04TBDZ,2,159455,RIYA2700,8.0,closed,Minus ebank,Bug Report,0,2026-05-20 23:21:40,2026-05-22 11:25:24,card_ebank_bugs
+2179,TKT-XYIURZBQ,1,63,HORSEX,9.0,closed,Ebank,Bug Report,0,2026-05-27 13:46:45,2026-06-04 15:22:49,card_ebank_bugs
+2336,TKT-VFBQWHFQ,2,173345,FIROZ28,8.0,closed,Ebank transfer issue,Bug Report,0,2026-05-31 13:13:35,2026-06-01 12:45:49,card_ebank_bugs
+2385,TKT-TYE9EADD,2,173345,FIROZ28,8.0,closed,Ebank transfer issue,Bug Report,0,2026-06-01 13:47:29,2026-06-01 14:22:53,card_ebank_bugs
+2428,TKT-99NQISU7,2,173345,FIROZ28,8.0,closed,Ebank,Bug Report,0,2026-06-02 01:16:48,2026-06-03 11:48:27,card_ebank_bugs
+2784,TKT-HPACPPWG,1,10027,DK100,9.0,closed,Ebank 64 maines,Bug Report,0,2026-06-07 11:38:48,2026-06-09 16:15:29,card_ebank_bugs
+2835,TKT-FMSLB5UY,2,173345,FIROZ28,8.0,closed,Ebank transfer issue,Bug Report,0,2026-06-08 00:57:45,2026-06-08 12:20:54,card_ebank_bugs
+2836,TKT-CWAYX36Q,2,173344,FIROZ27,8.0,closed,Ebank transfer issue,Bug Report,0,2026-06-08 00:58:55,2026-06-08 12:20:45,card_ebank_bugs
+2837,TKT-ZOMPGDQJ,2,119520,FIROZ23,8.0,closed,Ebank transfer issue,Bug Report,0,2026-06-08 00:59:56,2026-06-08 12:20:37,card_ebank_bugs
+2910,TKT-IFRHXYHW,2,173345,FIROZ28,8.0,closed,Ebank transfer issue,Bug Report,0,2026-06-09 01:12:24,2026-06-09 12:19:40,card_ebank_bugs
+3001,TKT-MZQK1FAC,1,3602,HARPAL1986,9.0,solved,My probotx tireding ebank 79.32,Bug Report,0,2026-06-10 13:55:33,2026-06-10 17:32:30,card_ebank_bugs
+3436,TKT-AVLCMU7A,1,20928,MASHROOM02,9.0,closed,related to ebank,Bug Report,0,2026-06-17 00:51:27,2026-06-18 12:46:55,card_ebank_bugs
+4443,TKT-BGWHPQDR,1,58466,NARINDER037,8.0,closed,Visa card,Bug Report,0,2026-06-21 12:42:35,2026-06-22 13:54:25,card_ebank_bugs
+5529,TKT-8BYAGNGK,2,173345,FIROZ28,10.0,open,Ebank transfer issue,Bug Report,0,2026-06-28 04:05:14,2026-06-29 14:14:00,card_ebank_bugs
+5589,TKT-TCBYKQIV,1,51298,KULWINDER025,8.0,closed,Visa card,Bug Report,0,2026-06-28 14:34:30,2026-06-29 13:13:19,card_ebank_bugs
+5618,TKT-6ICMCDLZ,1,58466,NARINDER037,8.0,closed,Visa card,Bug Report,0,2026-06-28 18:57:01,2026-06-29 12:58:42,card_ebank_bugs
+6117,TKT-QUSZZNTY,2,859514,FIROZ0107,10.0,open,Ebank transfer issue,Bug Report,0,2026-07-02 00:35:16,2026-07-02 12:17:07,card_ebank_bugs
+6489,TKT-UEGBO4OC,2,173345,FIROZ28,8.0,closed,Ebank transfer issue,Bug Report,0,2026-07-03 21:57:11,2026-07-06 14:26:20,card_ebank_bugs
+6491,TKT-5HQQT0SX,2,859514,FIROZ0107,8.0,closed,Ebank transfer issue,Bug Report,0,2026-07-03 21:58:57,2026-07-06 14:25:58,card_ebank_bugs
+6493,TKT-7YKRFN4P,2,173344,FIROZ27,8.0,closed,Ebank transfer issue,Bug Report,0,2026-07-03 21:59:58,2026-07-06 14:25:49,card_ebank_bugs
+6822,TKT-KWLKUJFL,2,859515,FIROZ0108,10.0,open,Ebank transfer issue,Bug Report,0,2026-07-07 00:22:13,2026-07-07 12:51:13,card_ebank_bugs
+7071,TKT-BEZG6H5Y,2,173345,FIROZ28,8.0,closed,Ebank update,Bug Report,0,2026-07-08 22:38:53,2026-07-09 12:58:43,card_ebank_bugs
+7072,TKT-BYB960F8,2,859514,FIROZ0107,8.0,closed,Ebank update,Bug Report,0,2026-07-08 22:40:28,2026-07-09 12:59:03,card_ebank_bugs
+7073,TKT-WASOOGIC,2,173344,FIROZ27,8.0,closed,Ebank update,Bug Report,0,2026-07-08 22:41:31,2026-07-09 12:58:51,card_ebank_bugs
+7265,TKT-CFWU3I5C,2,159455,RIYA2700,10.0,open,Ebank,Bug Report,0,2026-07-10 10:45:00,2026-07-10 16:24:49,card_ebank_bugs
+8244,TKT-QIQTSPUY,1,53692,MAAZFAROOQUI1,8.0,closed,Ebank error,Bug Report,0,2026-07-18 19:39:26,2026-07-20 15:29:41,card_ebank_bugs
+8816,TKT-F1MMLWLN,1,56297,NADEEMMM786,9.0,solved,Ebank minues,Bug Report,0,2026-07-27 09:46:23,2026-07-27 12:38:18,card_ebank_bugs
+8955,TKT-MY8JT1GE,1,24870,ZEESHANKING,8.0,solved,Ebank Withdrawl,Bug Report,0,2026-07-29 00:47:55,2026-07-29 12:47:36,card_ebank_bugs
+8956,TKT-SEO2GIOQ,1,24870,ZEESHANKING,8.0,solved,Ebank Withdrawl,Bug Report,0,2026-07-29 00:48:38,2026-07-29 12:47:28,card_ebank_bugs
+9133,TKT-46CKEHYH,1,53692,MAAZFAROOQUI1,9.0,closed,Ebank bug,Bug Report,0,2026-07-31 13:03:32,2026-07-31 14:47:40,card_ebank_bugs
+9203,TKT-GNWNPG5K,1,32992,DHALIWAL14,8.0,closed,Visa card,Bug Report,0,2026-08-01 12:27:09,2026-08-03 14:23:04,card_ebank_bugs
+9874,TKT-OFO8UDWJ,2,772400,MAAZ8899,8.0,closed,legacy ebank,Bug Report,0,2026-08-09 18:59:35,2026-08-21 12:18:18,card_ebank_bugs
+10073,TKT-WKHUJMXZ,1,1151,ALLAHHUAKBAR,8.0,closed,Ebank $ Debited,Bug Report,0,2026-08-14 09:03:45,2026-08-17 15:47:56,card_ebank_bugs
+10428,TKT-VRMGET1K,2,772400,MAAZ8899,8.0,closed,Legacy ebank,Bug Report,0,2026-08-19 09:42:16,2026-08-27 13:53:38,card_ebank_bugs
+10848,TKT-LWPRW13Y,2,772400,MAAZ8899,8.0,closed,Legacy ebank to ebank wallet,Bug Report,0,2026-08-27 11:50:52,2026-08-27 13:53:15,card_ebank_bugs
+10899,TKT-DWG0H1BV,1,1151,ALLAHHUAKBAR,9.0,solved,Ebank Settlement,Bug Report,0,2026-08-28 12:04:58,2026-08-28 17:11:50,card_ebank_bugs
+10900,TKT-DVFFULJK,1,13412,SAZIYA99,8.0,closed,ebank minus,Bug Report,0,2026-08-28 12:25:27,2026-09-04 17:34:24,card_ebank_bugs
+11174,TKT-GTY8IU1U,1,24634,DRSAHEEMKAMAL3,8.0,solved,Ebank Settlement,Bug Report,0,2026-09-04 13:16:12,2026-09-04 17:46:14,card_ebank_bugs

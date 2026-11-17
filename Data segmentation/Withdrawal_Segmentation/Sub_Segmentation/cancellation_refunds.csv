@@ -1,0 +1,20 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+48,TKT-XGX1RGMW,1,1981,MANU2402,3.0,solved,Cancle my withdrwal order of 1346 doller,Withdrawal,0,2026-01-31 18:00:45,2026-02-05 10:23:00,cancellation_refunds
+50,TKT-EMABW3SW,1,1981,MANU2402,8.0,closed,Cancle my withdrwal of 1346 doller,Withdrawal,0,2026-01-31 21:41:19,2026-02-02 12:23:53,cancellation_refunds
+58,TKT-XWPSKOY3,1,1981,MANU2402,8.0,closed,Cancel my withdrawal order,Withdrawal,0,2026-02-01 12:16:32,2026-02-02 12:02:28,cancellation_refunds
+156,TKT-7L60EZB8,2,862885,FARHAN709,8.0,closed,Withdrwal cancel,Withdrawal,0,2026-02-11 20:15:12,2026-02-12 12:45:23,cancellation_refunds
+214,TKT-CFF7BWXS,2,164294,NICE02,8.0,closed,Cancel withdrawal,Withdrawal,0,2026-02-16 16:06:51,2026-02-16 16:09:46,cancellation_refunds
+249,TKT-NF4G7JNY,2,59432,SUDHIR132,,open,Please Cancel withdrawal,Withdrawal,0,2026-02-20 19:39:28,2026-02-20 19:39:28,cancellation_refunds
+250,TKT-8YSNFFSE,2,59432,SUDHIR132,,open,Please Cancel Withdrawal,Withdrawal,0,2026-02-20 19:51:21,2026-02-20 19:51:21,cancellation_refunds
+398,TKT-Y3SA773J,2,98423,ROHIM786,8.0,solved,CANCEL WITHDRAW,Withdrawal,0,2026-03-03 11:32:18,2026-03-03 11:47:02,cancellation_refunds
+1204,TKT-GEP2Y7CU,2,30046,AJAY94,8.0,solved,Cancel,Withdrawal,0,2026-04-21 22:46:27,2026-04-22 11:36:47,cancellation_refunds
+1491,TKT-TI3ROPPP,2,848541,METARISER5400,8.0,closed,Cancel withdrawal,Withdrawal,0,2026-05-04 16:19:00,2026-05-08 11:59:12,cancellation_refunds
+1492,TKT-50DPIUME,2,735860,TAHIRRISER1290,8.0,solved,Cancel the withdrawal,Withdrawal,0,2026-05-04 16:20:38,2026-05-08 11:59:58,cancellation_refunds
+1722,TKT-KFZEQBHR,1,1996,POOJA1998,9.0,closed,Withwral cancel,Withdrawal,0,2026-05-18 16:48:05,2026-05-20 17:01:09,cancellation_refunds
+1725,TKT-SWUZEIDV,1,24626,MOIJ786,8.0,solved,Please my withdrawal in cancel,Withdrawal,0,2026-05-18 19:45:19,2026-05-19 10:48:28,cancellation_refunds
+1747,TKT-MHOEV0GY,1,14866,BASUDEVROYM20,10.0,open,Cancel my  withdrawal,Withdrawal,0,2026-05-19 11:53:53,2026-05-19 12:00:55,cancellation_refunds
+8625,TKT-RQ7DU2XY,1,14716,SKS249,9.0,closed,Cancel withdrawal,Withdrawal,0,2026-07-24 17:35:48,2026-07-24 17:47:33,cancellation_refunds
+8736,TKT-W7I5BWON,1,45364,ARUHI,8.0,closed,cancel,Withdrawal,0,2026-07-26 06:26:12,2026-07-27 13:10:47,cancellation_refunds
+8921,TKT-SYLLN1DH,1,16519,BIPIN007,9.0,solved,CANCEL MY WITHDRAWAL,Withdrawal,0,2026-07-28 12:46:25,2026-07-29 15:23:30,cancellation_refunds
+9102,TKT-V8A7HZGD,1,18915,PATELSAJID25,9.0,closed,stop withdrawal,Withdrawal,0,2026-07-31 09:03:38,2026-07-31 15:38:53,cancellation_refunds
+11204,TKT-X4ENDWLY,1,42282,AYAZJSP2,,open,Withdrawal cancelacen,Withdrawal,0,2026-09-05 10:40:10,2026-09-05 10:40:10,cancellation_refunds

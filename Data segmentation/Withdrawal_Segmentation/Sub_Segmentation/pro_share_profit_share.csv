@@ -1,0 +1,16 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+120,TKT-NUFIZ60K,2,726128,PARVEZALAM153,10.0,open,Profit Share,Withdrawal,0,2026-02-09 14:54:39,2026-02-16 17:43:28,staking_rewards_profit
+178,TKT-XZQ9IS61,2,669414,HONEYPABLA09,10.0,open,Pro Share,Withdrawal,0,2026-02-14 12:05:51,2026-02-16 17:41:54,staking_rewards_profit
+519,TKT-CTTTSCG7,2,669486,BINDUPB12,,open,Pro Share,Withdrawal,0,2026-03-12 17:51:14,2026-03-12 17:51:14,staking_rewards_profit
+1688,TKT-ZTGYJPOD,2,759139,5911VARGA,8.0,solved,Pro Share,Withdrawal,0,2026-05-16 08:16:59,2026-05-18 10:45:04,staking_rewards_profit
+2554,TKT-ECZDTRQB,2,818916,JASNEEK12,8.0,closed,Regarding pro share withdrawal,Withdrawal,0,2026-06-03 21:29:08,2026-06-04 13:04:22,staking_rewards_profit
+2555,TKT-8XYZALCF,2,812213,HARJEET14,8.0,closed,Regarding pro share withdrawal,Withdrawal,0,2026-06-03 21:34:34,2026-06-04 13:04:11,staking_rewards_profit
+2944,TKT-NR1C4HMK,2,353288,SARBJI001,8.0,closed,Pro share balnce,Withdrawal,0,2026-06-09 15:16:37,2026-06-09 15:52:59,staking_rewards_profit
+2945,TKT-ZNTKJZ5Z,2,353288,SARBJI001,8.0,closed,Withdraw balnce pro share,Withdrawal,0,2026-06-09 15:24:27,2026-06-09 15:53:52,staking_rewards_profit
+2956,TKT-QWGVIDO7,2,353309,SARBJI002,10.0,open,Pro share balnce not updated,Withdrawal,0,2026-06-09 18:04:11,2026-06-09 18:08:27,staking_rewards_profit
+3185,TKT-1CHRRPDZ,2,818916,JASNEEK12,8.0,solved,Regarding pro share withdrawal,Withdrawal,0,2026-06-13 12:38:51,2026-06-15 13:39:34,staking_rewards_profit
+3386,TKT-HPRVT2QE,2,818916,JASNEEK12,8.0,closed,Regarding pro share withdraw,Withdrawal,0,2026-06-16 11:46:42,2026-06-16 11:56:58,staking_rewards_profit
+5970,TKT-RXVHQRG8,2,290482,MANJOT05,10.0,open,Pro sharer,Withdrawal,0,2026-07-01 08:40:48,2026-07-01 11:14:20,staking_rewards_profit
+8312,TKT-K1PCPRK0,2,760588,PROS1800,9.0,closed,Pro share,Withdrawal,0,2026-07-19 21:31:11,2026-07-20 19:17:49,staking_rewards_profit
+8626,TKT-2TJKYWH8,2,760588,PROS1800,10.0,open,Pro share,Withdrawal,0,2026-07-24 18:34:20,2026-07-24 19:20:03,staking_rewards_profit
+8627,TKT-W7MUV8VR,2,760588,PROS1800,10.0,open,Pro share,Withdrawal,0,2026-07-24 18:37:50,2026-07-24 19:20:10,staking_rewards_profit

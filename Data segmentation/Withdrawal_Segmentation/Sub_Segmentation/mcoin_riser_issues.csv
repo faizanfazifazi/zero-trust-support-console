@@ -1,0 +1,423 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+77,TKT-RLBKURLD,1,5660,ARNAV21,3.0,closed,Mcoin not redeemed,Withdrawal,0,2026-02-06 11:12:08,2026-02-06 13:26:16,crypto_usdt_wallet
+78,TKT-BFWJOHFR,1,5660,ARNAV21,3.0,closed,Mcoin not found,Withdrawal,0,2026-02-06 11:15:00,2026-04-14 23:45:43,crypto_usdt_wallet
+97,TKT-8WM6KZPD,2,828308,ALLAHTUHITU,10.0,open,My Riser Coin Is Not Release.,Withdrawal,0,2026-02-07 19:12:55,2026-02-16 17:43:14,crypto_usdt_wallet
+106,TKT-T7BLTEDM,2,367865,SANJAY252,9.0,closed,Mcoin withdrawal problem,Withdrawal,0,2026-02-08 09:32:17,2026-02-09 18:34:41,crypto_usdt_wallet
+107,TKT-U6CFPCAN,2,179189,DIKESH9955,10.0,open,Mcoin withdrawal problem,Withdrawal,0,2026-02-08 09:35:07,2026-02-16 17:43:04,crypto_usdt_wallet
+108,TKT-LDAY2DP0,2,408859,SANGITA316,10.0,open,Mcoin withdrawal but not successful arthbit exchange,Withdrawal,0,2026-02-08 09:49:57,2026-02-16 17:42:33,crypto_usdt_wallet
+117,TKT-3OCI5LK2,2,296348,FAIZ32,10.0,open,Sir my mcoin not receive in my arthvit wallet,Withdrawal,0,2026-02-08 22:10:38,2026-02-16 17:43:25,crypto_usdt_wallet
+148,TKT-87ABGPN8,2,247770,JUGNU15,8.0,solved,"Please Release My mcoin, for withdrawal.",Withdrawal,0,2026-02-11 15:16:28,2026-02-12 12:21:40,crypto_usdt_wallet
+167,TKT-Q4CWDFBS,2,716105,IMTAJ20,8.0,closed,Mcoin withdraw nahi hota he,Withdrawal,0,2026-02-13 11:04:23,2026-02-16 12:34:19,crypto_usdt_wallet
+179,TKT-AMBN1THR,2,268823,KIRAT002,,open,Mcoin withdrawal,Withdrawal,0,2026-02-14 12:43:46,2026-02-14 12:43:46,crypto_usdt_wallet
+180,TKT-FIBIGT0Y,2,612380,RAJAN552,,open,Coins are not released yet,Withdrawal,0,2026-02-14 12:56:30,2026-02-14 12:56:30,crypto_usdt_wallet
+181,TKT-F2HP3TYT,2,432475,MANOJ1183,,open,Mcoin is not  available for  withdrawl.,Withdrawal,0,2026-02-14 22:26:46,2026-02-14 22:26:46,crypto_usdt_wallet
+206,TKT-PCDEESEO,1,39039,KHUSHI100,3.0,open,Mcoin,Withdrawal,0,2026-02-16 13:27:01,2026-02-16 18:09:32,crypto_usdt_wallet
+227,TKT-BJKDBMDU,2,151009,DIPNARAYAN9955,,open,Mcoin withdrawal is pending,Withdrawal,0,2026-02-18 11:22:14,2026-02-18 11:22:14,crypto_usdt_wallet
+236,TKT-1XMSTHV3,1,37861,MANJU1982,8.0,closed,Mcoin wallet,Withdrawal,0,2026-02-19 11:08:39,2026-02-25 11:00:30,crypto_usdt_wallet
+237,TKT-UUWJ0RL9,2,41075,PARM87,,open,Mcoin,Withdrawal,0,2026-02-19 13:18:07,2026-02-19 13:18:07,crypto_usdt_wallet
+258,TKT-8MRJ1A3U,2,126374,JSD12,,open,Mcoin withdrawal,Withdrawal,0,2026-02-22 07:28:13,2026-02-22 07:28:13,crypto_usdt_wallet
+266,TKT-DZR2EEBN,2,621596,SHAHVEZ1160,3.0,open,Showing less coins in balance,Withdrawal,0,2026-02-22 22:07:07,2026-02-23 12:23:04,crypto_usdt_wallet
+271,TKT-XFZVWDFK,2,48448,KANWALJEET81,,open,Mcoin withdrawal,Withdrawal,0,2026-02-23 07:40:09,2026-02-23 07:40:09,crypto_usdt_wallet
+276,TKT-HIHQBOAQ,2,716105,IMTAJ20,,open,Withdraw not credited mcoin release nahi hota he,Withdrawal,0,2026-02-23 16:12:29,2026-02-23 16:12:29,crypto_usdt_wallet
+277,TKT-HLXAPY0B,2,716105,IMTAJ20,,open,Withdraw and coin release isssu,Withdrawal,0,2026-02-23 16:24:38,2026-02-23 16:24:38,crypto_usdt_wallet
+297,TKT-NHNZXK5H,2,183182,UPDESH9090,,open,Mcoin fixed withdrawal,Withdrawal,0,2026-02-25 17:58:31,2026-02-25 17:58:31,crypto_usdt_wallet
+311,TKT-MRBPPMBC,2,84307,SHAMSHEER6,10.0,open,Coins,Withdrawal,0,2026-02-26 11:19:40,2026-02-26 12:02:37,crypto_usdt_wallet
+312,TKT-RCYMPOBL,2,155576,ROHITRK13,8.0,solved,Mcoin Fixed Package not show,Withdrawal,0,2026-02-26 11:35:30,2026-03-02 12:05:26,crypto_usdt_wallet
+319,TKT-PIESVRMX,2,415987,JUBAIR202,9.0,closed,My coin,Withdrawal,0,2026-02-26 20:52:15,2026-02-27 14:54:26,crypto_usdt_wallet
+327,TKT-DOJ2OAJF,2,125260,KAMAL879,,open,Mcoin,Withdrawal,0,2026-02-27 11:02:04,2026-02-27 11:02:04,crypto_usdt_wallet
+337,TKT-02TOPDLI,2,863484,ANSHU9054,,open,Rise coin not withdrawal,Withdrawal,0,2026-02-27 23:04:07,2026-02-27 23:04:07,crypto_usdt_wallet
+339,TKT-NERYBYYS,2,32276,NADEEM1985,,open,"24 Feb, 2026 - 08:15 AM	e667d18f5747	Paid	7dacf941c296 - $1,800 Pearl Package		723.90 MCOIN	38.10 MCOIN	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-02-28 05:31:04,2026-02-28 05:31:04,crypto_usdt_wallet
+341,TKT-ZLEDN2MS,2,493563,RM00024,,open,Legavy MCOIN Withdrwal,Withdrawal,0,2026-02-28 05:53:22,2026-02-28 05:53:22,crypto_usdt_wallet
+342,TKT-GG5ZIACM,2,493568,RM0011,,open,Legacy Mcoin Withdrawal Not Arrived,Withdrawal,0,2026-02-28 05:55:46,2026-02-28 05:55:46,crypto_usdt_wallet
+343,TKT-UK84QYPT,2,493574,RM0030,,open,Legacy Mcoin Withdrawal Not Arrived,Withdrawal,0,2026-02-28 05:57:56,2026-02-28 05:57:56,crypto_usdt_wallet
+345,TKT-PVHJH4MU,2,493571,RM0027,,open,Legacy Mcoin Withdrawal Not Arrived,Withdrawal,0,2026-02-28 06:00:28,2026-02-28 06:00:28,crypto_usdt_wallet
+346,TKT-ZJXHDSMQ,2,225007,ELITE0022,,open,Legacy Mcoin Withdrawal Not Arrived,Withdrawal,0,2026-02-28 06:05:52,2026-02-28 06:05:52,crypto_usdt_wallet
+359,TKT-2A9BGE84,2,132764,MOHIT620,8.0,solved,How to Withdraw or Transfer The Mcoin Balance Below 50.,Withdrawal,0,2026-02-28 20:56:33,2026-03-03 11:45:54,crypto_usdt_wallet
+360,TKT-PWH6DWJK,2,132958,DEVILMK7,,open,Enquiry About Fixed Mcoin Staking Order Id 86d59cb0a3d0.,Withdrawal,0,2026-02-28 21:15:59,2026-02-28 21:15:59,crypto_usdt_wallet
+375,TKT-BAUAJWI6,2,113368,ALAMIN1245,10.0,open,REFUND MY COIN,Withdrawal,0,2026-03-02 08:21:10,2026-03-02 11:28:30,crypto_usdt_wallet
+405,TKT-JZ6ZE3Y7,2,339334,RAJVEERG5400,,open,Legacy Mcoin Withdrawal pending,Withdrawal,0,2026-03-04 15:19:21,2026-03-04 15:19:21,crypto_usdt_wallet
+423,TKT-J1J0WET1,2,126862,BTTI123,,open,M coin withdrawal,Withdrawal,0,2026-03-06 21:10:23,2026-03-06 21:10:23,crypto_usdt_wallet
+425,TKT-PEJGQ98B,2,518090,MONUALAM,,open,Mcoin smart,Withdrawal,0,2026-03-07 00:42:51,2026-03-07 00:42:51,crypto_usdt_wallet
+426,TKT-HXC8NIKD,2,518090,MONUALAM,,open,Mcoin,Withdrawal,0,2026-03-07 01:06:57,2026-03-07 01:06:57,crypto_usdt_wallet
+437,TKT-DRNS5BWV,2,34282,MOHDFAHIM,10.0,open,"23 Feb, 2026 - 01:53 PM	0020ad0bba64	Pending	-	Smart	8,398.00 Riser	442.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-03-08 05:32:27,2026-03-09 11:43:12,crypto_usdt_wallet
+444,TKT-4LRW7WGK,2,28822,JANGVIRK,,open,Realse my Mcoins,Withdrawal,0,2026-03-08 14:13:21,2026-03-08 14:13:21,crypto_usdt_wallet
+451,TKT-FGCRVBBZ,2,5800,PATRAN,,open,Fixed mcoin,Withdrawal,0,2026-03-08 20:37:52,2026-03-08 20:37:52,crypto_usdt_wallet
+456,TKT-HLHJU0QV,2,37645,PATRAN3,8.0,solved,fixed mcoin,Withdrawal,0,2026-03-09 10:56:50,2026-03-11 12:34:47,crypto_usdt_wallet
+473,TKT-FHPDKWF3,2,34282,MOHDFAHIM,,open,"23 Feb, 2026 - 01:53 PM	0020ad0bba64	Pending	214e0727be61 - $900 Exclusive Package	Smart	8,398.00 Riser	442.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-03-10 05:32:24,2026-03-10 05:32:24,crypto_usdt_wallet
+477,TKT-OJ6RUSDG,1,38946,RSN,3.0,closed,Deposit of Mcoin is unsuccessful,Withdrawal,0,2026-03-10 10:21:11,2026-04-14 23:43:16,crypto_usdt_wallet
+481,TKT-AQAQHPBB,2,154576,MANDEEP7888514397,,open,When I withdraw my mcoin I have not received otp on Gmail,Withdrawal,0,2026-03-10 15:40:48,2026-03-10 15:40:48,crypto_usdt_wallet
+489,TKT-90JKUIHJ,2,481958,ANJALI2210,,open,Release my mcoin,Withdrawal,0,2026-03-11 04:08:09,2026-03-11 04:08:09,crypto_usdt_wallet
+490,TKT-FCC1GUIO,2,34282,MOHDFAHIM,10.0,open,"23 Feb, 2026 - 01:53 PM	0020ad0bba64	Pending	214e0727be61 - $900 Exclusive Package	Smart	8,398.00 Riser	442.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-03-11 04:24:39,2026-03-11 11:53:19,crypto_usdt_wallet
+499,TKT-K6G9NKZJ,2,153651,MAROOF123,,open,Long tume summit riser coin withdrawal,Withdrawal,0,2026-03-11 15:08:31,2026-03-11 15:08:31,crypto_usdt_wallet
+502,TKT-T8YBPEP8,2,306309,KULWINDER1830,,open,Riser Coin,Withdrawal,0,2026-03-11 17:49:53,2026-03-11 17:49:53,crypto_usdt_wallet
+517,TKT-BQQWQXVL,1,5660,ARNAV21,9.0,closed,Mcoin,Withdrawal,0,2026-03-12 17:09:10,2026-03-19 14:53:15,crypto_usdt_wallet
+525,TKT-29BOAPZ4,2,610815,JOT1997,,open,About my withdrawl of mcoin fixdd,Withdrawal,0,2026-03-13 06:02:44,2026-03-13 06:02:44,crypto_usdt_wallet
+526,TKT-DFT4CGEI,2,96525,LALGOLAFIRST,,open,RISER COIN NOT RECEVED,Withdrawal,0,2026-03-13 08:40:58,2026-03-13 08:40:58,crypto_usdt_wallet
+533,TKT-OELSFIXX,2,46548,JASSI1992,,open,Riser coin withdrawal,Withdrawal,0,2026-03-13 16:17:18,2026-03-13 16:17:18,crypto_usdt_wallet
+536,TKT-ESVQDGTM,2,146368,ALAMIN7448,,open,Release my coin,Withdrawal,0,2026-03-13 18:31:17,2026-03-13 18:31:17,crypto_usdt_wallet
+571,TKT-QQKNLSHG,2,794044,SANJAY09338,,open,To realising coin,Withdrawal,0,2026-03-14 19:27:30,2026-03-14 19:27:30,crypto_usdt_wallet
+576,TKT-O3LQ6FXF,2,152708,JOBAN2020,,open,Mcoin withdrawal,Withdrawal,0,2026-03-15 06:25:59,2026-03-15 06:25:59,crypto_usdt_wallet
+585,TKT-8H3AJZ2O,2,488767,MOHAN738,,open,Mcoin related,Withdrawal,0,2026-03-15 14:21:27,2026-03-15 14:21:27,crypto_usdt_wallet
+608,TKT-CHH6FPMY,2,765738,SONIKA96,10.0,open,Riser coin withdrawal,Withdrawal,0,2026-03-17 08:12:00,2026-03-19 11:43:33,crypto_usdt_wallet
+615,TKT-KABLGX29,2,765738,SONIKA96,,open,Riser coin withdrawal,Withdrawal,0,2026-03-17 15:29:36,2026-03-17 15:29:36,crypto_usdt_wallet
+616,TKT-GCTWKQZL,2,200504,GURNEET2019,,open,Approve my Mcoin withdrawal,Withdrawal,0,2026-03-17 16:04:23,2026-03-17 16:04:23,crypto_usdt_wallet
+619,TKT-JUTMN8IF,2,714502,SALIMKHAN0446,,open,Mcoin,Withdrawal,0,2026-03-17 20:11:00,2026-03-17 20:11:00,crypto_usdt_wallet
+620,TKT-RWKZSHMA,2,714502,SALIMKHAN0446,,open,Mcoin,Withdrawal,0,2026-03-17 20:12:24,2026-03-17 20:12:24,crypto_usdt_wallet
+653,TKT-HRAMKBQI,2,287125,ROUF21,,open,Withdrawal my mcoin,Withdrawal,0,2026-03-20 05:06:06,2026-03-20 05:06:06,crypto_usdt_wallet
+677,TKT-FQHDX0BG,2,97466,DHARAM89,,open,MCOIN NOT RECEIVED ON SAFEPAL WALLET.,Withdrawal,0,2026-03-21 15:13:18,2026-03-21 15:13:18,crypto_usdt_wallet
+703,TKT-EGPRTPDT,2,260540,BANGAN5,,open,pending mcoin release,Withdrawal,0,2026-03-23 07:32:36,2026-03-23 07:32:36,crypto_usdt_wallet
+729,TKT-PUGVPTW1,2,5800,PATRAN,8.0,closed,fixed  mcoin not show,Withdrawal,0,2026-03-25 05:24:33,2026-03-26 11:13:50,crypto_usdt_wallet
+730,TKT-HEQJCEBC,2,405155,GOLDMH,,open,Release mcoin,Withdrawal,0,2026-03-25 06:58:49,2026-03-25 06:58:49,crypto_usdt_wallet
+740,TKT-FNSVIO4C,2,37645,PATRAN3,,open,fixed mcoin not show,Withdrawal,0,2026-03-25 20:59:28,2026-03-25 20:59:28,crypto_usdt_wallet
+751,TKT-C3KHL5I6,2,618995,REKHAKN11,,open,My Mcoin release please update Mcoin,Withdrawal,0,2026-03-26 19:25:18,2026-03-26 19:25:18,crypto_usdt_wallet
+807,TKT-YFOOSF1I,1,5852,PHULJHARI0143,9.0,closed,M coin withdrawl nahi hone k sambandh mai,Withdrawal,0,2026-03-31 08:13:57,2026-03-31 13:45:40,crypto_usdt_wallet
+831,TKT-ZJPJGTFH,2,618995,REKHAKN11,,open,account Mcoin add legacy withdrawal update,Withdrawal,0,2026-04-03 07:28:04,2026-04-03 07:28:04,crypto_usdt_wallet
+835,TKT-MQO0PZFY,2,520895,MUZAMILRAJA,8.0,solved,Legacay Mcoin Balance,Withdrawal,0,2026-04-03 13:05:38,2026-04-06 11:52:50,crypto_usdt_wallet
+859,TKT-HA8O7CXY,2,705773,MAHESH9972,,open,Mcoin Withdrawal,Withdrawal,0,2026-04-04 20:05:31,2026-04-04 20:05:31,crypto_usdt_wallet
+860,TKT-9FDZINEB,2,698620,MAHESH554,,open,Mcoin Withdrawal,Withdrawal,0,2026-04-04 20:08:31,2026-04-04 20:08:31,crypto_usdt_wallet
+878,TKT-EWFQAN6N,2,344758,USMANKHAN786007,,open,Mcoin withdrawal Not received yet,Withdrawal,0,2026-04-07 09:09:12,2026-04-07 09:09:12,crypto_usdt_wallet
+892,TKT-XUUBNM49,2,430909,ROH123,8.0,solved,mcoin not credited,Withdrawal,0,2026-04-07 19:42:54,2026-04-10 12:55:50,crypto_usdt_wallet
+898,TKT-QNEDSDGY,2,344758,USMANKHAN786007,10.0,open,RISER COIN withdrawal,Withdrawal,0,2026-04-08 01:49:36,2026-09-02 15:28:31,crypto_usdt_wallet
+910,TKT-SFUWHYF3,2,802956,MANISHDON77,8.0,solved,My riser coin deposit,Withdrawal,0,2026-04-08 19:58:38,2026-04-10 15:04:40,crypto_usdt_wallet
+911,TKT-2MQK3MTD,2,403196,GURNEET5,8.0,closed,Mcoin withdrawal,Withdrawal,0,2026-04-09 06:11:51,2026-08-25 11:40:32,crypto_usdt_wallet
+912,TKT-BRQJK8A6,2,653597,GURNEET7,9.0,closed,Withdrawal Mcoin,Withdrawal,0,2026-04-09 06:21:36,2026-08-25 18:23:21,crypto_usdt_wallet
+926,TKT-OQZQHNMQ,2,440545,JYOTIISHP,8.0,closed,Request for withdrawal my Mcoin,Withdrawal,0,2026-04-09 11:06:35,2026-06-22 15:39:34,crypto_usdt_wallet
+934,TKT-JCBQ23KZ,2,199827,DEVIDAS1994,8.0,closed,Mcoin,Withdrawal,0,2026-04-09 23:51:29,2026-06-18 13:35:39,crypto_usdt_wallet
+938,TKT-LKOJ7488,2,148591,RAJAK26,8.0,solved,Less Mcoins shown than bought,Withdrawal,0,2026-04-10 13:18:09,2026-04-13 12:30:55,crypto_usdt_wallet
+958,TKT-7C1FF1RP,2,232353,RABBANI75,8.0,closed,Mcoin not showing up for withdrawal,Withdrawal,0,2026-04-12 13:43:48,2026-05-25 11:42:04,crypto_usdt_wallet
+1021,TKT-IQKCUTBB,1,39398,SOHELSAYED,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-04-15 22:42:27,2026-04-20 13:00:30,crypto_usdt_wallet
+1038,TKT-W6MCQ6PN,2,148591,RAJAK26,8.0,closed,Mcoin error,Withdrawal,0,2026-04-16 14:54:57,2026-04-20 12:01:06,crypto_usdt_wallet
+1083,TKT-EOLS9QG5,2,34282,MOHDFAHIM,8.0,closed,"27 Mar, 2026 - 12:18 PM	966737eafdd7	Pending	214e0727be61 - $900 Exclusive Package	Smart	4,750.00 Riser	250.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-04-18 09:35:44,2026-04-20 13:18:40,crypto_usdt_wallet
+1109,TKT-D0KZYAEN,2,34282,MOHDFAHIM,10.0,open,"27 Mar, 2026 - 12:18 PM	966737eafdd7	Pending	214e0727be61 - $900 Exclusive Package	Smart	4,750.00 Riser	250.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-04-19 09:16:09,2026-04-20 11:51:54,crypto_usdt_wallet
+1130,TKT-QPN9FING,1,42249,NIRMALA1970,10.0,open,MCOIN NOT CREDITED DEGINATION ADDRESS,Withdrawal,0,2026-04-20 06:24:40,2026-04-20 11:36:12,crypto_usdt_wallet
+1151,TKT-PZGNVMDX,2,235412,PATELFZD42,8.0,closed,Ris coin not received my exchange wallet,Withdrawal,0,2026-04-20 17:25:11,2026-04-20 17:33:34,crypto_usdt_wallet
+1161,TKT-MWKZHSBU,2,835626,RAVIRANJAN95,8.0,closed,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange not deposit,Withdrawal,0,2026-04-20 19:03:46,2026-04-21 12:41:48,crypto_usdt_wallet
+1162,TKT-IAZ2KN9T,2,867759,RAVIRANJAN93,8.0,closed,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange not deposit,Withdrawal,0,2026-04-20 19:11:33,2026-04-21 12:41:36,crypto_usdt_wallet
+1163,TKT-U10AI7PJ,2,835621,RAVIRANJAN96,8.0,closed,Lagacy withdrawal metherwold account riser Coin withdrawal paid but polonix exchange not deposit,Withdrawal,0,2026-04-20 19:18:49,2026-04-21 12:40:21,crypto_usdt_wallet
+1164,TKT-6RXHINDM,2,820409,MANJU998,8.0,closed,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange Riser Coin wallet not deposit,Withdrawal,0,2026-04-20 19:29:42,2026-04-21 12:40:01,crypto_usdt_wallet
+1165,TKT-4WVYDLNI,2,595792,MUNNA998,8.0,closed,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange Riser Coin wallet not deposit,Withdrawal,0,2026-04-20 19:31:58,2026-04-21 12:44:42,crypto_usdt_wallet
+1177,TKT-VKXMXN59,2,5800,PATRAN,8.0,solved,release my fixed mcoin,Withdrawal,0,2026-04-21 13:10:56,2026-04-21 13:33:00,crypto_usdt_wallet
+1198,TKT-WTGPX1O1,2,835602,RAVIRANJAN97,8.0,closed,Lagacy staking Riser Coin give me update please,Withdrawal,0,2026-04-21 22:04:34,2026-04-27 12:00:34,crypto_usdt_wallet
+1199,TKT-D6H0D9P3,2,618995,REKHAKN11,8.0,closed,Lagacy Mcoin lagacy staking coin update please,Withdrawal,0,2026-04-21 22:15:51,2026-04-22 11:37:35,crypto_usdt_wallet
+1225,TKT-M18BIHHY,2,34282,MOHDFAHIM,8.0,closed,"27 Mar, 2026 - 12:18 PM	966737eafdd7	Paid	214e0727be61 - $900 Exclusive Package	Smart	4,750.00 Riser	250.00 Riser	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-04-22 15:14:34,2026-04-23 17:36:01,crypto_usdt_wallet
+1244,TKT-3R71CZKZ,2,618995,REKHAKN11,8.0,closed,Lagacy Mcoin lagacy staking coin update please,Withdrawal,0,2026-04-23 12:12:59,2026-04-23 12:35:45,crypto_usdt_wallet
+1245,TKT-FYCIVZGB,2,618995,REKHAKN11,8.0,closed,Lagacy Mcoin lagacy staking coin update please,Withdrawal,0,2026-04-23 12:14:27,2026-04-23 12:36:14,crypto_usdt_wallet
+1247,TKT-4PHD4I1I,2,595785,RAVI998,8.0,closed,Lagacy Mcoin lagacy staking coin update please and two package add to mix,Withdrawal,0,2026-04-23 12:23:19,2026-04-23 12:35:53,crypto_usdt_wallet
+1278,TKT-QFEQPNJU,2,162586,VISHAVJEET2000,8.0,closed,MCOIN withdrawal,Withdrawal,0,2026-04-24 11:51:48,2026-04-24 12:29:58,crypto_usdt_wallet
+1312,TKT-MGHBSYRY,2,595785,RAVI998,8.0,closed,Lagacy Mcoin lagacy staking coin update please and two package combind to mix,Withdrawal,0,2026-04-25 11:56:11,2026-04-27 13:00:07,crypto_usdt_wallet
+1315,TKT-QAYQK9H7,2,760059,RAVIRANJAN98,8.0,closed,Lagacy staking Riser Coin update please,Withdrawal,0,2026-04-25 19:01:52,2026-04-27 12:59:19,crypto_usdt_wallet
+1316,TKT-YC9TQEAE,2,835602,RAVIRANJAN97,8.0,closed,Lagacy staking Riser Coin give me,Withdrawal,0,2026-04-25 19:08:12,2026-04-27 12:58:52,crypto_usdt_wallet
+1317,TKT-PEGO9HZV,2,618995,REKHAKN11,8.0,closed,Lagacy staking Mcoin give me,Withdrawal,0,2026-04-25 19:12:38,2026-04-27 12:58:10,crypto_usdt_wallet
+1322,TKT-EIS7ZZ0H,2,576561,KARAMJIT000,8.0,closed,M coins staking,Withdrawal,0,2026-04-26 07:33:41,2026-04-27 12:04:07,crypto_usdt_wallet
+1327,TKT-OSYMKQG0,2,754532,SANJAY09319,8.0,closed,To release coin,Withdrawal,0,2026-04-26 11:24:43,2026-04-27 12:03:04,crypto_usdt_wallet
+1524,TKT-L4IOEFMI,2,861850,REENA942,10.0,open,Riser coin not withdrawal,Withdrawal,0,2026-05-05 19:58:29,2026-05-08 11:55:10,crypto_usdt_wallet
+1542,TKT-6TBLSYGC,2,32231,NAAZ7860,10.0,open,"19 Apr, 2026 - 08:24 AM	b610b0242ded	Paid	81c9c7014a10 - $1,200 Sapphire Package		1,775.00 MCOIN	0.00 MCOIN	0x43f847021D2724bD6Dde08f63d33789ED27873D1 Metamask",Withdrawal,0,2026-05-06 22:46:35,2026-05-07 10:12:11,crypto_usdt_wallet
+1551,TKT-WVVL4DPD,2,510986,FIZZA,8.0,solved,mcoin lost,Withdrawal,0,2026-05-07 14:26:58,2026-05-18 14:48:15,crypto_usdt_wallet
+1585,TKT-DNS8JO9F,2,595792,MUNNA998,8.0,closed,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange Riser Coin wallet not deposit,Withdrawal,0,2026-05-09 14:53:19,2026-05-11 13:11:22,crypto_usdt_wallet
+1586,TKT-8Z4XJIIZ,2,820409,MANJU998,8.0,solved,Lagacy withdrawal metherwold account riser Coin paid but polonix exchange Riser Coin wallet not deposit,Withdrawal,0,2026-05-09 14:55:12,2026-05-11 13:11:12,crypto_usdt_wallet
+1674,TKT-FHDNXED7,2,355295,R480,8.0,solved,Mcoin,Withdrawal,0,2026-05-15 03:34:03,2026-05-15 10:33:22,crypto_usdt_wallet
+1713,TKT-ZLPBDFRE,2,482500,NOUSHAD2122,8.0,closed,Withdrawal Mcoin,Withdrawal,0,2026-05-18 07:39:50,2026-05-18 10:41:10,crypto_usdt_wallet
+1727,TKT-LGOTYCRC,1,51577,INDUFBJ,8.0,closed,Mcoin withdrawal Pending,Withdrawal,0,2026-05-18 21:36:54,2026-05-25 10:57:10,crypto_usdt_wallet
+1741,TKT-R4JHZYOT,2,482500,NOUSHAD2122,10.0,open,Withdrawal Mcoin,Withdrawal,0,2026-05-19 10:12:39,2026-05-19 10:48:49,crypto_usdt_wallet
+1775,TKT-NLJQGCL8,2,482500,NOUSHAD2122,10.0,open,Withdrawal Mcoin,Withdrawal,0,2026-05-20 08:57:19,2026-05-20 10:53:09,crypto_usdt_wallet
+1876,TKT-EPKBENIR,2,632276,MAROOF2700,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-05-22 13:47:33,2026-05-22 15:09:20,crypto_usdt_wallet
+1969,TKT-EWKHN11T,2,482500,NOUSHAD2122,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-05-24 08:59:26,2026-05-25 11:30:28,crypto_usdt_wallet
+1970,TKT-TPWE4JKZ,2,482500,NOUSHAD2122,10.0,open,Mcoin,Withdrawal,0,2026-05-24 08:59:54,2026-05-25 11:30:53,crypto_usdt_wallet
+1997,TKT-BOTINBBF,2,250985,KKR6,8.0,closed,MCOIN VOUCHER,Withdrawal,0,2026-05-24 19:14:30,2026-05-25 12:34:04,crypto_usdt_wallet
+1998,TKT-PO8JUKYQ,2,325124,JOLILFIXD,8.0,closed,MCOIN VOUCHER UNLOCK,Withdrawal,0,2026-05-24 19:19:51,2026-05-25 12:33:54,crypto_usdt_wallet
+2061,TKT-KZRX4FUD,1,51577,INDUFBJ,8.0,closed,MCOIN not received to my wallet,Withdrawal,0,2026-05-25 19:19:31,2026-06-01 11:04:18,crypto_usdt_wallet
+2087,TKT-OBJW4RFH,2,51077,HARDEEP1972,8.0,closed,Mcoin withdrawal,Withdrawal,0,2026-05-26 06:52:52,2026-06-01 11:47:18,crypto_usdt_wallet
+2098,TKT-PGRP2GAP,2,482500,NOUSHAD2122,8.0,closed,Mcoin,Withdrawal,0,2026-05-26 08:23:32,2026-06-03 11:50:57,crypto_usdt_wallet
+2146,TKT-DRJQMLMW,2,24328,DEV78,8.0,closed,Mcoin wallet address metamask,Withdrawal,0,2026-05-27 02:55:16,2026-06-03 12:42:32,crypto_usdt_wallet
+2273,TKT-RNLQ6WUB,2,482500,NOUSHAD2122,8.0,closed,Mcoin widrowal,Withdrawal,0,2026-05-29 19:31:17,2026-06-03 12:50:31,crypto_usdt_wallet
+2418,TKT-MA5YVPYJ,1,44255,RUBYK9,9.0,closed,Coin withdraw kiye the aay nahin Hai,Withdrawal,0,2026-06-01 21:20:36,2026-06-02 13:37:49,crypto_usdt_wallet
+2420,TKT-2JE7DA0K,1,44255,RUBYK9,9.0,closed,Coin withdraw,Withdrawal,0,2026-06-01 21:25:29,2026-06-02 13:30:38,crypto_usdt_wallet
+2454,TKT-IJITUAXD,2,587920,SEEMAG9759,8.0,closed,M coin not received,Withdrawal,0,2026-06-02 13:24:04,2026-06-03 12:48:37,crypto_usdt_wallet
+2612,TKT-MSIZPBXY,1,53350,MISBAH06,9.0,closed,Stak25 withdrawal isuu mcoin,Withdrawal,0,2026-06-04 15:52:57,2026-06-05 17:07:18,crypto_usdt_wallet
+2629,TKT-2GURSSQV,2,186411,JULEKHA8609,8.0,closed,Not SHOW MY RISER COIN,Withdrawal,0,2026-06-04 23:47:25,2026-06-05 16:34:23,crypto_usdt_wallet
+2645,TKT-FKJBXXON,2,59374,ISHTIYAQI9,8.0,closed,Mai 5/5/2026 ko 128.25 coin withdrawal kiya tha pr wo abhi tak pending m hai,Withdrawal,0,2026-06-05 10:37:26,2026-06-05 16:33:09,crypto_usdt_wallet
+2684,TKT-1Y1TKFHL,2,41055,AZAM40,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-06-05 16:44:53,2026-06-05 16:52:52,crypto_usdt_wallet
+2702,TKT-A4G9XYIU,2,587920,SEEMAG9759,10.0,open,M coin not received,Withdrawal,0,2026-06-05 20:46:25,2026-06-09 16:08:24,crypto_usdt_wallet
+2707,TKT-S8IJX8IK,2,650633,SADDAM240,8.0,closed,Coin missing,Withdrawal,0,2026-06-05 22:37:49,2026-06-09 16:06:53,crypto_usdt_wallet
+2778,TKT-EPO3M3TR,2,585759,ARMED64,8.0,closed,Mcoin Withdrawal not complete.,Withdrawal,0,2026-06-07 09:48:32,2026-06-09 16:02:36,crypto_usdt_wallet
+2783,TKT-WCFHMKFT,2,56467,KHUSHI77,8.0,closed,Mcoin,Withdrawal,0,2026-06-07 11:01:24,2026-06-08 14:02:30,crypto_usdt_wallet
+2853,TKT-PDUJHFHB,2,2234,SANTOSH786,10.0,open,Sir I am withdrawing 5000 mcoin 1june 2026 . please confirm the withdrawal,Withdrawal,0,2026-06-08 09:12:27,2026-06-09 16:01:39,crypto_usdt_wallet
+2900,TKT-LPPTAFII,2,154828,MUHAMMADYASIR,8.0,closed,Mcoin not received..,Withdrawal,0,2026-06-08 19:59:36,2026-06-09 15:54:46,crypto_usdt_wallet
+2983,TKT-QIDPUAZ2,2,154828,MUHAMMADYASIR,8.0,closed,Mcoin fixed not received,Withdrawal,0,2026-06-10 10:12:24,2026-06-10 12:28:42,crypto_usdt_wallet
+3030,TKT-6LFDSAAJ,2,659416,VISHAMBAR1988,8.0,solved,Coin not withdrawal,Withdrawal,0,2026-06-10 22:25:36,2026-06-11 13:11:48,crypto_usdt_wallet
+3104,TKT-ND3BKK39,1,1996,POOJA1998,9.0,closed,Stake 25 mcoin not withwral,Withdrawal,0,2026-06-12 03:44:53,2026-06-15 12:46:18,crypto_usdt_wallet
+3200,TKT-LCLI3HV9,1,5852,PHULJHARI0143,8.0,closed,M coin withdrawal issue,Withdrawal,0,2026-06-13 16:08:04,2026-06-15 13:00:39,crypto_usdt_wallet
+3206,TKT-HADI1SZS,2,462852,KASHIF98086,8.0,solved,Not able to withdraw remaining mcoin balance,Withdrawal,0,2026-06-13 18:08:24,2026-06-15 13:21:42,crypto_usdt_wallet
+3209,TKT-O3OXVIWG,2,159378,KRYADAV,8.0,closed,Fix mcoin not show in mcoin voucher,Withdrawal,0,2026-06-13 19:02:56,2026-06-15 13:20:06,crypto_usdt_wallet
+3210,TKT-Q5AR7R1I,1,516,DPRASAD24,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-06-13 19:05:42,2026-06-16 14:52:26,crypto_usdt_wallet
+3223,TKT-G0WVXPRI,2,477045,AROHI17,8.0,solved,M coin withdrawal fail hone k baad I'd pr  m coin reversal k refrence me,Withdrawal,0,2026-06-13 23:44:28,2026-06-15 13:15:44,crypto_usdt_wallet
+3274,TKT-PGHXGLUJ,1,2850,HONEY,8.0,closed,Mcoin Withdrawal,Withdrawal,0,2026-06-14 17:26:11,2026-06-15 12:55:45,crypto_usdt_wallet
+3345,TKT-Z5J3PXDW,2,651084,MAN1200,8.0,closed,Coin update,Withdrawal,0,2026-06-15 17:44:33,2026-06-16 12:50:03,crypto_usdt_wallet
+3384,TKT-HHZFSR5F,1,19178,HUMSAFAR7,8.0,closed,Received Coin Related,Withdrawal,0,2026-06-16 11:25:07,2026-06-16 11:56:39,crypto_usdt_wallet
+3477,TKT-1HYJ9JTZ,2,185620,MONA98,10.0,open,mcoin withdrawal show pending,Withdrawal,0,2026-06-17 11:40:33,2026-06-17 11:43:19,crypto_usdt_wallet
+3542,TKT-XEKLHYH4,2,402203,JASSA05,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-06-17 14:59:43,2026-06-17 15:06:02,crypto_usdt_wallet
+3694,TKT-Y4M1GSIQ,1,39387,SANDHU2004,8.0,closed,usdt and mcoin,Withdrawal,0,2026-06-17 20:46:14,2026-06-18 13:29:25,crypto_usdt_wallet
+3809,TKT-BGPH5CKW,2,584308,NANDKISHOR31,8.0,closed,Please release My mcoin.,Withdrawal,0,2026-06-18 12:10:11,2026-06-18 12:29:59,crypto_usdt_wallet
+3824,TKT-DSSU4XWY,2,216080,RAVI6268,8.0,closed,My I m coin withdrawal not credit in my wallet metamask please check properly,Withdrawal,0,2026-06-18 12:41:30,2026-06-18 13:32:36,crypto_usdt_wallet
+3835,TKT-JSRLRC5T,1,39387,SANDHU2004,9.0,closed,Mcoin and usd withdraw,Withdrawal,0,2026-06-18 13:04:35,2026-06-19 17:51:24,crypto_usdt_wallet
+3959,TKT-0BWI3GWQ,2,303298,SANI1234,10.0,open,MY WITHDRAWAL MCOIN STETMENT,Withdrawal,0,2026-06-18 17:45:46,2026-06-18 18:26:28,crypto_usdt_wallet
+4029,TKT-ZDUWAPBF,1,2835,KULWANT111,9.0,closed,Mcoin,Withdrawal,0,2026-06-19 02:20:35,2026-06-19 12:39:00,crypto_usdt_wallet
+4040,TKT-ZOFUM0XM,1,862,RANJIT111,8.0,closed,Mcoin,Withdrawal,0,2026-06-19 07:37:37,2026-06-19 12:35:11,crypto_usdt_wallet
+4050,TKT-MNHAUUMN,1,1977,PROBOTX025,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-06-19 08:10:48,2026-06-19 12:34:11,crypto_usdt_wallet
+4157,TKT-3MN2CSRV,1,2835,KULWANT111,8.0,closed,Regarding Mcoin withdrawal,Withdrawal,0,2026-06-19 13:29:17,2026-06-22 13:23:49,crypto_usdt_wallet
+4163,TKT-PHCQB3V0,1,862,RANJIT111,9.0,closed,Regarding mcoin withdrawal,Withdrawal,0,2026-06-19 13:34:27,2026-06-22 13:22:23,crypto_usdt_wallet
+4224,TKT-CGFRHFWD,1,5286,PRAMODM20,8.0,closed,mcoin,Withdrawal,0,2026-06-19 19:11:07,2026-06-22 14:15:13,crypto_usdt_wallet
+4389,TKT-ZRC5IWNJ,2,147253,SHARIF7781,8.0,closed,wht my mcoin withdrawal,Withdrawal,0,2026-06-20 21:50:08,2026-06-22 14:17:29,crypto_usdt_wallet
+4417,TKT-BGPRQQ6B,1,1977,PROBOTX025,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-06-21 08:39:42,2026-06-22 18:09:34,crypto_usdt_wallet
+4559,TKT-P9BXDD2E,2,150286,MISTU,10.0,open,regarding mcoin withdrawa,Withdrawal,0,2026-06-22 10:04:47,2026-06-22 13:40:25,crypto_usdt_wallet
+4790,TKT-0GDGP4NE,2,105453,MANVENDRADUTT,8.0,closed,Withdrawal mcoin,Withdrawal,0,2026-06-23 10:21:13,2026-06-23 12:42:22,crypto_usdt_wallet
+4795,TKT-EWFKUC7C,2,105402,HIMANGIYADAV,8.0,closed,Withdrawal mcoin,Withdrawal,0,2026-06-23 10:35:55,2026-06-23 10:39:48,crypto_usdt_wallet
+4797,TKT-SYFQCKE2,2,105461,MITHILESH19,8.0,closed,Mcoin withdrawal,Withdrawal,0,2026-06-23 10:42:01,2026-06-23 10:49:36,crypto_usdt_wallet
+4835,TKT-TOSPZVTV,1,22048,ASHESH338,10.0,open,MCOIN withdraw,Withdrawal,0,2026-06-23 13:20:53,2026-06-23 13:24:58,crypto_usdt_wallet
+4844,TKT-6SKWARH7,2,653657,FIROZ007,10.0,open,Balance coin mismached,Withdrawal,0,2026-06-23 14:20:19,2026-06-23 15:15:47,crypto_usdt_wallet
+4979,TKT-SM0UWHTM,2,864665,RAVIRANJAN94,8.0,closed,My metherwold account riser Coin withdrawal but amount not deposit exchange please update,Withdrawal,0,2026-06-24 08:39:14,2026-06-24 11:35:49,crypto_usdt_wallet
+4980,TKT-IGLCGNHY,2,835621,RAVIRANJAN96,8.0,closed,My metherwold account riser Coin withdrawal please release update,Withdrawal,0,2026-06-24 08:42:40,2026-06-24 11:35:38,crypto_usdt_wallet
+5065,TKT-QKVRE86L,2,521367,HARDEV110,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-06-24 15:39:42,2026-06-24 15:52:30,crypto_usdt_wallet
+5069,TKT-HNVJMZJU,2,78978,MANPREET111,8.0,closed,Mcoin withdrawal,Withdrawal,0,2026-06-24 15:46:28,2026-06-24 15:52:12,crypto_usdt_wallet
+5072,TKT-7UBLJAIS,2,423377,BABU111L,10.0,open,Mcoin,Withdrawal,0,2026-06-24 16:01:14,2026-06-24 16:19:25,crypto_usdt_wallet
+5131,TKT-ZBPIHGBO,1,37015,SHI,8.0,closed,My Mcoin withdarwal is not proses,Withdrawal,0,2026-06-25 01:47:21,2026-06-25 16:41:15,crypto_usdt_wallet
+5163,TKT-8GPKYFD2,2,185620,MONA98,9.0,closed,mcoin withdrawal pending from last 11 days,Withdrawal,0,2026-06-25 11:03:52,2026-06-25 14:19:31,crypto_usdt_wallet
+5205,TKT-YVNVZTFP,2,11217,ULOVEM123,10.0,open,Mcoin withdrawal pending,Withdrawal,0,2026-06-25 15:31:47,2026-06-25 16:41:45,crypto_usdt_wallet
+5233,TKT-SMKCNSV4,1,754,NEWTAN11,9.0,closed,Withdrawal mcoin,Withdrawal,0,2026-06-25 20:26:43,2026-06-29 17:22:59,crypto_usdt_wallet
+5283,TKT-MDDKHY87,2,49496,DAWAN42,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-06-26 09:24:48,2026-06-29 17:10:26,crypto_usdt_wallet
+5300,TKT-0NZBO4CV,2,61079,JUNAID93,10.0,open,Hello sir mai 8/6/2026 ko 119.70 coin withdraw kiya tha pr wo Abhi tak nahi Aya please send my coin,Withdrawal,0,2026-06-26 11:14:32,2026-06-29 15:17:35,crypto_usdt_wallet
+5383,TKT-BLWFF2WN,2,298595,HAPPY0250,10.0,open,m coin,Withdrawal,0,2026-06-26 21:45:30,2026-06-29 17:06:29,crypto_usdt_wallet
+5429,TKT-CUXSGGIU,1,54744,ARUN108,10.0,open,Mcoin withdrawa released,Withdrawal,0,2026-06-27 09:40:28,2026-06-29 14:00:32,crypto_usdt_wallet
+5430,TKT-KW8SHLDC,1,54742,ARUN107,8.0,closed,Mcoin withdrawa released,Withdrawal,0,2026-06-27 09:42:28,2026-06-29 14:00:10,crypto_usdt_wallet
+5496,TKT-LFRIHBA7,2,39784,GURMITS,8.0,closed,Sir I am withdrawing 227 coin  but not received exchange please check and confirm,Withdrawal,0,2026-06-27 16:29:30,2026-06-29 13:57:06,crypto_usdt_wallet
+5583,TKT-VCI6T7II,1,43182,MAABABA1984,8.0,closed,Regarding Mcoin withdrawal,Withdrawal,0,2026-06-28 14:05:01,2026-06-29 13:13:53,crypto_usdt_wallet
+5617,TKT-S56A9RPP,2,556098,NOOREENRUPANI1989,8.0,closed,Riser coin,Withdrawal,0,2026-06-28 18:56:48,2026-06-29 13:10:37,crypto_usdt_wallet
+5679,TKT-TYGZ1YI7,2,78978,MANPREET111,10.0,open,Mcoin,Withdrawal,0,2026-06-29 12:08:53,2026-06-29 12:32:07,crypto_usdt_wallet
+6058,TKT-W3MZZIKA,2,24918,MONA87,10.0,open,FIX MCOIN RELEASE  BUT NOT SHOW IN MCOIN VOUCHER,Withdrawal,0,2026-07-01 17:47:41,2026-07-01 17:50:09,crypto_usdt_wallet
+6126,TKT-YXWLTN0M,2,2317,RUPALI02,10.0,open,MCoin,Withdrawal,0,2026-07-02 06:26:48,2026-07-02 12:16:18,crypto_usdt_wallet
+6142,TKT-HHQEZFAO,2,78978,MANPREET111,10.0,open,Mcoin,Withdrawal,0,2026-07-02 09:16:18,2026-07-02 13:46:19,crypto_usdt_wallet
+6225,TKT-78E2CPHJ,2,125001,GUPTA75,10.0,open,mcoin withdraw pending,Withdrawal,0,2026-07-02 16:30:29,2026-07-02 17:12:41,crypto_usdt_wallet
+6226,TKT-PHASCEEZ,2,123249,AJAY818,10.0,open,mcoin withdraw pending,Withdrawal,0,2026-07-02 16:34:38,2026-07-02 17:12:34,crypto_usdt_wallet
+6227,TKT-FNWTJQQI,2,186764,KUMAR818,10.0,open,mcoin withdraw pending from 15 days,Withdrawal,0,2026-07-02 16:37:55,2026-07-02 16:43:03,crypto_usdt_wallet
+6412,TKT-YG50PUTH,2,44296,MAK113,10.0,open,For mcoin withdrawal,Withdrawal,0,2026-07-03 15:59:29,2026-07-03 17:40:26,crypto_usdt_wallet
+6629,TKT-GFDEDAHL,1,5789,MURTAZA0143,9.0,closed,Mcoin withdrawal nahi aane k sambandh mai,Withdrawal,0,2026-07-05 10:36:05,2026-07-06 14:14:03,crypto_usdt_wallet
+6783,TKT-IGPNZGXM,2,61079,JUNAID93,10.0,open,Hello sir Mai 8/6/2026 Ko 119.70 coin Withdraw Kiya Tha Prwo Abhi Tak Nahi Aya,Withdrawal,0,2026-07-06 17:32:23,2026-07-07 12:23:53,crypto_usdt_wallet
+6900,TKT-NHLLKEKK,2,512226,GAGAN6000,10.0,open,Mcoin,Withdrawal,0,2026-07-07 17:20:33,2026-07-07 17:28:00,crypto_usdt_wallet
+6955,TKT-LYTPFW8B,2,630795,MSHARIQ06,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-07 23:02:24,2026-07-08 16:37:26,crypto_usdt_wallet
+6997,TKT-RJBPYDZF,2,521367,HARDEV110,10.0,open,Mcoin,Withdrawal,0,2026-07-08 11:17:53,2026-07-08 16:36:30,crypto_usdt_wallet
+6998,TKT-PAXZ7HFZ,2,521367,HARDEV110,10.0,open,Mcoin,Withdrawal,0,2026-07-08 11:22:00,2026-07-08 16:36:14,crypto_usdt_wallet
+6999,TKT-RNLR9EVZ,2,423377,BABU111L,10.0,open,Mcoin,Withdrawal,0,2026-07-08 11:24:46,2026-07-08 16:35:56,crypto_usdt_wallet
+7001,TKT-LVW0HLZV,2,78978,MANPREET111,10.0,open,Mcoin,Withdrawal,0,2026-07-08 11:34:09,2026-07-08 14:22:02,crypto_usdt_wallet
+7103,TKT-4A9XIXJ7,1,5789,MURTAZA0143,10.0,open,M coin withdrawal issue,Withdrawal,0,2026-07-09 08:07:06,2026-07-09 11:49:26,crypto_usdt_wallet
+7209,TKT-JA8MF3WO,2,55720,HAIDER2000,10.0,open,I want to withdrawl my mcoins,Withdrawal,0,2026-07-09 21:51:19,2026-07-10 17:30:43,crypto_usdt_wallet
+7431,TKT-NQV5J6WJ,1,2835,KULWANT111,9.0,closed,Mcoin,Withdrawal,0,2026-07-11 14:28:25,2026-07-13 16:40:20,crypto_usdt_wallet
+7456,TKT-T0W4PDVW,1,14833,ANJU99,9.0,closed,MCOIN,Withdrawal,0,2026-07-11 16:24:01,2026-07-13 16:31:22,crypto_usdt_wallet
+7495,TKT-SWNF4MK2,2,62025,AJAYRAJ2003,9.0,closed,Mcoin withdraw,Withdrawal,0,2026-07-11 23:15:22,2026-07-13 15:08:41,crypto_usdt_wallet
+7501,TKT-EAMKKWN8,1,25929,SVRANJAN2,10.0,open,MCoin withdrawal,Withdrawal,0,2026-07-12 05:41:34,2026-07-13 14:51:18,crypto_usdt_wallet
+7505,TKT-QWLAB95U,1,25925,SVRANJAN1,9.0,closed,MCoin withdrew from Stake25,Withdrawal,0,2026-07-12 05:53:44,2026-07-13 15:04:15,crypto_usdt_wallet
+7588,TKT-M4C3OGYX,2,151217,MEHTAB98,10.0,open,Mcoin withdrawal release,Withdrawal,0,2026-07-13 09:17:01,2026-07-13 14:00:41,crypto_usdt_wallet
+7765,TKT-ILN3ICLA,2,448120,RAHUL7010,10.0,open,Coin not available,Withdrawal,0,2026-07-14 15:39:24,2026-07-14 15:49:51,crypto_usdt_wallet
+7766,TKT-BTDXOCJF,2,504652,MMB1,10.0,open,Withdrawal MCoin,Withdrawal,0,2026-07-14 15:45:23,2026-07-14 15:49:59,crypto_usdt_wallet
+7842,TKT-TNZRFVIJ,2,314456,THIND74,10.0,open,Mcoin,Withdrawal,0,2026-07-15 11:07:10,2026-07-15 11:18:59,crypto_usdt_wallet
+7854,TKT-HF3LE8VV,2,637163,NAYAN22,8.0,closed,🙏Dear sir please my M coin Vouchers withdrawal🙏,Withdrawal,0,2026-07-15 12:24:47,2026-07-15 12:28:53,crypto_usdt_wallet
+7865,TKT-FZ7OTS0Y,1,53190,RAJU786,10.0,open,Mcoin,Withdrawal,0,2026-07-15 13:43:06,2026-07-15 13:44:13,crypto_usdt_wallet
+7885,TKT-OMMSZYCC,1,56346,TALIVHUSAIN,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-07-15 16:13:44,2026-07-15 17:59:15,crypto_usdt_wallet
+7913,TKT-M1SQOTMS,1,5789,MURTAZA0143,8.0,solved,M coin withdrawal issue,Withdrawal,0,2026-07-15 20:53:10,2026-07-16 14:37:26,crypto_usdt_wallet
+7917,TKT-ELOBY4BK,2,285066,BAHADUR930,10.0,open,Withdrawal mcoin immediately,Withdrawal,0,2026-07-15 20:59:04,2026-07-16 14:36:48,crypto_usdt_wallet
+7954,TKT-RCC43FFF,2,504652,MMB1,10.0,open,Approval of MCoin withdrawal,Withdrawal,0,2026-07-16 07:13:28,2026-07-16 14:08:55,crypto_usdt_wallet
+7976,TKT-Q3DCE7AE,2,355059,RITU9369,8.0,solved,Sir mcoin release kar do please sir,Withdrawal,0,2026-07-16 11:04:01,2026-07-16 11:26:09,crypto_usdt_wallet
+8028,TKT-3IYB4EZQ,2,61079,JUNAID93,9.0,closed,Hello sir mai 8/6/2026 ko 119.70 coin withdraw kiya tha pr wo Abhi tak nahi Aya please send my coin,Withdrawal,0,2026-07-16 15:47:36,2026-07-16 15:51:21,crypto_usdt_wallet
+8059,TKT-AYWIJGJH,1,21879,ADVAASIYA,10.0,open,Mcoin withdrawal pending,Withdrawal,0,2026-07-16 22:07:07,2026-07-17 11:06:56,crypto_usdt_wallet
+8067,TKT-0HKQ7T8R,2,637163,NAYAN22,8.0,closed,🙏Dear sir please my M coin Vouchers withdrawal🙏,Withdrawal,0,2026-07-16 23:34:20,2026-07-17 11:09:29,crypto_usdt_wallet
+8100,TKT-FLQZVYBL,2,125001,GUPTA75,10.0,open,mcoin withdraw,Withdrawal,0,2026-07-17 10:25:51,2026-07-17 11:03:09,crypto_usdt_wallet
+8106,TKT-XBYAHFXP,2,206333,SATANR121,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-17 11:12:21,2026-07-17 11:15:42,crypto_usdt_wallet
+8109,TKT-EOJWEIMW,2,584308,NANDKISHOR31,10.0,open,Pending of My mcoin,Withdrawal,0,2026-07-17 11:44:10,2026-07-17 12:21:01,crypto_usdt_wallet
+8120,TKT-ZLZAXUBL,2,300395,KAMAL8744,10.0,open,Coin withdrawal,Withdrawal,0,2026-07-17 14:06:02,2026-07-17 14:23:21,crypto_usdt_wallet
+8131,TKT-7TPCAJ86,2,609492,KIRTYJI,8.0,closed,mcoins are not generated on my id,Withdrawal,0,2026-07-17 16:01:06,2026-07-17 16:09:16,crypto_usdt_wallet
+8133,TKT-UYN4W68M,2,527148,MYWORLD4,8.0,closed,COINS NOT GENERATED,Withdrawal,0,2026-07-17 16:04:40,2026-07-17 16:08:10,crypto_usdt_wallet
+8249,TKT-QMQWXU9G,2,544422,KOUSHIK279,10.0,open,I want to withdraw my coin,Withdrawal,0,2026-07-18 23:32:14,2026-07-20 19:15:57,crypto_usdt_wallet
+8250,TKT-R6TEEKCT,1,14833,ANJU99,9.0,closed,MCOIN,Withdrawal,0,2026-07-18 23:49:18,2026-07-20 19:51:27,crypto_usdt_wallet
+8342,TKT-BZTKKOY3,2,70872,RADHIKAKUMARI,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-20 14:21:18,2026-07-20 14:41:58,crypto_usdt_wallet
+8345,TKT-MHI6LYPX,2,33872,RADHIKA12345,10.0,open,Der sir my mcoin withdrawal,Withdrawal,0,2026-07-20 14:35:09,2026-07-20 14:41:16,crypto_usdt_wallet
+8497,TKT-MUGY8SCB,2,30048,SHASHIKANT70,10.0,open,I have paid 2100 M coins but it has not come into my wallet.,Withdrawal,0,2026-07-22 17:45:00,2026-07-22 18:59:02,crypto_usdt_wallet
+8498,TKT-LYGCD8BZ,2,30048,SHASHIKANT70,10.0,open,I have paid 2100 M coins but it has not come into my wallet.,Withdrawal,0,2026-07-22 17:46:58,2026-07-22 18:59:11,crypto_usdt_wallet
+8621,TKT-GMU5APS9,2,528681,AJAY78217,10.0,open,Regarding MCOIN Withdrawl,Withdrawal,0,2026-07-24 16:59:48,2026-07-24 17:31:36,crypto_usdt_wallet
+8637,TKT-HQKNJNMH,2,688592,SARFARAZRANA01,10.0,open,Missing Mcoin,Withdrawal,0,2026-07-24 23:45:57,2026-07-27 13:28:22,crypto_usdt_wallet
+8646,TKT-4FUUUTUO,2,300395,KAMAL8744,10.0,open,Coin withdrawal,Withdrawal,0,2026-07-25 06:57:07,2026-07-27 12:33:50,crypto_usdt_wallet
+8675,TKT-JEOEQHRE,2,630795,MSHARIQ06,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-25 10:51:19,2026-07-27 13:31:02,crypto_usdt_wallet
+8760,TKT-GQMWZKF2,2,24325,HAKEEMJI,10.0,open,Mcoin Not Received in my wallet,Withdrawal,0,2026-07-26 11:37:03,2026-07-27 13:04:41,crypto_usdt_wallet
+8763,TKT-DGLC2K3Z,2,630795,MSHARIQ06,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-26 12:15:19,2026-07-27 12:14:28,crypto_usdt_wallet
+8787,TKT-XCFM3IV4,2,602522,SARTHAK1203,9.0,closed,Mcoin,Withdrawal,0,2026-07-26 20:35:36,2026-07-27 12:40:17,crypto_usdt_wallet
+8805,TKT-OXHKLT8H,2,50513,RUSHIKESH1,8.0,closed,Details regarding withdrawl of remaining mcoins,Withdrawal,0,2026-07-27 06:19:36,2026-07-27 12:22:13,crypto_usdt_wallet
+8874,TKT-6PYPUPE9,2,630795,MSHARIQ06,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-07-27 19:20:28,2026-07-28 14:31:59,crypto_usdt_wallet
+8954,TKT-36BN9IVR,1,28654,GEETAMODI5553,8.0,solved,Mcoin widrow releted,Withdrawal,0,2026-07-29 00:16:57,2026-07-29 13:10:30,crypto_usdt_wallet
+9028,TKT-8GWRKW5W,2,24325,HAKEEMJI,10.0,open,Mcoin Not Received,Withdrawal,0,2026-07-30 00:45:34,2026-07-30 15:09:24,crypto_usdt_wallet
+9088,TKT-PMRNDZP1,2,27785,HASSAN2002,10.0,open,Withdrawal of mcoin,Withdrawal,0,2026-07-31 01:15:39,2026-07-31 15:31:48,crypto_usdt_wallet
+9157,TKT-YPBUUGYQ,1,9603,JUGNU786,9.0,closed,My Mcoin withdrawal is pending so please transfer it.,Withdrawal,0,2026-07-31 19:05:39,2026-08-03 16:58:39,crypto_usdt_wallet
+9169,TKT-4FRAH7FQ,1,38223,NAGENDRA,9.0,closed,Mcoin,Withdrawal,0,2026-07-31 22:43:23,2026-08-03 17:19:47,crypto_usdt_wallet
+9231,TKT-XYPUA1QY,2,504652,MMB1,8.0,closed,Withdrawal  MCoin,Withdrawal,0,2026-08-01 19:48:25,2026-08-03 14:24:10,crypto_usdt_wallet
+9369,TKT-XAVULRVM,1,14833,ANJU99,9.0,closed,MCOIN not transferred,Withdrawal,0,2026-08-03 17:39:12,2026-08-04 13:21:57,crypto_usdt_wallet
+9407,TKT-LBC4LAIY,1,1977,PROBOTX025,9.0,closed,Mcoin Withdrawal,Withdrawal,0,2026-08-04 08:57:47,2026-08-04 13:00:02,crypto_usdt_wallet
+9531,TKT-N2TFBZN7,2,639970,KMAAN892,8.0,closed,Withdrawal coins,Withdrawal,0,2026-08-05 12:25:32,2026-08-05 12:29:17,crypto_usdt_wallet
+9536,TKT-XEQCZRF0,2,177459,AULAKH786,10.0,open,Mcoin withdraw pending from 21 july,Withdrawal,0,2026-08-05 12:51:42,2026-08-05 13:13:35,crypto_usdt_wallet
+9544,TKT-Z5RSBXO4,2,617709,ZEEBUKHARI3,8.0,closed,Withdrawable coins not shown in my wallet,Withdrawal,0,2026-08-05 13:51:17,2026-08-05 13:53:27,crypto_usdt_wallet
+9555,TKT-U2PDBCXK,2,745056,SOHEL143,8.0,closed,Riser coin withdrawal,Withdrawal,0,2026-08-05 16:10:57,2026-08-05 17:08:37,crypto_usdt_wallet
+9557,TKT-BZFE2MJA,2,630795,MSHARIQ06,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-08-05 16:32:56,2026-08-05 16:42:38,crypto_usdt_wallet
+9585,TKT-WBYWBKKL,1,58868,GH901,10.0,open,Mcoin withdrawail,Withdrawal,0,2026-08-05 22:19:22,2026-08-06 12:02:02,crypto_usdt_wallet
+9612,TKT-SRQWKDRG,2,617709,ZEEBUKHARI3,8.0,closed,Withdrawable coins not showing in wallet,Withdrawal,0,2026-08-06 11:16:50,2026-08-06 11:18:42,crypto_usdt_wallet
+9618,TKT-FSBLUOXB,2,595753,MKSAFFU19801,8.0,closed,Coin not received,Withdrawal,0,2026-08-06 13:18:02,2026-08-06 13:22:50,crypto_usdt_wallet
+9622,TKT-0ZM6SLUK,2,470304,BABU113L,10.0,open,Mcoin,Withdrawal,0,2026-08-06 16:08:32,2026-08-06 16:19:58,crypto_usdt_wallet
+9631,TKT-FEWOSMR5,2,423441,BABU112L,10.0,open,Mcoin,Withdrawal,0,2026-08-06 18:15:06,2026-08-06 18:52:52,crypto_usdt_wallet
+9640,TKT-FFPFXOVC,1,49346,SANJAY9598,9.0,solved,mcoin is not withdrwal,Withdrawal,0,2026-08-06 20:27:59,2026-08-07 16:49:22,crypto_usdt_wallet
+9674,TKT-GKB2KZX2,2,106584,SARTAJ03,10.0,open,mcoin withdrawal not received,Withdrawal,0,2026-08-07 09:02:57,2026-08-07 11:11:31,crypto_usdt_wallet
+9697,TKT-XJ21U5B5,1,12688,GUPTA9534,9.0,closed,Mcoin,Withdrawal,0,2026-08-07 15:13:59,2026-08-07 16:21:12,crypto_usdt_wallet
+9713,TKT-R5HEXEJM,1,49346,SANJAY9598,10.0,open,Mcoin withdrawal problem,Withdrawal,0,2026-08-07 18:57:54,2026-08-10 14:05:43,crypto_usdt_wallet
+9718,TKT-QZBEMZFM,2,611895,GOVINDKN11,10.0,open,My Mcoin withdrawal paid but not received poloniex exchange please update,Withdrawal,0,2026-08-07 19:30:30,2026-08-10 14:05:51,crypto_usdt_wallet
+9750,TKT-JAFXQENT,2,745056,SOHEL143,8.0,closed,Error occurred during deposit riser coin,Withdrawal,0,2026-08-08 00:34:11,2026-08-10 14:25:13,crypto_usdt_wallet
+9759,TKT-SAIFIN96,2,657541,SEA2092,10.0,open,Mcoin withdrawal  not receive,Withdrawal,0,2026-08-08 06:46:03,2026-08-10 14:11:23,crypto_usdt_wallet
+9772,TKT-0SLHMHBV,1,44236,KRISHNAFBJ,8.0,closed,MCOIN Withdrawal,Withdrawal,0,2026-08-08 09:14:10,2026-08-10 14:00:26,crypto_usdt_wallet
+9775,TKT-UFA4VHIB,1,49346,SANJAY9598,8.0,closed,mcoin withdrawal problom from your gateway,Withdrawal,0,2026-08-08 10:24:50,2026-08-10 13:18:49,crypto_usdt_wallet
+9780,TKT-QEEHUNWV,2,74999,SHUBHAM2631,8.0,solved,Not received mcoin on arthbit shows paid on this platform,Withdrawal,0,2026-08-08 11:58:59,2026-08-17 15:35:24,crypto_usdt_wallet
+9790,TKT-G9KN1URD,1,47601,MUGHIS110,10.0,open,Follow-up on Pending Withdrawal Request - Stake 25 Coin,Withdrawal,0,2026-08-08 13:41:00,2026-08-10 13:19:13,crypto_usdt_wallet
+9793,TKT-A0APOE7X,1,54684,MUGHIS120,10.0,open,Follow-up on Pending Withdrawal Request – Stake 25 Coin,Withdrawal,0,2026-08-08 13:46:39,2026-08-17 13:09:44,crypto_usdt_wallet
+9810,TKT-ZJEKYOIR,2,611895,GOVINDKN11,10.0,open,My Mcoin withdrawal paid but not received Mcoin,Withdrawal,0,2026-08-08 19:15:42,2026-08-10 13:20:20,crypto_usdt_wallet
+9811,TKT-PYFDE5NV,1,49346,SANJAY9598,10.0,open,Mcoin withdrawal problem,Withdrawal,0,2026-08-08 19:25:49,2026-08-10 13:20:27,crypto_usdt_wallet
+9815,TKT-T0I5WCWZ,2,430586,NIHALSIDDIQUI,10.0,open,MCOIN WITHDRAWAL,Withdrawal,0,2026-08-08 20:59:25,2026-08-10 13:20:54,crypto_usdt_wallet
+9816,TKT-8CHRWLPJ,2,23170,NASIR97,8.0,closed,Mcoin,Withdrawal,0,2026-08-08 21:31:18,2026-08-10 14:21:57,crypto_usdt_wallet
+9840,TKT-NVHMQ8LZ,2,470304,BABU113L,10.0,open,Mcoin,Withdrawal,0,2026-08-09 07:32:31,2026-08-10 14:20:12,crypto_usdt_wallet
+9854,TKT-XUIEJYUF,2,172314,GURJANTDHALIWAL,10.0,closed,100 Mcoin withdrawal not received in Arthbit wallet,Withdrawal,0,2026-08-09 12:53:41,2026-08-31 20:33:14,crypto_usdt_wallet
+9855,TKT-LWQW6VYS,2,304579,KIRANDEEPDHALIWAL,10.0,open,45  Mcoin withdrawal not received in Arthbit wallet,Withdrawal,0,2026-08-09 13:06:37,2026-08-10 13:23:03,crypto_usdt_wallet
+9860,TKT-CW2BPFTT,2,364028,BINDER446,10.0,open,Coin withdrawals,Withdrawal,0,2026-08-09 14:24:21,2026-08-10 13:23:14,crypto_usdt_wallet
+9881,TKT-5ASOUCSR,2,183359,AAPIJAN,10.0,open,My Withdrawal 72 mCoin is not showing in my wallet.,Withdrawal,0,2026-08-09 23:19:46,2026-08-10 13:24:20,crypto_usdt_wallet
+9887,TKT-CAWIPRBH,2,150533,TARANANISHAT,10.0,open,My Withdrawal 480 mCoin is not showing in my wallet.,Withdrawal,0,2026-08-10 00:12:47,2026-08-10 13:24:39,crypto_usdt_wallet
+9889,TKT-EFYNMMFF,2,231340,JUHI73,10.0,open,My Withdrawal 55 mCoin is not showing in my wallet,Withdrawal,0,2026-08-10 00:17:52,2026-08-10 13:24:47,crypto_usdt_wallet
+9890,TKT-ITC0I7BZ,2,233639,TARANA73,10.0,open,My Withdrawal 157 mCoin is not showing in my wallet,Withdrawal,0,2026-08-10 00:24:16,2026-08-10 13:25:01,crypto_usdt_wallet
+9891,TKT-4V1ZUD61,2,114325,AHMADSHAHWAR,10.0,open,My Withdrawal 184.30  mCoin is not showing in my wallet,Withdrawal,0,2026-08-10 00:37:19,2026-08-10 13:24:55,crypto_usdt_wallet
+9892,TKT-JAFIGLVX,2,350621,AHMAD04,10.0,open,My Withdrawal 2100 mCoin is not showing in my wallet.,Withdrawal,0,2026-08-10 00:42:40,2026-08-10 13:25:09,crypto_usdt_wallet
+9894,TKT-PHGLKXTS,2,438365,RESHMA3530,10.0,open,Mcoin Not Received,Withdrawal,0,2026-08-10 00:44:55,2026-08-10 14:16:49,crypto_usdt_wallet
+9895,TKT-V5GV2N7M,2,122280,SHAH1970,10.0,open,My Withdrawal 87.40 mCoin is not showing in my wallet.,Withdrawal,0,2026-08-10 00:48:30,2026-08-10 13:25:17,crypto_usdt_wallet
+9896,TKT-AUYBUZGI,2,231341,CHOTI1,10.0,open,My Withdrawal 55 mCoin is not showing in my wallet.,Withdrawal,0,2026-08-10 00:53:54,2026-08-10 13:25:24,crypto_usdt_wallet
+9897,TKT-EUMCM5FH,2,426117,MKRAHAT199806P,8.0,closed,Release coin,Withdrawal,0,2026-08-10 01:52:01,2026-08-10 14:16:14,crypto_usdt_wallet
+9904,TKT-NECYGJFJ,1,5309,NAWAZPRO,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-08-10 08:09:23,2026-08-10 12:45:11,crypto_usdt_wallet
+9905,TKT-LLKHOLPZ,1,32803,NURJAHAPRO,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-08-10 08:11:47,2026-08-10 12:44:50,crypto_usdt_wallet
+9922,TKT-NSDJ5PJ6,2,180618,SANAMUBARAK,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-08-10 14:14:33,2026-08-10 14:15:38,crypto_usdt_wallet
+9942,TKT-WDNGOJ5J,1,58868,GH901,9.0,closed,M coin Withdrawal,Withdrawal,0,2026-08-10 20:27:16,2026-08-11 14:57:27,crypto_usdt_wallet
+9949,TKT-KTFTXDBP,1,49346,SANJAY9598,8.0,solved,Mcoin withdrawal problem,Withdrawal,0,2026-08-11 06:21:03,2026-08-12 11:16:16,crypto_usdt_wallet
+9957,TKT-WMIQOZCR,1,44236,KRISHNAFBJ,10.0,open,Mcoin Withdrawal,Withdrawal,0,2026-08-11 10:27:19,2026-08-11 15:28:41,crypto_usdt_wallet
+9984,TKT-UE3O7S1E,2,426117,MKRAHAT199806P,10.0,open,Coins not available in legacy withdrawal,Withdrawal,0,2026-08-12 00:39:45,2026-08-12 15:11:15,crypto_usdt_wallet
+10006,TKT-FM1W4IGH,1,49346,SANJAY9598,9.0,closed,Mcoin withdrawal problem,Withdrawal,0,2026-08-12 17:07:56,2026-08-12 19:19:22,crypto_usdt_wallet
+10015,TKT-QFCZQMCG,2,600388,BRIJBHAN1550,10.0,open,Mcoin Withdrawal Approved,Withdrawal,0,2026-08-12 18:53:41,2026-08-13 15:17:10,crypto_usdt_wallet
+10020,TKT-TPNVX7ZF,2,110253,MAHAR123,10.0,open,Legeche mcoin fixed withdrawal,Withdrawal,0,2026-08-12 20:41:06,2026-08-13 15:17:24,crypto_usdt_wallet
+10043,TKT-V77VA2XM,2,23170,NASIR97,8.0,solved,Where is my MCOIN,Withdrawal,0,2026-08-13 14:18:51,2026-08-13 14:22:32,crypto_usdt_wallet
+10051,TKT-LTD94JDO,2,540626,SHAHBAZ89,10.0,open,Related to mcoin,Withdrawal,0,2026-08-13 17:34:26,2026-08-13 18:02:09,crypto_usdt_wallet
+10053,TKT-GBMUVR38,2,23170,NASIR97,10.0,open,Not credited mcoin,Withdrawal,0,2026-08-13 19:01:38,2026-08-13 19:05:42,crypto_usdt_wallet
+10090,TKT-NBMX3DYW,2,350826,HAKAM2018,10.0,open,Mcoin,Withdrawal,0,2026-08-14 10:57:31,2026-08-17 18:23:09,crypto_usdt_wallet
+10091,TKT-G2VVQZ6Q,2,703761,SITARAIPUR,8.0,solved,MCoin withdrawal,Withdrawal,0,2026-08-14 11:00:38,2026-08-17 18:23:30,crypto_usdt_wallet
+10152,TKT-LVSCXPQP,1,9208,JAMSHED151,10.0,open,Mcoin missing,Withdrawal,0,2026-08-14 20:35:53,2026-08-17 17:59:43,crypto_usdt_wallet
+10169,TKT-HXJD9PI5,1,40307,IMRAN786IMRAN,8.0,solved,M coin,Withdrawal,0,2026-08-15 06:12:25,2026-08-17 17:07:58,crypto_usdt_wallet
+10190,TKT-1SM18DVS,2,787655,LK20,9.0,closed,80 Riser coin ka withdrawal Nahin hua,Withdrawal,0,2026-08-15 14:06:39,2026-08-17 16:30:35,crypto_usdt_wallet
+10293,TKT-8CZT7ZK6,2,787655,LK20,10.0,open,Riser coin ka withdrawal nahin mila,Withdrawal,0,2026-08-17 12:27:36,2026-08-17 14:47:26,crypto_usdt_wallet
+10313,TKT-96FH2RHU,2,465254,SIMBL2,8.0,closed,Number of coins,Withdrawal,0,2026-08-17 17:38:45,2026-08-17 17:45:03,crypto_usdt_wallet
+10315,TKT-GQFENRKV,2,467919,MN5,8.0,solved,Coins,Withdrawal,0,2026-08-17 17:45:49,2026-08-17 17:46:53,crypto_usdt_wallet
+10330,TKT-32E5CKCC,2,243646,RAJKUMAR0027,10.0,open,Reverse coins,Withdrawal,0,2026-08-17 22:19:55,2026-08-18 16:34:37,crypto_usdt_wallet
+10332,TKT-LLCOMWSU,2,50104,FARAZ01,10.0,open,Staking Coins Withdrawa,Withdrawal,0,2026-08-17 22:38:24,2026-08-18 16:45:05,crypto_usdt_wallet
+10335,TKT-TQ7SYOXW,1,42406,SANJEEVKUMAR01,8.0,closed,Regarding  Mcoin staking,Withdrawal,0,2026-08-17 22:48:34,2026-08-18 12:44:19,crypto_usdt_wallet
+10340,TKT-GXSQQZMI,1,6927,LUBABAADNAN,8.0,closed,Mcoin holding,Withdrawal,0,2026-08-18 01:18:33,2026-08-19 16:03:47,crypto_usdt_wallet
+10341,TKT-LNU0DZYH,1,19365,NEHA,8.0,closed,Mcoin holding,Withdrawal,0,2026-08-18 01:27:15,2026-08-18 12:41:01,crypto_usdt_wallet
+10369,TKT-A0TGHNPI,2,231513,RAMRINKU950,10.0,open,Withdrawal coins,Withdrawal,0,2026-08-18 11:38:38,2026-08-18 12:35:53,crypto_usdt_wallet
+10387,TKT-S1MRILJX,2,243239,FUSIONINDIA,8.0,solved,M coin not released,Withdrawal,0,2026-08-18 14:33:46,2026-08-18 14:54:24,crypto_usdt_wallet
+10401,TKT-VE1USYUM,2,216080,RAVI6268,10.0,open,Mcoin,Withdrawal,0,2026-08-18 20:51:18,2026-08-19 10:33:22,crypto_usdt_wallet
+10417,TKT-J4BE6OXA,2,264740,FAZAIL35,10.0,open,M.coin Withdrawal Not Completed,Withdrawal,0,2026-08-19 03:32:25,2026-08-19 10:49:10,crypto_usdt_wallet
+10435,TKT-KXYNQS6C,1,14667,TALHA7,8.0,solved,Where is 1.5 % coin of July month,Withdrawal,0,2026-08-19 12:38:17,2026-08-19 12:40:18,crypto_usdt_wallet
+10438,TKT-WJTZ4L1A,1,5061,FALAHI76,8.0,closed,About withdrawal of mcoin holding,Withdrawal,0,2026-08-19 13:38:58,2026-08-20 12:02:09,crypto_usdt_wallet
+10441,TKT-MY4QFMUM,1,17328,MADHU1987,8.0,closed,Regarding mcoin withdrawal procedure,Withdrawal,0,2026-08-19 15:32:24,2026-08-19 16:07:04,crypto_usdt_wallet
+10443,TKT-DBQVUG2K,1,52771,RAJEEVVIJ,9.0,closed,Mcoin holding withdrawal,Withdrawal,0,2026-08-19 17:01:50,2026-08-19 19:47:41,crypto_usdt_wallet
+10456,TKT-OA5M3SLO,2,520813,PRINCE8288,8.0,solved,mcoin  balance not shown,Withdrawal,0,2026-08-19 21:09:50,2026-08-20 12:04:10,crypto_usdt_wallet
+10458,TKT-SVW3H7HE,2,464599,SARFARAJ15,10.0,open,I don't get my all staking coins at all,Withdrawal,0,2026-08-19 21:42:03,2026-08-20 12:53:56,crypto_usdt_wallet
+10490,TKT-GVRJ3URQ,1,40307,IMRAN786IMRAN,8.0,closed,M COIN,Withdrawal,0,2026-08-20 13:16:25,2026-08-25 11:31:14,crypto_usdt_wallet
+10499,TKT-PSAXIAK7,2,714603,BALJITKHEHRA1972,8.0,solved,My fund is not show 63 mcoin on the screen,Withdrawal,0,2026-08-20 16:33:58,2026-08-21 12:16:45,crypto_usdt_wallet
+10502,TKT-DV56TT8U,1,5201,MUKARDAM786,9.0,closed,M COIN holding,Withdrawal,0,2026-08-20 17:48:19,2026-08-20 18:50:05,crypto_usdt_wallet
+10511,TKT-Z6QGP8VP,2,108816,BRI49,10.0,open,My Mcoin Withdrawal Approved,Withdrawal,0,2026-08-20 19:24:40,2026-08-21 15:20:04,crypto_usdt_wallet
+10513,TKT-RK2EMNW6,2,233356,BRI215,10.0,open,My Mcoin Withdrawal Approved,Withdrawal,0,2026-08-20 19:27:25,2026-08-21 15:19:51,crypto_usdt_wallet
+10514,TKT-XREHPWFU,2,108856,KRIS1,10.0,open,My Mcoin Withdrawal Approved,Withdrawal,0,2026-08-20 19:30:18,2026-08-21 15:20:30,crypto_usdt_wallet
+10541,TKT-HCSY1IGK,2,453381,PARGAT2700,8.0,closed,Coins Balance Mismatched,Withdrawal,0,2026-08-21 09:28:02,2026-08-21 15:36:49,crypto_usdt_wallet
+10543,TKT-VYPSXNDU,1,14779,JODHBIR,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-08-21 10:22:22,2026-08-21 15:24:09,crypto_usdt_wallet
+10550,TKT-4UVMJAOU,1,58109,MOHAMAMD2503,8.0,closed,Paid Profit Not Showing & Clarification Required on 4% USDT + 6% MCOIN Monthly Profit,Withdrawal,0,2026-08-21 12:32:50,2026-08-21 14:19:45,crypto_usdt_wallet
+10563,TKT-6UNN8QVC,2,443142,SM115,10.0,open,Mcoin coin not process,Withdrawal,0,2026-08-21 18:26:24,2026-08-24 16:46:45,crypto_usdt_wallet
+10564,TKT-WXTQ8XUV,2,42431,RAFHI22,10.0,open,M coin withdrawal not process,Withdrawal,0,2026-08-21 18:36:43,2026-08-24 16:46:27,crypto_usdt_wallet
+10565,TKT-8UB3DHZR,2,439934,SM109,10.0,open,M coin withdrawal not process,Withdrawal,0,2026-08-21 18:39:15,2026-08-24 16:46:15,crypto_usdt_wallet
+10581,TKT-TZRD0OQQ,1,14833,ANJU99,9.0,solved,MCOIN withdrawal issue,Withdrawal,0,2026-08-21 23:33:17,2026-08-24 18:45:37,crypto_usdt_wallet
+10588,TKT-7QY6HWY2,1,49569,SHAILPK249,9.0,closed,Mcoin,Withdrawal,0,2026-08-22 04:37:31,2026-08-24 18:46:28,crypto_usdt_wallet
+10603,TKT-OAWVTSRS,1,5879,AMAN19,9.0,closed,Mcoin,Withdrawal,0,2026-08-22 13:10:56,2026-08-24 18:01:54,crypto_usdt_wallet
+10612,TKT-IJDFEFWU,2,283534,ARIF5555,8.0,solved,MCOIN WITHDRAWAL STATUS PDF,Withdrawal,0,2026-08-22 19:44:33,2026-08-24 16:01:50,crypto_usdt_wallet
+10622,TKT-ADXQ0YZV,1,2568,999PARMINDER,9.0,closed,mcoin holding,Withdrawal,0,2026-08-23 06:37:06,2026-08-24 17:43:32,crypto_usdt_wallet
+10633,TKT-VK352G5G,1,60386,LIMRA,8.0,solved,Mcoin withdrawal,Withdrawal,0,2026-08-23 13:07:18,2026-08-24 10:39:55,crypto_usdt_wallet
+10634,TKT-NY7OQLNK,2,417008,NARES06,10.0,open,Mcoin badrawal,Withdrawal,0,2026-08-23 13:26:11,2026-08-24 10:38:37,crypto_usdt_wallet
+10639,TKT-0RSO9K5P,2,639970,KMAAN892,10.0,open,Coin withdrawal,Withdrawal,0,2026-08-23 15:07:35,2026-08-24 10:37:51,crypto_usdt_wallet
+10644,TKT-QRCFE5JT,1,17328,MADHU1987,8.0,closed,Regarding mcoin withdrawal,Withdrawal,0,2026-08-23 18:53:22,2026-08-24 10:37:10,crypto_usdt_wallet
+10646,TKT-4TMEAAWK,2,250985,KKR6,8.0,solved,MCOIN VOCHER,Withdrawal,0,2026-08-23 19:28:48,2026-08-24 10:36:12,crypto_usdt_wallet
+10710,TKT-KDJP6XPG,1,17328,MADHU1987,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-08-24 21:15:09,2026-08-25 14:35:47,crypto_usdt_wallet
+10726,TKT-V3LPDJQO,1,40307,IMRAN786IMRAN,8.0,solved,M COIN holding,Withdrawal,0,2026-08-25 06:19:27,2026-08-28 15:03:33,crypto_usdt_wallet
+10727,TKT-Q2RJFF79,1,5789,MURTAZA0143,8.0,solved,Mcoin I'd mai nahi hai,Withdrawal,0,2026-08-25 06:50:54,2026-08-25 11:32:05,crypto_usdt_wallet
+10734,TKT-SZHPXWFG,1,19201,RAJK1975,8.0,solved,mcoin holding withdrawal,Withdrawal,0,2026-08-25 09:42:22,2026-08-25 11:31:54,crypto_usdt_wallet
+10744,TKT-AMHAFSR6,2,23170,NASIR97,8.0,closed,Subject: FINAL NOTICE - Non-Receipt of M Coin Withdrawal for Over 1 Month -,Withdrawal,0,2026-08-25 12:20:38,2026-08-25 13:05:02,crypto_usdt_wallet
+10764,TKT-MH8X1SXF,2,125260,KAMAL879,8.0,closed,mcoin,Withdrawal,0,2026-08-25 18:31:12,2026-09-02 10:56:18,crypto_usdt_wallet
+10771,TKT-PI1VNWAU,2,46749,GURSHARAN3504,9.0,solved,My coin withdrawal,Withdrawal,0,2026-08-25 21:23:08,2026-08-25 22:26:37,crypto_usdt_wallet
+10799,TKT-FEIHGXNI,2,109014,ANIL1976,10.0,open,Mcoin is not transferred to violet,Withdrawal,0,2026-08-26 12:12:45,2026-08-27 16:01:57,crypto_usdt_wallet
+10806,TKT-RFJYSSZG,2,383532,HAKAM111,10.0,open,Mcoin,Withdrawal,0,2026-08-26 16:06:54,2026-08-27 16:01:43,crypto_usdt_wallet
+10809,TKT-W4DQFEXY,2,411003,GURDEEP25027,10.0,open,Mcoin withdrawal not process,Withdrawal,0,2026-08-26 18:03:09,2026-08-27 13:12:53,crypto_usdt_wallet
+10825,TKT-NJAKMTHP,1,44692,MOBIN2027,9.0,closed,"To give me the permission to withdraw,MyMcoin",Withdrawal,0,2026-08-27 02:33:40,2026-08-27 15:55:15,crypto_usdt_wallet
+10826,TKT-GZ4J02IH,2,78996,BINDRI9988,10.0,open,MCoin Withdrawal,Withdrawal,0,2026-08-27 05:22:11,2026-08-27 13:11:12,crypto_usdt_wallet
+10844,TKT-BSXUWNKO,2,383572,HAKAM112,10.0,open,Mcoin,Withdrawal,0,2026-08-27 11:34:35,2026-08-27 11:38:52,crypto_usdt_wallet
+10845,TKT-ZKYRMVHA,2,383597,HAKAM113,10.0,open,Mcoin,Withdrawal,0,2026-08-27 11:37:56,2026-08-27 11:38:40,crypto_usdt_wallet
+10846,TKT-YHDVMPRJ,2,383597,HAKAM113,10.0,open,Mcoin,Withdrawal,0,2026-08-27 11:38:52,2026-08-27 11:39:03,crypto_usdt_wallet
+10850,TKT-DOIQYDDN,2,350826,HAKAM2018,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:04:39,2026-08-27 12:19:15,crypto_usdt_wallet
+10851,TKT-V3MVFRBT,2,383380,JASVIR111,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:08:41,2026-08-27 12:19:08,crypto_usdt_wallet
+10852,TKT-FLMRGU72,2,383428,JASVIR112,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:11:42,2026-08-27 12:19:00,crypto_usdt_wallet
+10853,TKT-TZKDUALI,2,383470,JASVIR113,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:14:19,2026-08-27 12:18:51,crypto_usdt_wallet
+10854,TKT-RO8ARBM8,2,465891,011JASVIR,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:17:44,2026-08-27 12:18:42,crypto_usdt_wallet
+10855,TKT-ZRUVTMJK,2,383725,GURPREET114,10.0,open,Mcoin,Withdrawal,0,2026-08-27 12:24:28,2026-08-27 12:26:38,crypto_usdt_wallet
+10888,TKT-OV67QMAB,2,32792,SEEMA80,10.0,open,Mcoin Withdrawal pending from 6 August,Withdrawal,0,2026-08-28 06:56:48,2026-08-28 12:00:24,crypto_usdt_wallet
+10893,TKT-BXTFMEZY,2,290935,GANGA1800,10.0,open,Mcoin widrawal pending,Withdrawal,0,2026-08-28 09:23:46,2026-08-28 11:58:07,crypto_usdt_wallet
+10894,TKT-7GNRCSVK,1,17328,MADHU1987,10.0,open,Regarding mcoin withdrawal,Withdrawal,0,2026-08-28 09:51:45,2026-08-28 11:57:55,crypto_usdt_wallet
+10908,TKT-SIX5VRME,2,109014,ANIL1976,10.0,open,Mcoin transfer,Withdrawal,0,2026-08-28 16:35:37,2026-08-28 17:09:04,crypto_usdt_wallet
+10938,TKT-IB0YSE7W,2,482939,KAVI2358,10.0,open,Less mcoin,Withdrawal,0,2026-08-29 12:16:46,2026-08-31 17:58:57,crypto_usdt_wallet
+10947,TKT-VIFNSNO6,2,180618,SANAMUBARAK,8.0,solved,Mcoin  Withrawal,Withdrawal,0,2026-08-29 16:44:36,2026-08-31 11:09:18,crypto_usdt_wallet
+10957,TKT-9GREKDBO,2,16732,CHAMKAUR1993,10.0,open,Mcoin related,Withdrawal,0,2026-08-30 07:15:40,2026-08-31 11:06:14,crypto_usdt_wallet
+10968,TKT-GPEOPQGY,1,60094,RENU01,9.0,closed,Error Mcoin withdrawal,Withdrawal,0,2026-08-30 11:26:54,2026-08-31 14:44:13,crypto_usdt_wallet
+10974,TKT-XG0XV27C,1,58911,AIZA2,9.0,closed,1.5 percent mcoin,Withdrawal,0,2026-08-30 15:23:49,2026-08-31 18:58:13,crypto_usdt_wallet
+10975,TKT-TBTTCIIQ,1,688,MAA2016,8.0,closed,M COIN HOLDING NOT RECIVED,Withdrawal,0,2026-08-30 15:44:13,2026-08-31 12:33:58,crypto_usdt_wallet
+10976,TKT-4WTVGZNE,1,772,PREET2012,8.0,closed,M COIN HOLDING NOT RECEIVED,Withdrawal,0,2026-08-30 15:47:16,2026-08-31 12:33:51,crypto_usdt_wallet
+11002,TKT-EEFMAUJN,2,56890,KHISHI,10.0,open,my balance coin not credited ony wallet,Withdrawal,0,2026-08-31 11:45:38,2026-09-02 10:54:19,crypto_usdt_wallet
+11005,TKT-5OVUUV9N,1,13372,SANGALBIDHYA3,8.0,solved,I requested a withdrawal for M Coin,Withdrawal,0,2026-08-31 13:07:42,2026-08-31 13:14:41,crypto_usdt_wallet
+11012,TKT-PWOSKWT6,2,421730,RK1711,10.0,open,Mcoin,Withdrawal,0,2026-08-31 15:33:38,2026-09-02 10:56:45,crypto_usdt_wallet
+11020,TKT-LFCXHAIH,1,58911,AIZA2,9.0,closed,Mcoin holding,Withdrawal,0,2026-08-31 19:46:02,2026-09-01 16:22:48,crypto_usdt_wallet
+11021,TKT-ASPPQHNA,1,58911,AIZA2,9.0,closed,25 agust mcoin holding,Withdrawal,0,2026-08-31 19:47:42,2026-09-01 16:25:45,crypto_usdt_wallet
+11027,TKT-HL88K1EN,2,172314,GURJANTDHALIWAL,10.0,open,687 Mcoin withdrawal not received Arthbit wallet,Withdrawal,0,2026-08-31 20:41:43,2026-09-01 20:46:58,crypto_usdt_wallet
+11041,TKT-U4ENUPHG,1,22161,GHANSHYAM00,9.0,closed,Mcoin not received,Withdrawal,0,2026-09-01 11:28:52,2026-09-01 18:46:26,crypto_usdt_wallet
+11044,TKT-VUI5JKE6,2,74999,SHUBHAM2631,,closed,Please release mcoins to arthbit address,Withdrawal,0,2026-09-01 12:04:17,2026-09-01 12:04:40,crypto_usdt_wallet
+11045,TKT-XFBHDDOR,2,74999,SHUBHAM2631,10.0,open,Please release mcoins to arthbit address,Withdrawal,0,2026-09-01 12:04:22,2026-09-01 21:08:33,crypto_usdt_wallet
+11059,TKT-DRJQRAVV,1,13372,SANGALBIDHYA3,9.0,closed,Mcoin withdrawal,Withdrawal,0,2026-09-01 18:05:34,2026-09-01 18:54:18,crypto_usdt_wallet
+11107,TKT-ZZFSC3LK,2,123093,GURJEET65,10.0,open,Mcoin,Withdrawal,0,2026-09-02 19:29:18,2026-09-03 15:18:59,crypto_usdt_wallet
+11108,TKT-4YTBQ1MC,2,291084,SANDHU64,10.0,open,Mcoin,Withdrawal,0,2026-09-02 19:43:20,2026-09-03 15:18:40,crypto_usdt_wallet
+11112,TKT-DOIVFUGE,2,112351,KANCHAN6840,10.0,open,Coin,Withdrawal,0,2026-09-02 23:30:46,2026-09-04 11:05:00,crypto_usdt_wallet
+11129,TKT-5YTC3LXE,1,60094,RENU01,8.0,solved,Error Mcoin withdrawal,Withdrawal,0,2026-09-03 12:48:58,2026-09-03 13:18:02,crypto_usdt_wallet
+11132,TKT-UX0N2TTH,2,692432,JSSKAUR0555,10.0,open,M COIN WITHDRAWAL PENDING,Withdrawal,0,2026-09-03 14:30:27,2026-09-03 14:40:57,crypto_usdt_wallet
+11133,TKT-T34XMIJC,2,192536,ASRKHAN1,10.0,open,Mcoin withdrawal,Withdrawal,0,2026-09-03 14:47:06,2026-09-03 14:52:40,crypto_usdt_wallet
+11137,TKT-2VUOKCXZ,2,23170,NASIR97,10.0,open,Mcoin not credited,Withdrawal,0,2026-09-03 16:27:01,2026-09-03 17:32:04,crypto_usdt_wallet
+11138,TKT-0MPT1BRM,2,125358,AFHAM06,10.0,open,Mcoin not credited,Withdrawal,0,2026-09-03 16:37:36,2026-09-03 17:32:43,crypto_usdt_wallet
+11141,TKT-Z5XIMIHU,1,22161,GHANSHYAM00,10.0,open,MCOIN Withdrawal Still Not Received –  Follow-up,Withdrawal,0,2026-09-03 17:58:14,2026-09-04 12:25:36,crypto_usdt_wallet
+11144,TKT-Y0AQNVPH,1,60094,RENU01,9.0,open,Error Mcoin withdrawal,Withdrawal,0,2026-09-03 19:08:43,2026-09-06 10:32:12,crypto_usdt_wallet
+11165,TKT-LQA4CQDC,2,577151,GAURISHANKAR786,10.0,open,Mcoin,Withdrawal,0,2026-09-04 08:27:33,2026-09-04 11:56:11,crypto_usdt_wallet
+11171,TKT-KU8ZQDWY,1,8030,YASHPC47,8.0,solved,M Coin Holdings,Withdrawal,0,2026-09-04 10:59:31,2026-09-04 12:03:39,crypto_usdt_wallet
+11179,TKT-ALVJXWFX,1,41858,MANPREET85,8.0,solved,Mcoin,Withdrawal,0,2026-09-04 17:16:17,2026-09-04 17:18:25,crypto_usdt_wallet
+11181,TKT-5GXLSRFK,2,183787,KULDEEP731,10.0,open,Fixed mcoin withrol,Withdrawal,0,2026-09-04 17:41:11,2026-09-04 18:11:02,crypto_usdt_wallet
+11195,TKT-F88R1WLA,1,257,AKHILJI,,open,Regarding Mcoin holdings,Withdrawal,0,2026-09-04 23:08:12,2026-09-04 23:08:12,crypto_usdt_wallet
+11196,TKT-AWKQ5OOX,1,38936,PARWEEN97,,open,Mcoin withrowl,Withdrawal,0,2026-09-04 23:08:38,2026-09-04 23:08:38,crypto_usdt_wallet
+11203,TKT-JYQ3XO9Z,2,541968,JACK1996,,open,Mcoin,Withdrawal,0,2026-09-05 10:01:05,2026-09-05 10:01:05,crypto_usdt_wallet
+11227,TKT-BVRO8YX0,1,60094,RENU01,,open,Again Error Mcoin withdrawal,Withdrawal,0,2026-09-06 10:33:29,2026-09-06 10:33:29,crypto_usdt_wallet
+11229,TKT-MH3A8HRB,2,71726,SUKHDEV37,,open,Widrawal coins,Withdrawal,0,2026-09-06 10:52:58,2026-09-06 10:52:58,crypto_usdt_wallet
+11234,TKT-IYHK3WGV,1,22299,AAMIRM20X,,open,withdrawal mcoin,Withdrawal,0,2026-09-06 12:41:09,2026-09-06 12:41:09,crypto_usdt_wallet
+11235,TKT-MBTCQBGE,1,52946,ARMAAN10800,,open,MCOIN WALLET TRANSFER,Withdrawal,0,2026-09-06 12:47:57,2026-09-06 12:47:57,crypto_usdt_wallet
+11236,TKT-SSHNV6XL,1,20626,ARYA1006,,open,Mcoin withdrawal,Withdrawal,0,2026-09-06 14:45:30,2026-09-06 14:45:30,crypto_usdt_wallet
+11237,TKT-2QLECNEG,1,58330,TPSINGH27,,open,Stake 25 ka usdt 4% not credited  in month of august,Withdrawal,0,2026-09-06 15:12:23,2026-09-06 15:12:23,crypto_usdt_wallet

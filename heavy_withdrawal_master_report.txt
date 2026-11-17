@@ -1,0 +1,740 @@
+================================================================================
+ HEAVY WITHDRAWAL MASTER SUPPORT REPORT (ALL 45 CATEGORIES)
+================================================================================
+
+
+📂 CATEGORY FILE: account_profile_address.csv (16 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-BTXTOB4I
+  📝 Subject: Kindly send my token in arthbit account
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'account profile address', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-GEMWS1SC
+  📝 Subject: Adres change
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'account profile address', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: cancellation_refunds.csv (19 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-XGX1RGMW
+  📝 Subject: Cancle my withdrwal order of 1346 doller
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, your withdrawal cancellation request has been received. If eligible, funds will be reversed to your account within 1-3 business days.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-EMABW3SW
+  📝 Subject: Cancle my withdrwal of 1346 doller
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, your withdrawal cancellation request has been received. If eligible, funds will be reversed to your account within 1-3 business days.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: crypto_deposit_missing.csv (146 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-QG4TUFQB
+  📝 Subject: 1008 usdt  Not credited in metamask
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding the missing $1008 USDT in your MetaMask wallet. Dealing with uncredited funds is incredibly stressful, and I assure you that we will investigate this immediately to pinpoint its status.
+
+To initiate a precise investigation into this deposit, I require specific details about the transaction:
+
+1.  **Transaction Hash
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-VGFBYW6N
+  📝 Subject: Legacy E bank withdrawal status says Paid but funds not credited to the attached wallet
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a withdrawal showing 'Paid' but not yet reflected in your wallet. Dealing with missing funds is incredibly stressful, and I assure you we will investigate
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: ebank_bonus_profit_payouts.csv (13 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-J1YLMIPU
+  📝 Subject: Release intro bonus in my e bank
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Hello! Thank you for reaching out regarding your newly accrued profits and intro bonus payout. I completely understand the excitement
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-KZCOXVWL
+  📝 Subject: Residual bonus not reflected in E-bank
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'ebank bonus profit payouts', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: ebank_general_withdrawals.csv (129 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-2LXT4KZ5
+  📝 Subject: Legacy ebank withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear valued client,
+
+I completely understand your concern regarding a legacy eBank withdrawal; waiting for funds to arrive can be incredibly stressful, and I assure you that we are here to track this down with absolute precision.
+
+To initiate a comprehensive investigation into your pending payout, please provide the following mandatory details:
+
+1
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-1VCMBINF
+  📝 Subject: eBank Withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'ebank general withdrawals', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: ebank_reversals_refunds.csv (7 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-FQZ7TN7V
+  📝 Subject: Refund of my left 31usdx
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'ebank reversals refunds', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-SHVIK2PS
+  📝 Subject: Ebank refund
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand how stressful it is
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: email_otp_issues.csv (3 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-MXER74QJ
+  📝 Subject: Sir no gmail otp receive plz chat me
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'email otp issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-HEECUDLT
+  📝 Subject: Email OTP Problam
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'email otp issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: gateway_maintenance_errors.csv (5 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-VWCB5ZX6
+  📝 Subject: eBank Withdraw Error
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand how incredibly frustrating and stressful it is to encounter an e
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-8GO7KPVO
+  📝 Subject: Getting error on withdrawal from ebank
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand how frustrating it is to encounter an error when trying to withdraw funds, especially when you are expecting your money. Please rest assured that we will get this resolved for you quickly and accurately.
+
+To investigate the e-bank withdrawal error immediately, I need a few critical details so our specialized team can pinpoint the exact cause of the failure:
+
+1.  **Order
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: general_bank_transfers.csv (73 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-QF9XOA5F
+  📝 Subject: Fund transfer
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand completely that waiting for funds to arrive can be incredibly stressful and urgent. Please
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-MA7L2OJP
+  📝 Subject: PAYMENT NOT RECIVED
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding the missing payment; waiting for funds to arrive is incredibly stressful, and I assure you we will investigate this thoroughly with absolute precision.
+
+For us to locate your transfer immediately, please provide the following mandatory details:
+
+1.  **Transaction Reference/ID:** The exact transaction hash or bank reference
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: general_direct_withdrawal.csv (861 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-PPRUU2LV
+  📝 Subject: Withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand that waiting for funds is stressful, and I assure you we are here to get this resolved with absolute precision. Please know that timely withdrawals are our top priority,
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-ZUJHV7UL
+  📝 Subject: Withdrawal 1723
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding Withdrawal 1723; waiting for funds to arrive can be incredibly stressful, and I assure you
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: general_profit_rewards_issues.csv (62 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-LBGOELTT
+  📝 Subject: Diamond rank reward
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'general profit rewards issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-0N8NYRJK
+  📝 Subject: PROFIT NOT CREDITED
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your frustration regarding profit credits that appear missing or delayed. It is certainly stressful when expected earnings do not reflect in your account balance, and I assure you we will investigate this immediately.
+
+To pinpoint exactly where these profits are
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: general_withdrawal_delays.csv (110 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-53ZP8UVL
+  📝 Subject: Withdrawal painding
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a pending withdrawal; waiting for funds is always stressful, and I assure you we are here to help resolve this immediately.
+
+To investigate the status of your withdrawal accurately and efficiently, please provide the following mandatory details:
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-ZWI9UVNP
+  📝 Subject: Withdrawal not receoved
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Valued Client,
+
+I completely understand your concern regarding unreceived funds; I know how stressful withdrawal delays can be, and please rest assured that we are here to resolve this for you with absolute precision.
+
+To initiate an immediate and thorough
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: how_to_guidance.csv (1 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-KBCB1MFD
+  📝 Subject: How to withdraw usd
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, to perform a withdrawal or asset transfer, please navigate to your dashboard, select the desired action, and follow the on-screen security verification steps.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: invoice_general_payment.csv (19 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-8KVJ7717
+  📝 Subject: Invoice issue
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'invoice general payment', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-OLOSKGFY
+  📝 Subject: Invoice
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'invoice general payment', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: invoice_improvement_verification.csv (16 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-0OWU3YCX
+  📝 Subject: Invoice attempt failed
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'invoice improvement verification', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-4BDXKXY6
+  📝 Subject: Please invoice update
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'invoice improvement verification', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: kyc_general_inquiry.csv (253 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-LGQBJAXB
+  📝 Subject: KYC RELATED
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc general inquiry', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-PRQHO4I9
+  📝 Subject: Kyc
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc general inquiry', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: kyc_other_issues.csv (99 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-JTZVEB8X
+  📝 Subject: About kyc
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc other issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-NAMODCXC
+  📝 Subject: Regarding KYC
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc other issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: kyc_pending_incomplete.csv (43 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-KRXG0RYP
+  📝 Subject: My kyc is pending
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc pending incomplete', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-DSKEQ1YD
+  📝 Subject: KYC PENDING
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc pending incomplete', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: kyc_verification_approval.csv (70 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-YKW8RPF6
+  📝 Subject: For verifying withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Thank you for reaching out to
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-T2K7DY1G
+  📝 Subject: For verifying invoice
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc verification approval', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: kyc_withdrawal_payment_linked.csv (23 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-ALPXSQYF
+  📝 Subject: Withdrawal unbairify
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'kyc withdrawal payment linked', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-B9G5AXJM
+  📝 Subject: Withdrawal Panding sir
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear valued client,
+
+I completely understand your concern regarding a pending withdrawal; waiting for funds is always stressful, and I assure you that we are here to provide absolute clarity on this process.
+
+To investigate the status of your transfer immediately and pinpoint exactly where it is in our queue, please provide the following mandatory details:
+
+1.  **Transaction Hash (TxID) or Order ID:** The unique identifier for the withdrawal request.
+2.  **Network
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: leadership_residual_bonuses.csv (43 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-BWH2Z8BQ
+  📝 Subject: Senior Manager Reward Not Credited
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear [User Name],
+
+Please accept my sincere apologies for the stress and concern caused by the uncredited status of your Senior Manager Reward. I completely understand how critical it is to receive expected compensation promptly, and I assure you that we will investigate this thoroughly and immediately.
+
+To ensure absolute precision in locating these funds, could you please provide the following mandatory details?
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-EK3TAPDL
+  📝 Subject: Enquiry About Residual Bonus.
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'leadership residual bonuses', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: mcash_mcard_issues.csv (1 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-QPDUBGBW
+  📝 Subject: Mcash or ebank
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand that waiting for fiat withdrawals via Mcash or eBank can be incredibly stressful, and I assure you we are here to resolve this immediately. Please know that your funds' security and timely transfer is our highest priority.
+
+To initiate a precise investigation into your pending payout
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: mcoin_riser_issues.csv (422 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-RLBKURLD
+  📝 Subject: Mcoin not redeemed
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear valued client,
+
+I completely understand your concern regarding the unredeemed Mcoin balance; waiting for assets to appear is incredibly stressful, and I assure you we will investigate this immediately.
+
+To pinpoint exactly where the funds are in our system or on the blockchain, I require a few critical details. Please provide the following information:
+
+1. **Transaction Hash (TxID) or Order
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-BFWJOHFR
+  📝 Subject: Mcoin not found
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'mcoin riser issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: miscellaneous_unspecified.csv (219 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-AFRS0TY4
+  📝 Subject: Ris
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'miscellaneous unspecified', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-FCHGQGD7
+  📝 Subject: 2025
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'miscellaneous unspecified', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: not_received_not_credited.csv (134 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-NK4QHD5D
+  📝 Subject: ebank withdraw request not received
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'not received not credited', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-GR2AZLK4
+  📝 Subject: Withdrwal not come
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a withdrawal that has not yet arrived. Dealing with pending funds is incredibly stressful, and I assure you that we will investigate this immediately to determine its status.
+
+To initiate a precise trace of your funds,
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: pending_processing_issues.csv (28 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-DS7TNNYX
+  📝 Subject: Withdrawal not process
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a pending withdrawal; waiting for funds is always stressful, and I assure you we are here to get this resolved with absolute precision.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-X23J5KX0
+  📝 Subject: Please process my withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your urgency regarding your withdrawal, and I want to assure you that we are here to help ensure its successful completion. Dealing with pending funds can be stressful, but please know we will investigate this thoroughly for you.
+
+To allow me to pinpoint the exact status of your request—whether it's in our processing queue or awaiting blockchain
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: pending_stuck_status.csv (220 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-EXHVAU7D
+  📝 Subject: Withdrawal Pending
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding pending withdrawals; waiting for funds to arrive
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-NJLYTLGN
+  📝 Subject: Withdraw is in pending
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a withdrawal that is currently showing a 'pending' status. Waiting for funds to arrive can be incredibly stressful, and I assure you we are here to help track this down with absolute precision.
+
+To investigate the exact location and expected arrival time of your funds, please provide the following mandatory details:
+
+1.  **Transaction Hash (TxID) or Order ID:** The unique
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: pro_share_profit_share.csv (15 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-NUFIZ60K
+  📝 Subject: Profit Share
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'pro share profit share', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-XZQ9IS61
+  📝 Subject: Pro Share
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'pro share profit share', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: refund_return_inquiries.csv (18 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-QFLTSDUC
+  📝 Subject: Doesn't get proper withdrawal before filling otps id got logout so please get my 157 dollars return
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your frustration regarding an interrupted transaction, especially when dealing with sensitive steps like OTP verification. Please rest assured that we take the security and completion of your funds as our highest priority, and I am here to help you track down this $157 withdrawal
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-EOJE7DMR
+  📝 Subject: 100 USDT TRANSFERED TO M-CARD NOT SETTELED AND CREDIT BACK TO E BANK
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your frustration regarding unsettled funds and the complexity of a multi-step transfer failure. Please rest assured that we take every withdrawal concern with the utmost urgency, and I am here to guide you through this
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: roi_missing_issues.csv (4 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-N9FYSNT4
+  📝 Subject: Roi
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'roi missing issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-O8N4YJNT
+  📝 Subject: Roi
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'roi missing issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: sms_otp_issues.csv (14 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-4ECKXFJG
+  📝 Subject: While withdrawal fund then sms otp not working
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'sms otp issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-MN7AMS7G
+  📝 Subject: Sms otp
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'sms otp issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: staking_conversion_riser.csv (22 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-36EZCHSV
+  📝 Subject: RISER RILISED PLS
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'staking conversion riser', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-EFJIEXDQ
+  📝 Subject: Convert to fix staking to smart staking
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Thank you for reaching out regarding optimizing your staked assets. I understand you are looking to
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: system_new_tickets.csv (15 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-33XUMAYT
+  📝 Subject: New ticket
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, thank you for reaching out. Your support ticket has been created successfully and assigned to our financial operations team.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-ITTSB4WP
+  📝 Subject: New ticket
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, thank you for reaching out. Your support ticket has been created successfully and assigned to our financial operations team.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: technical_wallet_issues.csv (9 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-OFAEJ4V4
+  📝 Subject: need to stop withdrawal my wallet has been compromised!!!!!!
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand this is an extremely stressful and urgent situation. Please take a deep breath; we are here to help secure your assets immediately. Your safety and funds are our absolute top priority.
+
+To address the potential compromise and attempt to halt any pending withdrawal, I
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-RKRCRFDB
+  📝 Subject: My wallet is compromised via EIP-7702 Smart Contract Delegation. Stop the transaction.
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'technical wallet issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: time_delay_duration_issues.csv (78 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-YMHMOGLH
+  📝 Subject: Withdrawal showing in progress since 48 hours
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a withdrawal that has been "In Progress" for 48 hours. Waiting for funds is incredibly stressful, and I assure you we are here to get this resolved with absolute precision.
+
+While our standard processing queue typically resolves within 24-48 business hours, delays can sometimes occur due to specific blockchain confirmation requirements or network congestion.
+
+To allow me
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-CJUAO64C
+  📝 Subject: Time to take withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your urgency regarding withdrawal timing, and I want to assure you that we are here to help track this down for you. Waiting for funds is always stressful, but processing times vary significantly based on the method chosen.
+
+To give you a precise timeline, could you please provide the following
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: transaction_id_general_help.csv (47 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-0VS3YQNQ
+  📝 Subject: fixed id not show
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'transaction id general help', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-UW11RUAX
+  📝 Subject: VISA M CARD TRANSACTION
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'transaction id general help', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: trending_fund_issues.csv (1 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-AW92EDIY
+  📝 Subject: Trending fand
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'trending fund issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: unverified_status_issues.csv (8 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-JP0DLL9B
+  📝 Subject: Withdrawal unverified
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'unverified status issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-BUFMKFXV
+  📝 Subject: Withdrawal unverified
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'unverified status issues', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: w25_wealth25_profit_withdrawal.csv (65 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-5MCDWPAG
+  📝 Subject: Non receipt of profit on wealth 25 id number 207bdcfcef68of
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'w25 wealth25 profit withdrawal', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-DZXZFH5L
+  📝 Subject: W25 profit withdrawal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Valued Client,
+
+I completely understand your urgency regarding the withdrawal of your W25 profits. Dealing with pending funds can be stressful, and I assure you that my priority is to provide absolute clarity on this transaction.
+
+To investigate the status of your profit withdrawal immediately and accurately, please provide the following mandatory details:
+
+1.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: wallet_whitelisting_issues.csv (10 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-V3HNSXRA
+  📝 Subject: Why my wallet hasn't been whitelisted
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, your wallet whitelisting request is currently under review by our security operations team and will be updated within 24 hours.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-57KXYOUR
+  📝 Subject: Address is not showing
+  🔀 Route: ⚡ CONSTANT (Predefined) Response Route
+  💬 Generated Response:
+Dear Customer, your wallet whitelisting request is currently under review by our security operations team and will be updated within 24 hours.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: wealth25_stake25_bonus_delays.csv (11 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-PUIPLPM1
+  📝 Subject: Clear invoice no #2f855dd5e423
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'wealth25 stake25 bonus delays', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-DH9LNQAO
+  📝 Subject: For Clear my invoice
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'wealth25 stake25 bonus delays', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: wealth_packages_w25_w36.csv (13 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-NMSTUHPJ
+  📝 Subject: wealth25
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'wealth packages w25 w36', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-UQRNRSRB
+  📝 Subject: wealth25
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'wealth packages w25 w36', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: withdrawal_issues_problems.csv (198 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-EADMGMAA
+  📝 Subject: Withdraw not done
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding your withdrawal status; I know how stressful it is when funds are expected but haven't arrived. Please rest assured that we will investigate this immediately to determine exactly where your assets are
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-W35VFYUB
+  📝 Subject: Withdrawal not done
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand your concern regarding a withdrawal that has not yet been completed. Please know that ensuring the secure and timely transfer of your funds is our highest priority, and I am here to help you track this down immediately.
+
+To conduct a precise investigation into your
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: withdrawal_requests_release.csv (83 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-9EFMM8JC
+  📝 Subject: Regarding Withdrawal Approval
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I completely understand that waiting for withdrawal approval and funds to arrive can be incredibly stressful. Please rest assured that my priority is
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-2PX634HS
+  📝 Subject: Withdrawal request
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+Dear Customer, regarding your ticket in category 'withdrawal requests release', our financial operations team has noted your inquiry. To investigate and resolve your payout or transfer status promptly, please provide your Transaction Hash (TxID), Network Type, and account user ID.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+📂 CATEGORY FILE: withdrawal_typos_variations.csv (51 total tickets in file)
+--------------------------------------------------------------------------------
+  🎫 Ticket ID: TKT-SVLKFWEP
+  📝 Subject: Withdrwal cancil
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand that needing to cancel or modify a withdrawal can be stressful,
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  🎫 Ticket ID: TKT-XQ3UJOLF
+  📝 Subject: Relese withdrwal
+  🔀 Route: 🔥 HEAVY WITHDRAWAL SPECIALIST LLM Route
+  💬 Generated Response:
+I understand completely that waiting for funds is incredibly stressful, and I want to assure you that we are here to guide you through every step of the withdrawal process. Dealing with transfers can be confusing, especially when terminology varies.
+
+To
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+================================================================================
+📊 HEAVY WITHDRAWAL PROCESSING SUMMARY
+Total Files Scanned: 45
+Total Tickets Tested: 87
+Handled via Constant Replies: 7
+Handled via Heavy Specialist LLM: 80
+================================================================================

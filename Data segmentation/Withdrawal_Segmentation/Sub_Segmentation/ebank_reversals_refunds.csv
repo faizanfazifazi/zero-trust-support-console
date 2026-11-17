@@ -1,0 +1,8 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+4258,TKT-FQZ7TN7V,1,1645,NKTHAKUR,8.0,closed,Refund of my left 31usdx,Withdrawal,0,2026-06-20 07:19:56,2026-06-22 14:26:54,bank_ebanking_transfer
+9989,TKT-SHVIK2PS,1,56297,NADEEMMM786,8.0,closed,Ebank refund,Withdrawal,0,2026-08-12 06:49:00,2026-08-12 10:33:07,bank_ebanking_transfer
+10144,TKT-PB75QIY7,1,5497,GHANSHYAMGP,9.0,solved,Profit and E Bank Reversal,Withdrawal,0,2026-08-14 18:11:06,2026-08-17 18:00:33,bank_ebanking_transfer
+10235,TKT-7SODMRBC,1,5497,GHANSHYAMGP,9.0,closed,Profit and E Bank Reversal,Withdrawal,0,2026-08-16 09:40:53,2026-08-17 15:35:36,bank_ebanking_transfer
+10459,TKT-XXPWHMDH,1,35457,RISHI2006,9.0,closed,Reversal of fund from 1st July and withdrawal declined,Withdrawal,0,2026-08-19 22:12:42,2026-08-20 17:32:07,bank_ebanking_transfer
+10560,TKT-HTOOW3RI,1,58109,MOHAMAMD2503,9.0,solved,Request for Full Refund of My Invested Amount – Dispute of Unnotified Benefit Changes,Withdrawal,0,2026-08-21 18:02:22,2026-08-27 15:30:02,bank_ebanking_transfer
+10595,TKT-R9PFE04A,1,13666,VELDANDI01,9.0,solved,Refund  not credited,Withdrawal,0,2026-08-22 08:52:09,2026-08-24 18:01:47,bank_ebanking_transfer

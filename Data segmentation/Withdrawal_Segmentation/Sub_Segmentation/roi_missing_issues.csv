@@ -1,0 +1,5 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+454,TKT-N9FYSNT4,1,11748,DUSHYANT123,9.0,closed,Roi,Withdrawal,0,2026-03-09 07:17:14,2026-03-11 14:55:45,general_unspecified_withdrawal
+656,TKT-O8N4YJNT,1,14499,DUSHYANT1234,9.0,closed,Roi,Withdrawal,0,2026-03-20 07:20:31,2026-04-13 16:38:33,general_unspecified_withdrawal
+11010,TKT-JYDMFS8P,1,41213,PROBOT311,8.0,solved,Roi missing,Withdrawal,0,2026-08-31 14:24:18,2026-08-31 14:35:10,general_unspecified_withdrawal
+11046,TKT-9STAHDVQ,1,41213,PROBOT311,9.0,closed,Roi missing,Withdrawal,0,2026-09-01 12:17:50,2026-09-01 18:46:54,general_unspecified_withdrawal

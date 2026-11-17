@@ -1,0 +1,39 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+18,TKT-KLZTRUGM,1,4614,RAMHIT7,3.0,solved,Mcard issues,New Order,0,2026-01-25 13:59:25,2026-01-28 13:10:26,failed_error_orders
+1229,TKT-WIXMNIOP,1,11596,YOGITA2,8.0,closed,Subscription Not Activated & 5x Earning Limit Issue After Payment,New Order,0,2026-04-22 19:07:50,2026-04-23 12:41:18,failed_error_orders
+1569,TKT-QTFTYTSP,2,621596,SHAHVEZ1160,8.0,closed,Calculation in coin is wrong,New Order,0,2026-05-08 12:17:36,2026-05-11 11:27:04,failed_error_orders
+1571,TKT-MR8UD8EQ,1,53711,SACHINK,9.0,closed,Transaction Issue,New Order,0,2026-05-08 14:34:46,2026-05-08 14:35:57,failed_error_orders
+1572,TKT-WWYVDJKC,1,1470,RKFBR01,8.0,closed,USDX buying issue,New Order,0,2026-05-08 15:29:37,2026-05-11 11:27:51,failed_error_orders
+2018,TKT-0UMB6OHK,1,36485,ABU78610,10.0,open,Trading problem,New Order,0,2026-05-25 08:35:03,2026-05-25 10:32:02,failed_error_orders
+2564,TKT-CFEUZVVK,1,13546,GS12,8.0,closed,My ide kayc problem,New Order,0,2026-06-03 23:04:33,2026-06-04 11:15:43,failed_error_orders
+2605,TKT-W3NVZCJO,1,13984,COOLBABY5400,8.0,closed,Settlement issues,New Order,0,2026-06-04 13:26:48,2026-06-04 13:36:01,failed_error_orders
+2624,TKT-FOMDYRWU,1,196,SATSWARUPRAM,10.0,open,USDX Add Balance Issue,New Order,0,2026-06-04 23:23:47,2026-06-05 12:57:48,failed_error_orders
+2814,TKT-C6MHP2OO,1,5687,RAJKUMAR3547,9.0,closed,KYC will be rejected please due to identity proof wrong,New Order,0,2026-06-07 16:18:35,2026-06-08 11:37:36,failed_error_orders
+3196,TKT-A4IPW8AC,1,4736,BHARTI,8.0,closed,KYC related issues,New Order,0,2026-06-13 15:51:29,2026-06-15 10:44:17,failed_error_orders
+3260,TKT-UCNOCLKT,1,8035,SSPANDOR,8.0,closed,KYC PROBLEM,New Order,0,2026-06-14 13:32:19,2026-06-15 10:38:41,failed_error_orders
+4353,TKT-CIRVWA9G,1,12613,PANNA37,9.0,closed,Trading bonus issue,New Order,0,2026-06-20 17:00:39,2026-06-22 16:39:23,failed_error_orders
+4889,TKT-XANFDPPZ,1,7942,ARVINDDAS26,8.0,closed,Mcard problem,New Order,0,2026-06-23 15:58:29,2026-06-23 16:17:07,failed_error_orders
+5323,TKT-MCJQ6XUD,1,22701,RIDDHI1,9.0,closed,Trading issue,New Order,0,2026-06-26 13:48:35,2026-06-29 17:23:12,failed_error_orders
+5377,TKT-UIAHNJBK,1,53070,NDAWAR,8.0,closed,kyc verification issue,New Order,0,2026-06-26 18:58:37,2026-06-29 12:36:31,failed_error_orders
+5390,TKT-Z1JUMNEO,1,7313,EWRAVIR1650,10.0,open,I need your help regarding a usdx transfer issue,New Order,0,2026-06-26 23:14:38,2026-06-29 16:23:27,failed_error_orders
+5603,TKT-INJNZMEV,1,12528,W25FIXED,8.0,closed,KYC issues,New Order,0,2026-06-28 16:01:06,2026-06-29 11:37:11,failed_error_orders
+6009,TKT-RS6FBYVG,1,22701,RIDDHI1,9.0,closed,Withdrawal issue,New Order,0,2026-07-01 14:03:44,2026-07-01 14:18:31,failed_error_orders
+6828,TKT-BTIONA9E,1,9205,PROBOTXAK,8.0,closed,KYC problem,New Order,0,2026-07-07 06:01:01,2026-07-07 11:33:23,failed_error_orders
+7371,TKT-IIHATYTQ,1,17216,NEXTLEVEL,10.0,open,Leadership issue,New Order,0,2026-07-11 07:20:48,2026-07-13 16:54:59,failed_error_orders
+8300,TKT-EIKEXO0U,1,38948,BHAGWANT024,8.0,closed,For issue my Mcard,New Order,0,2026-07-19 18:19:34,2026-07-20 11:57:55,failed_error_orders
+8508,TKT-H5LEA2E0,1,39385,JAGMEET2004,9.0,closed,Kyc problem,New Order,0,2026-07-22 18:43:39,2026-07-23 11:04:23,failed_error_orders
+9339,TKT-LU2XT3BV,1,17328,MADHU1987,8.0,closed,Ebank withdrawal issue,New Order,0,2026-08-03 10:40:21,2026-08-03 14:57:07,failed_error_orders
+9355,TKT-AZYDJF4Q,1,17328,MADHU1987,8.0,closed,E ank withdrawal issue,New Order,0,2026-08-03 15:07:48,2026-08-03 15:09:32,failed_error_orders
+9363,TKT-LWJE66OE,1,17243,PRIYANKA1996,9.0,closed,Ebank fund withdrawal issue,New Order,0,2026-08-03 16:41:52,2026-08-04 13:23:57,failed_error_orders
+9366,TKT-SXHHHTCO,1,17328,MADHU1987,9.0,closed,Ebank withdrawal issue,New Order,0,2026-08-03 16:48:24,2026-08-04 13:33:22,failed_error_orders
+9575,TKT-RJ5E7EVM,2,640981,SUNI2,8.0,closed,KYC issu error,New Order,0,2026-08-05 19:56:59,2026-08-06 10:40:39,failed_error_orders
+9602,TKT-GSBEJYEH,1,17243,PRIYANKA1996,8.0,closed,Withdrawal issue,New Order,0,2026-08-06 10:14:48,2026-08-06 10:30:31,failed_error_orders
+9777,TKT-KDR9W2JX,1,17328,MADHU1987,8.0,closed,Withdrawal issue,New Order,0,2026-08-08 11:29:17,2026-08-10 13:18:54,failed_error_orders
+9962,TKT-FQXWLH3A,1,17328,MADHU1987,9.0,closed,Withdrawal issue,New Order,0,2026-08-11 11:52:08,2026-08-11 13:49:33,failed_error_orders
+9976,TKT-JGK8CWUZ,1,23283,RALLI2710,8.0,closed,Withdrawal issue,New Order,0,2026-08-11 21:20:54,2026-08-12 13:44:17,failed_error_orders
+10121,TKT-D16LNUPE,1,53462,MAKSOOD,8.0,solved,Reverse problem r,New Order,0,2026-08-14 14:28:38,2026-08-17 15:35:39,failed_error_orders
+10122,TKT-LUDRSB1E,1,5789,MURTAZA0143,8.0,solved,Ebank and withdrawal issue,New Order,0,2026-08-14 14:31:27,2026-08-17 18:15:13,failed_error_orders
+10478,TKT-YXOJSD8U,1,12196,SONPRO,8.0,closed,Welth25 Auto SIP Problem,New Order,0,2026-08-20 09:40:46,2026-08-20 12:06:38,failed_error_orders
+10532,TKT-QSJGJWR6,1,12196,SONPRO,8.0,closed,Welth25 Auto SIP Problem,New Order,0,2026-08-21 01:42:35,2026-08-21 15:24:24,failed_error_orders
+10607,TKT-ECAJ93XE,1,52465,AMRITGILL2,8.0,closed,Problem,New Order,0,2026-08-22 16:27:08,2026-08-24 16:51:01,failed_error_orders
+10759,TKT-GD2CL5YT,1,9407,GHALIB025,9.0,closed,Withdrawal issue,New Order,0,2026-08-25 17:36:34,2026-08-25 18:19:03,failed_error_orders

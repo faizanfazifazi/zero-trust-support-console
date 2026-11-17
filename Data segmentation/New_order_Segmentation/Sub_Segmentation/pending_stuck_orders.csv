@@ -1,0 +1,123 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+933,TKT-OCDJ1MMQ,1,48740,PUSHKAR75,8.0,solved,Offer related,New Order,0,2026-04-09 22:12:53,2026-04-13 12:32:03,pending_stuck_orders
+2873,TKT-5WPHSRBA,1,22081,JAYPRAKASHPASWAN,10.0,open,"My 2700 or 900 usdt fund interest has not been paid yet, it has been quite some time.",New Order,0,2026-06-08 13:03:21,2026-06-08 14:00:27,pending_stuck_orders
+3069,TKT-0ODFFUKJ,1,14514,TEAMAMBITION15,8.0,closed,Still solution pending TKT-NCE7V7IV,New Order,0,2026-06-11 12:08:10,2026-06-11 12:09:10,pending_stuck_orders
+3262,TKT-VVJJRVB8,1,19201,RAJK1975,8.0,closed,KYC PENDING,New Order,0,2026-06-14 14:18:39,2026-06-15 10:38:23,pending_stuck_orders
+3323,TKT-RSVV4AEC,1,17243,PRIYANKA1996,8.0,closed,KYC are pending since long time,New Order,0,2026-06-15 13:47:06,2026-06-15 13:48:27,pending_stuck_orders
+3408,TKT-VYTHKCQL,1,32420,SHIKHA,8.0,closed,Kyc pending,New Order,0,2026-06-16 16:44:25,2026-06-16 16:51:15,pending_stuck_orders
+3413,TKT-WNQSKLNE,1,14504,DUGGIE,9.0,closed,Kyc pending,New Order,0,2026-06-16 17:07:19,2026-06-16 17:17:58,pending_stuck_orders
+3475,TKT-KQ6QCE6K,1,14504,DUGGIE,8.0,closed,Kyc pending,New Order,0,2026-06-17 11:23:11,2026-06-17 11:31:13,pending_stuck_orders
+3495,TKT-E8NJT8QH,1,39282,JAGGA13,8.0,closed,my kyc is not approved its being 11 days,New Order,0,2026-06-17 12:54:28,2026-06-17 12:55:27,pending_stuck_orders
+3682,TKT-6LGIYOLY,1,11127,RAJDEEP,8.0,closed,Pending kyc,New Order,0,2026-06-17 20:00:55,2026-06-18 13:05:39,pending_stuck_orders
+3717,TKT-ET0TSTID,1,20671,AASHISHKUMARGOYAL,8.0,closed,Kyc pending,New Order,0,2026-06-17 21:51:26,2026-06-18 13:00:48,pending_stuck_orders
+3796,TKT-8FWSGFYH,1,6254,SANT31200,8.0,closed,KYC pending,New Order,0,2026-06-18 11:19:25,2026-06-18 11:21:01,pending_stuck_orders
+3951,TKT-8OZP51ME,1,5687,RAJKUMAR3547,8.0,closed,KYC pending,New Order,0,2026-06-18 17:33:36,2026-06-19 10:33:09,pending_stuck_orders
+4112,TKT-0DKYPP3S,1,15751,HANVIKA10800,8.0,closed,Kyc pending,New Order,0,2026-06-19 12:13:12,2026-06-19 12:14:48,pending_stuck_orders
+4132,TKT-CDCJZSBG,1,37098,GULJAR0306,8.0,closed,KYC pending,New Order,0,2026-06-19 12:48:36,2026-06-19 12:57:23,pending_stuck_orders
+4254,TKT-EU5CGXWF,1,11127,RAJDEEP,9.0,closed,Pending kyc,New Order,0,2026-06-20 07:14:45,2026-06-22 13:13:45,pending_stuck_orders
+4324,TKT-Y7JSOFEZ,1,57175,ABHI143,8.0,closed,Kyc pending,New Order,0,2026-06-20 13:34:23,2026-06-22 13:04:20,pending_stuck_orders
+4326,TKT-7QO2FH33,1,6474,DIPIKAPROBOTX,8.0,closed,Kyc pending,New Order,0,2026-06-20 13:37:15,2026-06-22 12:51:25,pending_stuck_orders
+4351,TKT-0VUY1GBS,1,11883,2829KARTIK,9.0,closed,KYC pending,New Order,0,2026-06-20 16:51:15,2026-06-22 12:52:27,pending_stuck_orders
+4492,TKT-7BENQ3UV,1,11127,RAJDEEP,8.0,closed,Pending kyc,New Order,0,2026-06-21 18:12:18,2026-06-22 12:26:26,pending_stuck_orders
+4493,TKT-BUVW5AJY,1,13457,RAJDEEP1,8.0,closed,Pending kyc,New Order,0,2026-06-21 18:16:11,2026-06-22 12:26:00,pending_stuck_orders
+4549,TKT-ZWVHYDMY,1,26448,SHANKAR684,8.0,closed,Kyc related,New Order,0,2026-06-22 09:38:15,2026-06-22 11:25:24,pending_stuck_orders
+4550,TKT-UJLAVE7T,1,37123,GAURAV2007,8.0,closed,Kyc related,New Order,0,2026-06-22 09:39:47,2026-06-22 11:25:16,pending_stuck_orders
+4552,TKT-H4SW4LMA,1,37378,ANILJEE1988,8.0,closed,Kyc related,New Order,0,2026-06-22 09:44:30,2026-06-22 11:23:27,pending_stuck_orders
+4553,TKT-VSWD1QKO,1,37378,ANILJEE1988,8.0,closed,KYC related,New Order,0,2026-06-22 09:45:06,2026-06-22 11:23:20,pending_stuck_orders
+4554,TKT-F1PSNQAV,1,37781,ANIL1988,8.0,closed,KYC related,New Order,0,2026-06-22 09:47:27,2026-06-22 11:23:01,pending_stuck_orders
+4555,TKT-KKCNWRKX,1,37781,ANIL1988,8.0,closed,KYC related,New Order,0,2026-06-22 09:47:56,2026-06-22 11:23:11,pending_stuck_orders
+4667,TKT-BOMLD99A,1,11883,2829KARTIK,8.0,closed,KYC pending,New Order,0,2026-06-22 15:27:06,2026-06-22 15:27:50,pending_stuck_orders
+4670,TKT-D1HDCWDT,1,11883,2829KARTIK,8.0,closed,Kyc pending,New Order,0,2026-06-22 15:29:25,2026-06-22 15:37:13,pending_stuck_orders
+4742,TKT-OCW0IXGQ,1,35602,DCDHINGRA1,9.0,closed,Why verification pending till now,New Order,0,2026-06-22 23:14:54,2026-06-23 12:59:13,pending_stuck_orders
+4743,TKT-K7O1ZCRZ,1,14514,TEAMAMBITION15,9.0,closed,Still Pending TKT-0ODFFUKJ,New Order,0,2026-06-22 23:22:16,2026-06-24 12:12:17,pending_stuck_orders
+4758,TKT-2EQZ1GQ4,1,28457,LORDVISHNU,9.0,closed,Kyc pending,New Order,0,2026-06-23 07:51:14,2026-06-23 12:33:25,pending_stuck_orders
+4776,TKT-UH877GAQ,1,6033,SONUSNIPER,8.0,closed,KYC pending,New Order,0,2026-06-23 09:05:23,2026-06-23 10:31:04,pending_stuck_orders
+4777,TKT-HAYBGIOS,1,28457,LORDVISHNU,8.0,closed,Kyc pending,New Order,0,2026-06-23 09:38:44,2026-06-23 10:31:10,pending_stuck_orders
+4798,TKT-EYSJ54JV,1,43556,BANSAL2700,8.0,closed,KYC pending,New Order,0,2026-06-23 10:48:52,2026-06-23 10:49:14,pending_stuck_orders
+4831,TKT-TKYDYOCC,1,7599,UDHAM248,8.0,closed,Kyc  related,New Order,0,2026-06-23 13:13:23,2026-06-23 13:21:54,pending_stuck_orders
+4833,TKT-VQI3CDHG,1,7599,UDHAM248,8.0,closed,Kyc related,New Order,0,2026-06-23 13:13:58,2026-06-23 13:21:05,pending_stuck_orders
+4860,TKT-DF3J2AW1,1,38780,SKSAHU87,8.0,closed,KYC pending,New Order,0,2026-06-23 14:52:51,2026-06-23 14:58:16,pending_stuck_orders
+4862,TKT-FUCXZRCB,1,40676,LADDU2000,8.0,closed,KYC pending,New Order,0,2026-06-23 14:54:17,2026-06-23 14:55:34,pending_stuck_orders
+4863,TKT-SQYMQFEG,1,28482,BIRENDAR,8.0,closed,KYC pending,New Order,0,2026-06-23 14:55:44,2026-06-23 15:00:13,pending_stuck_orders
+4990,TKT-R8GCILTW,1,43556,BANSAL2700,8.0,closed,KYC pending,New Order,0,2026-06-24 09:19:29,2026-06-24 10:59:49,pending_stuck_orders
+4997,TKT-ZWXLX3DW,1,16323,ANAND1800,8.0,closed,KYC pending,New Order,0,2026-06-24 10:47:43,2026-06-24 10:58:36,pending_stuck_orders
+5224,TKT-LEF52ATT,1,28679,RENU1977,8.0,closed,Kyc pending,New Order,0,2026-06-25 18:26:28,2026-06-29 12:53:33,pending_stuck_orders
+5294,TKT-DVHYFZCV,1,39921,MANDEEP322,8.0,closed,Kyc pending,New Order,0,2026-06-26 10:30:50,2026-06-29 12:47:19,pending_stuck_orders
+5459,TKT-PQL1IKSP,1,35907,DIWASH82,9.0,closed,KYC pending,New Order,0,2026-06-27 11:37:13,2026-06-29 12:27:24,pending_stuck_orders
+5837,TKT-4GR3QI1M,1,37378,ANILJEE1988,8.0,closed,Kyc related,New Order,0,2026-06-30 11:35:28,2026-06-30 11:43:26,pending_stuck_orders
+5843,TKT-HAX8XZ5O,1,17382,RAJDEEP10525,8.0,closed,KYC pending,New Order,0,2026-06-30 13:12:50,2026-06-30 13:13:22,pending_stuck_orders
+5981,TKT-QASSWX7F,1,14572,SINGH1986,8.0,closed,Kyc pending,New Order,0,2026-07-01 09:36:07,2026-07-01 10:36:07,pending_stuck_orders
+5990,TKT-S1QFDMPH,1,28679,RENU1977,8.0,closed,Kyc pending,New Order,0,2026-07-01 13:04:03,2026-07-01 13:08:22,pending_stuck_orders
+5991,TKT-T6TREQUM,1,14284,ANIL900,9.0,closed,Kyc pending,New Order,0,2026-07-01 13:08:52,2026-07-01 13:56:42,pending_stuck_orders
+6053,TKT-KKYBULWZ,1,6021,MONUAK47,9.0,closed,Kyc pending,New Order,0,2026-07-01 17:24:53,2026-07-01 17:57:46,pending_stuck_orders
+6150,TKT-C0WM6IXB,1,32420,SHIKHA,8.0,closed,Kyc pending,New Order,0,2026-07-02 10:19:53,2026-07-02 11:58:14,pending_stuck_orders
+6178,TKT-AS2MPKV3,1,55383,JANGRA1973,8.0,closed,Id upgraded but shows pending,New Order,0,2026-07-02 12:22:10,2026-07-02 12:28:18,pending_stuck_orders
+6232,TKT-3N0SFWLL,1,29491,BEANT2700,9.0,closed,Kyc pending,New Order,0,2026-07-02 17:06:43,2026-07-02 17:09:45,pending_stuck_orders
+6259,TKT-1OHZWLA2,1,28679,RENU1977,9.0,closed,Kyc pending,New Order,0,2026-07-02 18:59:48,2026-07-03 18:04:00,pending_stuck_orders
+6260,TKT-FP8R23E4,1,6021,MONUAK47,9.0,closed,Kyc pending,New Order,0,2026-07-02 19:04:29,2026-07-03 18:07:59,pending_stuck_orders
+6280,TKT-UCAG2UKS,1,14345,MANJIT550,9.0,closed,Kyc pending,New Order,0,2026-07-02 21:17:15,2026-07-03 18:53:53,pending_stuck_orders
+6352,TKT-RKYHSQZH,1,14753,JEEVAN1200,9.0,closed,Kyc pending,New Order,0,2026-07-03 11:08:55,2026-07-03 12:11:43,pending_stuck_orders
+6415,TKT-80AGUPOZ,1,45342,SCORPIO5400,9.0,closed,Kyc pending,New Order,0,2026-07-03 16:15:03,2026-07-03 16:16:50,pending_stuck_orders
+6418,TKT-BV8NONT1,1,14753,JEEVAN1200,9.0,closed,Kyc pending,New Order,0,2026-07-03 16:23:11,2026-07-04 11:28:59,pending_stuck_orders
+6419,TKT-GX12OY94,1,32698,NITIN12,9.0,closed,Kyc pending,New Order,0,2026-07-03 16:24:49,2026-07-04 11:30:56,pending_stuck_orders
+6420,TKT-FAEDVCVG,1,13157,RITHIK1200,9.0,closed,Kyc pending,New Order,0,2026-07-03 16:26:30,2026-07-03 17:04:03,pending_stuck_orders
+6437,TKT-6AVIXIPC,1,12869,OM02,9.0,closed,KYC RELATED,New Order,0,2026-07-03 18:07:21,2026-07-06 14:28:04,pending_stuck_orders
+6440,TKT-ODHDERGE,1,12867,GUPTA02,9.0,closed,KYC RELATED,New Order,0,2026-07-03 18:14:46,2026-07-06 14:28:10,pending_stuck_orders
+6456,TKT-Y6KJOKPZ,1,12857,BAI02,8.0,closed,KYC RELATED,New Order,0,2026-07-03 18:53:52,2026-07-06 14:16:44,pending_stuck_orders
+6457,TKT-BWSRLDHS,1,52007,900PTA,9.0,closed,KYC RELATED,New Order,0,2026-07-03 18:57:09,2026-07-06 14:28:39,pending_stuck_orders
+6462,TKT-WHVJ8LW0,1,15968,SATNAM87,8.0,closed,KYC RELATED,New Order,0,2026-07-03 19:11:37,2026-07-06 14:16:27,pending_stuck_orders
+6468,TKT-C7CAMQFT,1,15973,87SATNAM,8.0,closed,KYC RELATED,New Order,0,2026-07-03 19:23:22,2026-07-06 14:16:15,pending_stuck_orders
+6524,TKT-TDWHTG9S,1,35418,BUNTY,8.0,closed,Kyc pending,New Order,0,2026-07-04 09:21:27,2026-07-06 14:11:07,pending_stuck_orders
+6525,TKT-Q13T6P0W,1,32420,SHIKHA,8.0,closed,KYC pending,New Order,0,2026-07-04 09:30:05,2026-07-06 14:10:57,pending_stuck_orders
+6739,TKT-WDODVAJT,1,59365,WASIMKK3,9.0,closed,Business not accumulated in leadership bonus,New Order,0,2026-07-06 12:03:16,2026-07-07 12:22:33,pending_stuck_orders
+6747,TKT-BYHZ3I3D,1,12528,W25FIXED,8.0,closed,KYC pending,New Order,0,2026-07-06 12:24:10,2026-07-06 12:40:54,pending_stuck_orders
+6761,TKT-6KYZM5NW,1,14753,JEEVAN1200,8.0,closed,Kyc pending,New Order,0,2026-07-06 14:21:50,2026-07-06 14:24:42,pending_stuck_orders
+6762,TKT-WDOEOEMN,1,13209,JASVIR2250,8.0,closed,Kyc pending,New Order,0,2026-07-06 14:26:34,2026-07-06 14:27:49,pending_stuck_orders
+6842,TKT-LOE7XNUT,1,33193,GAURAV2006,8.0,closed,KYC RELATED,New Order,0,2026-07-07 09:37:59,2026-07-07 11:25:20,pending_stuck_orders
+6898,TKT-MZITXRYM,1,30215,RS5400,9.0,closed,Kyc pending,New Order,0,2026-07-07 17:10:38,2026-07-07 17:28:12,pending_stuck_orders
+7035,TKT-W6LHKT5H,1,25703,SUKHCHAIN54002,8.0,closed,KYC pending,New Order,0,2026-07-08 16:09:50,2026-07-08 16:12:50,pending_stuck_orders
+7116,TKT-QNBROIHV,1,35418,BUNTY,8.0,closed,Kyc pending,New Order,0,2026-07-09 09:54:15,2026-07-09 11:05:47,pending_stuck_orders
+7122,TKT-V9D8VEOJ,1,29491,BEANT2700,8.0,closed,Kyc pending,New Order,0,2026-07-09 10:53:30,2026-07-09 11:05:29,pending_stuck_orders
+7124,TKT-0BVUFOWC,1,16323,ANAND1800,8.0,closed,Kyc pending,New Order,0,2026-07-09 11:01:11,2026-07-09 11:05:17,pending_stuck_orders
+7126,TKT-UDRA7XRB,1,12988,KK51907,8.0,closed,Kyc pending,New Order,0,2026-07-09 11:19:03,2026-07-09 11:44:18,pending_stuck_orders
+7139,TKT-FPBRZBER,2,767194,KT01,8.0,closed,KYC is not completed from 15 days,New Order,0,2026-07-09 12:18:37,2026-07-09 12:52:01,pending_stuck_orders
+7213,TKT-4I8GE9AD,1,39871,AVISHKA,8.0,closed,KYC related,New Order,0,2026-07-09 23:09:51,2026-07-10 11:41:05,pending_stuck_orders
+7214,TKT-KLGIDDZG,1,39875,SHARDHA553,8.0,closed,KYC related,New Order,0,2026-07-09 23:11:28,2026-07-10 11:41:11,pending_stuck_orders
+7215,TKT-C2TKVEPH,1,21661,PINTU1993,8.0,closed,KYC related,New Order,0,2026-07-09 23:12:41,2026-07-10 11:41:20,pending_stuck_orders
+7216,TKT-OPUK6AKG,1,39873,ASHOK553,8.0,closed,KYC related,New Order,0,2026-07-09 23:14:05,2026-07-10 11:41:17,pending_stuck_orders
+7217,TKT-ZCFZY9DH,1,39870,AADVIK,8.0,closed,KYC related,New Order,0,2026-07-09 23:15:18,2026-07-10 11:41:24,pending_stuck_orders
+7250,TKT-LJDCJZ9J,1,35418,BUNTY,8.0,closed,Kyc pending,New Order,0,2026-07-10 09:44:38,2026-07-10 11:34:43,pending_stuck_orders
+7252,TKT-INNRAHSU,1,32420,SHIKHA,8.0,closed,Kuch pending,New Order,0,2026-07-10 09:51:16,2026-07-10 11:34:57,pending_stuck_orders
+7487,TKT-HLEXMH4L,1,12988,KK51907,8.0,closed,KYC pending,New Order,0,2026-07-11 21:43:21,2026-07-13 12:23:11,pending_stuck_orders
+7553,TKT-HQFNPCQH,1,13209,JASVIR2250,8.0,closed,Kyc pending,New Order,0,2026-07-12 15:56:56,2026-07-13 11:28:10,pending_stuck_orders
+7702,TKT-T7S47DHO,1,37378,ANILJEE1988,8.0,closed,KYC RELATED,New Order,0,2026-07-14 09:26:02,2026-07-14 10:35:48,pending_stuck_orders
+7719,TKT-OJMJIYPT,1,25285,MAGA2700,8.0,closed,Kyc pending,New Order,0,2026-07-14 11:18:07,2026-07-14 11:37:14,pending_stuck_orders
+7720,TKT-QEYHEWEC,1,36117,MANISH10800,8.0,closed,Kyc pending,New Order,0,2026-07-14 11:27:16,2026-07-14 11:37:09,pending_stuck_orders
+7721,TKT-PMNW3L75,1,36120,MANISH540A,8.0,closed,Kyc pending,New Order,0,2026-07-14 11:31:14,2026-07-14 11:36:45,pending_stuck_orders
+7722,TKT-XMWNMTW8,1,20359,MANDEEP1200,8.0,closed,Kyc pending,New Order,0,2026-07-14 11:33:11,2026-07-14 11:37:04,pending_stuck_orders
+7725,TKT-U2P9TD0K,1,14753,JEEVAN1200,8.0,closed,Kyc pending,New Order,0,2026-07-14 11:43:20,2026-07-14 11:49:44,pending_stuck_orders
+7729,TKT-OVVIE5EA,1,19375,PUSHPINDER2700,8.0,closed,Kyc pending,New Order,0,2026-07-14 12:08:05,2026-07-14 12:10:41,pending_stuck_orders
+7737,TKT-LHOS2FQH,1,39921,MANDEEP322,8.0,closed,Kyc pending,New Order,0,2026-07-14 12:49:20,2026-07-14 13:09:50,pending_stuck_orders
+7740,TKT-IDYFIVYM,1,16323,ANAND1800,8.0,closed,Kyc pending,New Order,0,2026-07-14 13:03:11,2026-07-14 13:08:55,pending_stuck_orders
+7773,TKT-17OOMVLM,1,18773,RK2700,9.0,closed,Kyc pending,New Order,0,2026-07-14 16:51:32,2026-07-14 17:02:49,pending_stuck_orders
+7790,TKT-1ZNQWTCM,1,11951,KHAN70701,8.0,closed,Kyc pending,New Order,0,2026-07-14 19:28:35,2026-07-15 10:24:43,pending_stuck_orders
+7961,TKT-EMLW9GVE,1,37506,SUBHU,8.0,closed,Kyc pending,New Order,0,2026-07-16 08:33:50,2026-07-16 11:29:21,pending_stuck_orders
+8077,TKT-LL8MTHW7,1,12528,W25FIXED,10.0,open,Delay withdraw,New Order,0,2026-07-17 06:42:41,2026-07-17 11:04:31,pending_stuck_orders
+8239,TKT-DOFP0IPF,1,12528,W25FIXED,10.0,open,Withdraw delay,New Order,0,2026-07-18 17:41:14,2026-07-20 15:30:42,pending_stuck_orders
+8846,TKT-5UPSNIQU,1,25285,MAGA2700,8.0,closed,Kyc pending,New Order,0,2026-07-27 14:24:21,2026-07-27 14:24:58,pending_stuck_orders
+8929,TKT-OTCYUQZT,1,16323,ANAND1800,8.0,closed,Kyc pending,New Order,0,2026-07-28 15:24:37,2026-07-28 15:29:09,pending_stuck_orders
+9021,TKT-R1HT7MRK,1,8562,SUDHANSHU5551,8.0,closed,KYC Related,New Order,0,2026-07-29 22:11:03,2026-07-30 11:41:10,pending_stuck_orders
+9037,TKT-MRSJN9WK,1,59569,KAMLESHKHATI,8.0,closed,KYC RELATED,New Order,0,2026-07-30 08:32:31,2026-07-30 11:30:39,pending_stuck_orders
+9146,TKT-XKHLCZWM,1,3612,EWSANJAY877,9.0,closed,Usdx Deposit Pending,New Order,0,2026-07-31 16:53:39,2026-07-31 18:58:22,pending_stuck_orders
+9368,TKT-HXI85Z3S,1,13531,PRISHA,8.0,closed,KYC RELATED CONCERN,New Order,0,2026-08-03 17:18:59,2026-08-04 12:10:50,pending_stuck_orders
+9402,TKT-NB9JJZHR,1,14514,TEAMAMBITION15,9.0,closed,135$ deducted 2 times but still not refunded back 135$ to my account since 2 months,New Order,0,2026-08-04 07:53:14,2026-08-04 13:40:41,pending_stuck_orders
+9970,TKT-3YJ7OVFH,1,57147,LK0001,8.0,closed,Kyc pending,New Order,0,2026-08-11 14:38:37,2026-08-11 15:20:47,pending_stuck_orders
+10351,TKT-ZDUWOJJR,1,21046,POONAM36,8.0,solved,Trading bonous related,New Order,0,2026-08-18 08:19:20,2026-08-18 12:45:01,pending_stuck_orders
+10669,TKT-G9HZV1IS,1,47860,MKING,8.0,closed,2-3 day out time follow up -18$,New Order,0,2026-08-24 11:15:50,2026-08-24 11:25:56,pending_stuck_orders
+10739,TKT-NXUXU4SH,1,1987,PROBOT00096,9.0,closed,Car fund pending,New Order,0,2026-08-25 10:30:16,2026-08-25 16:56:51,pending_stuck_orders
+10740,TKT-OJYROOCL,1,46017,VINA2,8.0,closed,Mcoin holding bonus,New Order,0,2026-08-25 11:15:54,2026-08-25 11:27:38,pending_stuck_orders
+11036,TKT-KYZW02AS,1,17741,SURINDER999,9.0,closed,august mcoin holding  Not show,New Order,0,2026-09-01 09:47:52,2026-09-01 17:02:29,pending_stuck_orders
+11038,TKT-7U4VBCZK,1,52946,ARMAAN10800,9.0,closed,holding bonus,New Order,0,2026-09-01 11:04:44,2026-09-01 15:54:24,pending_stuck_orders
+11062,TKT-FI6VQQJF,1,55493,ANITA4,8.0,closed,Holding mcoin,New Order,0,2026-09-01 19:00:44,2026-09-02 10:49:08,pending_stuck_orders
+11064,TKT-YVHBMFDM,1,55493,ANITA4,8.0,closed,Mcoin holding,New Order,0,2026-09-01 19:10:05,2026-09-02 10:49:43,pending_stuck_orders
+11065,TKT-EZ9CBITT,1,55494,ANITAW1,8.0,closed,Mcoin holding,New Order,0,2026-09-01 19:13:46,2026-09-02 10:49:48,pending_stuck_orders

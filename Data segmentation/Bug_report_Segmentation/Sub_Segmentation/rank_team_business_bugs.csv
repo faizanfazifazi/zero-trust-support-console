@@ -1,0 +1,42 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+12,TKT-ROZHJDSM,1,5852,PHULJHARI0143,3.0,solved,Leadership business update,Bug Report,0,2026-01-24 06:40:34,2026-01-25 08:41:08,rank_team_business_bugs
+251,TKT-NGIBWMPH,1,2227,SKRABBANI24,3.0,open,business volumes problems,Bug Report,0,2026-02-21 04:46:13,2026-02-23 12:02:48,rank_team_business_bugs
+580,TKT-AYNPW4XO,1,13647,VK3175,9.0,closed,Quarry about rank,Bug Report,0,2026-03-15 13:20:14,2026-03-17 14:38:00,rank_team_business_bugs
+590,TKT-2GXZLHUK,1,1514,BHAU52,8.0,closed,Rank Upgrade,Bug Report,0,2026-03-15 22:15:50,2026-03-17 12:16:53,rank_team_business_bugs
+591,TKT-NW52D3XT,1,1514,BHAU52,9.0,closed,Rank Upgrade,Bug Report,0,2026-03-15 22:46:19,2026-03-19 14:54:41,rank_team_business_bugs
+643,TKT-JNVV8KRJ,1,1514,BHAU52,9.0,closed,Rank Update,Bug Report,0,2026-03-19 14:32:52,2026-03-24 12:23:39,rank_team_business_bugs
+675,TKT-5WXLJZTW,1,1514,BHAU52,9.0,closed,Rank Update,Bug Report,0,2026-03-21 13:51:43,2026-03-26 16:03:02,rank_team_business_bugs
+718,TKT-OXWZOGYD,1,18485,YUSUF686,9.0,closed,Team business not show,Bug Report,0,2026-03-23 15:55:32,2026-03-26 16:03:17,rank_team_business_bugs
+790,TKT-TWCECOFA,1,13651,PARVATI1,9.0,closed,Upgrade my rank,Bug Report,0,2026-03-28 22:13:48,2026-04-03 16:28:11,rank_team_business_bugs
+1249,TKT-VMUUC4SJ,1,1225,ANJUM07,9.0,closed,Executive Rank Not Update,Bug Report,0,2026-04-23 12:52:38,2026-04-24 14:34:44,rank_team_business_bugs
+1460,TKT-AKGHBREX,2,875021,OMS1,8.0,closed,Rank,Bug Report,0,2026-05-03 09:53:17,2026-05-04 10:58:50,rank_team_business_bugs
+1485,TKT-98VWQUIW,2,80053,MOHDRIZWAN2,8.0,closed,Rank Reward,Bug Report,0,2026-05-04 11:57:37,2026-05-08 12:02:26,rank_team_business_bugs
+1499,TKT-QXUOCK38,2,60965,NADEEMMM786,9.0,closed,Rank reward,Bug Report,0,2026-05-04 23:09:47,2026-05-07 16:14:15,rank_team_business_bugs
+1610,TKT-K1IOBKHL,1,1222,AMIQUE07,8.0,closed,My senior executive Rank not upgraded,Bug Report,0,2026-05-11 09:27:31,2026-05-11 11:13:08,rank_team_business_bugs
+1740,TKT-0EOKUPJ9,1,14257,DKUMAR44,8.0,solved,Team Matching Bounce,Bug Report,0,2026-05-19 10:09:31,2026-05-19 11:23:16,rank_team_business_bugs
+2888,TKT-IXGG9DFA,1,19920,RAJESH5200,9.0,closed,Commission,Bug Report,0,2026-06-08 18:13:43,2026-06-09 18:01:13,rank_team_business_bugs
+3283,TKT-QLJUVKTF,1,2005,MANISHWHIZZ,8.0,closed,LEADERSHIP BOUNCE,Bug Report,0,2026-06-14 23:53:39,2026-06-15 12:53:12,rank_team_business_bugs
+4533,TKT-BYBGI4I5,1,41959,SARABJIT,8.0,closed,Team matching bouns related,Bug Report,0,2026-06-22 07:19:54,2026-06-23 10:32:15,rank_team_business_bugs
+4573,TKT-PLDC6XNP,1,40862,SPATEL26,9.0,solved,Why not show rank exicutive,Bug Report,0,2026-06-22 10:43:55,2026-06-23 13:03:55,rank_team_business_bugs
+6057,TKT-QRT1SWCT,1,17216,NEXTLEVEL,9.0,closed,Leadership issue,Bug Report,0,2026-07-01 17:43:05,2026-07-01 17:51:10,rank_team_business_bugs
+6062,TKT-VJRK8YWL,1,59559,CRY01,10.0,open,"Not count my business, in my upline",Bug Report,0,2026-07-01 18:02:57,2026-07-02 12:02:30,rank_team_business_bugs
+6129,TKT-ETO5ZILA,1,38887,CRYSTAL,9.0,closed,Leadership issue,Bug Report,0,2026-07-02 07:22:53,2026-07-10 16:28:43,rank_team_business_bugs
+6283,TKT-VYPNTYKO,1,12063,BKG,9.0,solved,Rank reward,Bug Report,0,2026-07-02 21:34:28,2026-07-03 17:58:18,rank_team_business_bugs
+6805,TKT-BNH59LAL,1,360,KHUSHNUMA007,9.0,solved,Update My Rank & Reward,Bug Report,0,2026-07-06 21:10:10,2026-07-07 12:35:38,rank_team_business_bugs
+6944,TKT-M7ANECYL,1,17772,AMAR700,9.0,closed,Rankable Business Volume,Bug Report,0,2026-07-07 21:14:37,2026-07-08 14:51:26,rank_team_business_bugs
+6945,TKT-T952CYOV,1,7996,GAUTAM,9.0,closed,Rankable business vilume,Bug Report,0,2026-07-07 21:27:34,2026-07-08 12:50:41,rank_team_business_bugs
+7447,TKT-DAUEPSHZ,1,9455,MUZEEB86,9.0,solved,Rank,Bug Report,0,2026-07-11 15:37:16,2026-07-13 18:52:46,rank_team_business_bugs
+7966,TKT-A2BV1G2J,1,5061,FALAHI76,9.0,closed,About leadership bonous,Bug Report,0,2026-07-16 09:34:08,2026-07-16 15:00:45,rank_team_business_bugs
+8171,TKT-SKD7ALC0,1,15718,PRISHA1,9.0,solved,Rank reward  not release,Bug Report,0,2026-07-17 23:30:29,2026-07-20 19:29:35,rank_team_business_bugs
+8435,TKT-XTLYDDUZ,1,5061,FALAHI76,9.0,closed,About leadership bonous,Bug Report,0,2026-07-21 18:16:15,2026-07-21 18:59:20,rank_team_business_bugs
+8727,TKT-3PKKESOD,2,14346,INTZAR76,8.0,closed,Rank reward,Bug Report,0,2026-07-25 23:25:11,2026-07-27 13:11:49,rank_team_business_bugs
+8741,TKT-401OCV3A,1,12543,AMIR,8.0,closed,Rank Business,Bug Report,0,2026-07-26 07:50:44,2026-07-27 12:25:25,rank_team_business_bugs
+8868,TKT-UR9QSKNG,2,110305,MUJEEB786,10.0,open,Team work Problem,Bug Report,0,2026-07-27 18:27:02,2026-07-28 14:31:50,rank_team_business_bugs
+8893,TKT-RRX1KOSR,1,12543,AMIR,8.0,closed,Rank Business,Bug Report,0,2026-07-28 06:32:02,2026-07-28 13:47:07,rank_team_business_bugs
+9223,TKT-CC1JINWN,1,7436,ANILRDD,8.0,closed,Rank not updated,Bug Report,0,2026-08-01 17:15:27,2026-08-03 14:24:43,rank_team_business_bugs
+9261,TKT-F7WBOHRY,1,2341,JAVEDRAHAT11,8.0,closed,Rank not Promote,Bug Report,0,2026-08-02 09:23:26,2026-08-03 14:18:07,rank_team_business_bugs
+10013,TKT-BL15EONZ,1,19516,SINGH002,8.0,closed,Rank update,Bug Report,0,2026-08-12 18:46:15,2026-08-13 14:30:29,rank_team_business_bugs
+10054,TKT-1GAWQ9YX,2,131689,PARAM9910,8.0,closed,Show the rank,Bug Report,0,2026-08-13 19:30:38,2026-08-17 11:04:13,rank_team_business_bugs
+10055,TKT-9HFARCN6,2,131689,PARAM9910,8.0,closed,Please check the rank,Bug Report,0,2026-08-13 19:33:32,2026-08-17 11:04:18,rank_team_business_bugs
+10561,TKT-GZROI443,1,19516,SINGH002,8.0,closed,Rank update,Bug Report,0,2026-08-21 18:09:57,2026-08-24 11:01:48,rank_team_business_bugs
+10665,TKT-VPI5NAD2,1,17638,WELTH25,8.0,solved,My new business note add next closing SPILLOVER,Bug Report,0,2026-08-24 10:14:36,2026-08-24 10:31:35,rank_team_business_bugs

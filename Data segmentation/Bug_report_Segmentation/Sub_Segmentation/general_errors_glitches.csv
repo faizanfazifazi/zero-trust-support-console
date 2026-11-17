@@ -1,0 +1,94 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+59,TKT-KQXV83P4,1,37987,RRY3318,8.0,closed,Bug report,Bug Report,0,2026-02-01 14:45:28,2026-05-11 07:01:52,general_errors_glitches
+305,TKT-JUFKX1WU,3,2,Test User 2,4.0,closed,Test Bug,Bug Report,0,2026-02-26 00:39:00,2026-03-09 11:23:31,general_errors_glitches
+379,TKT-G5VK1DKP,2,273657,MAHRULNISHA,10.0,open,M 20 Chain not working metamask,Bug Report,0,2026-03-02 12:29:51,2026-03-02 12:36:20,general_errors_glitches
+567,TKT-XIHX4L4I,2,84456,SHIVAM22,,open,Wallet add problem,Bug Report,0,2026-03-14 18:12:56,2026-03-14 18:12:56,general_errors_glitches
+739,TKT-IN4VNRJL,2,852397,JASHAN630,8.0,solved,Wallet address issue,Bug Report,0,2026-03-25 20:27:39,2026-03-31 12:28:36,general_errors_glitches
+821,TKT-0MUAIH05,2,852397,JASHAN630,8.0,solved,TRC20 Address error,Bug Report,0,2026-04-02 07:43:21,2026-04-03 12:11:26,general_errors_glitches
+996,TKT-JSGDJ8E6,1,11597,BBK25,8.0,closed,sms error,Bug Report,0,2026-04-15 01:32:43,2026-04-15 18:33:33,general_errors_glitches
+1005,TKT-NOGKWDID,1,1074,SKCHOUDHARY,3.0,closed,E-bank issue,Bug Report,0,2026-04-15 07:49:15,2026-04-15 10:49:33,general_errors_glitches
+1031,TKT-KT1EKL7S,1,7397,SKC,9.0,closed,E-bank issue,Bug Report,0,2026-04-16 09:20:37,2026-04-20 17:46:30,general_errors_glitches
+1335,TKT-FOOHILOA,2,412565,FAREEDHASAN1,8.0,closed,Facing issue.,Bug Report,0,2026-04-26 19:58:48,2026-04-27 11:50:07,general_errors_glitches
+1419,TKT-BYVZAQP7,2,412565,FAREEDHASAN1,8.0,closed,Facing Problem,Bug Report,0,2026-05-01 09:56:59,2026-05-08 12:02:11,general_errors_glitches
+1599,TKT-PCO2FKHF,1,11596,YOGITA2,8.0,closed,Urgent: Subscription Not Activated & 5x Earning Limit Issue Since 22 April,Bug Report,0,2026-05-10 19:46:39,2026-05-18 10:47:24,general_errors_glitches
+1733,TKT-LOX9CN9E,1,267,RAJUGUDIYA,8.0,closed,Slot income problem,Bug Report,0,2026-05-19 07:34:51,2026-05-19 12:24:18,general_errors_glitches
+1738,TKT-MV1PYJIK,1,1252,SUMMER192021,8.0,closed,Bug report,Bug Report,0,2026-05-19 09:37:33,2026-05-19 12:22:15,general_errors_glitches
+1779,TKT-C38GRSV0,1,1258,KANIKA14,8.0,solved,Matching issue,Bug Report,0,2026-05-20 12:00:54,2026-05-20 12:14:57,general_errors_glitches
+2247,TKT-FZJTB8E0,2,255687,KARMI614,8.0,closed,Unable to Create voucher,Bug Report,0,2026-05-28 21:39:19,2026-05-29 12:15:58,general_errors_glitches
+2409,TKT-5U0ZPJVL,1,13437,YASHVANTJI,9.0,closed,Trading bonas wrong calculate,Bug Report,0,2026-06-01 20:39:40,2026-06-04 15:48:09,general_errors_glitches
+2426,TKT-HQFUJVFC,1,52420,FIROZ6,9.0,solved,KYC problem,Bug Report,0,2026-06-02 00:54:54,2026-06-03 12:56:10,general_errors_glitches
+2451,TKT-DTFMRTO1,3,9307,Uwais hakim,9.0,closed,Bug issue created and tasks completed – reward pending,Bug Report,0,2026-06-02 12:14:14,2026-06-05 17:14:45,general_errors_glitches
+2792,TKT-LJV2X8QN,1,33716,WEALTHPRAVIN,8.0,closed,KYC problem,Bug Report,0,2026-06-07 13:31:31,2026-06-08 11:56:06,general_errors_glitches
+2820,TKT-9RI6JTAV,1,15228,FAIZAN12,9.0,closed,KYC problem,Bug Report,0,2026-06-07 18:07:37,2026-06-08 11:23:18,general_errors_glitches
+3032,TKT-HI8AFZXN,1,5286,PRAMODM20,9.0,closed,settlement problem,Bug Report,0,2026-06-10 23:16:06,2026-06-12 17:49:22,general_errors_glitches
+3033,TKT-HD4YNSSP,1,5286,PRAMODM20,9.0,closed,settlement problem,Bug Report,0,2026-06-10 23:20:00,2026-06-12 12:48:21,general_errors_glitches
+3145,TKT-VMMEM33P,2,823426,KUNIKA1,8.0,closed,Error 500,Bug Report,0,2026-06-12 19:34:49,2026-06-17 12:06:35,general_errors_glitches
+3146,TKT-F1VOENUA,2,823428,KUNIKA2,8.0,closed,Error 500,Bug Report,0,2026-06-12 19:37:24,2026-06-15 13:40:41,general_errors_glitches
+3790,TKT-ADOQ74BQ,1,19702,SA1,8.0,closed,KYC problem,Bug Report,0,2026-06-18 11:06:20,2026-06-18 11:07:23,general_errors_glitches
+3792,TKT-OVFRDLRM,1,19868,SA2,8.0,closed,KYC problem,Bug Report,0,2026-06-18 11:09:27,2026-06-18 11:10:19,general_errors_glitches
+3907,TKT-HQR2QEO4,1,22686,MU81,8.0,closed,KYC problem,Bug Report,0,2026-06-18 15:43:49,2026-06-18 16:18:51,general_errors_glitches
+3958,TKT-G0PEIC7U,1,22686,MU81,9.0,solved,KYC problem,Bug Report,0,2026-06-18 17:44:24,2026-06-18 18:26:18,general_errors_glitches
+4541,TKT-UOF4MJEX,1,19674,KANCHANDEVI,8.0,closed,Kyc problem,Bug Report,0,2026-06-22 08:29:54,2026-06-22 11:26:20,general_errors_glitches
+4584,TKT-M7X3JCT1,1,19674,KANCHANDEVI,8.0,closed,Kyc problem,Bug Report,0,2026-06-22 11:35:59,2026-06-22 11:36:51,general_errors_glitches
+4590,TKT-ZZEU0PGI,1,38068,ARUNPANDIT,8.0,closed,Kyc problem,Bug Report,0,2026-06-22 11:44:47,2026-06-22 11:47:05,general_errors_glitches
+4638,TKT-QDA6T9ZV,1,38068,ARUNPANDIT,8.0,closed,KYC problem,Bug Report,0,2026-06-22 13:48:29,2026-06-22 13:48:43,general_errors_glitches
+4641,TKT-OYIBE2QQ,1,50584,PRAKASHYADAV,9.0,closed,KYC problem,Bug Report,0,2026-06-22 14:08:47,2026-06-22 14:12:42,general_errors_glitches
+4648,TKT-L7DV99XX,1,50584,PRAKASHYADAV,8.0,closed,KYC problem,Bug Report,0,2026-06-22 14:38:44,2026-06-22 14:41:39,general_errors_glitches
+4689,TKT-UEDNTUJD,1,475,RAGHAV12,9.0,closed,Kyc problem,Bug Report,0,2026-06-22 16:48:21,2026-06-22 17:15:49,general_errors_glitches
+4692,TKT-WVZIPXUY,1,8035,SSPANDOR,9.0,closed,KYC PROBLEM,Bug Report,0,2026-06-22 17:15:23,2026-06-22 17:17:10,general_errors_glitches
+4789,TKT-NHWLWQYO,1,1847,VINODDASMCION,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 10:20:49,2026-06-23 10:29:41,general_errors_glitches
+4800,TKT-DSZ0IGQH,1,7942,ARVINDDAS26,9.0,closed,Kyc problem,Bug Report,0,2026-06-23 11:00:03,2026-06-23 12:28:42,general_errors_glitches
+4803,TKT-1Z9IZVY5,1,45149,RAVENKUMARPRBOTX,9.0,closed,Kyc problem,Bug Report,0,2026-06-23 11:06:26,2026-06-23 12:27:11,general_errors_glitches
+4822,TKT-JVE6HL58,1,38261,ABDULJEE,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 12:25:22,2026-06-23 12:26:28,general_errors_glitches
+4825,TKT-IKUFFXRB,1,7942,ARVINDDAS26,8.0,closed,KYC problem,Bug Report,0,2026-06-23 12:47:09,2026-06-23 12:49:17,general_errors_glitches
+4826,TKT-63WJIUPX,1,45149,RAVENKUMARPRBOTX,8.0,closed,KYC problem,Bug Report,0,2026-06-23 12:48:57,2026-06-23 12:50:28,general_errors_glitches
+4828,TKT-WGVBWEEW,1,45149,RAVENKUMARPRBOTX,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 13:10:14,2026-06-23 13:26:17,general_errors_glitches
+4836,TKT-EPAIXODF,1,7942,ARVINDDAS26,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 13:29:57,2026-06-23 14:04:39,general_errors_glitches
+4846,TKT-KVO6NBUN,1,1847,VINODDASMCION,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 14:23:08,2026-06-23 14:49:16,general_errors_glitches
+4927,TKT-LOX37JLH,1,51871,RAJIV1991,8.0,closed,Kyc problem,Bug Report,0,2026-06-23 19:15:35,2026-06-24 11:26:52,general_errors_glitches
+5084,TKT-RIBCW13H,1,52235,RANJEET701,8.0,closed,Kyc problem,Bug Report,0,2026-06-24 16:42:01,2026-06-24 16:50:39,general_errors_glitches
+5085,TKT-M6WYMTW0,1,22712,CHANDAN420,8.0,closed,Kyc problem,Bug Report,0,2026-06-24 16:52:40,2026-06-24 16:58:27,general_errors_glitches
+5567,TKT-NVAM3DZ3,1,35253,FAIZAN002,8.0,closed,Issue in KYC,Bug Report,0,2026-06-28 12:41:58,2026-06-29 12:13:17,general_errors_glitches
+5580,TKT-NVFK5AWP,2,531750,SHREE3,8.0,closed,Error,Bug Report,0,2026-06-28 13:31:47,2026-06-29 13:14:39,general_errors_glitches
+5864,TKT-OKJUWSWB,1,40249,TABSUM557,9.0,closed,Kyc problem,Bug Report,0,2026-06-30 14:33:11,2026-06-30 14:37:01,general_errors_glitches
+6066,TKT-L6CBCL6G,1,19905,SA5,8.0,closed,KYC problem,Bug Report,0,2026-07-01 18:19:09,2026-07-02 12:16:44,general_errors_glitches
+6139,TKT-1B22SW1J,2,7462,SWAPNIL2028,8.0,closed,Error is coming while doing KYC.,Bug Report,0,2026-07-02 08:48:49,2026-07-02 12:00:29,general_errors_glitches
+6303,TKT-SOT1LG6I,1,22701,RIDDHI1,10.0,open,Bug,Bug Report,0,2026-07-03 06:26:13,2026-07-03 17:54:21,general_errors_glitches
+6475,TKT-12FPZ4U2,2,823426,KUNIKA1,8.0,closed,Error 500,Bug Report,0,2026-07-03 20:18:17,2026-07-06 14:28:13,general_errors_glitches
+6476,TKT-WWI49OOL,2,823428,KUNIKA2,8.0,closed,Error 500,Bug Report,0,2026-07-03 20:20:54,2026-07-06 14:37:38,general_errors_glitches
+6558,TKT-SB7EXWMQ,2,853636,ANSARIANAS8959,8.0,closed,500 internal server error on kyc upload  page,Bug Report,0,2026-07-04 13:02:43,2026-07-06 14:05:13,general_errors_glitches
+6559,TKT-DWGVR90B,2,853636,ANSARIANAS8959,8.0,closed,500 internal server issue on kyc upload page,Bug Report,0,2026-07-04 13:04:10,2026-07-06 14:04:59,general_errors_glitches
+6601,TKT-046PQ4FB,1,24168,DILIP25,9.0,closed,Unable to fill bali retreat information,Bug Report,0,2026-07-04 21:30:42,2026-07-06 17:37:15,general_errors_glitches
+6627,TKT-CQAIL8NI,1,39227,INDALJEE,8.0,closed,Kyc problem,Bug Report,0,2026-07-05 09:48:02,2026-07-06 13:55:13,general_errors_glitches
+6628,TKT-7ORBV50J,1,46414,ARVIND415,8.0,closed,Kyc problem,Bug Report,0,2026-07-05 10:09:51,2026-07-06 13:55:05,general_errors_glitches
+6948,TKT-2G16RG2N,2,682013,AAKBLESSING,8.0,solved,Problem KYC,Bug Report,0,2026-07-07 22:08:12,2026-07-08 14:26:58,general_errors_glitches
+7348,TKT-WVHKT34S,1,44134,VEENA1991,8.0,closed,Kyc problem,Bug Report,0,2026-07-10 22:37:01,2026-07-13 14:33:34,general_errors_glitches
+7414,TKT-DR0Y0WWI,1,20516,GST07,10.0,open,BV Calculation Issue,Bug Report,0,2026-07-11 12:59:22,2026-07-13 16:46:48,general_errors_glitches
+7525,TKT-ID1FXIZR,1,46414,ARVIND415,8.0,closed,Kyc problem,Bug Report,0,2026-07-12 11:14:04,2026-07-13 11:29:58,general_errors_glitches
+7532,TKT-PHH6PT1X,1,39227,INDALJEE,8.0,closed,Kyc problem,Bug Report,0,2026-07-12 12:13:46,2026-07-13 11:29:32,general_errors_glitches
+7559,TKT-YQ8ISFOK,1,18707,SANTOSHSHARMA,8.0,closed,Kyc problem,Bug Report,0,2026-07-12 16:47:44,2026-07-13 11:17:19,general_errors_glitches
+7770,TKT-YIDQXEDY,1,39227,INDALJEE,9.0,closed,Kyc problem,Bug Report,0,2026-07-14 16:12:43,2026-07-14 16:18:20,general_errors_glitches
+7777,TKT-OFIEZUEV,1,39227,INDALJEE,9.0,closed,Kyc problem,Bug Report,0,2026-07-14 17:16:00,2026-07-14 17:31:06,general_errors_glitches
+7978,TKT-HHLJS3UI,1,39227,INDALJEE,8.0,closed,Kyc problem,Bug Report,0,2026-07-16 11:15:25,2026-07-16 11:25:39,general_errors_glitches
+7996,TKT-NHGTXFKR,1,46414,ARVIND415,8.0,closed,Kyc problem,Bug Report,0,2026-07-16 12:42:42,2026-07-16 12:57:59,general_errors_glitches
+7998,TKT-RFR0XYU6,1,44134,VEENA1991,8.0,closed,Kyc problem,Bug Report,0,2026-07-16 12:50:30,2026-07-16 12:57:54,general_errors_glitches
+8176,TKT-4GO1H2OT,1,56269,JAYKRISHN123,8.0,closed,KYC problem,Bug Report,0,2026-07-18 05:56:25,2026-07-20 11:01:50,general_errors_glitches
+8530,TKT-F0GL7D9V,1,56269,JAYKRISHN123,9.0,closed,KYC problem,Bug Report,0,2026-07-23 09:06:51,2026-07-23 11:06:13,general_errors_glitches
+8564,TKT-RJYW5S1J,1,48929,VIHA23,4.0,closed,QR ISSUE,Bug Report,0,2026-07-23 18:28:30,2026-08-20 17:08:13,general_errors_glitches
+8753,TKT-XRKLMJ1B,1,56269,JAYKRISHN123,8.0,closed,KYC problem,Bug Report,0,2026-07-26 10:33:16,2026-07-27 11:40:43,general_errors_glitches
+9336,TKT-XHCRKMVE,1,53692,MAAZFAROOQUI1,8.0,closed,Bug,Bug Report,0,2026-08-03 10:02:45,2026-08-03 11:53:54,general_errors_glitches
+9511,TKT-AM4BNV5A,1,29830,RAUNAKJI,8.0,closed,Seystem bug,Bug Report,0,2026-08-05 10:42:32,2026-08-05 10:47:23,general_errors_glitches
+10105,TKT-URGKQ08N,1,1099,AKASH23,8.0,closed,Bug report,Bug Report,0,2026-08-14 12:55:35,2026-08-17 15:36:20,general_errors_glitches
+10118,TKT-SMWNDW7H,1,6818,RAJ2402,8.0,closed,bug,Bug Report,0,2026-08-14 14:04:29,2026-08-17 18:20:09,general_errors_glitches
+10278,TKT-G5F7CAVN,1,2008,RAFIQUL20,8.0,closed,Dollar Extra Debit / Repeated 240 BV 2 times Settlement Issue,Bug Report,0,2026-08-16 22:51:00,2026-08-17 14:50:59,general_errors_glitches
+10408,TKT-9EQDLV07,1,9967,RPG1964,8.0,closed,Bug,Bug Report,0,2026-08-18 23:05:00,2026-08-19 14:11:39,general_errors_glitches
+10628,TKT-SK9FELBB,1,56506,SAMADMEMAN01,8.0,closed,I haven't found a solution to my problem.,Bug Report,0,2026-08-23 09:37:32,2026-08-27 16:53:58,general_errors_glitches
+10666,TKT-1HNHAITH,1,47860,MKING,8.0,closed,Resolve problems -18$,Bug Report,0,2026-08-24 11:04:28,2026-08-24 11:27:16,general_errors_glitches
+10672,TKT-M6SBLYJZ,1,9967,RPG1964,8.0,closed,Resolve my problem,Bug Report,0,2026-08-24 11:27:17,2026-08-24 11:27:27,general_errors_glitches
+10807,TKT-PC2CQ9PH,1,59943,SARASWATIR,8.0,closed,Kyc problem,Bug Report,0,2026-08-26 17:50:40,2026-08-27 10:41:51,general_errors_glitches
+10918,TKT-HQKWZ3FY,1,1070,MIRADEVI,9.0,solved,E-bank Issue,Bug Report,0,2026-08-28 18:29:23,2026-08-31 17:09:18,general_errors_glitches
+10919,TKT-UI6D6OP5,1,1074,SKCHOUDHARY,9.0,solved,E-bank issue,Bug Report,0,2026-08-28 18:32:44,2026-08-31 18:58:40,general_errors_glitches
+11097,TKT-MQ2FUDVQ,1,10875,NAZIM98,8.0,solved,Bug,Bug Report,0,2026-09-02 13:42:14,2026-09-02 13:42:41,general_errors_glitches
+11114,TKT-Z8RHKC2E,1,36568,SABIRBHAI2,8.0,solved,Technical problem,Bug Report,0,2026-09-02 23:41:58,2026-09-04 14:50:58,general_errors_glitches
+11184,TKT-QYKCT5I2,1,573,INDIA,9.0,solved,Subject: Trading Signal Access Issue,Bug Report,0,2026-09-04 18:16:15,2026-09-04 22:19:23,general_errors_glitches
+11185,TKT-7GAZCEDE,1,573,INDIA,9.0,open,Subject: Trading Signal Access Issue,Bug Report,0,2026-09-04 18:16:29,2026-09-05 17:46:45,general_errors_glitches

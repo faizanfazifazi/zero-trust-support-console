@@ -1,0 +1,6 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+854,TKT-S8ONOSYS,1,6020,MJHA508,3.0,closed,Update Email address,Account Security,0,2026-04-04 10:15:02,2026-04-14 23:38:17,security_alerts_notifications
+7557,TKT-G2YKDB2G,1,40662,DRSATWINDER267,8.0,closed,Change my email id,Account Security,0,2026-07-12 16:37:53,2026-07-13 15:58:15,security_alerts_notifications
+9861,TKT-RY1VVFHX,2,417931,SUAIB165,8.0,solved,related to change my gmail account for multiple account due to email damage,Account Security,0,2026-08-09 14:41:16,2026-08-10 13:49:22,security_alerts_notifications
+11147,TKT-U5ISRKYA,1,55972,SAMARBAINS,8.0,solved,I have lost my email id please recover my taranjitkaur id,Account Security,0,2026-09-03 19:11:34,2026-09-04 16:33:06,security_alerts_notifications
+11149,TKT-8X4R3IJO,1,55972,SAMARBAINS,8.0,solved,I have lost my email id and parmjitkaur account please recover,Account Security,0,2026-09-03 19:14:47,2026-09-04 16:33:21,security_alerts_notifications

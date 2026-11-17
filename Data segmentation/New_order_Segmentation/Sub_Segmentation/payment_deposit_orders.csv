@@ -1,0 +1,26 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+2139,TKT-5WGZBK4F,1,1140,VIKRAMVEER,9.0,closed,Deposit,New Order,0,2026-05-26 21:01:16,2026-06-04 15:21:47,payment_deposit_orders
+2321,TKT-M3YISJ9H,1,39884,RAJNISH90,8.0,closed,Trading fund,New Order,0,2026-05-31 06:03:47,2026-06-01 12:51:35,payment_deposit_orders
+2485,TKT-RTJEBDNJ,1,2427,DOLLY121,8.0,solved,Payment status,New Order,0,2026-06-03 07:20:03,2026-06-03 11:23:04,payment_deposit_orders
+2782,TKT-6TIUJLUR,1,39884,RAJNISH90,9.0,closed,Trading deposit,New Order,0,2026-06-07 10:18:49,2026-06-09 16:15:50,payment_deposit_orders
+2934,TKT-LG4RUI0B,2,651625,NADEEM450FIX,8.0,closed,Withdrawal not available balance,New Order,0,2026-06-09 13:15:51,2026-06-09 13:26:40,payment_deposit_orders
+4267,TKT-1TKHMKFY,1,13701,PANKAJ8987,8.0,closed,MCARD PAYMENT,New Order,0,2026-06-20 07:45:18,2026-06-22 14:25:34,payment_deposit_orders
+5633,TKT-9Y1QXOTZ,1,48330,MAAZFAROOQUI,10.0,open,Trading amount,New Order,0,2026-06-28 22:38:37,2026-06-29 12:56:16,payment_deposit_orders
+6111,TKT-4AUAF0QV,1,22081,JAYPRAKASHPASWAN,9.0,closed,Trading fund Intrest not credit,New Order,0,2026-07-01 23:47:02,2026-07-02 12:10:24,payment_deposit_orders
+7236,TKT-R2IYUH7A,1,22081,JAYPRAKASHPASWAN,9.0,closed,Regular fund interest not credited for April To May month,New Order,0,2026-07-10 07:25:21,2026-07-10 17:26:05,payment_deposit_orders
+7538,TKT-HEXBAR1H,1,22081,JAYPRAKASHPASWAN,10.0,open,"This April to may , you have a weak Regular Fund interest rate.",New Order,0,2026-07-12 12:48:31,2026-07-13 14:47:16,payment_deposit_orders
+8313,TKT-SNWSSENH,1,1470,RKFBR01,9.0,closed,Regarding usdx vaild deposit,New Order,0,2026-07-19 22:15:41,2026-07-20 18:06:37,payment_deposit_orders
+8582,TKT-AOIRY815,1,22081,JAYPRAKASHPASWAN,10.0,open,April to May Regular fund interest has not been paid yet,New Order,0,2026-07-24 07:17:11,2026-07-24 11:09:30,payment_deposit_orders
+9014,TKT-WQXQ8YAQ,1,22701,RIDDHI1,10.0,open,Fund deposit kar na hai,New Order,0,2026-07-29 20:32:59,2026-07-30 14:08:05,payment_deposit_orders
+9018,TKT-72SGZHV6,1,34468,RIDDHI3,8.0,closed,Re Deposit,New Order,0,2026-07-29 21:09:42,2026-07-30 15:05:46,payment_deposit_orders
+9206,TKT-JXHMGY7M,1,52465,AMRITGILL2,9.0,closed,Adding funds mismatch,New Order,0,2026-08-01 13:11:57,2026-08-03 16:56:41,payment_deposit_orders
+9626,TKT-X0X0RIOD,1,52465,AMRITGILL2,9.0,closed,Adding funds Mismatch,New Order,0,2026-08-06 17:13:22,2026-08-07 17:40:13,payment_deposit_orders
+9986,TKT-L7RG2YPW,1,22081,JAYPRAKASHPASWAN,3.0,open,Regular fund interest for April and May months has not been received,New Order,0,2026-08-12 02:45:50,2026-08-12 17:11:09,payment_deposit_orders
+10037,TKT-B5RSZWW9,1,22081,JAYPRAKASHPASWAN,9.0,solved,Regular fund intrest,New Order,0,2026-08-13 11:03:33,2026-08-13 18:03:35,payment_deposit_orders
+10072,TKT-RUA44ADI,1,17328,MADHU1987,9.0,closed,Fund not showing,New Order,0,2026-08-14 08:58:55,2026-08-17 17:41:23,payment_deposit_orders
+10260,TKT-9PPTYPP8,1,44383,HIMU09,9.0,closed,About settlement amount,New Order,0,2026-08-16 14:33:25,2026-08-17 15:13:34,payment_deposit_orders
+10681,TKT-WXUMGX6A,1,9407,GHALIB025,8.0,solved,Trading voilet  fund  minus,New Order,0,2026-08-24 13:26:49,2026-08-24 13:28:29,payment_deposit_orders
+10737,TKT-GMZ8VVY3,1,22081,JAYPRAKASHPASWAN,8.0,closed,Regular fund interest,New Order,0,2026-08-25 10:09:10,2026-08-25 11:29:56,payment_deposit_orders
+10821,TKT-0BAYDURC,1,58882,YOGESHTP,9.0,closed,Hya mahinich MCOIN bonus paid zala nahi,New Order,0,2026-08-26 22:27:26,2026-08-27 15:55:50,payment_deposit_orders
+11029,TKT-DU3OH4SX,2,650103,FUTUREAHEAD2519,10.0,open,Withdrawal remaining balance,New Order,0,2026-09-01 07:21:47,2026-09-01 21:06:04,payment_deposit_orders
+11134,TKT-NOQZMCRK,1,11691,HEROHARI,8.0,closed,SIP Payment Not Reflecting in Account,New Order,0,2026-09-03 15:02:35,2026-09-03 15:05:02,payment_deposit_orders

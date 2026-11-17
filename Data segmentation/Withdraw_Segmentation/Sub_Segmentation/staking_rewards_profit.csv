@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+8781,TKT-51V3EW6Q,3,3432,Md Imteyaz Alam Ansari,8.0,solved,refar bonus,Withdraw,0,2026-07-26 19:19:18,2026-07-27 12:24:55,staking_rewards_profit

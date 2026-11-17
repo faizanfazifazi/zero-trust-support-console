@@ -1,0 +1,7 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+780,TKT-K8NBQSHK,1,7575,HAMZA080,8.0,solved,Mistakenly placed trading fund package request,New Order,0,2026-03-27 20:32:09,2026-04-06 13:29:45,purchase_placement_activation
+1660,TKT-4PB6K7DY,1,394,369DEEPAKK,10.0,closed,Buy usdx,New Order,0,2026-05-14 13:31:43,2026-05-15 06:25:58,purchase_placement_activation
+2195,TKT-GIGBETV7,1,55548,ASHA123,9.0,solved,My $270 usdt not received to buy package,New Order,0,2026-05-27 17:16:37,2026-06-04 15:14:05,purchase_placement_activation
+3217,TKT-QB2JLOWO,1,11137,KUMARLAXMAN500,8.0,closed,Id not activated,New Order,0,2026-06-13 22:13:48,2026-06-15 13:16:03,purchase_placement_activation
+5489,TKT-MDSHWPDO,1,43814,RAJNISHJI4,9.0,closed,About subscription business volume,New Order,0,2026-06-27 15:13:27,2026-06-29 14:36:36,purchase_placement_activation
+5747,TKT-VBEA5MAT,1,63,HORSEX,10.0,open,Buy usdx,New Order,0,2026-06-29 17:20:58,2026-06-29 17:24:18,purchase_placement_activation

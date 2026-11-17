@@ -1,0 +1,84 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+2,TKT-FUNAZ5PB,1,20516,GST07,4.0,closed,S25 INTRO BONUS,New Order,0,2026-01-22 16:25:24,2026-01-28 13:15:09,staking_coin_order_queries
+43,TKT-QMZQRGGO,1,9220,TIWARI1979,8.0,closed,Mcoin missing,New Order,0,2026-01-30 19:46:07,2026-02-02 12:41:10,staking_coin_order_queries
+52,TKT-RNZLHHFM,1,8472,BHASKAR22,3.0,solved,Intro Bonus Unreleased,New Order,0,2026-01-31 23:13:22,2026-02-02 12:22:59,staking_coin_order_queries
+199,TKT-B60QTPRB,1,16204,HEM0A1,10.0,open,W25 residual bouns regarding,New Order,0,2026-02-15 15:43:56,2026-02-16 17:43:52,staking_coin_order_queries
+466,TKT-JYPW0SUS,1,9220,TIWARI1979,9.0,closed,Missing of 144 Mcoin,New Order,0,2026-03-09 18:33:16,2026-03-13 12:19:42,staking_coin_order_queries
+816,TKT-Q47CPZ0A,2,874915,SARTHAK1204,,open,Coin release,New Order,0,2026-04-01 21:28:25,2026-04-01 21:28:25,staking_coin_order_queries
+906,TKT-7LT7WMFQ,1,25402,NAJEEM07,8.0,closed,Mcoin staking,New Order,0,2026-04-08 10:47:37,2026-04-10 11:58:38,staking_coin_order_queries
+932,TKT-B4BMYBFX,1,47783,KRISHNA830,8.0,solved,Offer $450 in 450 mCoin not received,New Order,0,2026-04-09 22:09:04,2026-04-10 15:05:24,staking_coin_order_queries
+984,TKT-7K64RWC0,2,802956,MANISHDON77,8.0,closed,My riser coin,New Order,0,2026-04-14 00:41:08,2026-04-15 12:19:46,staking_coin_order_queries
+985,TKT-UYTOPHTB,2,778984,ANSHUL895,8.0,closed,My riser coin,New Order,0,2026-04-14 00:49:09,2026-04-15 12:19:42,staking_coin_order_queries
+1065,TKT-7LW1IRUZ,2,10828,EPICLEDGEND358,8.0,closed,TEAM BUILDING BONUS NOT CREDITED,New Order,0,2026-04-17 15:44:39,2026-04-20 11:59:44,staking_coin_order_queries
+1293,TKT-4PJ8DUMX,2,459545,ASHIYA120,8.0,closed,Rank reward manager,New Order,0,2026-04-24 22:29:10,2026-04-27 13:06:16,staking_coin_order_queries
+1294,TKT-Y0OYWYZA,2,60965,NADEEMMM786,8.0,closed,Rank reward sr manager,New Order,0,2026-04-24 22:30:53,2026-04-27 13:01:31,staking_coin_order_queries
+1319,TKT-QRVC5T5C,2,60965,NADEEMMM786,8.0,closed,Rank reward sr manager,New Order,0,2026-04-25 22:06:44,2026-04-27 12:05:41,staking_coin_order_queries
+1320,TKT-7H54ISER,1,22327,SUNITA660,8.0,closed,Residual bonus,New Order,0,2026-04-26 05:16:37,2026-04-27 12:05:16,staking_coin_order_queries
+1360,TKT-F9DYBICK,2,9526,EARNINGSTAR77,8.0,solved,TEAM BUILDING BONUS NOT CREDITED,New Order,0,2026-04-28 14:56:16,2026-04-28 15:50:22,staking_coin_order_queries
+1370,TKT-YIUCBCE7,2,459545,ASHIYA120,9.0,closed,Sr manager rank reward,New Order,0,2026-04-28 22:14:12,2026-05-01 10:59:11,staking_coin_order_queries
+1392,TKT-M246HDDV,2,60158,DRNADEEM786,8.0,solved,Diamond rank reward,New Order,0,2026-04-29 21:37:11,2026-04-30 12:43:03,staking_coin_order_queries
+1396,TKT-V1LNFP1Q,1,42644,RAJNISHJI2,8.0,solved,Residual bonus,New Order,0,2026-04-30 05:33:13,2026-04-30 12:44:20,staking_coin_order_queries
+1405,TKT-ZNSEDO0M,2,60965,NADEEMMM786,8.0,solved,Rank reward release,New Order,0,2026-04-30 13:42:34,2026-05-04 10:57:47,staking_coin_order_queries
+1431,TKT-0YRRPLSW,2,60965,NADEEMMM786,8.0,closed,Rank reward,New Order,0,2026-05-02 00:45:23,2026-05-04 13:14:10,staking_coin_order_queries
+1501,TKT-LD29WMY5,2,63395,DRNADEEM7351,9.0,closed,Rank reward,New Order,0,2026-05-04 23:17:52,2026-05-07 16:14:23,staking_coin_order_queries
+1502,TKT-ODCPPUZB,2,60158,DRNADEEM786,9.0,closed,Diamond rank reward,New Order,0,2026-05-04 23:19:11,2026-05-07 16:14:32,staking_coin_order_queries
+1628,TKT-3K47CUQ6,2,60965,NADEEMMM786,9.0,closed,Rank reward,New Order,0,2026-05-11 19:51:41,2026-05-13 14:50:23,staking_coin_order_queries
+1636,TKT-VJA3KXDQ,2,63395,DRNADEEM7351,9.0,closed,Rank reward,New Order,0,2026-05-12 08:11:42,2026-05-13 15:54:22,staking_coin_order_queries
+1679,TKT-FDCJQYP4,2,784744,GOURAV4,8.0,closed,Smart staking not ahow,New Order,0,2026-05-15 16:08:27,2026-08-03 16:30:21,staking_coin_order_queries
+1846,TKT-RHAEFVJX,1,22523,DKYADAV09,8.0,solved,Trading bonus not released,New Order,0,2026-05-22 04:51:36,2026-05-22 11:50:26,staking_coin_order_queries
+1848,TKT-WRGLNMEX,1,22522,DKYADAV08,10.0,open,Trading bonus not release,New Order,0,2026-05-22 05:08:14,2026-05-22 11:50:38,staking_coin_order_queries
+1852,TKT-6KEI0HVM,1,25839,SANT99,8.0,solved,Trading bonus not released,New Order,0,2026-05-22 09:01:34,2026-05-22 11:24:49,staking_coin_order_queries
+1865,TKT-VDBDHMZU,1,22715,HUMSAFAR10800,8.0,solved,Leadership Bonus,New Order,0,2026-05-22 11:57:13,2026-05-22 12:00:43,staking_coin_order_queries
+1963,TKT-U35AL2NM,2,60158,DRNADEEM786,8.0,closed,Rank reward,New Order,0,2026-05-23 22:26:58,2026-05-25 12:39:37,staking_coin_order_queries
+1976,TKT-8GVJQQRQ,1,44374,HIMU07,8.0,closed,About trading bonus,New Order,0,2026-05-24 10:48:36,2026-05-25 11:27:35,staking_coin_order_queries
+2328,TKT-B7CTSFZV,1,10321,PRAKASHRAJ2025,8.0,closed,My residual bonus not received,New Order,0,2026-05-31 10:27:14,2026-06-01 12:50:45,staking_coin_order_queries
+2969,TKT-2SCYFF66,1,51577,INDUFBJ,9.0,solved,Stake25,New Order,0,2026-06-10 06:39:52,2026-06-10 18:04:16,staking_coin_order_queries
+3018,TKT-TKJSFCYS,1,45621,VINA1,9.0,closed,About stake25 residual bonus,New Order,0,2026-06-10 17:57:29,2026-06-12 12:44:23,staking_coin_order_queries
+3019,TKT-UI4X8PFZ,1,45008,RAJNISHJI6,9.0,closed,About stake25 residual bonus,New Order,0,2026-06-10 18:07:48,2026-06-12 12:19:03,staking_coin_order_queries
+3120,TKT-ZDX1GWZ7,1,45621,VINA1,9.0,closed,About stake25 residual bon,New Order,0,2026-06-12 11:58:48,2026-06-15 12:50:14,staking_coin_order_queries
+3229,TKT-4AO4NN26,1,10510,NGM,8.0,closed,Residual Bonus,New Order,0,2026-06-14 01:50:42,2026-06-15 13:15:11,staking_coin_order_queries
+3987,TKT-VWEBAKWD,1,14929,ANAND22,8.0,closed,Dear sir please release my ebank W25 residual bonus,New Order,0,2026-06-18 19:25:32,2026-06-19 12:29:39,staking_coin_order_queries
+4151,TKT-Z048PP7Z,2,609492,KIRTYJI,8.0,closed,Urgent Request Regarding MCOIN Staking Rewards Not Being Generated,New Order,0,2026-06-19 13:19:12,2026-06-22 13:23:26,staking_coin_order_queries
+5247,TKT-NUFDH5GO,1,45887,PRAMILA126,9.0,closed,TEAM BUILDING BONUS NOT CREDITED,New Order,0,2026-06-25 21:12:25,2026-06-29 17:20:13,staking_coin_order_queries
+5817,TKT-DEIN5RIW,1,5375,RAJANSR77,10.0,open,For leadership bonus,New Order,0,2026-06-30 09:00:09,2026-06-30 12:09:32,staking_coin_order_queries
+6247,TKT-HQ4PCQ45,1,44115,HIMU02,10.0,open,About residual bonus,New Order,0,2026-07-02 18:26:21,2026-07-03 17:44:28,staking_coin_order_queries
+6270,TKT-EQQ5DUAT,1,35265,GOPAL9793,9.0,closed,Team building bonus Not credit,New Order,0,2026-07-02 19:58:36,2026-07-03 17:58:29,staking_coin_order_queries
+6599,TKT-RLQ2BL59,1,4502,JAGGADOCTOR,9.0,closed,Trading bonus,New Order,0,2026-07-04 20:59:34,2026-07-06 16:09:03,staking_coin_order_queries
+6839,TKT-NI1LNRPZ,1,975,PAWAN94,9.0,closed,Ressidule bonus,New Order,0,2026-07-07 09:10:31,2026-07-07 12:33:43,staking_coin_order_queries
+6974,TKT-IYRPLZSM,1,1595,RISHI100,8.0,closed,Residual,New Order,0,2026-07-08 07:03:56,2026-07-08 14:47:57,staking_coin_order_queries
+7088,TKT-ROA0AMBD,1,9269,GAUTAMCHAT,10.0,open,Don't show residual income from 1 july,New Order,0,2026-07-09 04:49:18,2026-07-09 14:55:16,staking_coin_order_queries
+7223,TKT-L3FQRC1Z,1,45008,RAJNISHJI6,9.0,closed,About residual bonus,New Order,0,2026-07-10 04:28:07,2026-07-10 17:30:07,staking_coin_order_queries
+7224,TKT-JKGWXNWL,1,45008,RAJNISHJI6,9.0,closed,About residual bonus,New Order,0,2026-07-10 04:33:29,2026-07-10 17:29:52,staking_coin_order_queries
+7473,TKT-BDXXA0BD,1,43814,RAJNISHJI4,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:12:57,2026-07-13 17:01:11,staking_coin_order_queries
+7475,TKT-CDEBKBKR,1,44671,RAJNISHJI5,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:16:27,2026-07-13 17:01:21,staking_coin_order_queries
+7478,TKT-7BJMKPRJ,1,45008,RAJNISHJI6,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:23:52,2026-07-13 17:02:30,staking_coin_order_queries
+7479,TKT-BQOW56CP,1,45621,VINA1,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:28:32,2026-07-13 17:02:40,staking_coin_order_queries
+7480,TKT-BVJPQB4G,1,42644,RAJNISHJI2,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:31:16,2026-07-13 17:00:56,staking_coin_order_queries
+7481,TKT-154K4WBI,1,42638,RAJNISHJI,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:35:53,2026-07-13 17:03:23,staking_coin_order_queries
+7482,TKT-N6A8IUOV,1,39884,RAJNISH90,10.0,open,About stake25 residual bonus,New Order,0,2026-07-11 20:38:43,2026-07-13 16:57:11,staking_coin_order_queries
+7573,TKT-NT0LKQ6G,1,45008,RAJNISHJI6,9.0,closed,About stake25 residual bonus,New Order,0,2026-07-13 04:25:55,2026-07-13 18:55:15,staking_coin_order_queries
+7832,TKT-9PQALYCR,1,45008,RAJNISHJI6,8.0,solved,About residual bonus,New Order,0,2026-07-15 09:59:02,2026-07-15 12:29:38,staking_coin_order_queries
+7948,TKT-OM67E24A,1,45008,RAJNISHJI6,8.0,closed,About stake25 residual bonus,New Order,0,2026-07-16 05:56:02,2026-07-16 14:36:24,staking_coin_order_queries
+8302,TKT-GEX9QVXS,1,45008,RAJNISHJI6,9.0,closed,About stake25 residual bonus,New Order,0,2026-07-19 18:36:50,2026-07-20 18:22:05,staking_coin_order_queries
+8303,TKT-OWXHJ4FM,1,45621,VINA1,9.0,closed,About stake25 residual bonus,New Order,0,2026-07-19 18:42:13,2026-07-21 14:41:27,staking_coin_order_queries
+8571,TKT-6DSS3O0P,1,43814,RAJNISHJI4,8.0,closed,About stake25 residual bonus,New Order,0,2026-07-23 21:04:07,2026-07-24 11:09:51,staking_coin_order_queries
+8899,TKT-IRL8CNAC,1,54614,BIRBAL1200A,8.0,solved,Residual,New Order,0,2026-07-28 08:52:03,2026-07-28 11:45:26,staking_coin_order_queries
+9174,TKT-1O7DR0RH,1,13269,SAMADMEMAN1,9.0,closed,Intro bonus,New Order,0,2026-08-01 05:20:06,2026-08-03 17:30:05,staking_coin_order_queries
+9404,TKT-QC245D5L,1,13269,SAMADMEMAN1,8.0,closed,S25 Intro Bonus,New Order,0,2026-08-04 08:04:30,2026-08-05 14:56:20,staking_coin_order_queries
+9405,TKT-5L8S7RXR,1,41724,EWSOURABH34,8.0,closed,Stake 25 & Wealth 36,New Order,0,2026-08-04 08:36:08,2026-08-05 14:56:44,staking_coin_order_queries
+9428,TKT-HF4FI9LV,1,319,URMILAY,8.0,closed,Intro bonus Stake 25,New Order,0,2026-08-04 12:36:09,2026-08-04 12:58:05,staking_coin_order_queries
+9431,TKT-LIE2DRCU,1,150,JANKIY,9.0,closed,Intro bonus Stake 25,New Order,0,2026-08-04 13:03:03,2026-08-04 13:21:25,staking_coin_order_queries
+10232,TKT-5YBGGVNH,1,48533,MISRIAMIT3GMAILCOM,9.0,closed,Leadership bonus,New Order,0,2026-08-16 07:43:43,2026-08-17 15:23:52,staking_coin_order_queries
+10556,TKT-MS1R9M0M,2,181268,FUTURELIFE,10.0,open,Mcoin voucher updated please,New Order,0,2026-08-21 16:56:35,2026-08-21 17:04:33,staking_coin_order_queries
+10761,TKT-5QDZXZSA,1,40257,NICE2,9.0,solved,Residual not received,New Order,0,2026-08-25 18:03:27,2026-08-27 15:30:54,staking_coin_order_queries
+10770,TKT-W7YNOSFH,1,27678,RANJIT9999,9.0,solved,W25 Residual Income JULY and August not display,New Order,0,2026-08-25 20:47:26,2026-08-27 16:51:58,staking_coin_order_queries
+10840,TKT-VW3VCLHB,2,572400,BALVIR0448,8.0,closed,Staking period is complete,New Order,0,2026-08-27 10:18:48,2026-08-27 10:33:30,staking_coin_order_queries
+10841,TKT-YQ3A0SRO,2,275370,BALVIR20448,8.0,closed,Coin difference,New Order,0,2026-08-27 10:24:48,2026-08-27 10:33:10,staking_coin_order_queries
+10842,TKT-WHDZB8XZ,2,275346,PARMINDER20448,8.0,closed,Coin differs,New Order,0,2026-08-27 10:27:26,2026-08-27 10:32:40,staking_coin_order_queries
+10934,TKT-YXI9ADLX,1,42717,RAJNISHJI3,9.0,closed,About stake25 intro bonus,New Order,0,2026-08-29 08:48:54,2026-08-31 17:58:42,staking_coin_order_queries
+11001,TKT-DHOG7XHL,1,20721,HAMZA786,8.0,closed,Mcoine Bonus,New Order,0,2026-08-31 11:44:03,2026-08-31 11:58:58,staking_coin_order_queries
+11008,TKT-9PESILFS,1,52080,MANRAJ09,8.0,closed,This month mcoine,New Order,0,2026-08-31 14:20:29,2026-09-02 10:57:08,staking_coin_order_queries
+11009,TKT-VLLQ7KYB,1,52620,JATIN1998,8.0,closed,M coin,New Order,0,2026-08-31 14:21:42,2026-08-31 14:35:36,staking_coin_order_queries
+11019,TKT-RWO66WS7,2,377997,0074GLADIOLUS,10.0,open,Coin difference,New Order,0,2026-08-31 18:28:18,2026-09-01 18:56:26,staking_coin_order_queries
+11028,TKT-DXLOYV2O,1,42966,RANJANKR,9.0,solved,Intro Bonus,New Order,0,2026-09-01 02:15:53,2026-09-02 16:21:03,staking_coin_order_queries
+11220,TKT-JFB9SGBI,1,5080,GUNJU143,3.0,open,residual bonus calculation,New Order,0,2026-09-05 21:28:37,2026-09-06 15:16:18,staking_coin_order_queries

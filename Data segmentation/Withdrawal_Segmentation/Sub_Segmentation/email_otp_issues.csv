@@ -1,0 +1,4 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+811,TKT-MXER74QJ,1,12046,LIONX,4.0,closed,Sir no gmail otp receive plz chat me,Withdrawal,0,2026-03-31 16:59:30,2026-04-22 11:49:21,otp_login_verification
+6883,TKT-HEECUDLT,1,39056,MOIJ111,8.0,solved,Email OTP Problam,Withdrawal,0,2026-07-07 15:43:47,2026-07-07 16:45:16,otp_login_verification
+11232,TKT-SYW951MO,1,16043,GROWFINITY,,open,Secret key E-mail otp not received,Withdrawal,0,2026-09-06 11:29:52,2026-09-06 11:29:52,otp_login_verification

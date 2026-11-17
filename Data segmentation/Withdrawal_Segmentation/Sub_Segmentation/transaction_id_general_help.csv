@@ -1,0 +1,48 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+472,TKT-0VS3YQNQ,2,8629,PATRAN2,8.0,solved,fixed id not show,Withdrawal,0,2026-03-10 05:30:43,2026-03-13 12:00:25,general_unspecified_withdrawal
+719,TKT-UW11RUAX,1,5503,SURINDERJI1,9.0,closed,VISA M CARD TRANSACTION,Withdrawal,0,2026-03-23 20:43:52,2026-03-26 14:12:19,general_unspecified_withdrawal
+1354,TKT-3NAK7UK8,1,19763,AMRESH99,10.0,open,No credit,Withdrawal,0,2026-04-28 06:51:47,2026-04-28 12:11:36,general_unspecified_withdrawal
+1409,TKT-LAPBKMXI,1,37327,RAVI1989,10.0,open,Widrawl issue,Withdrawal,0,2026-04-30 15:55:21,2026-04-30 16:08:56,general_unspecified_withdrawal
+1623,TKT-DJWIU3ZG,2,560162,WIN8315,10.0,open,Widrwal issu,Withdrawal,0,2026-05-11 12:08:41,2026-05-11 12:19:39,general_unspecified_withdrawal
+1669,TKT-JOBHJJJJ,1,18580,RANAKHAN313,10.0,open,Please help me 🙏  id ranakhan313,Withdrawal,0,2026-05-14 21:15:17,2026-05-15 10:27:56,general_unspecified_withdrawal
+1670,TKT-3X06DVMW,1,18580,RANAKHAN313,10.0,open,Please help me 🙏 Sir ji,Withdrawal,0,2026-05-14 21:18:21,2026-05-15 10:27:04,general_unspecified_withdrawal
+1911,TKT-H45T2QWV,1,9223,SATISHCHEDGE02,10.0,open,Widrawal,Withdrawal,0,2026-05-22 22:10:30,2026-05-25 11:42:19,general_unspecified_withdrawal
+2252,TKT-IOWDFRBI,2,560162,WIN8315,10.0,open,Widrwal,Withdrawal,0,2026-05-29 07:39:28,2026-05-29 10:27:14,general_unspecified_withdrawal
+3151,TKT-QNZXOVV0,1,12606,KHOKHORSHAB2,9.0,closed,Plz help,Withdrawal,0,2026-06-12 21:52:23,2026-06-16 14:51:54,general_unspecified_withdrawal
+5288,TKT-DEXN2WPW,1,12413,KJSINGH10,10.0,open,Widrawl,Withdrawal,0,2026-06-26 09:39:49,2026-06-29 16:27:48,general_unspecified_withdrawal
+5289,TKT-RRRWU9EV,1,12414,DILRAJ07,10.0,open,Widrawl,Withdrawal,0,2026-06-26 09:43:08,2026-06-29 16:29:23,general_unspecified_withdrawal
+5653,TKT-WAMWYUMK,1,12413,KJSINGH10,10.0,open,Widrawl,Withdrawal,0,2026-06-29 09:23:57,2026-06-29 12:33:50,general_unspecified_withdrawal
+5656,TKT-0PNQGM1D,1,12414,DILRAJ07,10.0,open,Widrawl,Withdrawal,0,2026-06-29 09:27:04,2026-06-29 12:33:17,general_unspecified_withdrawal
+5824,TKT-0VSFVNJR,1,387,DKSINGH76,10.0,open,Transaction I'd,Withdrawal,0,2026-06-30 09:43:04,2026-06-30 11:09:32,general_unspecified_withdrawal
+6049,TKT-YTT3UYDN,1,38510,S70,9.0,closed,My Child ID Username S70 Unlinked witth my Main ID Username SHAHI,Withdrawal,0,2026-07-01 17:08:35,2026-07-01 17:13:29,general_unspecified_withdrawal
+6055,TKT-MXCIIJBQ,1,11339,SHAHI,9.0,closed,My 5 chaid Ids Unlink with my Main Id Username SHAHI,Withdrawal,0,2026-07-01 17:33:26,2026-07-01 17:57:31,general_unspecified_withdrawal
+6130,TKT-4CNAYLEA,1,3340,PRAGNESH1487,9.0,closed,widhral error,Withdrawal,0,2026-07-02 07:33:58,2026-07-02 16:54:59,general_unspecified_withdrawal
+6582,TKT-21F1BG6K,1,49197,LAVU8,8.0,closed,Please solve problem immediately,Withdrawal,0,2026-07-04 16:35:48,2026-07-06 14:29:05,general_unspecified_withdrawal
+7497,TKT-YBKOMCFX,1,22370,PINTA2,9.0,closed,transaction ID,Withdrawal,0,2026-07-12 00:21:55,2026-07-13 15:07:58,general_unspecified_withdrawal
+7543,TKT-UIBCWTZH,1,22370,PINTA2,10.0,open,Pl provide me transaction id,Withdrawal,0,2026-07-12 13:25:16,2026-07-13 14:43:13,general_unspecified_withdrawal
+7625,TKT-HVNZRN46,2,587920,SEEMAG9759,8.0,closed,Please help my problem,Withdrawal,0,2026-07-13 15:19:04,2026-07-13 15:27:08,general_unspecified_withdrawal
+7679,TKT-OAAMVYQV,1,27817,NARITPAL92,8.0,solved,Id  Naritpal92,Withdrawal,0,2026-07-14 05:05:21,2026-07-14 10:38:00,general_unspecified_withdrawal
+8074,TKT-TBYNVPFL,1,20683,GURJANT68,10.0,open,Widrawal,Withdrawal,0,2026-07-17 06:25:57,2026-07-17 11:04:22,general_unspecified_withdrawal
+8082,TKT-XOEC2K74,1,47156,SEWASINGH13,10.0,open,Widraw,Withdrawal,0,2026-07-17 07:06:00,2026-07-17 11:04:04,general_unspecified_withdrawal
+8777,TKT-NEERIZUA,1,33721,ASHANUR0906,9.0,closed,Sir please  help 🙏,Withdrawal,0,2026-07-26 17:00:40,2026-07-27 12:37:29,general_unspecified_withdrawal
+8790,TKT-SHP6OV2W,1,12414,DILRAJ07,10.0,open,Regarding widthrawal,Withdrawal,0,2026-07-26 20:44:25,2026-07-27 12:23:15,general_unspecified_withdrawal
+8821,TKT-DHCYBUCB,1,13258,SACHINVAIDYA,9.0,closed,Request to update wallat ID,Withdrawal,0,2026-07-27 10:21:59,2026-07-27 12:53:38,general_unspecified_withdrawal
+8881,TKT-I8J5E4K3,1,14755,SK7831,9.0,closed,Email ID,Withdrawal,0,2026-07-27 21:10:28,2026-07-28 14:31:37,general_unspecified_withdrawal
+9042,TKT-VKYYGLKU,1,12405,MTHIND45,8.0,solved,Widthrawal,Withdrawal,0,2026-07-30 11:07:12,2026-07-30 11:31:01,general_unspecified_withdrawal
+9248,TKT-MOLKMZYZ,1,35890,3KIRPAL1966,8.0,closed,Very very problem with,Withdrawal,0,2026-08-02 04:30:05,2026-08-03 14:24:47,general_unspecified_withdrawal
+9419,TKT-N4IWISWT,1,13566,KING12,8.0,closed,Widrawal,Withdrawal,0,2026-08-04 11:43:36,2026-08-04 12:09:57,general_unspecified_withdrawal
+9468,TKT-NRUYROLD,1,12414,DILRAJ07,8.0,closed,Widthrawal,Withdrawal,0,2026-08-04 22:01:24,2026-08-05 12:09:42,general_unspecified_withdrawal
+9527,TKT-OQXCKBW6,1,34231,SATHI2112,10.0,open,Sir please help me,Withdrawal,0,2026-08-05 11:54:46,2026-08-05 12:06:06,general_unspecified_withdrawal
+9647,TKT-TMRFPKOT,1,12414,DILRAJ07,8.0,closed,Widthrawal,Withdrawal,0,2026-08-06 21:41:14,2026-08-07 11:17:36,general_unspecified_withdrawal
+9868,TKT-GBWJSKI0,2,325223,ABDULRAHEMAN41,10.0,open,Paid showing but not credited to waller,Withdrawal,0,2026-08-09 17:33:10,2026-08-10 14:17:36,general_unspecified_withdrawal
+9954,TKT-QQIW9HWY,1,54987,LAKHVEER40,9.0,closed,Widthrawal,Withdrawal,0,2026-08-11 09:17:36,2026-08-11 13:52:25,general_unspecified_withdrawal
+10112,TKT-C69MBM8Z,1,6868,SHWETABOKADE,9.0,solved,Widrawal,Withdrawal,0,2026-08-14 13:18:50,2026-08-19 17:16:21,general_unspecified_withdrawal
+10343,TKT-AOHINWUU,1,19784,HKSHAH1,8.0,closed,transaction,Withdrawal,0,2026-08-18 01:34:54,2026-08-18 12:40:28,general_unspecified_withdrawal
+10530,TKT-VAPRAYSF,1,58625,ARPIT21,9.0,closed,One month credit,Withdrawal,0,2026-08-21 00:27:04,2026-08-21 16:25:26,general_unspecified_withdrawal
+10615,TKT-XRFXZOQC,2,193909,369ANOWAR,10.0,open,My id,Withdrawal,0,2026-08-22 23:13:48,2026-08-24 12:45:41,general_unspecified_withdrawal
+10951,TKT-LNKQBA2P,1,58914,ANITA6390A,9.0,closed,Widrwaal,Withdrawal,0,2026-08-29 22:15:45,2026-09-01 14:37:39,general_unspecified_withdrawal
+11103,TKT-U8S6IT5Z,1,41753,FATEMA03,8.0,closed,Help Me,Withdrawal,0,2026-09-02 16:08:01,2026-09-03 11:18:12,general_unspecified_withdrawal
+11109,TKT-CBHYUI7K,1,41753,FATEMA03,8.0,closed,Please Help,Withdrawal,0,2026-09-02 20:49:58,2026-09-04 12:27:16,general_unspecified_withdrawal
+11110,TKT-MBEAAIZC,1,41753,FATEMA03,8.0,closed,Please Help,Withdrawal,0,2026-09-02 20:50:30,2026-09-04 12:27:05,general_unspecified_withdrawal
+11175,TKT-ED3DOMKE,1,17812,SHABANA007,8.0,solved,Problem not solved,Withdrawal,0,2026-09-04 13:28:53,2026-09-04 14:38:24,general_unspecified_withdrawal
+11200,TKT-LQNQJZCR,1,12046,LIONX,,open,Widrawal,Withdrawal,0,2026-09-05 08:45:06,2026-09-05 08:45:06,general_unspecified_withdrawal

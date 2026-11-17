@@ -1,0 +1,108 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+53,TKT-8HKJAABV,1,8016,NSARA2,9.0,closed,Mestak buy package,Bug Report,0,2026-01-31 23:22:19,2026-02-02 18:10:20,payment_transaction_commission_bugs
+54,TKT-OFBN9EFI,1,8016,NSARA2,8.0,closed,Mestak buy package stake25,Bug Report,0,2026-01-31 23:51:19,2026-02-02 13:12:39,payment_transaction_commission_bugs
+74,TKT-CCOGNZZ8,1,30733,NIZAM1,3.0,closed,36$ invest ka pirofit nahi aya,Bug Report,0,2026-02-05 10:06:44,2026-02-05 10:28:18,payment_transaction_commission_bugs
+260,TKT-DYBCJSPG,2,159455,RIYA2700,,open,Minutes ebank balance,Bug Report,0,2026-02-22 12:10:10,2026-02-22 12:10:10,payment_transaction_commission_bugs
+286,TKT-S8D4N0DE,2,159455,RIYA2700,10.0,open,Ebank minutes balance,Bug Report,0,2026-02-24 21:05:23,2026-02-24 22:12:27,payment_transaction_commission_bugs
+391,TKT-54AP0C78,2,177251,MOHDMUZAHIR2700,8.0,solved,Minutes balance 3369 mcoin,Bug Report,0,2026-03-02 22:16:58,2026-03-03 11:48:13,payment_transaction_commission_bugs
+613,TKT-MOLWKSQ5,2,849377,REHMAN1020RISER,10.0,open,Cancel withdrawal,Bug Report,0,2026-03-17 14:20:04,2026-03-17 14:34:31,payment_transaction_commission_bugs
+705,TKT-ZIR9ZDNL,2,113032,KULDEEP25,,open,My all  purchases  orders are  showing,Bug Report,0,2026-03-23 09:23:54,2026-03-23 09:23:54,payment_transaction_commission_bugs
+742,TKT-LY6FQ8A4,2,99088,RAJBIR22,,open,Buy package is not showing,Bug Report,0,2026-03-26 08:48:25,2026-03-26 08:48:25,payment_transaction_commission_bugs
+770,TKT-D4PIGSKL,2,849377,REHMAN1020RISER,,open,Cancel withdrawal,Bug Report,0,2026-03-27 14:37:36,2026-03-27 14:37:36,payment_transaction_commission_bugs
+830,TKT-MFLNBD9Z,3,689,sonu sharma,8.0,solved,offer complete but payment didn't receive,Bug Report,0,2026-04-03 07:04:01,2026-04-06 11:52:13,payment_transaction_commission_bugs
+833,TKT-XJJBXM5A,2,709122,PPP2004,8.0,closed,My funds are not showing up in my account.,Bug Report,0,2026-04-03 08:04:25,2026-04-06 11:52:05,payment_transaction_commission_bugs
+864,TKT-AEUAMHDF,2,159455,RIYA2700,8.0,closed,Minutes ebank balance,Bug Report,0,2026-04-05 11:58:11,2026-07-06 14:26:12,payment_transaction_commission_bugs
+929,TKT-BQZPDNAS,3,303,Harish Sonwale,8.0,solved,comission not credited,Bug Report,0,2026-04-09 18:20:48,2026-04-10 11:34:40,payment_transaction_commission_bugs
+963,TKT-3Q3GTUKT,2,772236,LAHORE22,8.0,solved,Legacay Riser Balance,Bug Report,0,2026-04-12 20:05:13,2026-04-17 12:21:52,payment_transaction_commission_bugs
+1170,TKT-FHFOXW5F,2,159455,RIYA2700,8.0,closed,Minus ebank balance,Bug Report,0,2026-04-21 07:36:04,2026-04-21 12:44:28,payment_transaction_commission_bugs
+1188,TKT-8SI9YYAJ,2,159455,RIYA2700,8.0,closed,My ebank balance is minus,Bug Report,0,2026-04-21 15:59:09,2026-04-23 17:36:33,payment_transaction_commission_bugs
+1216,TKT-MNOJZNOU,2,159455,RIYA2700,8.0,closed,Ebank balance minus,Bug Report,0,2026-04-22 07:47:00,2026-04-23 17:36:25,payment_transaction_commission_bugs
+1231,TKT-EB539PEH,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-04-22 21:20:27,2026-04-23 12:38:46,payment_transaction_commission_bugs
+1254,TKT-ZP8ITTS9,2,186373,PANKAJ589,8.0,closed,Complaint Regarding Loss Due to Delayed Withdrawal,Bug Report,0,2026-04-23 16:56:18,2026-04-23 17:35:21,payment_transaction_commission_bugs
+1268,TKT-CNLBGD4J,2,159455,RIYA2700,8.0,solved,Ebank balance minus,Bug Report,0,2026-04-24 09:00:53,2026-04-24 14:31:06,payment_transaction_commission_bugs
+1285,TKT-LQWELYUH,2,159455,RIYA2700,8.0,closed,Ebank balance minus,Bug Report,0,2026-04-24 15:38:45,2026-04-24 15:41:36,payment_transaction_commission_bugs
+1305,TKT-K2R5RMIW,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-04-25 07:12:21,2026-05-04 10:46:27,payment_transaction_commission_bugs
+1332,TKT-PBXPALYM,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-04-26 16:23:42,2026-04-27 11:50:35,payment_transaction_commission_bugs
+1345,TKT-L2PXVPVC,3,7341,Sushant Suman,8.0,solved,refer money is not being added,Bug Report,0,2026-04-27 16:03:14,2026-04-27 16:07:36,payment_transaction_commission_bugs
+1368,TKT-PD2T9CDM,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-04-28 22:07:55,2026-05-04 10:57:33,payment_transaction_commission_bugs
+1377,TKT-PIYX9EUG,1,2566,NKBOTX,10.0,open,Payment not confirmed,Bug Report,0,2026-04-29 08:42:36,2026-04-29 12:12:01,payment_transaction_commission_bugs
+1389,TKT-6LSOW5J5,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-04-29 19:10:15,2026-04-30 11:41:24,payment_transaction_commission_bugs
+1403,TKT-ABCIVKUA,2,159455,RIYA2700,10.0,open,Ebank balance minues,Bug Report,0,2026-04-30 13:40:29,2026-05-04 10:58:12,payment_transaction_commission_bugs
+1482,TKT-M8K867CQ,2,250811,MOHDANEES5400,8.0,closed,Remaining balance release,Bug Report,0,2026-05-04 09:17:20,2026-05-08 12:03:03,payment_transaction_commission_bugs
+1500,TKT-G9P8DLJH,2,250811,MOHDANEES5400,8.0,solved,Reaming balance,Bug Report,0,2026-05-04 23:15:24,2026-05-08 12:56:48,payment_transaction_commission_bugs
+1555,TKT-3RZD6BGA,2,159455,RIYA2700,8.0,solved,Ebank balance minues,Bug Report,0,2026-05-07 21:25:01,2026-05-08 12:57:29,payment_transaction_commission_bugs
+1556,TKT-VOVYR1EV,2,250811,MOHDANEES5400,8.0,solved,Remaining balance,Bug Report,0,2026-05-07 21:26:32,2026-05-08 12:56:09,payment_transaction_commission_bugs
+1603,TKT-V3DT4HAL,2,250811,MOHDANEES5400,8.0,closed,Remaining balance for withdraw,Bug Report,0,2026-05-11 07:00:29,2026-05-11 11:18:53,payment_transaction_commission_bugs
+1677,TKT-O0NHS0LN,2,641502,PS017,8.0,solved,less balance show in this ac,Bug Report,0,2026-05-15 14:08:17,2026-05-15 14:11:45,payment_transaction_commission_bugs
+1685,TKT-90YTQCYE,1,11596,YOGITA2,8.0,closed,Urgent Account Issue – Package Not Activated & Withdrawal Problem Since 22 April,Bug Report,0,2026-05-15 22:26:31,2026-05-19 11:19:20,payment_transaction_commission_bugs
+1731,TKT-R6QP7QLJ,1,42141,PKDAS1,8.0,solved,Withdrawal of Binance,Bug Report,0,2026-05-19 02:57:08,2026-05-19 10:47:40,payment_transaction_commission_bugs
+1962,TKT-MDK04YBZ,2,159455,RIYA2700,10.0,open,Evank balance miss,Bug Report,0,2026-05-23 22:24:49,2026-05-24 12:37:34,payment_transaction_commission_bugs
+1971,TKT-6RXLJGJX,2,62102,NADEEMMMM,8.0,closed,Balance not show,Bug Report,0,2026-05-24 09:20:01,2026-05-25 12:37:16,payment_transaction_commission_bugs
+2131,TKT-DC45SCR9,1,7570,SHARMABOT,9.0,closed,Trading Fund related,Bug Report,0,2026-05-26 19:03:46,2026-06-04 15:21:40,payment_transaction_commission_bugs
+2194,TKT-WSHO7KO4,1,267,RAJUGUDIYA,8.0,closed,My e-bank balance has decreased,Bug Report,0,2026-05-27 16:54:17,2026-06-01 16:11:23,payment_transaction_commission_bugs
+2219,TKT-A7NWW4E8,1,19304,MS002,8.0,closed,Trading fund related,Bug Report,0,2026-05-28 06:44:59,2026-05-29 12:19:43,payment_transaction_commission_bugs
+2309,TKT-GERD00AZ,1,39451,SHAHEEN786,10.0,open,"Please start withdrawal of trading deposit USDT.  Current time, Trading deposit USDT withdrawal is Stop, so please start withdrawal of trading deposit USDT.",Bug Report,0,2026-05-30 16:30:12,2026-06-01 11:39:37,payment_transaction_commission_bugs
+2367,TKT-ZXICAMAS,2,645107,DRNADEEMFIX1020,8.0,closed,Fixed staking Package not show for withdrawal,Bug Report,0,2026-06-01 07:35:54,2026-06-01 10:41:45,payment_transaction_commission_bugs
+2429,TKT-T7SLU3EX,2,875008,FIROZ114,8.0,closed,Withdrawal,Bug Report,0,2026-06-02 01:30:34,2026-06-03 11:48:11,payment_transaction_commission_bugs
+2440,TKT-QUSQQKA7,1,7864,BHUPINDERCHOPRA,9.0,closed,outstanding balance,Bug Report,0,2026-06-02 09:09:18,2026-06-04 15:49:02,payment_transaction_commission_bugs
+2442,TKT-E4W7ET24,1,8879,HARJINDERCHOPRA,9.0,solved,outstanding balance,Bug Report,0,2026-06-02 10:25:40,2026-06-04 14:52:56,payment_transaction_commission_bugs
+2457,TKT-S1TYJ2VV,1,18736,LACHHMAN,9.0,closed,outstanding balance,Bug Report,0,2026-06-02 13:51:09,2026-06-04 15:48:49,payment_transaction_commission_bugs
+2475,TKT-ILEK7WI7,2,645107,DRNADEEMFIX1020,8.0,closed,Fix staking package not available for withdrawal,Bug Report,0,2026-06-02 20:47:39,2026-06-03 12:23:41,payment_transaction_commission_bugs
+2530,TKT-WQU5GZQO,2,179911,KARNAIL858,8.0,closed,Legacy Mcoin Withdrawal Update,Bug Report,0,2026-06-03 16:00:31,2026-06-03 16:15:00,payment_transaction_commission_bugs
+2635,TKT-4EOOESQS,1,14642,AMITSINGHJEH1234,9.0,closed,**Trading Wallet Showing Negative Balance Despite Profit**  या थोड़ा और स्पष्ट:  **Issue: Trading Wallet Still Showing -76 USD After Profit**,Bug Report,0,2026-06-05 06:34:12,2026-06-08 16:46:58,payment_transaction_commission_bugs
+2760,TKT-I9JERJ65,2,651625,NADEEM450FIX,8.0,closed,Fix staking not available for withdrawal time duration already completely,Bug Report,0,2026-06-06 21:30:19,2026-06-09 16:04:07,payment_transaction_commission_bugs
+2834,TKT-UDIYNGMQ,2,875008,FIROZ114,8.0,closed,Withdrawal open,Bug Report,0,2026-06-08 00:51:02,2026-06-08 14:03:52,payment_transaction_commission_bugs
+2911,TKT-BGU29WGY,2,875008,FIROZ114,8.0,closed,Withdrawal issue,Bug Report,0,2026-06-09 01:18:11,2026-06-09 12:19:18,payment_transaction_commission_bugs
+3126,TKT-F54GXOMQ,1,14642,AMITSINGHJEH1234,9.0,solved,Urgent Complaint – Unresolved Negative Balance and Poor Support,Bug Report,0,2026-06-12 12:43:05,2026-06-16 15:00:37,payment_transaction_commission_bugs
+3183,TKT-RNBFQYCR,2,573837,ROHIT262,10.0,open,Withdrawal related,Bug Report,0,2026-06-13 12:33:30,2026-06-15 13:49:12,payment_transaction_commission_bugs
+3289,TKT-ZK2QBWIK,2,651625,NADEEM450FIX,8.0,closed,Not show available fir withdrawal,Bug Report,0,2026-06-15 02:33:51,2026-06-15 13:03:52,payment_transaction_commission_bugs
+3290,TKT-AW2HZ79H,2,159455,RIYA2700,8.0,closed,Ebank balance minues,Bug Report,0,2026-06-15 02:34:54,2026-06-15 12:50:47,payment_transaction_commission_bugs
+4192,TKT-IMHVNFVR,1,11328,JKB,9.0,closed,Withdrawal,Bug Report,0,2026-06-19 15:39:42,2026-06-22 13:21:03,payment_transaction_commission_bugs
+4337,TKT-P6KXUFEP,2,621820,MOHDNADEEM11000,8.0,closed,2354 left balance are not show for withdrawal,Bug Report,0,2026-06-20 15:44:02,2026-06-22 14:21:48,payment_transaction_commission_bugs
+4532,TKT-LRVMWXUH,2,714755,RIZWANA22,8.0,closed,Coin not available  for withdrawal,Bug Report,0,2026-06-22 07:13:43,2026-06-22 13:41:28,payment_transaction_commission_bugs
+4719,TKT-I4BCKLQW,1,22409,RAUSHAN1551,9.0,closed,Refund of trading bonus,Bug Report,0,2026-06-22 19:17:03,2026-06-24 12:14:49,payment_transaction_commission_bugs
+4766,TKT-8TAU71W2,1,11381,BIDHYATAMANG1,9.0,closed,Why exactly is my e-bank account going into a negative balance?,Bug Report,0,2026-06-23 08:29:12,2026-06-23 18:25:12,payment_transaction_commission_bugs
+4967,TKT-FI678AH4,1,19425,SWATI143,8.0,closed,Ebank withdrawal,Bug Report,0,2026-06-24 07:13:44,2026-06-24 11:37:25,payment_transaction_commission_bugs
+4969,TKT-XQTF896E,1,13701,PANKAJ8987,8.0,closed,Why are e-banks not offering withdrawals?,Bug Report,0,2026-06-24 07:16:27,2026-06-24 11:38:51,payment_transaction_commission_bugs
+5412,TKT-UQ3MVL7P,1,53692,MAAZFAROOQUI1,8.0,closed,Ebank withdrawal isaue,Bug Report,0,2026-06-27 07:49:38,2026-06-29 14:01:33,payment_transaction_commission_bugs
+5511,TKT-7CJXD3XO,2,621820,MOHDNADEEM11000,8.0,closed,Balance not show for withdrawal,Bug Report,0,2026-06-27 20:41:14,2026-06-29 13:55:33,payment_transaction_commission_bugs
+5627,TKT-TNLCFHBH,2,651169,RUKIYA2,8.0,closed,Not available Coin for the withdrawal,Bug Report,0,2026-06-28 21:35:28,2026-06-29 13:01:52,payment_transaction_commission_bugs
+5630,TKT-6KB41JLS,2,541574,AKBAR054,8.0,closed,Coin not available  for the withdrawal,Bug Report,0,2026-06-28 21:58:27,2026-06-29 12:58:11,payment_transaction_commission_bugs
+5781,TKT-KY2BJ8SE,1,17698,DEJIKUMARI,9.0,closed,Mcoin withdrawal not confirmed,Bug Report,0,2026-06-29 22:13:54,2026-06-30 11:40:11,payment_transaction_commission_bugs
+5871,TKT-08D44A3V,1,19425,SWATI143,9.0,closed,Withdrawal,Bug Report,0,2026-06-30 14:52:45,2026-06-30 15:10:21,payment_transaction_commission_bugs
+7264,TKT-X3GN4YPU,2,621820,MOHDNADEEM11000,10.0,open,Remember balance,Bug Report,0,2026-07-10 10:42:03,2026-07-10 16:25:05,payment_transaction_commission_bugs
+8248,TKT-URXWJJ3I,1,36859,RAGHUNATH15,9.0,closed,Fund Not Received in Arthbit Wallet – 619 USDT Withdrawal,Bug Report,0,2026-07-18 22:07:24,2026-07-20 19:27:30,payment_transaction_commission_bugs
+8634,TKT-0XGUIAU3,2,634908,200ANAS,10.0,open,missing mcoin balace withdrawal,Bug Report,0,2026-07-24 22:34:22,2026-07-27 13:27:53,payment_transaction_commission_bugs
+8879,TKT-HOHMKL6H,1,16872,SHANTI123,10.0,open,Urgent: USDT Deposit Pending/Cancelled - Funds Delivered on Blockchain (TxID Included),Bug Report,0,2026-07-27 20:27:33,2026-07-28 14:26:34,payment_transaction_commission_bugs
+8894,TKT-VPIVUJP3,1,56297,NADEEMMM786,9.0,closed,Refund ebank 2500$,Bug Report,0,2026-07-28 06:52:35,2026-07-28 14:19:19,payment_transaction_commission_bugs
+8934,TKT-ZCQGRKS1,1,56297,NADEEMMM786,8.0,closed,Ebank balance refund,Bug Report,0,2026-07-28 16:26:48,2026-07-30 14:01:52,payment_transaction_commission_bugs
+8952,TKT-88TJDFWQ,1,36212,SALIM34,10.0,open,Withdrawal,Bug Report,0,2026-07-28 22:31:07,2026-07-29 12:48:39,payment_transaction_commission_bugs
+9111,TKT-SXVWQUT4,1,56297,NADEEMMM786,9.0,closed,Ebank refund,Bug Report,0,2026-07-31 09:51:49,2026-07-31 15:37:28,payment_transaction_commission_bugs
+9188,TKT-24KDFNVM,1,56297,NADEEMMM786,9.0,closed,Ebank refund,Bug Report,0,2026-08-01 09:16:15,2026-08-03 17:09:29,payment_transaction_commission_bugs
+9226,TKT-1U3NNZ0X,1,56297,NADEEMMM786,9.0,closed,Ebank refund please,Bug Report,0,2026-08-01 18:04:32,2026-08-03 16:52:15,payment_transaction_commission_bugs
+9272,TKT-1QHAIDBV,1,56297,NADEEMMM786,8.0,closed,Refund immediately,Bug Report,0,2026-08-02 11:03:32,2026-08-03 12:22:28,payment_transaction_commission_bugs
+9274,TKT-20QJ0VYX,2,159455,RIYA2700,10.0,open,Ebank refund,Bug Report,0,2026-08-02 11:14:40,2026-08-03 16:08:35,payment_transaction_commission_bugs
+9538,TKT-BZDFKHDM,2,635527,KULDEEP77386,8.0,solved,Mcoin show incorrect balance,Bug Report,0,2026-08-05 12:56:49,2026-08-17 17:58:01,payment_transaction_commission_bugs
+9732,TKT-OVUBRSSV,1,56297,NADEEMMM786,8.0,closed,Refund ebank,Bug Report,0,2026-08-07 21:46:11,2026-08-10 14:26:13,payment_transaction_commission_bugs
+9734,TKT-SPLIDCFX,1,53693,MAAZFAROOQUI2,10.0,open,Trading Bonus withdrawal,Bug Report,0,2026-08-07 22:33:09,2026-08-10 14:07:06,payment_transaction_commission_bugs
+10137,TKT-EREJADWC,1,5524,NARENDRA1978,9.0,solved,"My e bank balance is minus,  my e- bank calculation is right, so please correct it.",Bug Report,0,2026-08-14 16:36:45,2026-08-17 18:03:35,payment_transaction_commission_bugs
+10224,TKT-TUBQLLJS,1,384,SHIVAJI91,8.0,solved,Treding bonus and treding fund,Bug Report,0,2026-08-15 23:02:58,2026-08-17 15:53:29,payment_transaction_commission_bugs
+10284,TKT-RSEV5IDN,1,14853,SIDDHANT,8.0,closed,Wrong balance is shown,Bug Report,0,2026-08-17 08:45:22,2026-08-17 11:06:55,payment_transaction_commission_bugs
+10352,TKT-WWX0YDMW,1,22430,LIMITLESS2,8.0,closed,Fund Deducted 5$,Bug Report,0,2026-08-18 08:40:48,2026-08-18 11:14:33,payment_transaction_commission_bugs
+10395,TKT-WIC2KDPE,1,47697,RITA01CR,9.0,closed,Mera july ka payment 72 mainas me hai,Bug Report,0,2026-08-18 19:21:35,2026-08-18 19:27:11,payment_transaction_commission_bugs
+10465,TKT-PYOHRRNI,2,426117,MKRAHAT199806P,10.0,open,Release balance coin,Bug Report,0,2026-08-20 00:42:06,2026-08-20 12:53:34,payment_transaction_commission_bugs
+10497,TKT-QVRSGDXS,2,77324,AFZALKHAN35,10.0,open,Please Release my Riser coin for withdrawal.,Bug Report,0,2026-08-20 16:00:28,2026-08-20 17:14:08,payment_transaction_commission_bugs
+10508,TKT-VHDYHC7D,1,33512,SHRIPAL04,8.0,closed,SHOW MY BALANCE NEGATIVE,Bug Report,0,2026-08-20 19:12:13,2026-08-21 15:21:18,payment_transaction_commission_bugs
+10527,TKT-NWT9XMM3,1,47860,MKING,8.0,closed,-18$ negetive my balance,Bug Report,0,2026-08-20 23:42:38,2026-08-21 12:25:52,payment_transaction_commission_bugs
+10539,TKT-DMGDULGC,2,249866,LAJWANTI88,10.0,open,Regarding to my MCOIN balance,Bug Report,0,2026-08-21 07:50:19,2026-08-21 15:36:48,payment_transaction_commission_bugs
+10542,TKT-92WSA93P,1,21023,DERMAPURITYS,8.0,closed,SIP INVESTED NOT  CREDITED,Bug Report,0,2026-08-21 10:18:51,2026-08-21 15:16:20,payment_transaction_commission_bugs
+10572,TKT-QILGUFUM,1,55513,AMMIJAANR2N2,9.0,solved,withdrawal releted,Bug Report,0,2026-08-21 22:02:33,2026-08-24 18:33:59,payment_transaction_commission_bugs
+10611,TKT-YQ13XHD9,1,56297,NADEEMMM786,9.0,solved,Ebank refund,Bug Report,0,2026-08-22 19:37:12,2026-08-24 17:43:25,payment_transaction_commission_bugs
+10617,TKT-23NRQD1F,1,19784,HKSHAH1,8.0,closed,Withdrawal,Bug Report,0,2026-08-23 04:10:55,2026-08-24 15:48:24,payment_transaction_commission_bugs
+10719,TKT-7VHPN25A,1,60192,DCP1,9.0,closed,Withdrawal inove did not show,Bug Report,0,2026-08-25 00:49:23,2026-08-25 17:04:17,payment_transaction_commission_bugs
+10838,TKT-UBY1VKFY,1,47860,MKING,8.0,solved,Negative balance clear please,Bug Report,0,2026-08-27 10:14:38,2026-08-27 14:02:45,payment_transaction_commission_bugs
+10839,TKT-VWIJKKHF,1,47860,MKING,8.0,solved,Negetive balance clear please,Bug Report,0,2026-08-27 10:15:08,2026-08-27 14:02:52,payment_transaction_commission_bugs
+10896,TKT-AJRL5SJB,2,129575,JAVEDKHAN7,8.0,solved,Where is my money,Bug Report,0,2026-08-28 11:30:32,2026-08-28 11:57:43,payment_transaction_commission_bugs
+10972,TKT-PBGCXJFJ,1,16897,TAPASGHARA,9.0,closed,Ebank payment isew,Bug Report,0,2026-08-30 11:57:00,2026-08-31 17:02:01,payment_transaction_commission_bugs
+11075,TKT-83MMHT9G,1,56297,NADEEMMM786,8.0,solved,Refund,Bug Report,0,2026-09-02 09:14:54,2026-09-04 12:17:15,payment_transaction_commission_bugs
+11111,TKT-GMLUW3ZH,1,5668,SUMIT2024,8.0,closed,Nigetive balance,Bug Report,0,2026-09-02 22:54:13,2026-09-03 15:29:29,payment_transaction_commission_bugs

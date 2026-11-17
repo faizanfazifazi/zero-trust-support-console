@@ -1,0 +1,79 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+3,TKT-YMHMOGLH,1,33678,RAVI0A2,3.0,solved,Withdrawal showing in progress since 48 hours,Withdrawal,0,2026-01-22 19:20:20,2026-01-25 08:07:06,pending_delayed_stuck
+36,TKT-CJUAO64C,1,11088,SMARTVIJAY,8.0,solved,Time to take withdrawal,Withdrawal,0,2026-01-29 16:07:10,2026-01-29 16:56:42,pending_delayed_stuck
+51,TKT-CZYKZQTR,1,29623,ALI1991,8.0,closed,58 on time ke liye deposit hai usko bhi dra karna,Withdrawal,0,2026-01-31 23:00:44,2026-02-02 16:56:15,pending_delayed_stuck
+284,TKT-LKD1O07Z,2,81948,DRKHENGAR,,open,withrawal still pending,Withdrawal,0,2026-02-24 14:07:24,2026-02-24 14:07:24,pending_delayed_stuck
+352,TKT-VDA9BEN6,2,51055,NAZISHY2K,,open,Riser withdrawal still pending,Withdrawal,0,2026-02-28 16:19:27,2026-02-28 16:19:27,pending_delayed_stuck
+746,TKT-YFX5XB1L,2,852397,JASHAN630,9.0,closed,how many hours for withdrawal,Withdrawal,0,2026-03-26 11:11:05,2026-03-31 13:17:16,pending_delayed_stuck
+765,TKT-V8NIWNZE,2,5800,PATRAN,,open,fixed id not show time expird 26jan 2026,Withdrawal,0,2026-03-27 05:50:08,2026-03-27 05:50:08,pending_delayed_stuck
+1020,TKT-4HYEER6E,1,11597,BBK25,9.0,closed,Withdrewal Time,Withdrawal,0,2026-04-15 18:32:01,2026-04-20 17:06:05,pending_delayed_stuck
+1050,TKT-2HK2VL7T,1,11597,BBK25,10.0,open,Urgent: Withdrawal Still Pending After 35+ Hours (Invoice: c061af020d0e),Withdrawal,0,2026-04-17 01:13:27,2026-04-17 11:59:37,pending_delayed_stuck
+1068,TKT-XABASO6G,1,19488,ATHER01,8.0,closed,EBank withdrawal show inprogress after 48 hours,Withdrawal,0,2026-04-17 18:46:27,2026-04-20 13:21:43,pending_delayed_stuck
+1084,TKT-RQOCJQ3I,1,11597,BBK25,8.0,closed,Urgent: Withdrawal Delayed Beyond 66 Hours (Invoice: c061af020d0e),Withdrawal,0,2026-04-18 10:37:56,2026-04-20 13:18:29,pending_delayed_stuck
+1101,TKT-CDFEEVGN,2,52951,CHS2,10.0,open,Urgent: Withdrawal Pending Since 30 March – No TXID Provided,Withdrawal,0,2026-04-18 18:29:11,2026-04-20 12:48:12,pending_delayed_stuck
+1355,TKT-A31FDPCV,2,186373,PANKAJ589,10.0,open,Withdrawal still pending since 17 march 2026,Withdrawal,0,2026-04-28 08:09:14,2026-04-28 12:11:22,pending_delayed_stuck
+1365,TKT-JLD532GS,1,24636,PROBOT205,10.0,open,Withdrawal in progress for last 4 days,Withdrawal,0,2026-04-28 18:39:04,2026-04-29 12:15:43,pending_delayed_stuck
+1388,TKT-QKT1FZ09,2,69449,HEMANT6,10.0,open,10 days passed but withdrawal still pending,Withdrawal,0,2026-04-29 18:54:32,2026-04-30 11:41:10,pending_delayed_stuck
+1759,TKT-89HK4F4F,1,5790,SHABAN11,10.0,open,Withdrawal Pending Since 11 Days,Withdrawal,0,2026-05-19 19:13:35,2026-05-20 11:06:19,pending_delayed_stuck
+1760,TKT-BUQMCNVK,1,21794,HARPREETS76963,10.0,open,Withdrawal Delayed (Processing since 9th May),Withdrawal,0,2026-05-19 20:23:53,2026-05-20 11:26:37,pending_delayed_stuck
+1787,TKT-KS7ZMH5Y,1,5087,JPJ2024,10.0,open,More than 10 days,Withdrawal,0,2026-05-20 19:46:20,2026-05-21 11:03:17,pending_delayed_stuck
+1974,TKT-ZXCXZKEP,1,26701,DNYANESHWAR001972,10.0,open,10 day done  waithdraw not come,Withdrawal,0,2026-05-24 10:02:21,2026-05-25 11:26:51,pending_delayed_stuck
+1975,TKT-WCJ6FO8O,1,16586,SUJIT456,8.0,closed,10 day done  waithdraw not come,Withdrawal,0,2026-05-24 10:06:41,2026-05-25 11:03:04,pending_delayed_stuck
+2023,TKT-LXGXDL7D,1,14004,ARVINDMEHTA,10.0,open,Not withdrawn inb10 Days,Withdrawal,0,2026-05-25 10:01:51,2026-05-25 10:27:02,pending_delayed_stuck
+2064,TKT-OIL3VOMY,1,9978,JPJ2025,10.0,open,Take more than 10 days,Withdrawal,0,2026-05-25 19:28:43,2026-06-01 11:03:04,pending_delayed_stuck
+2065,TKT-EZL0UKWG,1,9979,JPJ2026,10.0,open,Take more than 10 days,Withdrawal,0,2026-05-25 19:31:05,2026-06-01 11:02:37,pending_delayed_stuck
+2097,TKT-ELKOLIBU,2,208347,KUMAR4983,10.0,open,"Withdrawal  request dtd 02 May, 2026 is still pending",Withdrawal,0,2026-05-26 08:17:59,2026-06-01 11:47:03,pending_delayed_stuck
+2152,TKT-FKFKNJHD,1,27817,NARITPAL92,9.0,solved,21 to  27   ( 7 days),Withdrawal,0,2026-05-27 05:29:26,2026-06-04 15:22:29,pending_delayed_stuck
+2216,TKT-V3MCCFGF,2,394810,RAP5,10.0,open,Withdrawal Pending More Than 10 Working Days,Withdrawal,0,2026-05-28 01:06:44,2026-05-29 12:18:52,pending_delayed_stuck
+2217,TKT-8GUY5ISU,2,293382,RAP3,10.0,open,Withdrawal Still Pending After Closed Ticket,Withdrawal,0,2026-05-28 01:14:17,2026-05-29 12:03:53,pending_delayed_stuck
+5297,TKT-BVELJOVI,2,335856,KASMI23,10.0,open,Withdrawal Pending for More Than 7 Days,Withdrawal,0,2026-06-26 10:52:57,2026-06-29 16:29:48,pending_delayed_stuck
+5607,TKT-3EBWVGCE,2,335856,KASMI23,8.0,closed,Withdrawal Pending Since 19 June 2026,Withdrawal,0,2026-06-28 17:26:54,2026-06-29 13:12:28,pending_delayed_stuck
+5689,TKT-XFDUUR4Q,1,34691,AMITSINGHANJALI1,10.0,open,Withdrawal Delayed Since June 22 – Request for Status Update,Withdrawal,0,2026-06-29 12:35:23,2026-06-29 12:44:24,pending_delayed_stuck
+6360,TKT-8WE5IABM,2,335856,KASMI23,10.0,open,Withdrawal Pending Since 19 June 2026,Withdrawal,0,2026-07-03 11:42:14,2026-07-03 12:12:10,pending_delayed_stuck
+7051,TKT-OMD2XPZA,1,20788,TRP24,10.0,open,Invoice Pending From 10 Days,Withdrawal,0,2026-07-08 18:35:04,2026-07-09 11:52:46,pending_delayed_stuck
+7239,TKT-PV5CRVYO,1,11597,BBK25,9.0,closed,Withdrawal Still Pending After 7 Days – Please Process Urgently,Withdrawal,0,2026-07-10 08:13:50,2026-07-10 17:24:36,pending_delayed_stuck
+7350,TKT-6YEF3IVX,1,5087,JPJ2024,9.0,closed,It has taken more than 7 days,Withdrawal,0,2026-07-10 23:15:04,2026-07-13 17:13:37,pending_delayed_stuck
+7351,TKT-PIKNPKIV,1,36377,2JPJ2026,9.0,closed,Not received in 7 days,Withdrawal,0,2026-07-10 23:23:35,2026-07-13 17:05:42,pending_delayed_stuck
+7518,TKT-OWJLIFQX,1,15457,SONALI123,9.0,closed,W25 withdrawal not credited since 10 days,Withdrawal,0,2026-07-12 10:04:45,2026-07-13 14:52:23,pending_delayed_stuck
+7648,TKT-RM9NOJTO,1,34691,AMITSINGHANJALI1,10.0,open,Delay in Withdrawal Processing – 10 Days Without Payment,Withdrawal,0,2026-07-13 17:46:16,2026-07-14 10:51:45,pending_delayed_stuck
+7657,TKT-NZFU7Y8F,1,5396,JAIVIK,10.0,open,Invoice still pending from 02.07.2026,Withdrawal,0,2026-07-13 20:06:06,2026-07-14 10:50:29,pending_delayed_stuck
+7788,TKT-NNW4IEBY,1,5087,JPJ2024,9.0,closed,Not received withdrawal after 10 days,Withdrawal,0,2026-07-14 19:21:17,2026-07-15 18:34:27,pending_delayed_stuck
+7896,TKT-R9EBLYBX,1,41741,THESHIVAMKUMAR07,10.0,open,Settlement Still Pending,Withdrawal,0,2026-07-15 17:56:17,2026-07-16 14:38:04,pending_delayed_stuck
+7898,TKT-ICFHKUIC,1,41745,THESHIVAMKUMAR710,8.0,closed,Settlement Still Pending,Withdrawal,0,2026-07-15 17:58:57,2026-07-16 11:38:37,pending_delayed_stuck
+7914,TKT-KPF7TJYH,1,9978,JPJ2025,9.0,closed,Not received in 10 days,Withdrawal,0,2026-07-15 20:55:15,2026-07-16 18:34:07,pending_delayed_stuck
+7918,TKT-YCWX4CLU,1,5087,JPJ2024,9.0,closed,Withdrawal Not received in 15 days,Withdrawal,0,2026-07-15 21:00:19,2026-07-16 18:34:03,pending_delayed_stuck
+8003,TKT-WVAMUJWE,1,38353,VIVAAN128,10.0,open,Withdrawal  timely not received,Withdrawal,0,2026-07-16 14:06:15,2026-07-16 14:34:06,pending_delayed_stuck
+8008,TKT-FT2TWFRW,1,11597,BBK25,10.0,open,Withdrawal Pending Beyond 10 Working Days (Invoice b04b41ca25a2),Withdrawal,0,2026-07-16 14:17:58,2026-07-16 14:32:41,pending_delayed_stuck
+8032,TKT-BZDL5H5R,1,20623,LALITA010,9.0,closed,Request to Process Pending Withdrawal since last 14 days,Withdrawal,0,2026-07-16 16:46:50,2026-07-16 18:03:40,pending_delayed_stuck
+8127,TKT-9TYMRTYL,1,9978,JPJ2025,10.0,open,Not received in 15 days,Withdrawal,0,2026-07-17 15:41:17,2026-07-17 15:45:32,pending_delayed_stuck
+8132,TKT-LISJE21C,1,36373,1JPJ2026,10.0,open,Not received in 17 days,Withdrawal,0,2026-07-17 16:02:28,2026-07-17 16:08:46,pending_delayed_stuck
+8134,TKT-YGYEZD76,1,36382,4JPJ2026,10.0,open,Withdrawal Not received in 17 days,Withdrawal,0,2026-07-17 16:07:45,2026-07-17 16:08:19,pending_delayed_stuck
+8193,TKT-SESCMY8O,1,23287,KAVITASINGH2,10.0,open,Withdrawal pending from 5 july,Withdrawal,0,2026-07-18 10:51:57,2026-07-20 15:33:38,pending_delayed_stuck
+8226,TKT-MATQWZ5I,2,186764,KUMAR818,10.0,open,withdrawal pending from 1  month,Withdrawal,0,2026-07-18 16:12:09,2026-07-20 15:31:23,pending_delayed_stuck
+8246,TKT-HRMMJMRB,1,41741,THESHIVAMKUMAR07,9.0,closed,pecific Resolution Date and Time,Withdrawal,0,2026-07-18 20:51:07,2026-07-20 18:54:44,pending_delayed_stuck
+8337,TKT-4GHL1I6V,2,444364,LUVYU0007,10.0,open,Withdrawal still pending,Withdrawal,0,2026-07-20 12:43:59,2026-07-20 12:47:12,pending_delayed_stuck
+8360,TKT-RXITMV0Z,1,20623,LALITA010,9.0,closed,Request to Process Pending Withdrawal since last 18 days,Withdrawal,0,2026-07-20 18:49:30,2026-07-20 19:28:31,pending_delayed_stuck
+8414,TKT-BUMGVXMY,1,41741,THESHIVAMKUMAR07,8.0,closed,"Settlement Still Pending Since July 2, 2026 – Request for Immediate Update",Withdrawal,0,2026-07-21 11:22:48,2026-07-21 11:27:58,pending_delayed_stuck
+8415,TKT-RD6ZA7DL,1,41745,THESHIVAMKUMAR710,8.0,closed,"Settlement Still Pending Since July 2, 2026 – Request for Immediate Update",Withdrawal,0,2026-07-21 11:25:46,2026-07-21 11:28:11,pending_delayed_stuck
+8531,TKT-T2BOUKDU,1,5201,MUKARDAM786,10.0,open,13 days finish,Withdrawal,0,2026-07-23 10:05:02,2026-07-23 12:03:02,pending_delayed_stuck
+9233,TKT-2MZARC8A,1,9978,JPJ2025,9.0,closed,Not received withdrawal after 7 days,Withdrawal,0,2026-08-01 19:55:30,2026-08-03 16:38:49,pending_delayed_stuck
+9337,TKT-SLPVG9BN,1,44841,SAROJJHA,10.0,open,Withdrawal still pending,Withdrawal,0,2026-08-03 10:16:06,2026-08-03 11:55:59,pending_delayed_stuck
+9376,TKT-ZKQMJUQJ,1,5087,JPJ2024,10.0,open,Not received in 15 days,Withdrawal,0,2026-08-03 20:26:28,2026-08-04 11:01:41,pending_delayed_stuck
+9425,TKT-7STHHZOD,1,13701,PANKAJ8987,8.0,solved,FINAL LEGAL NOTICE (24 HOURS ULTIMATUM),Withdrawal,0,2026-08-04 11:57:32,2026-08-04 12:07:08,pending_delayed_stuck
+9500,TKT-Z2VJM6DV,1,49806,PKRAJ31,8.0,solved,Final 24-Hour Legal Notice for Immediate Release of Pending,Withdrawal,0,2026-08-05 08:13:32,2026-08-05 13:59:49,pending_delayed_stuck
+9573,TKT-ZGQYEZXF,1,34691,AMITSINGHANJALI1,9.0,closed,Urgent Withdrawal Delay – 11 Days Pending,Withdrawal,0,2026-08-05 19:39:49,2026-08-06 14:44:34,pending_delayed_stuck
+9588,TKT-TEF36ROS,1,23250,AMBANI,10.0,open,withdrawal under process for 10 days,Withdrawal,0,2026-08-05 22:52:59,2026-08-06 10:35:25,pending_delayed_stuck
+9603,TKT-HVENGO8B,1,42868,ANEES12,10.0,open,Sir abhi tak witrawal nhi aya hai 13 days ho Gaye hai 10 days ka time h,Withdrawal,0,2026-08-06 10:25:13,2026-08-06 10:30:01,pending_delayed_stuck
+9653,TKT-KYDMVMXI,1,16857,ALIDXB,10.0,open,20 working days,Withdrawal,0,2026-08-07 00:45:02,2026-08-07 11:16:49,pending_delayed_stuck
+9660,TKT-O8FPCDXB,1,39315,HARSH31,10.0,open,My W25 withdrawal still pending after 13 days,Withdrawal,0,2026-08-07 06:29:46,2026-08-07 11:14:26,pending_delayed_stuck
+9712,TKT-UL1YHZBT,1,36468,NAVPAW03,9.0,closed,"WITHDRAWAL NOT RELEASED, 13 DAYS OVER",Withdrawal,0,2026-08-07 18:43:42,2026-08-07 19:12:54,pending_delayed_stuck
+9798,TKT-7GXKZ5NW,1,8127,BRIJWASI399,10.0,open,Withdrawal pending for long time,Withdrawal,0,2026-08-08 15:04:46,2026-08-10 13:19:48,pending_delayed_stuck
+9925,TKT-ED6D6GGP,1,16857,ALIDXB,10.0,open,21 working days finish,Withdrawal,0,2026-08-10 14:37:09,2026-08-12 11:05:38,pending_delayed_stuck
+9950,TKT-5WXE16LX,1,33315,KSRASTOGI1302,9.0,closed,Invoice clearance time,Withdrawal,0,2026-08-11 07:06:56,2026-08-11 13:55:00,pending_delayed_stuck
+10042,TKT-YCLIXXXA,1,1418,TKR19,10.0,open,Withdrawal pending from Last month,Withdrawal,0,2026-08-13 13:13:59,2026-08-13 14:18:19,pending_delayed_stuck
+10052,TKT-JQUANZIB,1,33760,SHIVAKIRAN,9.0,closed,Now it's about 20 days of making a withdrawal,Withdrawal,0,2026-08-13 18:06:42,2026-08-13 18:11:32,pending_delayed_stuck
+10269,TKT-EIKZFKIH,1,12785,SUKHWANTXXXX,8.0,closed,Profit shown as paid on  26 june 2026 is still pending,Withdrawal,0,2026-08-16 17:31:54,2026-08-17 14:55:58,pending_delayed_stuck
+10270,TKT-TKTFF68M,1,12785,SUKHWANTXXXX,8.0,closed,Profit paid on 26.06.2026 is still pending,Withdrawal,0,2026-08-16 17:34:52,2026-08-17 14:55:52,pending_delayed_stuck
+10463,TKT-CDZ8OSVH,2,233067,RAHUL2006,10.0,open,Still pending,Withdrawal,0,2026-08-20 00:19:19,2026-08-20 11:16:34,pending_delayed_stuck
+10579,TKT-PHHDTRMO,2,221287,MAHFOOZ20,10.0,open,Urgent: Staking Withdrawal Pending for 12 Days – Invoice #d2c8f5867331,Withdrawal,0,2026-08-21 23:05:50,2026-08-24 16:45:37,pending_delayed_stuck
+11026,TKT-AZOG5JE1,2,119101,HITESHRATHOD,10.0,open,Withdrawal pending last  14 day,Withdrawal,0,2026-08-31 20:24:34,2026-09-01 20:46:37,pending_delayed_stuck

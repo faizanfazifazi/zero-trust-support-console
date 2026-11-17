@@ -1,0 +1,8 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+166,TKT-BMUJFRQL,2,7762,NDP,8.0,closed,Regarding cancellation of transaction,New Order,0,2026-02-13 07:27:45,2026-02-16 17:42:52,cancellation_refund_orders
+2827,TKT-E8JPSWDB,1,5687,RAJKUMAR3547,9.0,closed,I want to do cancel kyc,New Order,0,2026-06-07 20:30:09,2026-06-08 11:21:52,cancellation_refund_orders
+5609,TKT-9Y8R0SMR,1,4441,22555,8.0,closed,Settlement amount refund,New Order,0,2026-06-28 18:01:08,2026-06-29 13:04:01,cancellation_refund_orders
+9242,TKT-1R86HCAD,2,726286,GOURAVUPPLI,10.0,open,My legacy wallet refund 27 dollar,New Order,0,2026-08-02 00:14:24,2026-08-03 16:21:13,cancellation_refund_orders
+10096,TKT-IMEXCA4K,1,49806,PKRAJ31,8.0,closed,W25 interest should be refunded,New Order,0,2026-08-14 11:53:49,2026-08-17 15:55:52,cancellation_refund_orders
+10262,TKT-88YA4TVK,1,16872,SHANTI123,10.0,open,Urgent: Transfer Successful on Blockchain but Balance Not Showing – Request for Manual Credit / Refund,New Order,0,2026-08-16 15:17:52,2026-08-17 15:05:46,cancellation_refund_orders
+10306,TKT-8OJ1SQ8N,1,13666,VELDANDI01,8.0,solved,Refunds not credited,New Order,0,2026-08-17 15:22:13,2026-08-19 10:54:44,cancellation_refund_orders

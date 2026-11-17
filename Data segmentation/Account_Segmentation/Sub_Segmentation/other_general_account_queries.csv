@@ -1,0 +1,25 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+401,TKT-WB4XQN5E,3,91,Santosh Randhav,9.0,closed,referral Link not generated,Account,0,2026-03-03 16:19:53,2026-03-04 14:26:50,other_general_account_queries
+406,TKT-SNG58BHS,3,74,Farhan Azam Outlook,8.0,closed,name change,Account,0,2026-03-04 15:42:28,2026-03-09 11:25:57,other_general_account_queries
+498,TKT-9KENBAEM,3,128,Dilpreet kaur mander,8.0,solved,add my coins,Account,0,2026-03-11 15:07:47,2026-03-16 14:27:30,other_general_account_queries
+579,TKT-YBOL290Y,3,303,Harish Sonwale,8.0,closed,Refferal code,Account,0,2026-03-15 11:08:50,2026-03-16 12:26:47,other_general_account_queries
+846,TKT-AZRY9E5U,3,232,SHIV KUMAR MAURYA,8.0,closed,game kaise khele please batao,Account,0,2026-04-03 21:29:35,2026-05-05 09:18:11,other_general_account_queries
+896,TKT-0VHJQUDB,3,357,PAWAN KAMBLE,8.0,solved,game played but MCOIN earning,Account,0,2026-04-07 22:12:07,2026-04-09 12:04:20,other_general_account_queries
+951,TKT-FVAG4BAQ,3,1123,BIKKEE KUMAR,8.0,closed,adup me samajh nahi aa rha h,Account,0,2026-04-11 13:38:21,2026-04-15 12:14:31,other_general_account_queries
+1119,TKT-RC8YMNRN,3,1888,Prakash Chand,8.0,solved,downline detail,Account,0,2026-04-19 18:15:31,2026-05-04 11:05:33,other_general_account_queries
+1123,TKT-L63CAZIB,3,766,Rambahadur sah,8.0,solved,raml,Account,0,2026-04-19 20:33:22,2026-04-20 11:39:36,other_general_account_queries
+1160,TKT-LIEP7M6P,3,2388,Md Sajjadul Qamri,8.0,closed,referral not connect,Account,0,2026-04-20 18:45:55,2026-04-21 12:42:56,other_general_account_queries
+1197,TKT-SKUJ3HS7,3,4846,bhagwano devi,8.0,solved,English,Account,0,2026-04-21 21:47:59,2026-04-22 11:38:40,other_general_account_queries
+1207,TKT-F1RRCRRA,3,4539,Md Chhotu,8.0,solved,direct playstore daunlod,Account,0,2026-04-21 23:10:24,2026-04-22 11:33:22,other_general_account_queries
+1292,TKT-T5DU4XYZ,3,310,JAYDIP BORSE,8.0,closed,can't get rewards,Account,0,2026-04-24 20:59:53,2026-04-27 12:13:51,other_general_account_queries
+1310,TKT-XCFDLO1R,3,3953,Harsh kumar,8.0,closed,how to get complete reward,Account,0,2026-04-25 10:53:45,2026-04-27 12:11:35,other_general_account_queries
+1325,TKT-09CRYVQV,3,6907,Sumit Kumar,8.0,closed,I want to change my gmail,Account,0,2026-04-26 09:12:23,2026-04-27 12:00:19,other_general_account_queries
+1359,TKT-WRCHKOQE,3,1409,Ashesh KUMAR,9.0,closed,Not received Bonus,Account,0,2026-04-28 14:41:02,2026-04-29 15:49:19,other_general_account_queries
+1416,TKT-MX2BTVU3,3,390,Sandeep Singh,8.0,solved,10 refferal april month,Account,0,2026-05-01 05:28:03,2026-05-04 11:38:54,other_general_account_queries
+1490,TKT-AZECU4TI,3,542,KUWAR SINGH,9.0,closed,bonus refferal,Account,0,2026-05-04 14:47:47,2026-05-06 18:08:37,other_general_account_queries
+1495,TKT-UIFEI7QQ,3,232,SHIV KUMAR MAURYA,9.0,closed,why is playing game 🎮 sir pls tell me?,Account,0,2026-05-04 17:33:10,2026-05-05 18:08:43,other_general_account_queries
+2978,TKT-DFQ2QWNT,3,42,SHOAIB AKHTAR,8.0,closed,I am not getting any reward,Account,0,2026-06-10 09:14:12,2026-06-11 13:12:16,other_general_account_queries
+3090,TKT-GMWTHBGN,3,269,BIPIN KUMAR DAS,9.0,solved,sponser code,Account,0,2026-06-11 20:40:35,2026-06-12 18:06:14,other_general_account_queries
+3093,TKT-ZFDFWLDQ,3,408,Rakesh roy,9.0,closed,refer and earn,Account,0,2026-06-11 20:56:03,2026-06-12 16:03:44,other_general_account_queries
+3344,TKT-FUWN9J7W,3,9595,Ruman alam,8.0,solved,sandwich,Account,0,2026-06-15 17:32:15,2026-06-16 11:23:09,other_general_account_queries
+9087,TKT-8LWUW1VC,3,9307,Uwais hakim,9.0,closed,hello,Account,0,2026-07-31 00:40:52,2026-08-03 14:47:20,other_general_account_queries

@@ -1,0 +1,5 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+10069,TKT-OGPXTQMO,1,20150,EWDSJ8877,9.0,closed,BV missing from ebank,Account Security,0,2026-08-14 08:20:25,2026-08-17 16:54:28,account_lock_suspension
+10160,TKT-LDZCKWAI,1,3896,THAKUR5566,8.0,closed,Ebank bank reduced,Account Security,0,2026-08-14 21:24:47,2026-08-17 13:05:32,account_lock_suspension
+10220,TKT-KYLJYV32,1,27096,SUMANA1988,8.0,closed,Ebank withdrawal wallet is not showing and ballance showing  wrong,Account Security,0,2026-08-15 22:33:44,2026-08-17 15:53:41,account_lock_suspension
+10455,TKT-CNDUAKO7,1,18833,VICKY1,8.0,closed,Usdt got removed from my e-bank,Account Security,0,2026-08-19 21:07:16,2026-08-20 12:05:21,account_lock_suspension

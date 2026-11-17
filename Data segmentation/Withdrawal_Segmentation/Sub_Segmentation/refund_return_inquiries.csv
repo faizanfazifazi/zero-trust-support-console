@@ -1,0 +1,19 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+39,TKT-QFLTSDUC,1,16275,MANJIT123,9.0,closed,Doesn't get proper withdrawal before filling otps id got logout so please get my 157 dollars return,Withdrawal,0,2026-01-29 18:55:29,2026-02-02 17:57:17,cancellation_refunds
+333,TKT-EOJE7DMR,1,36468,NAVPAW03,9.0,closed,100 USDT TRANSFERED TO M-CARD NOT SETTELED AND CREDIT BACK TO E BANK,Withdrawal,0,2026-02-27 17:16:00,2026-03-02 14:20:10,cancellation_refunds
+393,TKT-ZIZN2ABV,2,257701,SUHAIL103,8.0,closed,For return mcoin,Withdrawal,0,2026-03-03 05:43:11,2026-03-05 11:18:50,cancellation_refunds
+445,TKT-4HQVBVYO,2,70545,HAIDER3,10.0,open,Mcoin deducted when withdrawal cancelled,Withdrawal,0,2026-03-08 15:12:15,2026-03-09 11:42:46,cancellation_refunds
+1455,TKT-5NYFBL5R,1,36559,GROWX,8.0,solved,Why my withdrawal cancel,Withdrawal,0,2026-05-03 06:20:46,2026-05-04 11:21:06,cancellation_refunds
+1457,TKT-LLHSOCYJ,1,19110,BOT018,8.0,solved,Withdrawal was canceled,Withdrawal,0,2026-05-03 07:02:11,2026-05-04 11:20:44,cancellation_refunds
+1480,TKT-VBU2M0E9,1,33678,RAVI0A2,8.0,solved,Withdrawal canceled,Withdrawal,0,2026-05-04 08:05:03,2026-05-04 09:55:25,cancellation_refunds
+1996,TKT-NHZBZA0Y,1,22701,RIDDHI1,10.0,open,900 dollar withdrawal cancel and withdraw fund back in trading account but,Withdrawal,0,2026-05-24 18:57:38,2026-05-25 11:26:27,cancellation_refunds
+2166,TKT-7F9N3J4E,2,835626,RAVIRANJAN95,8.0,closed,Riser Coin withdrawal cancel and four weeks remove please update,Withdrawal,0,2026-05-27 08:44:47,2026-06-01 11:42:54,cancellation_refunds
+2231,TKT-RO8MKDHW,1,23112,RITU1111,9.0,solved,Return,Withdrawal,0,2026-05-28 10:55:52,2026-06-04 15:23:04,cancellation_refunds
+2243,TKT-8DSRWI0Z,1,14731,UTTAMKR,8.0,closed,Withdrawal Cancelled,Withdrawal,0,2026-05-28 20:22:52,2026-05-29 11:45:27,cancellation_refunds
+2859,TKT-ILOFIFWS,1,1379,SHEIKH143,9.0,closed,I bought USDX worth $30 on 02/06/2026 but I deposited 100 in the exchange and it has not been returned.,Withdrawal,0,2026-06-08 11:18:35,2026-06-09 16:27:34,cancellation_refunds
+8635,TKT-CJ6UCVZW,1,17328,MADHU1987,8.0,closed,Regarding Withdrawal cancelled,Withdrawal,0,2026-07-24 22:37:05,2026-07-27 13:15:24,cancellation_refunds
+8913,TKT-QXY0MWDS,1,35484,JRM19,8.0,solved,Usdt return,Withdrawal,0,2026-07-28 11:34:44,2026-07-28 11:44:24,cancellation_refunds
+8983,TKT-BO2SE0JQ,1,35484,JRM19,9.0,closed,Return usdt,Withdrawal,0,2026-07-29 11:51:21,2026-07-29 14:22:49,cancellation_refunds
+9232,TKT-Q3ZVFPCE,1,5087,JPJ2024,8.0,closed,Not received in 7 days after cancel,Withdrawal,0,2026-08-01 19:50:05,2026-08-03 14:23:52,cancellation_refunds
+10222,TKT-ZH7D5ODI,1,23247,JASHAN108,9.0,closed,Withdrawal cancel but not received back in account,Withdrawal,0,2026-08-15 22:46:06,2026-08-28 17:19:57,cancellation_refunds
+10470,TKT-IQF0FCUK,2,393055,6025RAVI,8.0,closed,Coins not return,Withdrawal,0,2026-08-20 08:16:16,2026-08-20 12:03:25,cancellation_refunds

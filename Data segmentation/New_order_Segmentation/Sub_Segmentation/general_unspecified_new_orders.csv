@@ -1,0 +1,638 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+7,TKT-DMKWGUZQ,1,22325,LK123,3.0,closed,Telegram,New Order,0,2026-01-23 20:00:30,2026-01-28 13:14:19,general_unspecified_new_orders
+20,TKT-5WGHUZWG,1,5852,PHULJHARI0143,9.0,closed,Update Leadership business,New Order,0,2026-01-26 21:44:57,2026-01-27 13:41:39,general_unspecified_new_orders
+27,TKT-9B4Y0WLA,1,7475,GKN,9.0,closed,Mcard,New Order,0,2026-01-28 08:14:01,2026-02-02 17:55:55,general_unspecified_new_orders
+49,TKT-H7MG4FJC,1,19721,ALI08,3.0,closed,Add belence,New Order,0,2026-01-31 19:42:52,2026-02-04 14:25:12,general_unspecified_new_orders
+57,TKT-0P7HK57F,1,9779,MIZAN026,8.0,closed,My closing business not update mis match,New Order,0,2026-02-01 01:39:55,2026-02-12 12:24:31,general_unspecified_new_orders
+62,TKT-8ENIPWHJ,1,40799,KG7015,8.0,closed,Signal trading not yet working,New Order,0,2026-02-02 19:03:59,2026-02-03 13:18:43,general_unspecified_new_orders
+112,TKT-YSTMG1UA,1,29664,MRJ3,3.0,open,Order not confirmed,New Order,0,2026-02-08 15:18:13,2026-02-09 12:40:51,general_unspecified_new_orders
+151,TKT-KHDLCDXI,1,9779,MIZAN026,3.0,closed,Business update,New Order,0,2026-02-11 16:31:44,2026-04-14 23:46:37,general_unspecified_new_orders
+152,TKT-IUW89RE3,1,9779,MIZAN026,3.0,open,Business update,New Order,0,2026-02-11 16:33:52,2026-02-11 18:46:55,general_unspecified_new_orders
+184,TKT-NUHYPM07,2,7291,GANGADEVI,10.0,open,respects sir,New Order,0,2026-02-15 08:46:07,2026-02-16 17:42:12,general_unspecified_new_orders
+247,TKT-99MNQDGL,2,837331,AMIT92G,8.0,closed,AC & Fan Installation,New Order,0,2026-02-20 15:19:49,2026-02-20 15:33:14,general_unspecified_new_orders
+369,TKT-DHM7RSTZ,1,43939,SHISHUPAL01,9.0,closed,M card not update in my dashboard,New Order,0,2026-03-01 17:53:09,2026-03-05 14:46:21,general_unspecified_new_orders
+390,TKT-NC0YQJ1A,1,12372,GORIA9833,9.0,closed,Rank update,New Order,0,2026-03-02 21:57:25,2026-03-03 13:36:48,general_unspecified_new_orders
+420,TKT-JFLCOTSY,1,14703,ASHU331,8.0,closed,Trading signal,New Order,0,2026-03-06 07:06:08,2026-03-09 11:40:23,general_unspecified_new_orders
+443,TKT-I4PQB5XN,1,20500,SUNIL42PAL65,8.0,solved,Carry Forward,New Order,0,2026-03-08 13:33:57,2026-03-11 12:34:54,general_unspecified_new_orders
+452,TKT-PBTW9VXE,1,16804,IKRAM786,9.0,closed,Rank Upgradation,New Order,0,2026-03-08 23:25:08,2026-03-11 13:47:57,general_unspecified_new_orders
+474,TKT-6SIZVOPB,1,14703,ASHU331,9.0,closed,Telegrqm signal id,New Order,0,2026-03-10 08:26:16,2026-03-11 13:45:17,general_unspecified_new_orders
+480,TKT-JFOFIPFK,1,7204,PIONEER99,9.0,closed,Teligram acces,New Order,0,2026-03-10 12:57:39,2026-03-10 13:44:03,general_unspecified_new_orders
+528,TKT-RT8ZCXXI,1,43939,SHISHUPAL01,3.0,open,Not claim my M card,New Order,0,2026-03-13 09:45:36,2026-03-13 11:37:35,general_unspecified_new_orders
+545,TKT-H3AGPFBN,1,43030,SHALU74,9.0,closed,Updation,New Order,0,2026-03-14 11:13:29,2026-03-17 12:30:35,general_unspecified_new_orders
+548,TKT-XTXE0OAT,1,9508,ABUNASAR025,9.0,closed,Leadership business update,New Order,0,2026-03-14 14:37:15,2026-03-17 12:19:10,general_unspecified_new_orders
+572,TKT-SUNI7VMW,2,794907,ASLAM958,8.0,closed,Muhammad Aslam,New Order,0,2026-03-14 21:33:03,2026-03-17 12:30:39,general_unspecified_new_orders
+593,TKT-YLWYNLBJ,1,323,DKSINGH,8.0,solved,February,New Order,0,2026-03-16 04:51:03,2026-03-16 14:28:26,general_unspecified_new_orders
+640,TKT-IPZWZSXC,1,14703,ASHU331,3.0,open,Trading signal,New Order,0,2026-03-19 13:44:21,2026-03-19 14:24:59,general_unspecified_new_orders
+700,TKT-7S2NTQJA,1,16840,NSARA9,9.0,closed,Not coming incum,New Order,0,2026-03-23 07:14:08,2026-04-13 11:58:48,general_unspecified_new_orders
+712,TKT-1DFY8KOG,1,16840,NSARA9,8.0,solved,Not coming 8% incom,New Order,0,2026-03-23 12:07:31,2026-03-24 14:28:16,general_unspecified_new_orders
+796,TKT-IJ5B48XX,1,4352,SUNIL9786,9.0,closed,Withdrawal,New Order,0,2026-03-30 07:27:57,2026-04-02 11:06:30,general_unspecified_new_orders
+805,TKT-LLCPYDB2,2,646517,RAM952,8.0,solved,About kyc,New Order,0,2026-03-30 19:55:40,2026-04-01 17:02:37,general_unspecified_new_orders
+818,TKT-IYIZQCOX,2,874864,SHAMIM1976C,,open,M20 wallet,New Order,0,2026-04-01 23:26:04,2026-04-01 23:26:04,general_unspecified_new_orders
+819,TKT-YR8S0RMF,2,874864,SHAMIM1976C,8.0,solved,M20 wallet,New Order,0,2026-04-01 23:30:30,2026-04-03 12:11:20,general_unspecified_new_orders
+820,TKT-DDCAE0LJ,2,874864,SHAMIM1976C,8.0,closed,M20 wallet,New Order,0,2026-04-01 23:37:08,2026-04-02 11:32:45,general_unspecified_new_orders
+828,TKT-KNLJLLHN,1,13651,PARVATI1,10.0,open,Upgrade My rank,New Order,0,2026-04-02 22:15:04,2026-04-03 12:10:56,general_unspecified_new_orders
+880,TKT-RJRUIVKT,1,41995,DIPALIM20X,9.0,closed,Mcard of January month 2026,New Order,0,2026-04-07 09:52:49,2026-04-10 15:46:31,general_unspecified_new_orders
+990,TKT-FGQZRH9X,1,5829,MAKSOOD82,8.0,closed,Kleos academy Access not received my telegram,New Order,0,2026-04-14 16:29:10,2026-04-15 12:20:11,general_unspecified_new_orders
+992,TKT-1HVDIUXE,1,5829,MAKSOOD82,8.0,solved,Kleos academy Access,New Order,0,2026-04-14 16:53:51,2026-04-15 12:20:39,general_unspecified_new_orders
+1004,TKT-JL5VTGZQ,1,5061,FALAHI76,3.0,closed,Yesterday what's new ?,New Order,0,2026-04-15 07:44:33,2026-04-15 10:42:51,general_unspecified_new_orders
+1060,TKT-TCFYQ8JS,1,14321,DKC1971,9.0,closed,TRANSFER USDT TO BITGET WALLET,New Order,0,2026-04-17 12:51:29,2026-04-21 12:33:01,general_unspecified_new_orders
+1187,TKT-BKWYGSEQ,2,874988,PINDA01,8.0,closed,EMAIL ID UPDATE,New Order,0,2026-04-21 15:52:25,2026-04-21 17:54:24,general_unspecified_new_orders
+1211,TKT-AC5CKS0H,2,816977,84635,8.0,solved,Mera number change kare,New Order,0,2026-04-21 23:25:46,2026-04-22 11:31:29,general_unspecified_new_orders
+1217,TKT-3BA8WNVI,2,874988,PINDA01,4.0,closed,EMAIL ID UPDATE,New Order,0,2026-04-22 09:38:01,2026-08-20 16:16:58,general_unspecified_new_orders
+1280,TKT-UIXMURIY,2,779232,BHUPINDER030,4.0,closed,TO LINK MULTIPLE  ACCOUNTS TO EACH OTHER,New Order,0,2026-04-24 12:54:57,2026-08-20 16:17:43,general_unspecified_new_orders
+1349,TKT-9MUOQ52O,2,45422,IZAN786,8.0,solved,Credit my mcash and musd wallet into ebank,New Order,0,2026-04-27 18:47:20,2026-04-28 12:15:27,general_unspecified_new_orders
+1367,TKT-S40HROW1,1,9736,SANKAR108,8.0,solved,Rank Executive Nahi Sohoraha Hai Plz,New Order,0,2026-04-28 22:05:44,2026-04-29 12:15:21,general_unspecified_new_orders
+1497,TKT-AE3ISAT8,1,7499,MANDALPK2001,9.0,closed,Achieve Sr Excutive Rank,New Order,0,2026-05-04 20:50:01,2026-05-07 16:14:09,general_unspecified_new_orders
+1570,TKT-XKH8SGAD,2,653657,FIROZ007,8.0,closed,Match older account to the new account,New Order,0,2026-05-08 12:21:14,2026-05-13 10:44:09,general_unspecified_new_orders
+1589,TKT-CQDYPDQV,1,53711,SACHINK,8.0,closed,New User,New Order,0,2026-05-09 17:45:51,2026-05-11 11:42:10,general_unspecified_new_orders
+1676,TKT-CYQ7ECYM,1,54067,PROBOT710,8.0,closed,Access Granted But No Telegram Access Yet,New Order,0,2026-05-15 11:26:18,2026-05-19 11:19:29,general_unspecified_new_orders
+1693,TKT-EPEXSXHC,1,8088,JAVID1718,8.0,solved,Telegram channel not access bcoz in right worng username,New Order,0,2026-05-16 15:01:31,2026-05-18 10:50:20,general_unspecified_new_orders
+1735,TKT-PFJUSYL4,1,54067,PROBOT710,8.0,closed,“Access Granted” but I still cannot access the signal channel/group,New Order,0,2026-05-19 08:35:02,2026-05-19 12:23:46,general_unspecified_new_orders
+1786,TKT-CKY2H77B,1,54067,PROBOT710,8.0,closed,Still No Access to Signal Channel/Group Despite “Access Granted” Status,New Order,0,2026-05-20 19:42:54,2026-05-21 12:47:56,general_unspecified_new_orders
+1952,TKT-B9RV6J9Z,1,54067,PROBOT710,9.0,closed,Access Still Not Received – Please Reopen Ticket,New Order,0,2026-05-23 18:10:43,2026-05-30 14:00:57,general_unspecified_new_orders
+2054,TKT-NUDLXT0N,2,796886,AZ11,9.0,closed,UN verify withdrawal,New Order,0,2026-05-25 17:18:50,2026-05-25 17:22:01,general_unspecified_new_orders
+2077,TKT-KIU164BU,1,22081,JAYPRAKASHPASWAN,10.0,open,Intrest not credited,New Order,0,2026-05-25 23:52:58,2026-06-02 15:33:10,general_unspecified_new_orders
+2160,TKT-SGNJJUUR,1,2212,GANGI20,9.0,closed,Id Gangi20,New Order,0,2026-05-27 06:58:24,2026-06-04 15:22:12,general_unspecified_new_orders
+2196,TKT-WWFNI1MT,1,20495,BIPUL65526,9.0,closed,Kyc,New Order,0,2026-05-27 18:11:38,2026-06-02 17:49:37,general_unspecified_new_orders
+2238,TKT-S0KVIIM2,1,7195,SSP51,8.0,solved,Mcard,New Order,0,2026-05-28 17:33:01,2026-05-29 12:18:03,general_unspecified_new_orders
+2377,TKT-YISKFA9D,1,45621,VINA1,8.0,closed,EBank settlement should be updated correctly,New Order,0,2026-06-01 11:47:22,2026-06-08 18:15:28,general_unspecified_new_orders
+2431,TKT-0YH2AQDC,1,2159,ALVI786,9.0,closed,Hlo sir kyc,New Order,0,2026-06-02 07:26:08,2026-06-02 13:23:06,general_unspecified_new_orders
+2435,TKT-ZVBIGRRV,1,1903,SANDEEP99,9.0,closed,W36,New Order,0,2026-06-02 08:13:18,2026-06-04 15:13:41,general_unspecified_new_orders
+2456,TKT-ZE48CBSO,1,2159,ALVI786,9.0,solved,Hlo sir kyc title,New Order,0,2026-06-02 13:38:24,2026-06-03 12:31:47,general_unspecified_new_orders
+2469,TKT-S9ZZB2ZO,1,1919,LALITA100,4.0,closed,Kyc,New Order,0,2026-06-02 18:21:38,2026-08-20 16:23:49,general_unspecified_new_orders
+2476,TKT-MAOSRNOG,1,52518,SINGHANIYA56,8.0,closed,M card,New Order,0,2026-06-02 20:57:58,2026-06-03 12:23:02,general_unspecified_new_orders
+2486,TKT-TUEYH80M,1,13978,SARTHAK1203,8.0,closed,BV,New Order,0,2026-06-03 08:23:51,2026-06-03 11:20:59,general_unspecified_new_orders
+2539,TKT-4CWSLMJE,1,2212,GANGI20,9.0,closed,Gangi20,New Order,0,2026-06-03 17:23:49,2026-06-04 14:47:04,general_unspecified_new_orders
+2601,TKT-OOVGKESJ,1,54067,PROBOT710,8.0,closed,Signal Group Access Not Received,New Order,0,2026-06-04 13:10:11,2026-06-04 13:20:58,general_unspecified_new_orders
+2613,TKT-QCSZXFL0,1,35071,NAIMBHAI68,9.0,closed,KYC,New Order,0,2026-06-04 16:31:30,2026-06-04 16:35:54,general_unspecified_new_orders
+2638,TKT-KHIFVQSJ,1,17383,DRSONY,8.0,closed,KYC,New Order,0,2026-06-05 07:56:27,2026-06-05 10:41:38,general_unspecified_new_orders
+2641,TKT-JEK3V5LJ,1,19201,RAJK1975,8.0,closed,KYC COMPLETE,New Order,0,2026-06-05 09:20:32,2026-06-05 10:41:30,general_unspecified_new_orders
+2646,TKT-PENATKLN,1,12475,BINDER13,8.0,closed,KYC,New Order,0,2026-06-05 10:37:56,2026-06-05 10:40:55,general_unspecified_new_orders
+2647,TKT-BUN02L6E,1,52045,KARAN2700,8.0,closed,KYC,New Order,0,2026-06-05 10:38:43,2026-06-05 10:40:44,general_unspecified_new_orders
+2648,TKT-MLS5YAOH,1,52046,2KARAN2700,8.0,closed,KYC,New Order,0,2026-06-05 10:41:04,2026-06-05 10:41:16,general_unspecified_new_orders
+2649,TKT-ZKPSDCIP,1,21684,MANJIT66,8.0,closed,Kyc,New Order,0,2026-06-05 10:41:37,2026-06-05 10:41:48,general_unspecified_new_orders
+2650,TKT-JBR0FZBZ,1,52043,KARAN1992,8.0,closed,KYC,New Order,0,2026-06-05 10:42:16,2026-06-05 10:42:33,general_unspecified_new_orders
+2651,TKT-6TEXXZBI,1,45971,RAMINDER66,8.0,closed,Kyc,New Order,0,2026-06-05 10:43:29,2026-06-05 10:44:32,general_unspecified_new_orders
+2653,TKT-ZWIVW3AQ,1,15830,RAMINDER67,8.0,closed,KYC,New Order,0,2026-06-05 10:47:43,2026-06-05 11:01:49,general_unspecified_new_orders
+2666,TKT-IPWAPMUG,1,12057,HSHARMA,8.0,closed,Kyc,New Order,0,2026-06-05 14:03:00,2026-06-05 14:28:43,general_unspecified_new_orders
+2667,TKT-ELJT1PHZ,1,38516,HP1970,9.0,closed,Kyc,New Order,0,2026-06-05 14:05:27,2026-06-08 16:47:44,general_unspecified_new_orders
+2686,TKT-1AOR19SI,1,24022,GURMAIL65,9.0,closed,KYC,New Order,0,2026-06-05 17:33:05,2026-06-05 17:36:04,general_unspecified_new_orders
+2687,TKT-VD6ZZOVH,1,48660,KAUR52,9.0,closed,KYC,New Order,0,2026-06-05 17:35:50,2026-06-05 17:36:23,general_unspecified_new_orders
+2693,TKT-MXPONYEH,1,13978,SARTHAK1203,8.0,closed,KYC,New Order,0,2026-06-05 18:57:56,2026-06-08 12:14:54,general_unspecified_new_orders
+2694,TKT-XFAYODEC,1,52447,DEEPIKA99,8.0,closed,Kyc,New Order,0,2026-06-05 19:01:24,2026-06-08 12:14:11,general_unspecified_new_orders
+2711,TKT-GZXLTWBU,1,44115,HIMU02,8.0,closed,About kyc,New Order,0,2026-06-06 00:02:12,2026-06-08 12:06:23,general_unspecified_new_orders
+2721,TKT-7OF3YB8B,1,44112,HIMU01,8.0,closed,Kyc,New Order,0,2026-06-06 07:23:43,2026-06-08 12:05:48,general_unspecified_new_orders
+2725,TKT-O3WJZBXW,1,9712,SALMA7478,8.0,closed,KYC,New Order,0,2026-06-06 08:41:51,2026-06-08 12:05:33,general_unspecified_new_orders
+2728,TKT-E8NHKGKS,1,23035,INDUBHUSHAN12345,8.0,closed,Kyc,New Order,0,2026-06-06 10:13:11,2026-06-08 12:05:02,general_unspecified_new_orders
+2733,TKT-KTLDWBP4,1,9709,NAIK6844,8.0,closed,KYC,New Order,0,2026-06-06 11:38:09,2026-06-08 12:04:11,general_unspecified_new_orders
+2741,TKT-RZBMJBBW,1,6715,MUKESH89,8.0,closed,kyc,New Order,0,2026-06-06 15:45:40,2026-06-08 12:03:20,general_unspecified_new_orders
+2763,TKT-DLBRCBDB,1,46017,VINA2,8.0,closed,Kyc,New Order,0,2026-06-07 00:25:52,2026-06-08 12:01:00,general_unspecified_new_orders
+2773,TKT-KSEFVOAV,1,20970,LAEEQ100,8.0,closed,Add Kyc,New Order,0,2026-06-07 08:51:14,2026-06-08 12:00:20,general_unspecified_new_orders
+2774,TKT-ZOS8Q5CM,1,20975,LAEEQ101,8.0,closed,Add kyc,New Order,0,2026-06-07 08:53:05,2026-06-08 12:00:11,general_unspecified_new_orders
+2775,TKT-JKETSG6L,1,42395,ARYAAN100,8.0,closed,Add kyc,New Order,0,2026-06-07 08:54:21,2026-06-08 12:00:03,general_unspecified_new_orders
+2776,TKT-YJHDLGE8,1,42399,FATEH100,8.0,closed,Add kyc,New Order,0,2026-06-07 08:55:45,2026-06-08 11:59:16,general_unspecified_new_orders
+2777,TKT-U3M9FUFK,1,42403,GULSHAN100,8.0,closed,Add kyc,New Order,0,2026-06-07 08:57:18,2026-06-08 11:59:07,general_unspecified_new_orders
+2795,TKT-DHUVZ1PS,1,16371,DM100,8.0,closed,Hlo sir,New Order,0,2026-06-07 14:07:36,2026-06-08 12:21:34,general_unspecified_new_orders
+2808,TKT-1BOA2YAL,1,46017,VINA2,8.0,closed,Kyc verification,New Order,0,2026-06-07 15:57:24,2026-06-08 11:52:07,general_unspecified_new_orders
+2812,TKT-XYI8VEE5,1,44112,HIMU01,9.0,closed,About kyc,New Order,0,2026-06-07 16:08:24,2026-06-08 11:49:22,general_unspecified_new_orders
+2828,TKT-4S0PAGJS,1,15713,MAHBUB026,9.0,closed,Kyc,New Order,0,2026-06-07 20:44:13,2026-06-08 11:20:19,general_unspecified_new_orders
+2868,TKT-KKDJECY3,1,15742,TANZANIA,8.0,closed,Id TANZANIA,New Order,0,2026-06-08 12:23:44,2026-06-08 14:01:17,general_unspecified_new_orders
+2881,TKT-LUV3NMXP,1,5687,RAJKUMAR3547,8.0,closed,I want to do KYC rejected again,New Order,0,2026-06-08 14:32:46,2026-06-08 14:38:43,general_unspecified_new_orders
+2886,TKT-5SYJMNVT,1,45830,DASJI2,9.0,closed,Kyc,New Order,0,2026-06-08 17:44:28,2026-06-08 17:46:49,general_unspecified_new_orders
+2887,TKT-70AQKNWO,1,45772,DASJI1,9.0,closed,Kyc,New Order,0,2026-06-08 17:59:11,2026-06-08 18:37:13,general_unspecified_new_orders
+2893,TKT-Z1N0YVAZ,1,46040,VINA3,8.0,closed,Kyc,New Order,0,2026-06-08 19:08:53,2026-06-09 12:20:28,general_unspecified_new_orders
+2895,TKT-TQSQ0S7R,1,44112,HIMU01,8.0,closed,Kyc,New Order,0,2026-06-08 19:23:58,2026-06-09 12:20:20,general_unspecified_new_orders
+2913,TKT-M7MO1WSH,1,5805,MAHBUB024,8.0,closed,KYC,New Order,0,2026-06-09 06:31:06,2026-06-09 12:16:31,general_unspecified_new_orders
+2925,TKT-F5F7S2VA,1,12867,GUPTA02,8.0,closed,Kyc,New Order,0,2026-06-09 09:54:05,2026-06-09 11:02:59,general_unspecified_new_orders
+2951,TKT-JGX6UH7Y,1,44112,HIMU01,9.0,closed,Kyc,New Order,0,2026-06-09 16:52:53,2026-06-09 17:59:51,general_unspecified_new_orders
+2960,TKT-7SXMKEZU,1,2212,GANGI20,9.0,closed,I'd Gangi20,New Order,0,2026-06-09 20:05:23,2026-06-15 12:59:07,general_unspecified_new_orders
+2972,TKT-LYZJQ7ZS,1,12342,RAJMANU,8.0,closed,kyc,New Order,0,2026-06-10 07:40:52,2026-06-10 12:25:41,general_unspecified_new_orders
+3038,TKT-JQHSMXYV,1,22081,JAYPRAKASHPASWAN,8.0,closed,Intrest Not credit,New Order,0,2026-06-11 04:37:18,2026-06-11 12:08:23,general_unspecified_new_orders
+3040,TKT-PZGPXQAK,1,35071,NAIMBHAI68,8.0,closed,KYC,New Order,0,2026-06-11 05:19:42,2026-06-11 10:38:54,general_unspecified_new_orders
+3050,TKT-8UBBNLNX,1,2212,GANGI20,9.0,solved,I'd Gangi20,New Order,0,2026-06-11 09:22:29,2026-06-12 12:46:57,general_unspecified_new_orders
+3056,TKT-NSYISDUW,1,54067,PROBOT710,8.0,closed,Signal Group/Channel and have not received,New Order,0,2026-06-11 09:59:24,2026-06-11 13:11:17,general_unspecified_new_orders
+3057,TKT-2BMJGEOD,1,19788,RAJMETHER1,8.0,closed,kyc,New Order,0,2026-06-11 10:00:33,2026-06-11 10:37:43,general_unspecified_new_orders
+3060,TKT-40WV1MDJ,1,18957,DULAL89,8.0,closed,kyc,New Order,0,2026-06-11 11:45:04,2026-06-11 12:06:45,general_unspecified_new_orders
+3062,TKT-D9MBPNSI,1,37348,KAJAL89,8.0,closed,EKYC,New Order,0,2026-06-11 11:53:31,2026-06-11 12:06:35,general_unspecified_new_orders
+3064,TKT-WJMBE30M,1,42870,KAJAL1,8.0,closed,Ekyc,New Order,0,2026-06-11 11:54:49,2026-06-11 12:06:24,general_unspecified_new_orders
+3066,TKT-1LHSX7CI,1,42872,KAJAL2,8.0,closed,Kyc,New Order,0,2026-06-11 11:58:13,2026-06-11 12:06:11,general_unspecified_new_orders
+3067,TKT-VNV1MYK7,1,24709,AVANISHVISH812,8.0,closed,KYC,New Order,0,2026-06-11 12:01:43,2026-06-11 12:06:06,general_unspecified_new_orders
+3111,TKT-EQYZIGAS,1,6895,PRATIBHA89,9.0,closed,KYC,New Order,0,2026-06-12 07:45:08,2026-06-12 17:57:14,general_unspecified_new_orders
+3112,TKT-W76JAKTU,1,6715,MUKESH89,9.0,closed,KYC,New Order,0,2026-06-12 07:47:53,2026-06-12 17:50:51,general_unspecified_new_orders
+3121,TKT-SRIVLJWA,1,20040,HARDARILAL100,9.0,closed,Hlo sir my kyc,New Order,0,2026-06-12 12:13:20,2026-06-12 12:16:39,general_unspecified_new_orders
+3128,TKT-VPOXVZB8,1,13994,PK9415,9.0,closed,Kyc,New Order,0,2026-06-12 13:03:46,2026-06-12 16:02:50,general_unspecified_new_orders
+3139,TKT-ETJJNJAD,1,2212,GANGI20,9.0,closed,I'd Gangi20,New Order,0,2026-06-12 17:28:43,2026-06-12 18:06:25,general_unspecified_new_orders
+3150,TKT-XCF7MCU7,1,35269,ZOHAIBDXB,8.0,closed,Kyc,New Order,0,2026-06-12 21:48:58,2026-06-15 10:48:00,general_unspecified_new_orders
+3169,TKT-SOSWUCVX,1,23035,INDUBHUSHAN12345,8.0,closed,KYC,New Order,0,2026-06-13 08:34:53,2026-06-15 10:46:15,general_unspecified_new_orders
+3182,TKT-BIXGB3QF,1,54042,AHMAD1993,8.0,closed,Hlo sir kyc plz urjent,New Order,0,2026-06-13 12:29:19,2026-06-15 10:44:26,general_unspecified_new_orders
+3202,TKT-WGMCJQZU,1,44112,HIMU01,8.0,closed,Kyc,New Order,0,2026-06-13 16:39:43,2026-06-15 10:43:14,general_unspecified_new_orders
+3207,TKT-0AUHQXEM,1,18824,ABHISHEK1993,8.0,closed,KYC,New Order,0,2026-06-13 18:28:05,2026-06-15 10:43:05,general_unspecified_new_orders
+3218,TKT-FKENTHSB,1,32420,SHIKHA,8.0,closed,Kyc,New Order,0,2026-06-13 22:15:04,2026-06-15 10:42:08,general_unspecified_new_orders
+3227,TKT-D3ACWUVY,1,16881,TSHIDIJM,8.0,closed,Kyc verification took too long. Why?,New Order,0,2026-06-14 00:40:06,2026-06-15 10:41:20,general_unspecified_new_orders
+3230,TKT-TI4HNGGI,1,2212,GANGI20,9.0,closed,I'd Gangi20,New Order,0,2026-06-14 01:54:21,2026-06-16 14:53:29,general_unspecified_new_orders
+3236,TKT-LWPKJ6GG,1,12583,NAIK2404,8.0,closed,KYC,New Order,0,2026-06-14 06:59:45,2026-06-15 10:40:27,general_unspecified_new_orders
+3245,TKT-KZYXLNDZ,1,17833,NEGIJAGM,8.0,closed,M20 Card,New Order,0,2026-06-14 10:35:34,2026-06-15 13:12:12,general_unspecified_new_orders
+3255,TKT-D1JFFRQJ,1,2033,SHAIKH055,8.0,closed,KYC,New Order,0,2026-06-14 11:56:36,2026-06-15 10:39:01,general_unspecified_new_orders
+3258,TKT-5PEOPXTB,1,54727,PRIDHIPRIYA,8.0,closed,KYC,New Order,0,2026-06-14 13:06:36,2026-06-15 10:38:52,general_unspecified_new_orders
+3295,TKT-KHDD8FQN,1,39718,PRERNAPRIYA,8.0,closed,KYC,New Order,0,2026-06-15 08:45:05,2026-06-15 10:35:22,general_unspecified_new_orders
+3312,TKT-ZZDBMJGD,1,34904,JANKI,8.0,closed,KYC,New Order,0,2026-06-15 12:16:25,2026-06-15 12:18:04,general_unspecified_new_orders
+3313,TKT-KPBSTPYD,1,54727,PRIDHIPRIYA,8.0,closed,KYC,New Order,0,2026-06-15 12:21:42,2026-06-15 12:37:59,general_unspecified_new_orders
+3314,TKT-Y8DRPZK3,1,39718,PRERNAPRIYA,8.0,closed,KYC,New Order,0,2026-06-15 12:26:55,2026-06-15 12:37:52,general_unspecified_new_orders
+3315,TKT-USVOEVED,1,2159,ALVI786,8.0,closed,hlo sir my kyc not linke,New Order,0,2026-06-15 12:45:53,2026-06-15 12:46:19,general_unspecified_new_orders
+3316,TKT-DL1UQPCY,1,44112,HIMU01,8.0,closed,About kyc,New Order,0,2026-06-15 12:52:19,2026-06-15 12:55:29,general_unspecified_new_orders
+3318,TKT-HGY1MEQW,1,44112,HIMU01,8.0,closed,About kyc,New Order,0,2026-06-15 13:09:33,2026-06-15 13:10:18,general_unspecified_new_orders
+3319,TKT-LKQAID9B,1,44116,HIMU03,8.0,closed,About kyc,New Order,0,2026-06-15 13:18:19,2026-06-15 13:18:44,general_unspecified_new_orders
+3385,TKT-WISNZADV,1,52974,ANIKET,8.0,closed,About kyc,New Order,0,2026-06-16 11:25:15,2026-06-16 11:33:30,general_unspecified_new_orders
+3388,TKT-J9CLJ4XQ,1,4736,BHARTI,8.0,closed,Regading KYC,New Order,0,2026-06-16 12:11:20,2026-06-16 12:21:01,general_unspecified_new_orders
+3419,TKT-B7MBEGB9,1,36235,NIJHATBANO123,8.0,closed,Kyc,New Order,0,2026-06-16 18:00:42,2026-06-17 11:36:05,general_unspecified_new_orders
+3434,TKT-JOY2XHAQ,1,26432,KINGZAID1,10.0,open,Information,New Order,0,2026-06-16 23:50:41,2026-06-17 12:35:51,general_unspecified_new_orders
+3458,TKT-SNLGBEXB,1,18957,DULAL89,8.0,closed,about kyc,New Order,0,2026-06-17 09:46:52,2026-06-17 11:00:26,general_unspecified_new_orders
+3469,TKT-BJX6WQJY,1,39322,NIRAJSSM,8.0,closed,Regarding KYC,New Order,0,2026-06-17 10:35:53,2026-06-17 10:40:15,general_unspecified_new_orders
+3470,TKT-IMRWUEHB,1,14767,GAURAV9651,8.0,solved,Kyc,New Order,0,2026-06-17 10:41:45,2026-06-17 10:46:47,general_unspecified_new_orders
+3481,TKT-FICEZEIO,1,36230,SAHID123,8.0,closed,Kyc,New Order,0,2026-06-17 11:50:30,2026-06-17 12:00:05,general_unspecified_new_orders
+3488,TKT-AKHS06YO,1,55046,HIMAKSHIVERMA,8.0,closed,About kyc,New Order,0,2026-06-17 12:27:33,2026-06-17 12:39:53,general_unspecified_new_orders
+3507,TKT-ATAAGHFY,1,33665,HARSHDEEPSINGH,8.0,closed,Kyc verification,New Order,0,2026-06-17 13:14:12,2026-06-17 13:23:05,general_unspecified_new_orders
+3508,TKT-GHNKTYBB,1,22081,JAYPRAKASHPASWAN,10.0,open,Intrest Not credited,New Order,0,2026-06-17 13:14:27,2026-06-17 13:23:26,general_unspecified_new_orders
+3510,TKT-KHHAO0VF,1,24297,HAVY,8.0,closed,Kyc verification,New Order,0,2026-06-17 13:18:22,2026-06-17 13:20:29,general_unspecified_new_orders
+3511,TKT-XWFLX5TH,1,50838,RABBRAKHA,8.0,closed,Kyc verification,New Order,0,2026-06-17 13:20:15,2026-06-17 13:21:03,general_unspecified_new_orders
+3546,TKT-ILHI8NOI,1,637,VELDANDI,9.0,solved,Kyc apruwal request,New Order,0,2026-06-17 15:14:31,2026-06-17 15:23:10,general_unspecified_new_orders
+3693,TKT-PZSRGPZU,1,51753,VINITARYA,8.0,closed,About kyc,New Order,0,2026-06-17 20:44:14,2026-06-18 13:04:13,general_unspecified_new_orders
+3699,TKT-MM8BTZSJ,1,39671,APPLENEERU,8.0,closed,Kyc,New Order,0,2026-06-17 20:53:00,2026-06-18 13:03:31,general_unspecified_new_orders
+3759,TKT-ZPBDODOQ,1,13666,VELDANDI01,8.0,closed,Kyc verification,New Order,0,2026-06-18 08:47:52,2026-06-18 11:06:35,general_unspecified_new_orders
+3761,TKT-8LC9A0O1,1,9405,HEENA025,8.0,closed,kyc update karne k sambandh mai,New Order,0,2026-06-18 08:51:52,2026-06-18 11:03:58,general_unspecified_new_orders
+3801,TKT-GPTN1NQH,1,54042,AHMAD1993,8.0,closed,hlo sir kyc is  very urjent,New Order,0,2026-06-18 11:46:38,2026-06-18 11:59:05,general_unspecified_new_orders
+3802,TKT-XDSBNZP7,1,2212,GANGI20,8.0,closed,I'd Gangi20,New Order,0,2026-06-18 11:46:42,2026-06-18 11:58:12,general_unspecified_new_orders
+3819,TKT-AUCHDDBI,1,35782,MANISH1,8.0,closed,KYC,New Order,0,2026-06-18 12:34:10,2026-06-18 12:48:30,general_unspecified_new_orders
+3830,TKT-YF9C0HAY,1,38954,KULWINDERKALI2,8.0,closed,KYC,New Order,0,2026-06-18 12:57:11,2026-06-18 13:00:11,general_unspecified_new_orders
+3840,TKT-8UBYESP2,1,38954,KULWINDERKALI2,9.0,closed,KYC,New Order,0,2026-06-18 13:13:25,2026-06-18 13:19:09,general_unspecified_new_orders
+3855,TKT-UWEKDHSD,1,18824,ABHISHEK1993,8.0,closed,Regarding KYC,New Order,0,2026-06-18 14:02:13,2026-06-18 14:06:47,general_unspecified_new_orders
+3856,TKT-UEKL82P3,1,21662,KIRAN2000,8.0,closed,Regarding KYC,New Order,0,2026-06-18 14:04:02,2026-06-18 14:05:23,general_unspecified_new_orders
+3881,TKT-ASUFD7IA,1,13396,RANDEEP,8.0,closed,KYC not update,New Order,0,2026-06-18 15:08:57,2026-06-18 15:17:10,general_unspecified_new_orders
+3887,TKT-IACPR660,1,16942,JP1988,8.0,closed,KYC not update,New Order,0,2026-06-18 15:22:27,2026-06-18 15:30:23,general_unspecified_new_orders
+3904,TKT-LEYBIPZ2,1,13660,AG2700,8.0,closed,Kyc not update,New Order,0,2026-06-18 15:41:00,2026-06-18 16:19:21,general_unspecified_new_orders
+3926,TKT-G3TVVWD3,1,11950,KHAN7070,8.0,closed,KYC panding,New Order,0,2026-06-18 16:17:18,2026-06-18 16:18:02,general_unspecified_new_orders
+3934,TKT-WLYX3NID,1,25355,NOOR2700,8.0,closed,KYC panding,New Order,0,2026-06-18 16:46:15,2026-06-18 16:57:18,general_unspecified_new_orders
+3942,TKT-BMSHBTWZ,1,25897,AK9008,9.0,solved,Kyc,New Order,0,2026-06-18 17:08:21,2026-06-18 17:10:24,general_unspecified_new_orders
+3945,TKT-UVKEKKXR,1,17966,ABHI2000,9.0,solved,KYC panding,New Order,0,2026-06-18 17:12:16,2026-06-18 17:44:55,general_unspecified_new_orders
+3950,TKT-ZLFLJKRI,1,17381,RAJDEEP100,9.0,closed,KYC panding,New Order,0,2026-06-18 17:29:55,2026-06-18 17:36:27,general_unspecified_new_orders
+3952,TKT-JXCVLISX,1,5061,FALAHI76,9.0,solved,About Kyc,New Order,0,2026-06-18 17:33:42,2026-06-18 18:07:12,general_unspecified_new_orders
+3955,TKT-6KEV9GWM,1,5687,RAJKUMAR3547,9.0,solved,KYC update,New Order,0,2026-06-18 17:36:24,2026-06-18 17:57:48,general_unspecified_new_orders
+3982,TKT-U5WIFCNJ,1,43556,BANSAL2700,8.0,closed,Kyc panding,New Order,0,2026-06-18 18:40:42,2026-06-19 10:31:21,general_unspecified_new_orders
+3985,TKT-AMTCR6EC,1,46570,SANDEEP1983,8.0,closed,Kyc panding,New Order,0,2026-06-18 18:52:09,2026-06-19 10:30:21,general_unspecified_new_orders
+4039,TKT-G2XV2FA0,1,16610,SANT31201,8.0,closed,KYC update,New Order,0,2026-06-19 07:26:47,2026-06-19 10:23:47,general_unspecified_new_orders
+4073,TKT-KU6MCQI6,1,38780,SKSAHU87,8.0,closed,KYC update,New Order,0,2026-06-19 10:18:34,2026-06-19 10:20:22,general_unspecified_new_orders
+4081,TKT-FMHAT8B9,1,21046,POONAM36,8.0,closed,KYC RELETED,New Order,0,2026-06-19 11:00:25,2026-06-19 11:20:48,general_unspecified_new_orders
+4082,TKT-0GQMUNQX,1,21052,ANILJEE36,8.0,closed,KYC RELETED,New Order,0,2026-06-19 11:03:04,2026-06-19 11:20:01,general_unspecified_new_orders
+4103,TKT-YIKW6MDA,1,40676,LADDU2000,8.0,closed,KYC update,New Order,0,2026-06-19 11:50:28,2026-06-19 11:51:29,general_unspecified_new_orders
+4177,TKT-MMDTNSL2,1,11887,SARABJITPRO90323,9.0,closed,Kyc not update,New Order,0,2026-06-19 14:49:37,2026-06-19 15:02:22,general_unspecified_new_orders
+4238,TKT-IL46CUY6,1,8285,RAJAN1990,9.0,closed,About KYC,New Order,0,2026-06-19 23:05:35,2026-06-22 13:12:59,general_unspecified_new_orders
+4244,TKT-VDMJURDN,1,4441,22555,8.0,closed,Release my settlement 100$,New Order,0,2026-06-20 00:36:33,2026-06-22 13:26:11,general_unspecified_new_orders
+4256,TKT-SSPSL33W,1,14385,AASHIA,9.0,closed,Kyc,New Order,0,2026-06-20 07:16:41,2026-06-22 13:13:52,general_unspecified_new_orders
+4286,TKT-DRLUTD8G,1,17225,1SANDEEP3339,9.0,closed,KYC,New Order,0,2026-06-20 10:02:02,2026-06-22 13:15:16,general_unspecified_new_orders
+4287,TKT-WQSJP5AV,1,17957,1YOGESH,9.0,closed,KYC,New Order,0,2026-06-20 10:05:26,2026-06-22 13:15:21,general_unspecified_new_orders
+4288,TKT-A0FGYMNM,1,29922,2YOGESH,9.0,closed,KYC,New Order,0,2026-06-20 10:07:57,2026-06-22 13:15:25,general_unspecified_new_orders
+4322,TKT-BU1ENQEC,1,6440,SONUPROBOTX,9.0,closed,About kyc,New Order,0,2026-06-20 13:30:29,2026-06-22 13:18:08,general_unspecified_new_orders
+4327,TKT-X3V80EKI,1,34312,AKM01,8.0,closed,About KYC,New Order,0,2026-06-20 13:37:20,2026-06-22 12:51:16,general_unspecified_new_orders
+4328,TKT-SDYIWFQR,1,34904,JANKI,9.0,closed,KYC,New Order,0,2026-06-20 13:40:47,2026-06-22 12:51:21,general_unspecified_new_orders
+4329,TKT-WOG2MB7R,1,39718,PRERNAPRIYA,8.0,closed,KYC,New Order,0,2026-06-20 13:46:35,2026-06-22 12:51:01,general_unspecified_new_orders
+4334,TKT-UZK4EA8H,1,13437,YASHVANTJI,9.0,closed,KYC,New Order,0,2026-06-20 14:08:45,2026-06-22 12:51:39,general_unspecified_new_orders
+4340,TKT-UJVHYLFP,1,54715,84DHARMINDER,9.0,closed,Kyc verification,New Order,0,2026-06-20 16:07:50,2026-06-22 12:51:49,general_unspecified_new_orders
+4342,TKT-TMNNO3WA,1,54120,KULWINDER900,8.0,closed,kyc,New Order,0,2026-06-20 16:14:33,2026-06-22 12:49:21,general_unspecified_new_orders
+4343,TKT-QBWRSSJI,1,54478,SIMRANKAUR13,9.0,closed,kyc verification,New Order,0,2026-06-20 16:20:50,2026-06-22 12:51:59,general_unspecified_new_orders
+4366,TKT-JQXA3BTF,1,9121,KULWINDER1,8.0,closed,Kyc,New Order,0,2026-06-20 19:44:08,2026-06-22 12:44:35,general_unspecified_new_orders
+4373,TKT-WAEA6DXW,1,9121,KULWINDER1,9.0,closed,Kyc,New Order,0,2026-06-20 19:51:16,2026-06-22 12:53:17,general_unspecified_new_orders
+4407,TKT-CWYUUZP1,1,17225,1SANDEEP3339,8.0,closed,KYC,New Order,0,2026-06-21 05:54:01,2026-06-22 12:36:57,general_unspecified_new_orders
+4408,TKT-KXHNJTEL,1,21348,PARSDEEP3339,9.0,closed,KYC,New Order,0,2026-06-21 05:55:35,2026-06-22 12:56:23,general_unspecified_new_orders
+4416,TKT-WTRMBAAM,1,17957,1YOGESH,8.0,closed,KYC,New Order,0,2026-06-21 08:21:24,2026-06-22 12:35:59,general_unspecified_new_orders
+4427,TKT-C5ZOGO2G,1,18872,BECHANG130,8.0,closed,KYC,New Order,0,2026-06-21 10:44:09,2026-06-22 12:34:53,general_unspecified_new_orders
+4488,TKT-YK8PSN4R,1,34671,POORVI,8.0,closed,Please update  kyc,New Order,0,2026-06-21 17:04:46,2026-06-22 12:26:54,general_unspecified_new_orders
+4497,TKT-5EAIM7VH,1,14504,DUGGIE,8.0,closed,Link account disappear,New Order,0,2026-06-21 19:06:15,2026-06-22 14:39:34,general_unspecified_new_orders
+4551,TKT-FSTCZ5W0,1,33193,GAURAV2006,8.0,closed,Kyc,New Order,0,2026-06-22 09:41:18,2026-06-22 11:25:08,general_unspecified_new_orders
+4564,TKT-9R3ZLULU,1,36193,RISHI1000,8.0,closed,Please update my kyc,New Order,0,2026-06-22 10:19:02,2026-06-22 11:20:21,general_unspecified_new_orders
+4626,TKT-15UDGMTI,1,22911,RAM6000,8.0,closed,KYC update,New Order,0,2026-06-22 13:23:55,2026-06-22 13:24:19,general_unspecified_new_orders
+4639,TKT-ILIIV6PP,1,7313,EWRAVIR1650,8.0,closed,USdX not credit in my wallet,New Order,0,2026-06-22 13:52:39,2026-06-22 13:54:00,general_unspecified_new_orders
+4699,TKT-UHGOXYB3,1,19394,SANJEEV6397,9.0,closed,Hlo,New Order,0,2026-06-22 17:38:56,2026-06-22 18:01:43,general_unspecified_new_orders
+4820,TKT-ANCVHQL0,1,18857,AK101,8.0,closed,Kyc,New Order,0,2026-06-23 12:04:13,2026-06-23 12:09:57,general_unspecified_new_orders
+4903,TKT-CF3T8ZX1,1,34904,JANKI,9.0,closed,KYC,New Order,0,2026-06-23 17:19:32,2026-06-23 18:20:47,general_unspecified_new_orders
+4905,TKT-BHDTLJTR,1,14325,LALITA101,9.0,solved,Kyc,New Order,0,2026-06-23 17:21:32,2026-06-23 18:22:58,general_unspecified_new_orders
+4911,TKT-GRHNYSA2,1,50793,LADDU2001,9.0,closed,KYC update,New Order,0,2026-06-23 17:44:53,2026-06-23 18:32:54,general_unspecified_new_orders
+4914,TKT-BVHIBCIO,1,21270,RAKESH93,9.0,closed,Kyc,New Order,0,2026-06-23 17:54:56,2026-06-23 18:32:34,general_unspecified_new_orders
+4925,TKT-WIQ3T4WM,1,38780,SKSAHU87,8.0,closed,Kyc update,New Order,0,2026-06-23 19:09:22,2026-06-24 11:27:20,general_unspecified_new_orders
+4933,TKT-RXC4YO2L,1,23035,INDUBHUSHAN12345,8.0,closed,Kyc,New Order,0,2026-06-23 19:51:19,2026-06-24 11:26:04,general_unspecified_new_orders
+4945,TKT-OHNMRIPD,1,40676,LADDU2000,8.0,closed,KYC Update,New Order,0,2026-06-23 20:23:22,2026-06-24 11:13:51,general_unspecified_new_orders
+4946,TKT-A92GJA0B,1,50797,LADDU2002,8.0,closed,KYC UPDATE,New Order,0,2026-06-23 20:32:02,2026-06-24 11:13:43,general_unspecified_new_orders
+4947,TKT-HE3BFTXU,1,50799,LADDU2003,8.0,closed,KYC UPDATE,New Order,0,2026-06-23 20:35:08,2026-06-24 11:13:14,general_unspecified_new_orders
+4956,TKT-1OFFGWFC,1,22081,JAYPRAKASHPASWAN,8.0,closed,Intrest Not credited,New Order,0,2026-06-24 00:19:08,2026-06-24 11:41:54,general_unspecified_new_orders
+4959,TKT-TEPE920G,1,3022,RKC1,8.0,closed,mcard is not received,New Order,0,2026-06-24 00:36:02,2026-06-24 11:40:38,general_unspecified_new_orders
+4961,TKT-BEZZ4PZL,1,38881,RKSINGH01,8.0,closed,Update kyc,New Order,0,2026-06-24 04:58:23,2026-06-24 11:03:56,general_unspecified_new_orders
+4994,TKT-C5FHDCTT,1,8028,ROHIT100,8.0,closed,Kyc,New Order,0,2026-06-24 10:09:36,2026-06-24 10:59:21,general_unspecified_new_orders
+5004,TKT-CYLX5QSU,1,37175,MPSINGH,8.0,closed,KYC,New Order,0,2026-06-24 11:14:07,2026-06-24 11:16:29,general_unspecified_new_orders
+5005,TKT-VJLG9KVZ,1,12061,KULVINDER53167,8.0,closed,KYC,New Order,0,2026-06-24 11:17:38,2026-06-24 11:18:49,general_unspecified_new_orders
+5013,TKT-VBATIJWD,1,19754,RAM71,8.0,closed,KYC,New Order,0,2026-06-24 12:25:17,2026-06-24 12:26:07,general_unspecified_new_orders
+5019,TKT-2OLWCNMW,1,12059,GAGI53167,8.0,closed,KYC,New Order,0,2026-06-24 12:48:22,2026-06-24 12:54:29,general_unspecified_new_orders
+5022,TKT-0LBRTSKE,1,12084,LOVE53167,8.0,closed,KYC,New Order,0,2026-06-24 12:50:26,2026-06-24 12:52:47,general_unspecified_new_orders
+5077,TKT-WVTC60QK,1,28482,BIRENDAR,8.0,closed,KYC update,New Order,0,2026-06-24 16:15:45,2026-06-24 16:18:18,general_unspecified_new_orders
+5101,TKT-YLBGJEBO,1,52974,ANIKET,8.0,closed,About kyc,New Order,0,2026-06-24 19:19:07,2026-06-25 16:38:59,general_unspecified_new_orders
+5119,TKT-XQMZXIY5,1,12084,LOVE53167,8.0,closed,KYC,New Order,0,2026-06-24 21:58:20,2026-06-25 16:34:37,general_unspecified_new_orders
+5134,TKT-AGVALFDF,1,35602,DCDHINGRA1,8.0,closed,KYC,New Order,0,2026-06-25 03:29:02,2026-06-25 16:32:37,general_unspecified_new_orders
+5135,TKT-RJMU6OKN,1,18871,CHHAYA100,8.0,closed,Kyc,New Order,0,2026-06-25 05:17:31,2026-06-25 16:32:23,general_unspecified_new_orders
+5160,TKT-BYDM8I7S,1,40052,1RIZWAN2019,9.0,closed,Kyc not update,New Order,0,2026-06-25 10:43:37,2026-06-25 12:10:38,general_unspecified_new_orders
+5199,TKT-QXKOVL49,1,39247,RADHIKA01CR,8.0,closed,KYC UPDATE,New Order,0,2026-06-25 15:16:20,2026-06-25 16:19:24,general_unspecified_new_orders
+5232,TKT-4I1SZ7WW,1,43345,MUKARDAM313,8.0,closed,KYC,New Order,0,2026-06-25 19:51:26,2026-06-29 12:52:41,general_unspecified_new_orders
+5273,TKT-TFBQP7SF,1,12084,LOVE53167,8.0,closed,KYC,New Order,0,2026-06-26 08:18:25,2026-06-29 12:49:25,general_unspecified_new_orders
+5274,TKT-RJZ7IMOX,1,12059,GAGI53167,8.0,closed,KYC,New Order,0,2026-06-26 08:20:19,2026-06-29 12:49:15,general_unspecified_new_orders
+5276,TKT-5P4OMCYP,1,58865,GH01,8.0,closed,KYC,New Order,0,2026-06-26 08:24:55,2026-06-29 12:48:41,general_unspecified_new_orders
+5292,TKT-MTGMMZ05,1,40677,ARMY97,8.0,closed,Update kyc,New Order,0,2026-06-26 10:20:34,2026-06-29 12:47:43,general_unspecified_new_orders
+5312,TKT-WNBURTMN,1,22081,JAYPRAKASHPASWAN,10.0,open,Intrest not credit,New Order,0,2026-06-26 12:44:25,2026-06-29 15:16:51,general_unspecified_new_orders
+5341,TKT-IVZ38Z3R,1,11887,SARABJITPRO90323,8.0,closed,KYC,New Order,0,2026-06-26 15:19:31,2026-06-29 12:39:32,general_unspecified_new_orders
+5359,TKT-NSLSYGAZ,1,21941,SSSCOIN,8.0,closed,Kyc,New Order,0,2026-06-26 16:54:42,2026-06-29 12:38:12,general_unspecified_new_orders
+5361,TKT-WFXJNZN3,1,13437,YASHVANTJI,10.0,open,Settlement,New Order,0,2026-06-26 17:16:15,2026-06-26 19:23:03,general_unspecified_new_orders
+5379,TKT-KRG1PRBN,1,1680,LALAN108,8.0,closed,For Kyc,New Order,0,2026-06-26 19:50:58,2026-06-29 12:36:13,general_unspecified_new_orders
+5382,TKT-XUBYPELH,1,43255,GAGI6767,8.0,closed,KYC,New Order,0,2026-06-26 21:23:09,2026-06-29 12:35:50,general_unspecified_new_orders
+5397,TKT-GFTJ76JB,1,13994,PK9415,8.0,closed,Kyc,New Order,0,2026-06-27 05:03:43,2026-06-29 12:34:59,general_unspecified_new_orders
+5401,TKT-FE9WGUIY,1,37616,AMARENDRA1990,8.0,closed,KYC RELETED,New Order,0,2026-06-27 06:50:28,2026-06-29 12:34:24,general_unspecified_new_orders
+5451,TKT-I2TKVBN9,1,43556,BANSAL2700,8.0,closed,Kyc panding,New Order,0,2026-06-27 11:04:46,2026-06-29 12:28:29,general_unspecified_new_orders
+5503,TKT-XLHQWQWR,1,22619,INDRADEV,9.0,solved,Rank business,New Order,0,2026-06-27 19:03:56,2026-06-29 17:29:18,general_unspecified_new_orders
+5524,TKT-HBXGBLX8,2,422219,SAURAV013,8.0,closed,Help Regarding Kyc,New Order,0,2026-06-28 00:30:26,2026-06-29 12:17:26,general_unspecified_new_orders
+5526,TKT-IBLMT0LS,1,11381,BIDHYATAMANG1,10.0,open,My eBank -612$,New Order,0,2026-06-28 02:40:09,2026-06-29 14:14:38,general_unspecified_new_orders
+5544,TKT-RJSNMPZV,1,44115,HIMU02,8.0,closed,About kyc rejected,New Order,0,2026-06-28 09:44:11,2026-06-29 12:15:13,general_unspecified_new_orders
+5632,TKT-KARH9RU9,1,45026,ASGHRI01,8.0,closed,MY KYC APRUBALE,New Order,0,2026-06-28 22:02:51,2026-06-29 11:34:43,general_unspecified_new_orders
+5646,TKT-IDYFMTEF,1,40769,PRAKASH1993,8.0,closed,KYC RELETED,New Order,0,2026-06-29 08:03:40,2026-06-29 11:05:59,general_unspecified_new_orders
+5717,TKT-PN1LQBP5,1,54727,PRIDHIPRIYA,8.0,closed,KYC,New Order,0,2026-06-29 14:47:58,2026-06-29 15:04:29,general_unspecified_new_orders
+5749,TKT-9LDY4MRE,1,54067,PROBOT710,9.0,solved,Signal Group/Channel,New Order,0,2026-06-29 17:54:43,2026-07-07 12:22:19,general_unspecified_new_orders
+5765,TKT-OIQYI9AH,1,48419,JAY01,8.0,closed,kyc update,New Order,0,2026-06-29 19:53:33,2026-06-30 12:03:16,general_unspecified_new_orders
+5779,TKT-CFIQPZEM,1,54727,PRIDHIPRIYA,9.0,solved,KYC,New Order,0,2026-06-29 21:46:19,2026-06-30 11:59:41,general_unspecified_new_orders
+5792,TKT-DDVN63EH,1,44115,HIMU02,8.0,closed,About kyc,New Order,0,2026-06-30 01:39:20,2026-06-30 11:45:58,general_unspecified_new_orders
+5793,TKT-S1FFAVG7,1,44115,HIMU02,8.0,closed,About kyc,New Order,0,2026-06-30 01:44:51,2026-06-30 11:45:15,general_unspecified_new_orders
+5832,TKT-G74UAWEN,1,23017,MATIUR93,8.0,closed,MY KYC APRUBEL,New Order,0,2026-06-30 11:15:43,2026-06-30 11:32:21,general_unspecified_new_orders
+5839,TKT-CWCNYHSN,1,34904,JANKI,8.0,closed,KYC,New Order,0,2026-06-30 12:21:55,2026-06-30 12:46:20,general_unspecified_new_orders
+5840,TKT-AZXKLMG3,1,39718,PRERNAPRIYA,8.0,closed,KYC,New Order,0,2026-06-30 12:24:11,2026-06-30 12:46:10,general_unspecified_new_orders
+5849,TKT-QMSDPOVG,1,10873,SSS5200,8.0,closed,Kyc not complited,New Order,0,2026-06-30 13:33:22,2026-06-30 14:27:22,general_unspecified_new_orders
+5869,TKT-3A1RKMMC,1,22437,PARAM,9.0,closed,KYC UPDATION,New Order,0,2026-06-30 14:51:38,2026-06-30 15:08:52,general_unspecified_new_orders
+5892,TKT-SBHWNJV5,1,7477,KRAM1995,9.0,closed,Update kyc,New Order,0,2026-06-30 16:12:06,2026-06-30 16:28:25,general_unspecified_new_orders
+5893,TKT-IEHSH3DB,1,12528,W25FIXED,9.0,closed,Kyc update,New Order,0,2026-06-30 16:14:22,2026-06-30 16:29:22,general_unspecified_new_orders
+5894,TKT-EAI8L35O,1,7752,INDU312000,8.0,closed,KYC update,New Order,0,2026-06-30 16:18:58,2026-06-30 16:52:58,general_unspecified_new_orders
+5896,TKT-SQMUDU8K,1,9205,PROBOTXAK,8.0,closed,KYC update,New Order,0,2026-06-30 16:21:44,2026-06-30 16:52:51,general_unspecified_new_orders
+5899,TKT-I0MLXTNF,1,12209,AKP399,8.0,closed,Update kyc,New Order,0,2026-06-30 16:24:24,2026-06-30 16:49:38,general_unspecified_new_orders
+5901,TKT-JR9VWDJP,1,14620,PROBOTXSK,8.0,closed,Update KYC,New Order,0,2026-06-30 16:28:02,2026-06-30 16:49:28,general_unspecified_new_orders
+5903,TKT-BGTYKITD,1,22457,AKP01,8.0,closed,Update kyc,New Order,0,2026-06-30 16:30:22,2026-06-30 16:49:05,general_unspecified_new_orders
+5905,TKT-LPX48Z7C,1,22484,AKP02,8.0,closed,Update KYC,New Order,0,2026-06-30 16:32:52,2026-06-30 16:39:46,general_unspecified_new_orders
+5906,TKT-O5R9ONG8,1,22487,AKP03,8.0,closed,Update KYC,New Order,0,2026-06-30 16:35:30,2026-06-30 16:39:41,general_unspecified_new_orders
+5907,TKT-9BLRYJGX,1,22489,AKP04,8.0,closed,Update KYC,New Order,0,2026-06-30 16:37:49,2026-06-30 16:39:35,general_unspecified_new_orders
+5908,TKT-ZLJES4RQ,1,35796,BILENIOR,8.0,closed,Update KYC,New Order,0,2026-06-30 16:42:15,2026-06-30 16:49:00,general_unspecified_new_orders
+5947,TKT-FOFO1YWW,1,19552,1XPRO,8.0,closed,Kyc,New Order,0,2026-06-30 22:14:03,2026-07-01 10:47:48,general_unspecified_new_orders
+5979,TKT-LLXSYOEE,1,39921,MANDEEP322,8.0,closed,Kyc panding,New Order,0,2026-07-01 09:34:00,2026-07-01 10:36:19,general_unspecified_new_orders
+5982,TKT-XTAQRWLZ,1,38780,SKSAHU87,8.0,closed,Update KYC,New Order,0,2026-07-01 09:38:36,2026-07-01 10:36:00,general_unspecified_new_orders
+5983,TKT-TGTPCLKC,1,12528,W25FIXED,8.0,closed,KYC update,New Order,0,2026-07-01 09:40:14,2026-07-01 10:35:54,general_unspecified_new_orders
+6007,TKT-G2HYNYVE,1,21348,PARSDEEP3339,9.0,closed,KYC,New Order,0,2026-07-01 13:58:02,2026-07-01 14:06:54,general_unspecified_new_orders
+6068,TKT-XJ1MMUWB,1,34904,JANKI,8.0,closed,KYC,New Order,0,2026-07-01 18:36:21,2026-07-02 12:16:18,general_unspecified_new_orders
+6108,TKT-HXOI7DGU,1,52518,SINGHANIYA56,9.0,solved,M card,New Order,0,2026-07-01 23:28:11,2026-07-03 15:02:29,general_unspecified_new_orders
+6127,TKT-GGJWQRDF,1,44115,HIMU02,8.0,closed,About kyc,New Order,0,2026-07-02 06:38:02,2026-07-02 12:00:42,general_unspecified_new_orders
+6146,TKT-TIOI36L1,1,43642,ADASIMTIYAZ,8.0,closed,About Kyc,New Order,0,2026-07-02 09:43:54,2026-07-02 11:58:49,general_unspecified_new_orders
+6148,TKT-KQMBIGFA,1,14132,BHOLEBABA007,8.0,solved,Kyc,New Order,0,2026-07-02 09:54:36,2026-07-02 11:58:25,general_unspecified_new_orders
+6149,TKT-OIGD7YJI,1,37770,AKUMAR1987,8.0,closed,KYC RELETED,New Order,0,2026-07-02 10:17:00,2026-07-02 11:58:33,general_unspecified_new_orders
+6151,TKT-SY0FNDNL,1,17179,1992ANITA,8.0,closed,Monthly commission,New Order,0,2026-07-02 10:29:28,2026-07-02 12:33:27,general_unspecified_new_orders
+6215,TKT-FIS7NKQF,1,34904,JANKI,8.0,closed,KYC,New Order,0,2026-07-02 14:23:38,2026-07-02 14:30:28,general_unspecified_new_orders
+6220,TKT-5ULERCWA,1,39247,RADHIKA01CR,8.0,closed,KYC,New Order,0,2026-07-02 15:09:51,2026-07-02 15:53:11,general_unspecified_new_orders
+6300,TKT-DYIS3WGB,1,12084,LOVE53167,9.0,closed,KYC,New Order,0,2026-07-03 06:10:05,2026-07-03 19:45:52,general_unspecified_new_orders
+6302,TKT-KEHDRN1B,1,12059,GAGI53167,9.0,closed,KYC,New Order,0,2026-07-03 06:12:30,2026-07-03 19:46:59,general_unspecified_new_orders
+6304,TKT-UIWGIVI3,1,22704,RIDDHI2,10.0,open,Bug,New Order,0,2026-07-03 06:27:46,2026-07-03 17:51:01,general_unspecified_new_orders
+6305,TKT-5VQBWSDO,1,22701,RIDDHI1,10.0,open,Bug,New Order,0,2026-07-03 06:35:58,2026-07-03 17:50:34,general_unspecified_new_orders
+6320,TKT-KSZ7BW42,1,23013,INDRADEV3,9.0,closed,KYC,New Order,0,2026-07-03 08:18:48,2026-07-03 20:54:00,general_unspecified_new_orders
+6323,TKT-JBFAK9CI,1,3948,RAKESHROY,9.0,closed,For kyc,New Order,0,2026-07-03 08:47:36,2026-07-03 20:55:17,general_unspecified_new_orders
+6326,TKT-LKC3EVPQ,1,17101,AARFA025,9.0,closed,KYC ok karne k sambandh mai,New Order,0,2026-07-03 09:39:06,2026-07-03 20:56:26,general_unspecified_new_orders
+6343,TKT-B5JEQDYR,1,11202,SAIFI0786,9.0,closed,Upline no contact,New Order,0,2026-07-03 10:59:18,2026-07-03 17:43:54,general_unspecified_new_orders
+6362,TKT-SOTKAMN8,1,45358,KUMARI2026,9.0,solved,Email,New Order,0,2026-07-03 11:55:02,2026-07-06 13:21:08,general_unspecified_new_orders
+6370,TKT-27D6MMAE,1,54919,SAKSHAM3,9.0,closed,For kyc,New Order,0,2026-07-03 12:50:44,2026-07-04 11:19:48,general_unspecified_new_orders
+6374,TKT-ACCHLPVG,1,23860,SACHIN5,9.0,closed,For kyc,New Order,0,2026-07-03 13:20:45,2026-07-04 11:20:52,general_unspecified_new_orders
+6375,TKT-R91EDODW,1,23862,SACHIN6,9.0,closed,For kyc,New Order,0,2026-07-03 13:24:22,2026-07-04 11:21:12,general_unspecified_new_orders
+6453,TKT-Z7CBZ4AB,1,40243,PUNJAB,9.0,closed,KYC,New Order,0,2026-07-03 18:49:54,2026-07-06 14:28:22,general_unspecified_new_orders
+6459,TKT-WWYYLJNG,1,34904,JANKI,8.0,closed,KYC,New Order,0,2026-07-03 19:03:13,2026-07-06 14:16:35,general_unspecified_new_orders
+6460,TKT-IDSED6NS,1,39718,PRERNAPRIYA,9.0,closed,KYC,New Order,0,2026-07-03 19:04:32,2026-07-06 14:28:27,general_unspecified_new_orders
+6466,TKT-K1ICTLB3,1,54067,PROBOT710,9.0,solved,Signal Group/Channel.,New Order,0,2026-07-03 19:20:00,2026-07-07 12:24:08,general_unspecified_new_orders
+6492,TKT-Q6TZYHAP,1,17858,NASU80,8.0,closed,About Kyc,New Order,0,2026-07-03 21:59:33,2026-07-06 14:13:13,general_unspecified_new_orders
+6494,TKT-P9CFWHOB,1,23014,INDRADEV4,8.0,closed,KYC,New Order,0,2026-07-03 22:01:42,2026-07-06 14:13:04,general_unspecified_new_orders
+6505,TKT-NSPIFUVR,1,24486,1KIRPAL1966,8.0,closed,Kyc,New Order,0,2026-07-04 04:45:28,2026-07-06 14:12:32,general_unspecified_new_orders
+6506,TKT-GMNAM4W5,1,35888,2KIRPAL1966,8.0,closed,No my kyc,New Order,0,2026-07-04 04:47:24,2026-07-06 14:12:23,general_unspecified_new_orders
+6507,TKT-WBM55MVI,1,35890,3KIRPAL1966,8.0,closed,No my kyc,New Order,0,2026-07-04 04:49:34,2026-07-06 14:12:15,general_unspecified_new_orders
+6523,TKT-OZEFXVVW,1,12776,SUKHWANTXXX,8.0,closed,KYC,New Order,0,2026-07-04 08:36:30,2026-07-06 14:11:15,general_unspecified_new_orders
+6530,TKT-N74DRAOI,1,13359,YADAV100,8.0,closed,KYC updated,New Order,0,2026-07-04 10:11:42,2026-07-06 14:10:10,general_unspecified_new_orders
+6542,TKT-HKJ0KPOS,1,12991,RAMBATHG1,8.0,closed,For kyc,New Order,0,2026-07-04 11:28:58,2026-07-06 14:08:23,general_unspecified_new_orders
+6545,TKT-VBVMDPJG,1,12066,HARKEERATSINGH,8.0,closed,KYC,New Order,0,2026-07-04 12:13:20,2026-07-06 14:07:55,general_unspecified_new_orders
+6546,TKT-OJRZ90Z5,1,12858,GOD02,8.0,closed,KYC,New Order,0,2026-07-04 12:16:20,2026-07-06 14:07:42,general_unspecified_new_orders
+6547,TKT-LP2WMDVQ,1,12860,RDX01,8.0,closed,KYC,New Order,0,2026-07-04 12:21:59,2026-07-06 14:07:33,general_unspecified_new_orders
+6548,TKT-9T6JIVMF,1,12862,RDX02,8.0,closed,KYC,New Order,0,2026-07-04 12:25:51,2026-07-06 14:07:21,general_unspecified_new_orders
+6549,TKT-UU5CQVB8,1,12866,GUPTA01,8.0,closed,KYC,New Order,0,2026-07-04 12:29:00,2026-07-06 14:06:32,general_unspecified_new_orders
+6550,TKT-VBHOLSK3,1,12868,OM01,8.0,closed,KYC,New Order,0,2026-07-04 12:32:36,2026-07-06 14:06:23,general_unspecified_new_orders
+6552,TKT-ZEQDJNJE,1,12058,MANDEEP70,8.0,closed,KYC,New Order,0,2026-07-04 12:35:42,2026-07-06 14:06:01,general_unspecified_new_orders
+6554,TKT-LC2AQM7T,1,44365,RAIKOT900,8.0,closed,KYC,New Order,0,2026-07-04 12:48:01,2026-07-06 14:05:51,general_unspecified_new_orders
+6555,TKT-XJS2DAOF,1,48269,GUPTA900,8.0,closed,KYC,New Order,0,2026-07-04 12:50:19,2026-07-06 14:05:43,general_unspecified_new_orders
+6573,TKT-V44CMH9S,1,3310,RANJIT621,9.0,closed,E bank widthral,New Order,0,2026-07-04 14:34:06,2026-07-07 12:23:14,general_unspecified_new_orders
+6597,TKT-FT2LTBGN,1,21772,JAYBHOLE,8.0,closed,Kyc,New Order,0,2026-07-04 20:18:42,2026-07-06 13:57:54,general_unspecified_new_orders
+6612,TKT-YT7V20U1,1,34136,ROSYMALHI1,8.0,closed,KYC,New Order,0,2026-07-05 00:21:30,2026-07-06 13:56:35,general_unspecified_new_orders
+6619,TKT-HBA9FGV8,1,23860,SACHIN5,8.0,closed,For kyc,New Order,0,2026-07-05 07:22:20,2026-07-06 13:55:59,general_unspecified_new_orders
+6636,TKT-KWY45Q9S,1,44115,HIMU02,8.0,closed,Abouts kyc,New Order,0,2026-07-05 11:57:24,2026-07-06 13:53:59,general_unspecified_new_orders
+6659,TKT-PU71DIZG,1,12528,W25FIXED,8.0,closed,Update KYC,New Order,0,2026-07-05 14:44:18,2026-07-06 13:52:42,general_unspecified_new_orders
+6660,TKT-K4CDSAKP,1,9205,PROBOTXAK,8.0,closed,Update KYC,New Order,0,2026-07-05 14:45:12,2026-07-06 13:52:34,general_unspecified_new_orders
+6661,TKT-MEVHHVOB,1,38881,RKSINGH01,9.0,closed,Update,New Order,0,2026-07-05 14:47:35,2026-07-07 12:23:20,general_unspecified_new_orders
+6662,TKT-FVKLXQSF,1,45725,MAHESH1998,9.0,closed,Update,New Order,0,2026-07-05 14:48:27,2026-07-07 12:18:49,general_unspecified_new_orders
+6663,TKT-NBSOHB0D,1,48419,JAY01,8.0,closed,Update KYC,New Order,0,2026-07-05 14:49:21,2026-07-06 13:52:27,general_unspecified_new_orders
+6664,TKT-TDUTG0BV,1,6021,MONUAK47,8.0,closed,Update my kyc,New Order,0,2026-07-05 14:55:15,2026-07-06 13:52:20,general_unspecified_new_orders
+6671,TKT-YXOF5YFU,1,14514,TEAMAMBITION15,10.0,open,Ticket unresolved - TKT-K7O1ZCRZ,New Order,0,2026-07-05 16:43:45,2026-07-06 14:10:01,general_unspecified_new_orders
+6673,TKT-BYIYL9IG,1,17101,AARFA025,8.0,solved,Kyc ok karne k sambandh mai,New Order,0,2026-07-05 17:35:44,2026-07-06 12:50:00,general_unspecified_new_orders
+6687,TKT-BZFZZWBR,1,56782,GROWTHMINDSET02,8.0,closed,Did not receive M card yet,New Order,0,2026-07-05 20:54:37,2026-07-06 12:48:54,general_unspecified_new_orders
+6690,TKT-JRFSF9UI,1,37348,KAJAL89,8.0,closed,Ekyc,New Order,0,2026-07-05 22:07:14,2026-07-06 12:48:01,general_unspecified_new_orders
+6693,TKT-P4T7R00R,1,9205,PROBOTXAK,8.0,closed,Update kyc,New Order,0,2026-07-06 04:41:34,2026-07-06 12:47:18,general_unspecified_new_orders
+6697,TKT-1RN03GLE,1,43577,SHIVAY9651,8.0,closed,Kyc,New Order,0,2026-07-06 06:12:19,2026-07-06 12:46:55,general_unspecified_new_orders
+6698,TKT-6OC7RZS1,1,24297,HAVY,9.0,closed,Ebank withdraw,New Order,0,2026-07-06 06:25:09,2026-07-06 14:34:39,general_unspecified_new_orders
+6720,TKT-MPOT0AEM,1,37506,SUBHU,8.0,closed,Kyc verification,New Order,0,2026-07-06 08:13:46,2026-07-06 12:42:14,general_unspecified_new_orders
+6726,TKT-9J5GZTTB,1,21348,PARSDEEP3339,8.0,closed,KYC,New Order,0,2026-07-06 10:12:20,2026-07-06 12:42:45,general_unspecified_new_orders
+6731,TKT-UVGQ4FDC,1,25841,INDR,4.0,closed,KYC,New Order,0,2026-07-06 10:40:19,2026-07-06 10:52:53,general_unspecified_new_orders
+6752,TKT-EIBULPEI,1,36204,MANISHSAHUG,8.0,closed,For kyc,New Order,0,2026-07-06 12:50:13,2026-07-06 12:50:23,general_unspecified_new_orders
+6754,TKT-RLGIMIIY,1,46382,AKBOSS2,8.0,closed,For kyc,New Order,0,2026-07-06 13:07:48,2026-07-06 13:20:43,general_unspecified_new_orders
+6763,TKT-WK68A8Z4,1,7007,GITAPROBOTX,8.0,closed,Rank Not Updated,New Order,0,2026-07-06 14:27:11,2026-07-06 14:27:40,general_unspecified_new_orders
+6775,TKT-ERSHVHK3,1,12776,SUKHWANTXXX,8.0,closed,KYC,New Order,0,2026-07-06 16:13:01,2026-07-06 16:34:44,general_unspecified_new_orders
+6816,TKT-N0AUHFHZ,2,767194,KT01,8.0,closed,KYC not done,New Order,0,2026-07-06 22:31:40,2026-07-07 12:18:20,general_unspecified_new_orders
+6820,TKT-CKGSLVCT,2,173345,FIROZ28,8.0,closed,Not reply,New Order,0,2026-07-07 00:18:14,2026-07-08 14:26:27,general_unspecified_new_orders
+6835,TKT-9VL4KGZU,1,10449,USMAN030,8.0,closed,KYC,New Order,0,2026-07-07 08:00:46,2026-07-07 11:31:06,general_unspecified_new_orders
+6860,TKT-6GW4FAQB,1,38881,RKSINGH01,9.0,closed,Update KYC,New Order,0,2026-07-07 12:27:48,2026-07-07 12:29:37,general_unspecified_new_orders
+6865,TKT-YV8JAQYD,1,19551,PROX5,8.0,closed,Kyc,New Order,0,2026-07-07 12:58:46,2026-07-07 13:02:43,general_unspecified_new_orders
+6866,TKT-EQPUHCHB,1,22081,JAYPRAKASHPASWAN,8.0,closed,Trading Internet not credit,New Order,0,2026-07-07 13:02:01,2026-07-07 13:05:42,general_unspecified_new_orders
+6868,TKT-O20HLZ7F,1,15740,0001XPRO,8.0,closed,Kyc,New Order,0,2026-07-07 13:29:37,2026-07-07 13:41:38,general_unspecified_new_orders
+6869,TKT-Z6OS4YI5,1,23870,AX1PRO,8.0,closed,Kyc,New Order,0,2026-07-07 13:37:40,2026-07-07 13:41:29,general_unspecified_new_orders
+6872,TKT-NTUERH8Z,1,39324,FEHMIDAUMARJI,9.0,closed,About Kyc,New Order,0,2026-07-07 13:53:53,2026-07-07 14:40:46,general_unspecified_new_orders
+6881,TKT-HLAEPTZX,1,44112,HIMU01,8.0,closed,About ranking,New Order,0,2026-07-07 15:32:44,2026-07-07 15:46:56,general_unspecified_new_orders
+6894,TKT-TGL6FP4I,1,38881,RKSINGH01,8.0,closed,Update KYC,New Order,0,2026-07-07 16:43:52,2026-07-07 16:45:08,general_unspecified_new_orders
+6919,TKT-FPJ1KWFH,1,22594,JITX1,8.0,closed,Kyc,New Order,0,2026-07-07 20:13:04,2026-07-08 12:05:58,general_unspecified_new_orders
+6921,TKT-SFMGOJPV,1,23835,JITX2,8.0,closed,Kyc,New Order,0,2026-07-07 20:19:57,2026-07-08 12:05:49,general_unspecified_new_orders
+6922,TKT-ARB2SMDT,1,23836,JITX3,8.0,closed,Kyc,New Order,0,2026-07-07 20:22:07,2026-07-08 12:05:26,general_unspecified_new_orders
+6923,TKT-8PPPVTN0,1,24026,DEEPX1,8.0,closed,Kyc,New Order,0,2026-07-07 20:24:50,2026-07-08 12:05:15,general_unspecified_new_orders
+6924,TKT-F3GNJ7VD,1,34509,DEEPX2,8.0,closed,Kyc,New Order,0,2026-07-07 20:26:34,2026-07-08 12:04:54,general_unspecified_new_orders
+6925,TKT-LH4XDQEJ,1,45597,GOYAL04991,8.0,closed,KYC upadte,New Order,0,2026-07-07 20:27:12,2026-07-08 12:04:26,general_unspecified_new_orders
+6927,TKT-HN0AVC10,1,54769,UVI,8.0,closed,Kyc,New Order,0,2026-07-07 20:29:12,2026-07-08 12:04:45,general_unspecified_new_orders
+6929,TKT-IL8BP5ZB,1,54770,UVI01,8.0,closed,Kyc,New Order,0,2026-07-07 20:31:32,2026-07-08 12:04:35,general_unspecified_new_orders
+6931,TKT-H5SOFBXG,1,54772,UVI02,8.0,closed,Kyc,New Order,0,2026-07-07 20:33:24,2026-07-08 12:04:17,general_unspecified_new_orders
+6935,TKT-WUWXDCV8,1,57661,UVI3,8.0,closed,Kyc,New Order,0,2026-07-07 20:38:38,2026-07-08 11:44:10,general_unspecified_new_orders
+6953,TKT-ZTYS1PFK,1,16675,KHUSHEEL1997,8.0,closed,KYC update,New Order,0,2026-07-07 22:39:54,2026-07-08 11:27:43,general_unspecified_new_orders
+6963,TKT-CBC6OOGC,1,23860,SACHIN5,8.0,closed,For kyc,New Order,0,2026-07-08 04:14:08,2026-07-08 11:24:50,general_unspecified_new_orders
+7049,TKT-0KBPPV4O,1,19546,MKJI,9.0,closed,KYC,New Order,0,2026-07-08 18:02:15,2026-07-08 18:05:25,general_unspecified_new_orders
+7050,TKT-USUDQSAI,1,21270,RAKESH93,9.0,closed,Kyc,New Order,0,2026-07-08 18:06:07,2026-07-08 18:13:03,general_unspecified_new_orders
+7052,TKT-NITUYHY3,1,4614,RAMHIT7,8.0,closed,for kyc,New Order,0,2026-07-08 18:41:19,2026-07-09 11:46:03,general_unspecified_new_orders
+7053,TKT-BZ4QNAP6,1,7890,HITESH,8.0,closed,for kyc,New Order,0,2026-07-08 18:47:25,2026-07-09 11:46:22,general_unspecified_new_orders
+7063,TKT-PI79JAEB,1,34468,RIDDHI3,8.0,closed,Kyc,New Order,0,2026-07-08 20:34:11,2026-07-09 11:46:43,general_unspecified_new_orders
+7066,TKT-2LWFNIVF,1,42213,BIRENDRA1986,8.0,closed,KYC RELETED,New Order,0,2026-07-08 21:37:18,2026-07-09 11:47:01,general_unspecified_new_orders
+7070,TKT-MGSWQMKG,1,32687,KAVYA1,8.0,closed,for kyc,New Order,0,2026-07-08 22:20:57,2026-07-09 11:47:08,general_unspecified_new_orders
+7074,TKT-S07B9SP7,1,34035,BHAVANA2,8.0,closed,for,New Order,0,2026-07-08 22:56:06,2026-07-09 11:51:14,general_unspecified_new_orders
+7076,TKT-29GZNXOA,1,32689,KAVYA2,8.0,closed,for kyc,New Order,0,2026-07-08 23:02:59,2026-07-09 11:47:12,general_unspecified_new_orders
+7077,TKT-T7PRJABR,1,34033,BHAVANA1,8.0,closed,for kyc,New Order,0,2026-07-08 23:07:30,2026-07-09 11:16:47,general_unspecified_new_orders
+7110,TKT-HO8VMEWW,1,17225,1SANDEEP3339,8.0,closed,KYC,New Order,0,2026-07-09 09:19:50,2026-07-09 11:06:14,general_unspecified_new_orders
+7125,TKT-F37U5D8I,1,14577,SINGH1200,8.0,closed,Kyc panding,New Order,0,2026-07-09 11:03:54,2026-07-09 11:05:11,general_unspecified_new_orders
+7127,TKT-Z3UTLIBU,1,35071,NAIMBHAI68,8.0,closed,Kyc,New Order,0,2026-07-09 11:38:40,2026-07-09 11:44:11,general_unspecified_new_orders
+7145,TKT-CCMSK4CQ,1,23862,SACHIN6,8.0,closed,For kyc,New Order,0,2026-07-09 13:15:15,2026-07-09 14:06:08,general_unspecified_new_orders
+7191,TKT-YLTAT7VI,1,50665,PUSHPA21,9.0,closed,For kyc,New Order,0,2026-07-09 18:45:34,2026-07-09 18:45:59,general_unspecified_new_orders
+7222,TKT-UXDW7U8J,1,12776,SUKHWANTXXX,8.0,closed,KYC,New Order,0,2026-07-10 02:48:25,2026-07-10 11:41:31,general_unspecified_new_orders
+7225,TKT-GVQBJZOX,1,7508,SG4359,8.0,closed,Kyc,New Order,0,2026-07-10 05:26:55,2026-07-10 11:41:35,general_unspecified_new_orders
+7254,TKT-PQOCKXRJ,1,2212,GANGI20,8.0,closed,Gangi20,New Order,0,2026-07-10 09:57:10,2026-07-13 14:44:05,general_unspecified_new_orders
+7330,TKT-782UGP7C,1,39387,SANDHU2004,8.0,closed,Kyc,New Order,0,2026-07-10 19:52:05,2026-07-13 14:35:24,general_unspecified_new_orders
+7361,TKT-KDAJVSG6,1,22233,PRINCE7979,9.0,closed,Atm card not received,New Order,0,2026-07-11 06:00:00,2026-07-13 16:55:45,general_unspecified_new_orders
+7412,TKT-MYFJA9RP,1,49348,TRADEUP,8.0,closed,Kyc,New Order,0,2026-07-11 12:52:07,2026-07-13 14:25:34,general_unspecified_new_orders
+7413,TKT-SYI3FC2U,1,49349,TRADEUP1,8.0,closed,Kyc,New Order,0,2026-07-11 12:55:33,2026-07-13 14:25:26,general_unspecified_new_orders
+7415,TKT-TUWJJZ7K,1,6818,RAJ2402,9.0,closed,commission,New Order,0,2026-07-11 13:00:06,2026-07-13 18:57:51,general_unspecified_new_orders
+7426,TKT-XSUN1QLB,1,53379,RAMAN02,8.0,closed,Kyc,New Order,0,2026-07-11 13:17:51,2026-07-13 12:29:20,general_unspecified_new_orders
+7428,TKT-UMJO8MBV,1,53918,JASHAN02,8.0,closed,Kyc,New Order,0,2026-07-11 13:26:55,2026-07-13 12:28:41,general_unspecified_new_orders
+7429,TKT-NBFKRHUC,1,53918,JASHAN02,8.0,closed,Kyc,New Order,0,2026-07-11 13:39:12,2026-07-13 12:27:41,general_unspecified_new_orders
+7433,TKT-0YFCK0ZT,1,45599,GOYAL4991,8.0,closed,Kyc update,New Order,0,2026-07-11 14:29:37,2026-07-13 12:27:22,general_unspecified_new_orders
+7506,TKT-6MDSSKGE,1,18583,JAGDISH5400,8.0,closed,Kyc panding,New Order,0,2026-07-12 06:21:58,2026-07-13 12:22:48,general_unspecified_new_orders
+7511,TKT-F8SEDOBP,1,34468,RIDDHI3,8.0,closed,Kyc,New Order,0,2026-07-12 07:50:36,2026-07-13 11:41:40,general_unspecified_new_orders
+7513,TKT-TNVMPNHU,1,60353,MILESTONE,8.0,closed,Update KYC,New Order,0,2026-07-12 08:50:41,2026-07-13 11:41:32,general_unspecified_new_orders
+7514,TKT-EMBNLHMQ,1,47013,DEVASHISH,8.0,solved,M20 Card,New Order,0,2026-07-12 08:54:02,2026-07-13 14:41:52,general_unspecified_new_orders
+7515,TKT-D5KCLF3U,1,14422,AKASH5440,8.0,closed,KYC,New Order,0,2026-07-12 09:02:07,2026-07-13 11:41:22,general_unspecified_new_orders
+7516,TKT-WIIYFAUR,1,13701,PANKAJ8987,10.0,open,Ebank withdrawal update date,New Order,0,2026-07-12 09:07:09,2026-07-13 14:52:52,general_unspecified_new_orders
+7517,TKT-XONZ3HRK,1,17957,1YOGESH,8.0,closed,KYC,New Order,0,2026-07-12 09:11:31,2026-07-13 11:41:14,general_unspecified_new_orders
+7530,TKT-V3MMI3NH,1,18870,LALITA102,8.0,closed,Kyc,New Order,0,2026-07-12 12:10:05,2026-07-13 11:29:40,general_unspecified_new_orders
+7556,TKT-SI3SVSM3,1,12991,RAMBATHG1,8.0,closed,For kyc,New Order,0,2026-07-12 16:15:51,2026-07-13 11:28:01,general_unspecified_new_orders
+7562,TKT-EX45BQAH,1,14257,DKUMAR44,9.0,closed,E Bank Withdrawal,New Order,0,2026-07-12 17:14:39,2026-07-13 14:05:35,general_unspecified_new_orders
+7575,TKT-ZPGYMDZX,1,43068,HARSHIT9653,8.0,closed,Kyc,New Order,0,2026-07-13 06:14:05,2026-07-13 10:50:49,general_unspecified_new_orders
+7607,TKT-OH7YSK7C,1,12059,GAGI53167,8.0,closed,KYC,New Order,0,2026-07-13 11:54:47,2026-07-13 11:58:26,general_unspecified_new_orders
+7609,TKT-KE2MSAKW,1,12084,LOVE53167,8.0,closed,KYC,New Order,0,2026-07-13 11:59:41,2026-07-13 12:22:38,general_unspecified_new_orders
+7628,TKT-OFPEJGGY,1,60353,MILESTONE,8.0,closed,Update KYC,New Order,0,2026-07-13 15:55:30,2026-07-13 15:57:18,general_unspecified_new_orders
+7631,TKT-0JFVA4YT,1,44632,HIMANSHU2005,9.0,closed,KYC RELETED,New Order,0,2026-07-13 16:38:43,2026-07-13 16:52:19,general_unspecified_new_orders
+7636,TKT-KLOTVHOF,1,53379,RAMAN02,8.0,closed,Kyc,New Order,0,2026-07-13 17:00:45,2026-07-14 10:44:24,general_unspecified_new_orders
+7639,TKT-FWA9SMAV,1,25992,RUBA07,8.0,closed,KYC,New Order,0,2026-07-13 17:07:14,2026-07-14 10:44:30,general_unspecified_new_orders
+7640,TKT-PXBRFSAU,1,48219,RUBA2700,8.0,closed,KYC,New Order,0,2026-07-13 17:08:21,2026-07-14 10:44:44,general_unspecified_new_orders
+7641,TKT-RJYONTTL,1,48220,1RUBA2700,8.0,closed,KYC,New Order,0,2026-07-13 17:09:18,2026-07-14 10:45:04,general_unspecified_new_orders
+7642,TKT-G2XC17CH,1,48221,2RUBA2700,8.0,closed,KYC,New Order,0,2026-07-13 17:10:14,2026-07-14 10:44:40,general_unspecified_new_orders
+7644,TKT-B9VFX9RB,1,25172,PANNA1464,8.0,closed,Kyc,New Order,0,2026-07-13 17:16:11,2026-07-14 10:44:54,general_unspecified_new_orders
+7645,TKT-POYS0SQ2,1,54954,PANNA6414,8.0,closed,Kyc,New Order,0,2026-07-13 17:19:28,2026-07-14 10:44:48,general_unspecified_new_orders
+7672,TKT-07VQQ9ZR,1,55008,BISMIL1287,8.0,closed,KYC,New Order,0,2026-07-13 23:20:50,2026-07-14 10:40:29,general_unspecified_new_orders
+7694,TKT-CHZFQZCX,1,51602,SALEHAASFAK,8.0,closed,About kyc,New Order,0,2026-07-14 08:20:07,2026-07-14 10:36:07,general_unspecified_new_orders
+7706,TKT-L2IC2AVN,1,37616,AMARENDRA1990,8.0,closed,KYC RELETED,New Order,0,2026-07-14 09:48:02,2026-07-14 10:35:17,general_unspecified_new_orders
+7716,TKT-VSSOCE4Y,1,18075,AKSH123,8.0,closed,Kyc Show  incomplete,New Order,0,2026-07-14 11:05:56,2026-07-14 11:37:51,general_unspecified_new_orders
+7752,TKT-ZV8DTI2T,1,54067,PROBOT710,9.0,closed,I still cannot access the Signal channel/group,New Order,0,2026-07-14 13:42:09,2026-07-15 18:32:55,general_unspecified_new_orders
+7774,TKT-4SQHYJHN,1,11924,RAMPLE1990,9.0,closed,Kyc panding,New Order,0,2026-07-14 16:56:03,2026-07-14 17:02:38,general_unspecified_new_orders
+7779,TKT-LTQ4LDLG,1,25389,SIDDIKFALAHI,9.0,closed,About kyc,New Order,0,2026-07-14 17:32:27,2026-07-14 18:15:09,general_unspecified_new_orders
+7811,TKT-HCVYMG0H,1,22701,RIDDHI1,10.0,open,Investment,New Order,0,2026-07-15 06:01:55,2026-07-15 12:05:23,general_unspecified_new_orders
+7843,TKT-1XUESWKP,1,39387,SANDHU2004,8.0,closed,Kyc,New Order,0,2026-07-15 11:43:33,2026-07-15 12:29:23,general_unspecified_new_orders
+7868,TKT-FSPYGVVQ,1,19454,NASIR100,8.0,closed,Hlo sir,New Order,0,2026-07-15 14:15:12,2026-07-15 14:29:20,general_unspecified_new_orders
+7882,TKT-LRO74A8V,1,45597,GOYAL04991,8.0,closed,KYC update,New Order,0,2026-07-15 15:45:16,2026-07-15 15:46:34,general_unspecified_new_orders
+7899,TKT-NNXSUF8X,1,54067,PROBOT710,9.0,closed,Please help Me,New Order,0,2026-07-15 18:19:59,2026-07-15 18:32:28,general_unspecified_new_orders
+7945,TKT-5NI4I570,1,17957,1YOGESH,8.0,closed,KYC,New Order,0,2026-07-16 05:43:12,2026-07-16 11:37:30,general_unspecified_new_orders
+7946,TKT-X2VKRH7Y,1,29922,2YOGESH,8.0,closed,KYC,New Order,0,2026-07-16 05:45:30,2026-07-16 11:37:16,general_unspecified_new_orders
+7947,TKT-BYFRIJUH,1,22081,JAYPRAKASHPASWAN,10.0,open,I have not received interest for the months of April to May.,New Order,0,2026-07-16 05:49:16,2026-07-16 11:40:22,general_unspecified_new_orders
+8041,TKT-ZFTMZ0AP,1,25992,RUBA07,9.0,closed,KYC,New Order,0,2026-07-16 18:41:07,2026-07-16 18:54:29,general_unspecified_new_orders
+8042,TKT-KXDEJIRT,1,40676,LADDU2000,9.0,closed,Update KYC,New Order,0,2026-07-16 18:44:27,2026-07-16 18:54:52,general_unspecified_new_orders
+8044,TKT-DJWJEKOF,1,48221,2RUBA2700,9.0,closed,KYC,New Order,0,2026-07-16 18:50:18,2026-07-16 18:54:36,general_unspecified_new_orders
+8045,TKT-CT187M3C,1,48219,RUBA2700,9.0,closed,KYC,New Order,0,2026-07-16 18:53:47,2026-07-16 18:54:45,general_unspecified_new_orders
+8047,TKT-Z8MK4IGT,1,24911,RANISINGH1978,8.0,closed,Kyc,New Order,0,2026-07-16 19:32:53,2026-07-17 11:00:30,general_unspecified_new_orders
+8056,TKT-ROMJ8WTE,1,22701,RIDDHI1,10.0,open,Reinvest,New Order,0,2026-07-16 21:28:04,2026-07-17 11:10:26,general_unspecified_new_orders
+8105,TKT-SQEAXG4O,1,15927,VARSHA01,8.0,closed,Rankable business volume,New Order,0,2026-07-17 10:55:12,2026-07-17 11:01:43,general_unspecified_new_orders
+8108,TKT-9KKXZ8QX,1,25836,NEEHARIKA2002,8.0,closed,Kyc,New Order,0,2026-07-17 11:30:39,2026-07-17 11:36:58,general_unspecified_new_orders
+8117,TKT-PH2DAQMG,1,45464,SHIVANGI101,8.0,closed,Kyc,New Order,0,2026-07-17 13:53:45,2026-07-17 14:24:35,general_unspecified_new_orders
+8118,TKT-8F0XOA1F,1,37525,SHIVANGI100,8.0,closed,Kyc,New Order,0,2026-07-17 13:55:49,2026-07-17 14:24:27,general_unspecified_new_orders
+8119,TKT-ZKY1QGYI,1,1910,BHAGWAT100,8.0,closed,Kyc,New Order,0,2026-07-17 13:57:43,2026-07-17 14:24:19,general_unspecified_new_orders
+8137,TKT-M6E7FGTJ,1,27684,BHAVANA,8.0,closed,for kyc,New Order,0,2026-07-17 16:27:14,2026-07-17 16:37:22,general_unspecified_new_orders
+8139,TKT-CP0J8EUD,1,27680,KAVYA,8.0,closed,for kyc,New Order,0,2026-07-17 16:30:19,2026-07-17 16:37:06,general_unspecified_new_orders
+8140,TKT-OEVAFVD0,1,38746,KALIKANT,8.0,closed,for kyc,New Order,0,2026-07-17 16:41:29,2026-07-20 11:00:22,general_unspecified_new_orders
+8142,TKT-EHPQKTDO,1,38907,RKUMARG,8.0,closed,for kyc,New Order,0,2026-07-17 16:47:09,2026-07-20 11:00:17,general_unspecified_new_orders
+8143,TKT-QWXHATFI,1,39001,SHANKARG,8.0,closed,for kyc,New Order,0,2026-07-17 16:54:19,2026-07-20 11:00:26,general_unspecified_new_orders
+8144,TKT-SX7XRPBF,1,39116,RKUMARI,8.0,closed,for kyc,New Order,0,2026-07-17 17:01:27,2026-07-20 11:00:29,general_unspecified_new_orders
+8164,TKT-YJWOLSNS,1,22818,USTAD,8.0,closed,Regarding kyc,New Order,0,2026-07-17 22:08:56,2026-07-20 11:01:41,general_unspecified_new_orders
+8165,TKT-OYNJ0S7R,1,23207,UMANG,8.0,closed,Regarding kyc,New Order,0,2026-07-17 22:11:24,2026-07-20 11:01:47,general_unspecified_new_orders
+8166,TKT-EPKOUTMZ,1,23496,UMANG01,8.0,closed,Regarding kyc,New Order,0,2026-07-17 22:13:05,2026-07-20 11:01:26,general_unspecified_new_orders
+8180,TKT-RZUPUJFP,1,25172,PANNA1464,8.0,closed,Kyc verification,New Order,0,2026-07-18 08:05:15,2026-07-20 11:02:04,general_unspecified_new_orders
+8185,TKT-8TKP2NUE,1,18075,AKSH123,8.0,closed,My kyc  Show is not complete,New Order,0,2026-07-18 09:32:24,2026-07-20 11:02:07,general_unspecified_new_orders
+8217,TKT-OXVSABKV,1,17833,NEGIJAGM,9.0,closed,M Card (Ticked Number TKT-KZYXLNDZ),New Order,0,2026-07-18 13:47:02,2026-07-20 19:26:05,general_unspecified_new_orders
+8220,TKT-C7XUEDBW,1,38881,RKSINGH01,8.0,closed,Update KYC,New Order,0,2026-07-18 15:28:34,2026-07-20 11:08:04,general_unspecified_new_orders
+8221,TKT-XV9XOKNN,1,16872,SHANTI123,9.0,closed,USDX wallet,New Order,0,2026-07-18 15:32:13,2026-07-20 19:26:20,general_unspecified_new_orders
+8223,TKT-UOYDEHA5,1,6474,DIPIKAPROBOTX,8.0,closed,KYC,New Order,0,2026-07-18 15:43:13,2026-07-20 11:07:44,general_unspecified_new_orders
+8224,TKT-V6YBIZBP,1,20333,SKM07,8.0,closed,KYC,New Order,0,2026-07-18 15:46:05,2026-07-20 11:08:08,general_unspecified_new_orders
+8251,TKT-6KUCMPBJ,1,60353,MILESTONE,8.0,closed,Update KYC,New Order,0,2026-07-19 04:49:30,2026-07-20 11:08:35,general_unspecified_new_orders
+8259,TKT-YLOD4YWM,1,37525,SHIVANGI100,8.0,closed,Kyc,New Order,0,2026-07-19 07:13:18,2026-07-20 11:09:20,general_unspecified_new_orders
+8297,TKT-89NFSCR9,1,39387,SANDHU2004,8.0,closed,Kyc,New Order,0,2026-07-19 17:56:45,2026-07-20 11:10:24,general_unspecified_new_orders
+8320,TKT-TUTK3UFQ,1,48219,RUBA2700,8.0,closed,Kyc,New Order,0,2026-07-20 00:26:47,2026-07-20 11:10:34,general_unspecified_new_orders
+8346,TKT-GVDRAWSZ,1,25172,PANNA1464,8.0,closed,Kyc,New Order,0,2026-07-20 15:13:27,2026-07-20 15:23:45,general_unspecified_new_orders
+8353,TKT-OH0YOTRO,1,54954,PANNA6414,9.0,closed,Kyc,New Order,0,2026-07-20 17:15:22,2026-07-21 14:41:08,general_unspecified_new_orders
+8355,TKT-UU4BTB0T,1,15009,PROBOXUS100,9.0,solved,🙏Username Sanfaraj user ID SANFARAJ01 email ID s2407499@gmail.com password Sanfaraj@1234 mobile number 8899431946 dear sir please My ID Sanfaraj Authentic court new generate please 🙏,New Order,0,2026-07-20 17:58:36,2026-08-06 14:54:04,general_unspecified_new_orders
+8371,TKT-JSXPIDYY,1,37506,SUBHU,8.0,closed,Kyc resubmit,New Order,0,2026-07-20 21:39:40,2026-07-21 11:45:05,general_unspecified_new_orders
+8388,TKT-BCXQWE2T,1,38881,RKSINGH01,8.0,closed,update kyac,New Order,0,2026-07-21 07:39:59,2026-07-21 11:56:32,general_unspecified_new_orders
+8389,TKT-HRHXLAUS,1,11124,DKYADAV007,8.0,closed,update kyc,New Order,0,2026-07-21 07:42:10,2026-07-21 11:44:05,general_unspecified_new_orders
+8390,TKT-BQBLBPYN,1,60363,MILESTON01,8.0,closed,update kyc,New Order,0,2026-07-21 07:52:28,2026-07-21 11:43:57,general_unspecified_new_orders
+8391,TKT-C30EJF3N,1,60377,MILESTONE02,8.0,closed,update kyc,New Order,0,2026-07-21 07:54:12,2026-07-21 11:44:38,general_unspecified_new_orders
+8392,TKT-UCFV2XCM,1,60380,MILESTONE03,8.0,closed,update kyc,New Order,0,2026-07-21 07:55:33,2026-07-21 11:46:01,general_unspecified_new_orders
+8393,TKT-OUUKX21G,1,60739,MILESTONE04,8.0,closed,update kyc,New Order,0,2026-07-21 07:57:14,2026-07-21 11:46:49,general_unspecified_new_orders
+8395,TKT-ZGRETFXT,1,42995,KAMLESH82,8.0,closed,Visa card,New Order,0,2026-07-21 08:16:37,2026-07-21 11:54:48,general_unspecified_new_orders
+8396,TKT-FXJQUA1Q,1,21661,PINTU1993,8.0,closed,KYC,New Order,0,2026-07-21 08:18:27,2026-07-21 11:45:30,general_unspecified_new_orders
+8397,TKT-E48LJLD8,1,39870,AADVIK,8.0,closed,KYC,New Order,0,2026-07-21 08:19:46,2026-07-21 11:45:15,general_unspecified_new_orders
+8398,TKT-CZFXRVJG,1,39871,AVISHKA,8.0,closed,KYC,New Order,0,2026-07-21 08:22:04,2026-07-21 11:46:06,general_unspecified_new_orders
+8399,TKT-SE9S0F3R,1,39875,SHARDHA553,8.0,closed,KYC,New Order,0,2026-07-21 08:23:17,2026-07-21 11:45:48,general_unspecified_new_orders
+8409,TKT-EZWKJWIW,1,30629,PROBOTNEELAM5400,8.0,closed,Kyc,New Order,0,2026-07-21 09:59:44,2026-07-21 11:46:15,general_unspecified_new_orders
+8421,TKT-YULXYYDX,1,37506,SUBHU,8.0,closed,Kyc update,New Order,0,2026-07-21 14:01:42,2026-07-21 14:21:55,general_unspecified_new_orders
+8423,TKT-6QCHFEGW,1,57195,VIJAYGUPTA,8.0,closed,For kyc,New Order,0,2026-07-21 15:02:39,2026-07-21 15:07:12,general_unspecified_new_orders
+8428,TKT-0OFIBK2P,1,60390,SKSAHU94,9.0,closed,Update KYC,New Order,0,2026-07-21 16:10:22,2026-07-21 16:10:45,general_unspecified_new_orders
+8429,TKT-X3SVWLBZ,1,60740,MILESTONE05,8.0,closed,Update KYC,New Order,0,2026-07-21 16:27:38,2026-07-21 16:40:39,general_unspecified_new_orders
+8438,TKT-RMDRVCR2,1,16323,ANAND1800,8.0,closed,Kyc pend6,New Order,0,2026-07-21 19:05:02,2026-07-22 11:23:29,general_unspecified_new_orders
+8444,TKT-QVGZJOK9,1,21939,SSCOIN,9.0,solved,Risdual income,New Order,0,2026-07-21 21:17:48,2026-07-22 14:40:59,general_unspecified_new_orders
+8450,TKT-1FR4ZK3J,1,60740,MILESTONE05,8.0,closed,Update KYC,New Order,0,2026-07-22 05:27:04,2026-07-22 11:22:49,general_unspecified_new_orders
+8456,TKT-VVNTJO4L,1,60740,MILESTONE05,8.0,closed,Update kyc,New Order,0,2026-07-22 08:09:11,2026-07-22 11:22:56,general_unspecified_new_orders
+8458,TKT-70JJG88T,1,22818,USTAD,8.0,closed,Regarding KYC Verification,New Order,0,2026-07-22 08:41:13,2026-07-22 11:23:16,general_unspecified_new_orders
+8466,TKT-V1MMBRLV,1,34468,RIDDHI3,8.0,closed,Kyc,New Order,0,2026-07-22 11:00:49,2026-07-22 11:21:46,general_unspecified_new_orders
+8485,TKT-F67LBNBG,1,60740,MILESTONE05,8.0,closed,Update KYC,New Order,0,2026-07-22 15:28:22,2026-07-22 15:38:49,general_unspecified_new_orders
+8523,TKT-SNQZRIWH,1,32138,RAJKUMAR001,9.0,closed,kyc,New Order,0,2026-07-23 06:47:01,2026-07-23 11:05:51,general_unspecified_new_orders
+8532,TKT-01BEUCQE,1,58374,HANUMANG1,9.0,closed,For kyc,New Order,0,2026-07-23 10:17:03,2026-07-23 11:06:17,general_unspecified_new_orders
+8538,TKT-0MGODVTF,1,60740,MILESTONE05,8.0,closed,update kyc,New Order,0,2026-07-23 11:30:14,2026-07-23 12:02:44,general_unspecified_new_orders
+8554,TKT-AUGM1VH8,1,60740,MILESTONE05,8.0,closed,Update kyc,New Order,0,2026-07-23 16:36:20,2026-07-23 16:41:41,general_unspecified_new_orders
+8585,TKT-H46QSEIU,1,60740,MILESTONE05,8.0,closed,update kyc,New Order,0,2026-07-24 07:46:08,2026-07-24 10:53:17,general_unspecified_new_orders
+8587,TKT-IELKKZVN,1,39875,SHARDHA553,8.0,closed,KYC,New Order,0,2026-07-24 08:12:43,2026-07-24 10:53:20,general_unspecified_new_orders
+8588,TKT-AXXICLHM,1,21661,PINTU1993,8.0,closed,KYC,New Order,0,2026-07-24 08:15:06,2026-07-24 10:53:34,general_unspecified_new_orders
+8589,TKT-BCK71OMI,1,39873,ASHOK553,8.0,closed,KYC,New Order,0,2026-07-24 08:17:25,2026-07-24 10:53:31,general_unspecified_new_orders
+8590,TKT-YZCBQABS,1,39870,AADVIK,8.0,closed,KYC,New Order,0,2026-07-24 08:19:30,2026-07-24 10:53:01,general_unspecified_new_orders
+8591,TKT-7PAECDEN,1,39875,SHARDHA553,8.0,closed,KYC,New Order,0,2026-07-24 08:21:41,2026-07-24 10:53:39,general_unspecified_new_orders
+8602,TKT-HF7QCKRH,1,34547,KHAIRE25,8.0,solved,Regarding M card,New Order,0,2026-07-24 12:50:08,2026-07-24 12:56:09,general_unspecified_new_orders
+8676,TKT-RUYWCSYF,1,44632,HIMANSHU2005,8.0,closed,KYC RELETED,New Order,0,2026-07-25 10:51:53,2026-07-27 11:38:39,general_unspecified_new_orders
+8678,TKT-O0W6YYXR,1,53821,MKW1,8.0,closed,KYC,New Order,0,2026-07-25 11:24:54,2026-07-27 11:38:27,general_unspecified_new_orders
+8679,TKT-UGRIDSR6,1,48219,RUBA2700,8.0,closed,Kyc,New Order,0,2026-07-25 11:47:05,2026-07-27 11:38:55,general_unspecified_new_orders
+8683,TKT-QM69ZXS9,1,25836,NEEHARIKA2002,8.0,closed,Kyc,New Order,0,2026-07-25 14:50:01,2026-07-27 11:39:19,general_unspecified_new_orders
+8696,TKT-MCZCM7ML,1,37616,AMARENDRA1990,8.0,closed,KYC RELETED,New Order,0,2026-07-25 17:05:39,2026-07-27 11:39:10,general_unspecified_new_orders
+8697,TKT-Z5TGMMSY,1,37616,AMARENDRA1990,8.0,closed,KYC RELETED,New Order,0,2026-07-25 17:06:03,2026-07-27 11:39:16,general_unspecified_new_orders
+8705,TKT-KOZBRFN8,1,59569,KAMLESHKHATI,8.0,closed,KYC RELETED,New Order,0,2026-07-25 18:27:29,2026-07-27 11:40:24,general_unspecified_new_orders
+8713,TKT-DGI1IMQD,1,17101,AARFA025,8.0,solved,KYC ok nahi hone k sambandh mai,New Order,0,2026-07-25 21:34:44,2026-07-27 11:26:20,general_unspecified_new_orders
+8714,TKT-DYKHAU2P,1,33630,NANCY100,8.0,closed,Kyc,New Order,0,2026-07-25 21:36:11,2026-07-27 11:40:01,general_unspecified_new_orders
+8715,TKT-AEJCBHFS,1,11124,DKYADAV007,8.0,closed,Update kyc,New Order,0,2026-07-25 21:52:33,2026-07-27 11:40:11,general_unspecified_new_orders
+8739,TKT-GJED6VLZ,1,25172,PANNA1464,8.0,closed,Kyc verification,New Order,0,2026-07-26 07:33:17,2026-07-27 11:40:46,general_unspecified_new_orders
+8748,TKT-DFVK2CPZ,1,47860,MKING,8.0,closed,KYC,New Order,0,2026-07-26 09:24:35,2026-07-27 12:01:31,general_unspecified_new_orders
+8752,TKT-UTHQDB6H,1,28915,RAHULK1995,8.0,closed,KYC,New Order,0,2026-07-26 10:28:46,2026-07-27 11:40:53,general_unspecified_new_orders
+8762,TKT-8SJ8ACRX,1,16613,HAMZA480,8.0,closed,KYC,New Order,0,2026-07-26 11:46:02,2026-07-27 11:40:39,general_unspecified_new_orders
+8766,TKT-Q1HXZ63N,1,19454,NASIR100,8.0,closed,Hlo sir,New Order,0,2026-07-26 12:44:47,2026-07-27 12:25:07,general_unspecified_new_orders
+8809,TKT-U7RLVBUB,1,1981,MANU2402,8.0,solved,telegram,New Order,0,2026-07-27 07:38:39,2026-07-27 12:53:07,general_unspecified_new_orders
+8813,TKT-1EBYI6GP,1,11124,DKYADAV007,8.0,closed,Update kyc,New Order,0,2026-07-27 08:52:25,2026-07-27 12:02:19,general_unspecified_new_orders
+8839,TKT-CHWKTZ6A,1,20043,SINGLA752,8.0,closed,Kyc update,New Order,0,2026-07-27 12:15:34,2026-07-27 12:16:59,general_unspecified_new_orders
+8844,TKT-WHKNRU2Q,1,38948,BHAGWANT024,8.0,closed,KYC UPDATE please,New Order,0,2026-07-27 13:56:12,2026-07-27 14:11:56,general_unspecified_new_orders
+8858,TKT-4QJ5RZ7D,1,16492,AASHIA1,9.0,solved,Resend google authenticator,New Order,0,2026-07-27 17:00:35,2026-07-29 21:38:28,general_unspecified_new_orders
+8865,TKT-ECRLLINV,1,54954,PANNA6414,8.0,closed,Kyc,New Order,0,2026-07-27 18:05:21,2026-07-28 11:18:18,general_unspecified_new_orders
+8866,TKT-ETYUGGGE,1,25172,PANNA1464,8.0,closed,Kyc,New Order,0,2026-07-27 18:08:59,2026-07-28 11:18:24,general_unspecified_new_orders
+8884,TKT-DXYZTX6Z,1,58625,ARPIT21,9.0,solved,Check referral id,New Order,0,2026-07-27 22:03:52,2026-08-06 17:00:48,general_unspecified_new_orders
+8885,TKT-NCDNAWJQ,1,34468,RIDDHI3,8.0,closed,Kyc,New Order,0,2026-07-27 22:14:01,2026-07-28 11:18:21,general_unspecified_new_orders
+8888,TKT-SANCO5UL,1,47860,MKING,8.0,closed,KYC,New Order,0,2026-07-27 23:41:05,2026-07-29 11:23:31,general_unspecified_new_orders
+8914,TKT-JZQ3X7MO,2,277379,MONIKA082,8.0,solved,Transfer,New Order,0,2026-07-28 11:37:32,2026-07-28 11:44:36,general_unspecified_new_orders
+8923,TKT-PC94H8C1,1,22081,JAYPRAKASHPASWAN,8.0,solved,Intrest not credit,New Order,0,2026-07-28 13:31:45,2026-07-28 13:46:22,general_unspecified_new_orders
+8944,TKT-DMW85QVR,1,19902,RAVIG,8.0,closed,For kyc,New Order,0,2026-07-28 20:06:20,2026-07-29 11:22:14,general_unspecified_new_orders
+8961,TKT-MTO2DZHQ,1,57034,SUMITG,8.0,closed,For kyc,New Order,0,2026-07-29 07:19:50,2026-07-29 11:22:37,general_unspecified_new_orders
+9009,TKT-IWDAURKD,1,58869,GH902,8.0,closed,KYC,New Order,0,2026-07-29 19:06:42,2026-07-30 11:40:53,general_unspecified_new_orders
+9033,TKT-OSQQL5NN,1,47385,BHAV01,8.0,closed,Ebank,New Order,0,2026-07-30 06:55:22,2026-07-30 14:11:20,general_unspecified_new_orders
+9034,TKT-LW0MKMSB,1,47407,BHAV02,8.0,solved,Ebank,New Order,0,2026-07-30 06:59:43,2026-07-30 14:11:14,general_unspecified_new_orders
+9048,TKT-MKKJGXTU,1,22081,JAYPRAKASHPASWAN,9.0,closed,Interest from April to May has not been received,New Order,0,2026-07-30 12:26:07,2026-07-30 15:07:46,general_unspecified_new_orders
+9062,TKT-VBW7GJWD,1,44112,HIMU01,9.0,closed,About excutive rank,New Order,0,2026-07-30 17:20:44,2026-07-30 17:50:56,general_unspecified_new_orders
+9071,TKT-THGHGJ6N,2,79227,SHIV18,10.0,open,Kyc,New Order,0,2026-07-30 18:29:50,2026-07-31 15:43:38,general_unspecified_new_orders
+9081,TKT-1MHLRJGS,1,34468,RIDDHI3,9.0,closed,Reinvest,New Order,0,2026-07-30 21:38:32,2026-07-31 15:36:18,general_unspecified_new_orders
+9149,TKT-7YIR92KS,1,25126,AVINASHG,8.0,closed,Kyc,New Order,0,2026-07-31 17:14:21,2026-08-03 11:01:48,general_unspecified_new_orders
+9164,TKT-5ULGEMPE,1,51653,GAGI3167,8.0,closed,KYC,New Order,0,2026-07-31 19:59:23,2026-08-03 11:01:57,general_unspecified_new_orders
+9179,TKT-QNC0LJRV,2,531750,SHREE3,8.0,closed,Kyc,New Order,0,2026-08-01 06:43:24,2026-08-03 11:02:24,general_unspecified_new_orders
+9183,TKT-5H4YCXXM,2,322252,SIV11,8.0,closed,KYC,New Order,0,2026-08-01 08:01:13,2026-08-03 11:02:13,general_unspecified_new_orders
+9186,TKT-DPH0VF8E,2,718250,SHREE4,8.0,closed,Kyc,New Order,0,2026-08-01 08:50:44,2026-08-03 11:02:16,general_unspecified_new_orders
+9207,TKT-ZJSFRWXW,1,55915,VIJAYG85,8.0,closed,For kyc,New Order,0,2026-08-01 13:24:23,2026-08-03 11:02:54,general_unspecified_new_orders
+9230,TKT-606KGR6I,1,48979,P01CR,8.0,closed,kyc update,New Order,0,2026-08-01 19:22:06,2026-08-03 11:02:38,general_unspecified_new_orders
+9266,TKT-NXSQWNPD,1,25836,NEEHARIKA2002,8.0,closed,Kyc,New Order,0,2026-08-02 10:26:15,2026-08-03 11:03:25,general_unspecified_new_orders
+9267,TKT-UNFGSDWD,1,22081,JAYPRAKASHPASWAN,8.0,closed,Withdrawal,New Order,0,2026-08-02 10:26:28,2026-08-12 17:00:03,general_unspecified_new_orders
+9281,TKT-ZLLVA25J,2,425878,AKY47,8.0,closed,KYC issu,New Order,0,2026-08-02 13:04:17,2026-08-03 11:03:46,general_unspecified_new_orders
+9283,TKT-OZE8CHUG,1,19458,HASEENA100,8.0,closed,Hlo sir,New Order,0,2026-08-02 13:33:39,2026-08-03 12:16:28,general_unspecified_new_orders
+9289,TKT-ZKAZPRD1,1,20040,HARDARILAL100,8.0,closed,Hlo sir,New Order,0,2026-08-02 14:19:43,2026-08-03 12:02:07,general_unspecified_new_orders
+9290,TKT-HW6ZFHNQ,1,61315,JAINALRP02,8.0,closed,ID jainalRPO,New Order,0,2026-08-02 14:26:54,2026-08-03 12:06:10,general_unspecified_new_orders
+9294,TKT-GLQ7YYL5,1,48587,GANPATI1994,8.0,closed,Update KYC,New Order,0,2026-08-02 15:39:25,2026-08-03 11:03:56,general_unspecified_new_orders
+9295,TKT-ZDJXT79P,1,11124,DKYADAV007,8.0,closed,Update KYC,New Order,0,2026-08-02 16:13:41,2026-08-03 11:03:32,general_unspecified_new_orders
+9340,TKT-L7CLLMBA,1,40182,PRACHI1,8.0,closed,Rasudual,New Order,0,2026-08-03 10:44:29,2026-08-03 12:37:33,general_unspecified_new_orders
+9347,TKT-6J5ONLBI,1,3237,KINJAL97,8.0,closed,W36 intro bounce,New Order,0,2026-08-03 11:49:14,2026-08-03 11:56:32,general_unspecified_new_orders
+9356,TKT-1K1HID57,1,17243,PRIYANKA1996,8.0,closed,Whitelisted wallet address not showing in ebank,New Order,0,2026-08-03 15:15:30,2026-08-03 15:17:32,general_unspecified_new_orders
+9382,TKT-LSHS9YRU,1,39871,AVISHKA,8.0,closed,KYC,New Order,0,2026-08-04 00:00:37,2026-08-04 11:00:25,general_unspecified_new_orders
+9384,TKT-FLK7SLR3,1,39870,AADVIK,8.0,closed,KYC,New Order,0,2026-08-04 00:02:08,2026-08-04 11:00:19,general_unspecified_new_orders
+9385,TKT-LAGZZANL,1,21661,PINTU1993,8.0,closed,KYC,New Order,0,2026-08-04 00:03:42,2026-08-04 11:00:14,general_unspecified_new_orders
+9386,TKT-V9TAEMNG,1,39873,ASHOK553,8.0,closed,KYC,New Order,0,2026-08-04 00:05:16,2026-08-04 11:00:10,general_unspecified_new_orders
+9387,TKT-KI5IPBEN,1,39875,SHARDHA553,8.0,closed,KYC,New Order,0,2026-08-04 00:06:24,2026-08-04 11:00:04,general_unspecified_new_orders
+9397,TKT-WT7EW61Y,2,692623,VVIP5,8.0,closed,KYC,New Order,0,2026-08-04 05:35:30,2026-08-04 10:40:19,general_unspecified_new_orders
+9398,TKT-S8NPSM7Z,1,48587,GANPATI1994,8.0,closed,Update KYC,New Order,0,2026-08-04 07:16:24,2026-08-04 10:40:12,general_unspecified_new_orders
+9415,TKT-YE4TGYQX,2,609756,SRVN15,8.0,closed,Kyc,New Order,0,2026-08-04 11:18:14,2026-08-04 11:34:42,general_unspecified_new_orders
+9416,TKT-33UXQZZV,2,579558,SRVN14,8.0,closed,Kyc,New Order,0,2026-08-04 11:23:38,2026-08-04 11:34:31,general_unspecified_new_orders
+9426,TKT-ROGVRGDX,2,504935,SRVN12,8.0,closed,Kyc issu,New Order,0,2026-08-04 12:02:05,2026-08-04 12:03:36,general_unspecified_new_orders
+9446,TKT-BYYAIQJM,1,25172,PANNA1464,8.0,closed,Kyc,New Order,0,2026-08-04 16:50:58,2026-08-05 10:19:53,general_unspecified_new_orders
+9449,TKT-TKWLUVDX,1,17833,NEGIJAGM,8.0,solved,M20 Card (Ticked Number TKT-KZYXLNDZ),New Order,0,2026-08-04 17:17:43,2026-08-06 10:50:28,general_unspecified_new_orders
+9514,TKT-7R6ZUDMJ,1,5306,ROYAR20,8.0,closed,Settlements,New Order,0,2026-08-05 11:02:05,2026-08-05 11:22:03,general_unspecified_new_orders
+9582,TKT-8YN6G7WK,2,531174,REENA5314,8.0,closed,Withdrawal,New Order,0,2026-08-05 21:06:48,2026-08-06 12:01:43,general_unspecified_new_orders
+9584,TKT-LESHW3UK,1,2523,SKLIFE1700,8.0,closed,Offer,New Order,0,2026-08-05 21:52:40,2026-08-06 10:37:53,general_unspecified_new_orders
+9623,TKT-PWEPYQ5M,1,7611,RAHK111986,8.0,solved,M20 Card,New Order,0,2026-08-06 16:14:09,2026-08-06 16:19:45,general_unspecified_new_orders
+9670,TKT-0SSAS4ZT,1,11124,DKYADAV007,8.0,closed,Update kyc,New Order,0,2026-08-07 08:17:06,2026-08-07 10:55:49,general_unspecified_new_orders
+9675,TKT-SXR8QLIF,2,621425,RAV555,8.0,closed,Kyc,New Order,0,2026-08-07 09:09:06,2026-08-07 10:54:38,general_unspecified_new_orders
+9684,TKT-NN1EYOUK,2,621425,RAV555,8.0,closed,KYC,New Order,0,2026-08-07 12:00:09,2026-08-07 14:37:20,general_unspecified_new_orders
+9695,TKT-TVC4PFH1,1,14514,TEAMAMBITION15,8.0,closed,Regarding TKT-NB9JJZHR,New Order,0,2026-08-07 14:37:09,2026-08-07 14:39:20,general_unspecified_new_orders
+9703,TKT-XJXYZWWW,1,42858,BYRAMDAS,9.0,closed,KYC submit karne ke bad bhi hua nahin Hai,New Order,0,2026-08-07 16:49:39,2026-08-07 17:50:06,general_unspecified_new_orders
+9803,TKT-AHHM0W2A,2,517371,RAV222,8.0,closed,Kyc,New Order,0,2026-08-08 15:41:46,2026-08-10 11:06:06,general_unspecified_new_orders
+9845,TKT-H70LCFAY,1,11124,DKYADAV007,8.0,closed,Update KYC,New Order,0,2026-08-09 09:19:26,2026-08-10 11:07:00,general_unspecified_new_orders
+9852,TKT-VBUOOJ7M,2,517371,RAV222,8.0,closed,KYC,New Order,0,2026-08-09 11:03:09,2026-08-10 11:06:55,general_unspecified_new_orders
+9867,TKT-WQIV5W9Z,1,51653,GAGI3167,8.0,closed,KYC,New Order,0,2026-08-09 16:21:25,2026-08-10 11:11:45,general_unspecified_new_orders
+9903,TKT-CF0DGPV8,1,2212,GANGI20,8.0,solved,Settlement dollar,New Order,0,2026-08-10 07:38:50,2026-08-11 14:02:05,general_unspecified_new_orders
+9931,TKT-V4MANDEU,1,61965,RRAVIBTU1,8.0,solved,Mcard email not recived,New Order,0,2026-08-10 17:56:45,2026-08-11 14:03:24,general_unspecified_new_orders
+9932,TKT-DSVT6KNE,1,61967,RRAVIBTU2,8.0,solved,Claiming of MCard email not recived yet,New Order,0,2026-08-10 18:01:34,2026-08-11 12:38:30,general_unspecified_new_orders
+9990,TKT-XJESP2IM,1,7475,GKN,8.0,solved,Mcard,New Order,0,2026-08-12 07:04:24,2026-08-12 10:25:51,general_unspecified_new_orders
+9999,TKT-TGGGUSP7,1,13701,PANKAJ8987,8.0,solved,Mcard order,New Order,0,2026-08-12 14:04:11,2026-08-12 15:25:11,general_unspecified_new_orders
+10011,TKT-IVD94XGL,1,56271,TEAMJMD4,8.0,closed,M CARD,New Order,0,2026-08-12 17:41:30,2026-08-13 14:30:59,general_unspecified_new_orders
+10047,TKT-CQWENERR,1,9967,RPG1964,8.0,solved,KYC regarding,New Order,0,2026-08-13 15:51:56,2026-08-13 15:54:19,general_unspecified_new_orders
+10108,TKT-FS0WDHQK,1,13994,PK9415,8.0,closed,Rank riward,New Order,0,2026-08-14 13:06:16,2026-08-17 11:04:21,general_unspecified_new_orders
+10113,TKT-3HH8TKKP,1,39443,GHAZI2024,8.0,solved,Please help me,New Order,0,2026-08-14 13:20:02,2026-08-17 18:16:05,general_unspecified_new_orders
+10114,TKT-Z2U4B6QY,2,286667,RAK11111,8.0,closed,Kyc,New Order,0,2026-08-14 13:20:55,2026-08-17 10:30:47,general_unspecified_new_orders
+10187,TKT-UJBNIQ4W,1,150,JANKIY,8.0,closed,Comission,New Order,0,2026-08-15 13:08:37,2026-08-17 17:36:13,general_unspecified_new_orders
+10308,TKT-0GFYS5NU,1,15713,MAHBUB026,8.0,closed,36 usd is missing,New Order,0,2026-08-17 15:43:57,2026-08-17 18:05:48,general_unspecified_new_orders
+10309,TKT-XAABRWQC,1,2285,AADI,8.0,closed,E Bank showing in minus,New Order,0,2026-08-17 15:43:59,2026-08-17 15:47:00,general_unspecified_new_orders
+10311,TKT-1DZHIWEP,2,404883,SKF7,10.0,open,Update,New Order,0,2026-08-17 17:21:43,2026-08-17 17:22:54,general_unspecified_new_orders
+10373,TKT-TN4PCK4F,1,32635,ANKIT1997,8.0,solved,Regarding missunderstanding,New Order,0,2026-08-18 12:54:59,2026-08-18 16:49:19,general_unspecified_new_orders
+10376,TKT-60N5U98W,1,24356,AK2004,8.0,closed,Regarding misunderstanding,New Order,0,2026-08-18 13:14:51,2026-08-18 16:12:57,general_unspecified_new_orders
+10381,TKT-YLBR7DA0,1,60093,DEV100CR,8.0,solved,wallet addrese not complete,New Order,0,2026-08-18 13:56:56,2026-08-18 15:10:08,general_unspecified_new_orders
+10416,TKT-54MSLI2S,2,727866,LOLO73,8.0,closed,KYC,New Order,0,2026-08-19 02:43:57,2026-08-19 11:32:25,general_unspecified_new_orders
+10464,TKT-EQUV6RNJ,1,13666,VELDANDI01,8.0,closed,Required for,New Order,0,2026-08-20 00:36:11,2026-08-20 12:02:54,general_unspecified_new_orders
+10500,TKT-X9UCOLN1,1,39045,MOIJ666,8.0,closed,My frofit,New Order,0,2026-08-20 16:48:22,2026-08-20 17:05:19,general_unspecified_new_orders
+10501,TKT-CAKNOV2C,1,46046,DHANA3,9.0,closed,Need More clarification,New Order,0,2026-08-20 17:42:09,2026-08-20 18:49:58,general_unspecified_new_orders
+10562,TKT-ADEMVBSN,1,7842,IMGUPTESH2,8.0,open,Visa card,New Order,0,2026-08-21 18:18:11,2026-09-06 10:10:43,general_unspecified_new_orders
+10625,TKT-JHKIJ9M3,1,44383,HIMU09,8.0,solved,About settlement,New Order,0,2026-08-23 08:59:27,2026-08-31 15:40:24,general_unspecified_new_orders
+10716,TKT-PZ6KLNW2,1,47860,MKING,8.0,closed,Cheat not transparent,New Order,0,2026-08-24 23:42:33,2026-08-25 14:36:21,general_unspecified_new_orders
+10717,TKT-LRIXS2KD,1,47860,MKING,8.0,closed,Cheat not transparent,New Order,0,2026-08-24 23:43:00,2026-08-25 14:36:30,general_unspecified_new_orders
+10718,TKT-BGB8F842,1,47860,MKING,8.0,closed,0not transparent,New Order,0,2026-08-24 23:43:38,2026-08-25 14:36:42,general_unspecified_new_orders
+10722,TKT-0RAFTGLE,2,95582,YADAV444,8.0,closed,KYC,New Order,0,2026-08-25 01:53:39,2026-08-25 11:34:19,general_unspecified_new_orders
+10736,TKT-JHGM2JQH,1,13701,PANKAJ8987,8.0,solved,M20 card,New Order,0,2026-08-25 10:05:40,2026-08-25 11:30:01,general_unspecified_new_orders
+10755,TKT-OB8PRFG0,2,511153,MEDICAL2,8.0,closed,Kyc,New Order,0,2026-08-25 15:13:14,2026-08-25 15:29:07,general_unspecified_new_orders
+10779,TKT-30SLVPPS,1,47860,MKING,8.0,solved,Remove -18$,New Order,0,2026-08-26 05:00:59,2026-08-27 14:02:04,general_unspecified_new_orders
+10780,TKT-KT7CQQEA,1,47860,MKING,8.0,solved,Remove -18$,New Order,0,2026-08-26 05:01:35,2026-08-27 14:02:38,general_unspecified_new_orders
+10787,TKT-TQ453U4F,1,12196,SONPRO,9.0,closed,Welth25,New Order,0,2026-08-26 09:51:44,2026-08-27 16:49:50,general_unspecified_new_orders
+10812,TKT-5DX5CZEK,1,40257,NICE2,9.0,solved,Recuduwal not received,New Order,0,2026-08-26 21:05:07,2026-08-27 16:01:17,general_unspecified_new_orders
+10837,TKT-6G50IK1O,1,47860,MKING,8.0,closed,Please no more stories,New Order,0,2026-08-27 10:13:52,2026-08-27 14:07:04,general_unspecified_new_orders
+10884,TKT-NINIZGK1,1,12196,SONPRO,9.0,closed,Welth25 Auto re invest SIP,New Order,0,2026-08-28 02:47:03,2026-08-31 17:53:31,general_unspecified_new_orders
+10929,TKT-M5ZLEQDL,1,40257,NICE2,9.0,solved,Recuduwal according welth36,New Order,0,2026-08-29 01:43:29,2026-08-31 17:27:21,general_unspecified_new_orders
+10941,TKT-Y6LJQDAI,2,80701,REENA541,8.0,closed,Kyc,New Order,0,2026-08-29 13:58:42,2026-08-31 12:39:50,general_unspecified_new_orders
+10942,TKT-F8NQIFII,2,749798,NAT55,8.0,closed,Kyc,New Order,0,2026-08-29 14:16:27,2026-08-31 12:39:42,general_unspecified_new_orders
+10943,TKT-SEAGUVY9,2,640981,SUNI2,10.0,open,All complete deta,New Order,0,2026-08-29 15:11:36,2026-08-31 17:45:48,general_unspecified_new_orders
+10944,TKT-NLFRQZC0,2,425523,YADU44,8.0,closed,Kyc,New Order,0,2026-08-29 15:30:35,2026-08-31 12:39:32,general_unspecified_new_orders
+10986,TKT-C4D0AOJR,1,24356,AK2004,4.0,solved,Regarding change contact number,New Order,0,2026-08-30 20:28:16,2026-08-31 11:49:56,general_unspecified_new_orders
+11030,TKT-DAY85QJA,1,11707,MANISH1992,9.0,solved,Update KYC,New Order,0,2026-09-01 07:46:32,2026-09-02 16:24:32,general_unspecified_new_orders
+11049,TKT-KZCZZTLH,1,11707,MANISH1992,8.0,closed,Update kyc,New Order,0,2026-09-01 12:43:43,2026-09-02 10:43:56,general_unspecified_new_orders
+11121,TKT-G30DJIPD,1,53829,MAVIYAADAS,8.0,closed,About kuc,New Order,0,2026-09-03 09:08:20,2026-09-03 11:13:43,general_unspecified_new_orders
+11122,TKT-J2F34VW0,1,5857,AQUIL55,8.0,solved,Kering  forward business,New Order,0,2026-09-03 09:17:31,2026-09-03 13:55:40,general_unspecified_new_orders
+11142,TKT-XHZGUP41,2,626506,IJ90,9.0,closed,Voucher,New Order,0,2026-09-03 18:59:08,2026-09-04 22:13:05,general_unspecified_new_orders
+11145,TKT-SJJUXEQL,1,52867,IMTIYAJ986258GMAILCOM,10.0,open,Voucher,New Order,0,2026-09-03 19:09:11,2026-09-04 16:26:42,general_unspecified_new_orders
+11158,TKT-FFX3R2SO,1,56271,TEAMJMD4,8.0,solved,MCard,New Order,0,2026-09-03 22:24:23,2026-09-04 12:26:11,general_unspecified_new_orders
+11161,TKT-QN62FJUL,1,22081,JAYPRAKASHPASWAN,8.0,open,Intrest not credited,New Order,0,2026-09-04 04:32:41,2026-09-04 12:00:33,general_unspecified_new_orders

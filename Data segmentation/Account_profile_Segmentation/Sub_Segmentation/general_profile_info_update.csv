@@ -1,0 +1,80 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+46,TKT-XJPPTNWQ,1,18079,JAISHREEKRISHNA,3.0,closed,Executive Rank Not Updated,Account Profile,0,2026-01-31 00:17:04,2026-02-02 12:31:34,general_profile_info_update
+55,TKT-HWFMJ24A,1,2904,PMYADAV,8.0,closed,PCM UPDATE,Account Profile,0,2026-01-31 23:57:09,2026-02-02 12:17:29,general_profile_info_update
+232,TKT-SGQYUTNY,1,16411,IRSAD123,9.0,solved,RANK NOT UPDATE,Account Profile,0,2026-02-18 21:33:15,2026-02-20 11:58:25,general_profile_info_update
+365,TKT-BCTFV6HY,1,12372,GORIA9833,9.0,solved,Rank update,Account Profile,0,2026-03-01 08:34:08,2026-03-02 15:10:17,general_profile_info_update
+366,TKT-HCWWNYKE,1,36020,RAFIQUL51,9.0,solved,Not update Executive level,Account Profile,0,2026-03-01 11:17:05,2026-03-02 15:11:07,general_profile_info_update
+397,TKT-V3FGRBPB,1,2646,PINTU0007,9.0,closed,Update My Rank,Account Profile,0,2026-03-03 09:01:36,2026-03-03 13:36:41,general_profile_info_update
+491,TKT-ARMLMBBY,1,36020,RAFIQUL51,8.0,solved,My level not update plz update my Executive level,Account Profile,0,2026-03-11 07:50:58,2026-03-13 11:37:58,general_profile_info_update
+624,TKT-U6TLUKEV,1,14767,GAURAV9651,9.0,closed,Account update rank,Account Profile,0,2026-03-18 09:18:40,2026-03-18 12:30:54,general_profile_info_update
+725,TKT-U95O3RGJ,1,614,STR2,8.0,closed,Rank Not Updated from Downline ( BV is 34600),Account Profile,0,2026-03-24 19:22:05,2026-03-25 13:32:38,general_profile_info_update
+750,TKT-PE9GCG4G,1,36020,RAFIQUL51,9.0,closed,My level not update plz update my Executive level,Account Profile,0,2026-03-26 17:35:08,2026-03-26 17:51:59,general_profile_info_update
+784,TKT-1QCRVZPW,1,38946,RSN,9.0,closed,MCOIN not deposited on BingX exchange,Account Profile,0,2026-03-28 13:58:48,2026-04-13 11:57:39,general_profile_info_update
+785,TKT-1Z1LICPS,1,614,STR2,9.0,closed,Mcoin qty 5908 not deposited on BingX exchange,Account Profile,0,2026-03-28 14:03:41,2026-04-13 11:57:31,general_profile_info_update
+824,TKT-SM7CYQGF,2,173850,ADNAN2P,4.0,closed,Change emil id,Account Profile,0,2026-04-02 12:57:19,2026-08-19 16:30:40,general_profile_info_update
+842,TKT-NRSZGCSU,2,213737,ROSHNI623,4.0,closed,Profile,Account Profile,0,2026-04-03 19:11:33,2026-08-19 16:30:20,general_profile_info_update
+908,TKT-U8CZICPO,1,17366,JASIM20,9.0,closed,Rank update,Account Profile,0,2026-04-08 15:35:24,2026-04-13 16:37:51,general_profile_info_update
+1110,TKT-TDRZAROB,1,2646,PINTU0007,8.0,closed,UPDATE MY RANK,Account Profile,0,2026-04-19 10:31:02,2026-04-22 13:43:24,general_profile_info_update
+1117,TKT-NHOZQ4Q1,1,3105,ZR20,8.0,solved,Rank update,Account Profile,0,2026-04-19 14:27:26,2026-04-20 11:47:50,general_profile_info_update
+1256,TKT-LZCO3DKG,1,5506,SHANTI1998,8.0,closed,Update my rank,Account Profile,0,2026-04-23 19:52:30,2026-04-24 12:26:42,general_profile_info_update
+1540,TKT-YK5V1NV2,1,25080,HEAVEN,3.0,closed,No change,Account Profile,0,2026-05-06 16:52:18,2026-06-03 18:07:52,general_profile_info_update
+1863,TKT-R0DZSCEC,1,44015,GURJANT65,8.0,closed,changement in date of birth,Account Profile,0,2026-05-22 11:33:33,2026-05-22 11:54:46,general_profile_info_update
+2003,TKT-A1EEBWD5,1,19626,ADNAN01,9.0,closed,Rank Update,Account Profile,0,2026-05-24 22:55:50,2026-05-29 10:54:38,general_profile_info_update
+2346,TKT-YPA9GJZV,2,765114,NITU39,8.0,closed,Mcoin not updated,Account Profile,0,2026-05-31 23:28:44,2026-06-01 12:42:25,general_profile_info_update
+2955,TKT-VWHUJ586,1,3105,ZR20,9.0,solved,Rank update,Account Profile,0,2026-06-09 17:51:48,2026-06-09 18:00:48,general_profile_info_update
+3006,TKT-DYVZJMIF,1,360,KHUSHNUMA007,8.0,closed,Rank Update,Account Profile,0,2026-06-10 14:33:09,2026-06-10 14:36:31,general_profile_info_update
+3049,TKT-GUSQ9NAH,1,19379,SGG05CR,9.0,solved,Pls update my rank,Account Profile,0,2026-06-11 09:18:41,2026-06-12 12:47:07,general_profile_info_update
+3172,TKT-8OAQMQWV,1,9256,SRG11CR,9.0,solved,Pls update my manager rank,Account Profile,0,2026-06-13 09:28:04,2026-06-16 14:52:33,general_profile_info_update
+3204,TKT-TDYSLQ2R,1,4986,KANCHAN121,9.0,closed,Rank Update on My Dashboard,Account Profile,0,2026-06-13 17:12:28,2026-06-22 13:52:28,general_profile_info_update
+3336,TKT-WUOHVSK6,2,134046,BH3132,8.0,closed,Details of withdrawal,Account Profile,0,2026-06-15 16:04:09,2026-06-15 16:10:41,general_profile_info_update
+3348,TKT-8BWZXPXQ,1,4441,22555,8.0,closed,Leger bailance update,Account Profile,0,2026-06-15 17:51:29,2026-06-16 12:48:49,general_profile_info_update
+3426,TKT-JZU2KALA,2,404488,KOML2,8.0,closed,Profile,Account Profile,0,2026-06-16 20:45:41,2026-06-17 12:42:59,general_profile_info_update
+3432,TKT-GWDXT4GH,1,5115,RKMISHRA99,9.0,solved,My rank not updated,Account Profile,0,2026-06-16 22:47:35,2026-06-18 13:32:06,general_profile_info_update
+3462,TKT-H7K4BWMP,2,404488,KOML2,8.0,solved,Update profile,Account Profile,0,2026-06-17 10:03:57,2026-06-17 10:49:42,general_profile_info_update
+3681,TKT-5NLODYO9,1,14349,ABHISHEKJ007,8.0,closed,New Update PPT,Account Profile,0,2026-06-17 19:58:22,2026-06-18 13:30:20,general_profile_info_update
+3733,TKT-VG8U8GIF,2,647901,RAGI062,8.0,closed,Update Package,Account Profile,0,2026-06-18 06:12:54,2026-06-18 13:27:32,general_profile_info_update
+3737,TKT-AFTWK4F6,2,647976,RAGI065,10.0,open,Update Package,Account Profile,0,2026-06-18 06:26:03,2026-06-18 13:27:10,general_profile_info_update
+3748,TKT-EO920ZUE,2,29084,SANTOMAAN,10.0,open,update my Mcoin fix package in withdrawal,Account Profile,0,2026-06-18 07:27:32,2026-06-18 13:26:31,general_profile_info_update
+3804,TKT-MJNWWUBS,1,41860,MANPREET86,8.0,closed,Profile,Account Profile,0,2026-06-18 11:49:46,2026-06-18 11:52:39,general_profile_info_update
+3805,TKT-8KTOGINR,1,20118,SANDEEPCHAWLA26,8.0,closed,Profile,Account Profile,0,2026-06-18 11:51:47,2026-06-18 11:56:45,general_profile_info_update
+3808,TKT-WPYEUMAX,1,41858,MANPREET85,8.0,closed,Profile,Account Profile,0,2026-06-18 12:00:28,2026-06-18 12:14:23,general_profile_info_update
+4032,TKT-JNI1BJCO,2,647910,RAGI063,8.0,closed,Update Package,Account Profile,0,2026-06-19 03:18:04,2026-06-19 12:36:04,general_profile_info_update
+4033,TKT-HQT3HJ9T,2,148712,SIDDH3,8.0,closed,Update package,Account Profile,0,2026-06-19 05:28:17,2026-06-19 12:35:43,general_profile_info_update
+4102,TKT-WYL05RPH,1,19491,SARFARAZ002,8.0,closed,Rank update,Account Profile,0,2026-06-19 11:47:48,2026-06-19 11:51:39,general_profile_info_update
+4246,TKT-SXRAMMQB,2,253532,KISHORE092,4.0,closed,Profile editing,Account Profile,0,2026-06-20 04:29:34,2026-08-20 17:45:12,general_profile_info_update
+4462,TKT-TDB9WJ0E,2,610997,HARDEEP666B,8.0,closed,Mcoin not credit,Account Profile,0,2026-06-21 13:55:14,2026-06-22 14:03:24,general_profile_info_update
+4669,TKT-5IPXKCFO,2,465332,JT59,8.0,closed,Profile,Account Profile,0,2026-06-22 15:28:19,2026-06-22 15:38:07,general_profile_info_update
+5266,TKT-EFP4W3BB,2,54359,HARSHVARDHAN1,8.0,closed,Update my fix package,Account Profile,0,2026-06-26 07:30:48,2026-06-29 16:30:52,general_profile_info_update
+5268,TKT-CWIGI13Q,2,76795,SIDDHARTH8,8.0,closed,Update my package,Account Profile,0,2026-06-26 07:56:22,2026-06-29 16:30:21,general_profile_info_update
+5437,TKT-ZEGUXTKP,1,10995,PRABHJIT20,8.0,solved,Account profile,Account Profile,0,2026-06-27 10:21:50,2026-06-29 15:01:56,general_profile_info_update
+5447,TKT-S8QBTBCS,1,10995,PRABHJIT20,9.0,closed,Account profile,Account Profile,0,2026-06-27 10:56:02,2026-06-29 17:29:44,general_profile_info_update
+6161,TKT-FQPHHAOB,1,47184,SAIYAR34,8.0,closed,About Rank update,Account Profile,0,2026-07-02 11:12:15,2026-07-02 11:57:00,general_profile_info_update
+6478,TKT-L3CCXXRC,1,56748,ASIF5402,9.0,closed,Reupdate,Account Profile,0,2026-07-03 20:54:11,2026-07-06 16:30:05,general_profile_info_update
+6630,TKT-KF9A2ULF,1,5201,MUKARDAM786,8.0,closed,Update,Account Profile,0,2026-07-05 10:52:40,2026-07-06 14:25:17,general_profile_info_update
+7149,TKT-SQTGMX5J,1,15927,VARSHA01,8.0,closed,My rank progress is not update on dashboard,Account Profile,0,2026-07-09 13:46:10,2026-07-09 14:04:38,general_profile_info_update
+7219,TKT-TV9BHGHK,2,556080,SHOP3,10.0,open,Update my package,Account Profile,0,2026-07-09 23:49:24,2026-07-10 17:30:25,general_profile_info_update
+7220,TKT-IPUDMLH0,2,659559,HARSHIT281,10.0,open,Update my package,Account Profile,0,2026-07-10 00:07:45,2026-07-10 17:30:14,general_profile_info_update
+7221,TKT-IAJQXHTM,2,659692,HARSHIT282,10.0,open,Update my package,Account Profile,0,2026-07-10 00:10:20,2026-07-10 17:26:19,general_profile_info_update
+7325,TKT-LL19OUDX,1,60280,SPACEXAI,8.0,closed,Rank update please,Account Profile,0,2026-07-10 19:34:55,2026-07-13 15:55:22,general_profile_info_update
+7326,TKT-SAYREKET,1,18397,PRISH3,9.0,solved,Please update downline rank,Account Profile,0,2026-07-10 19:37:21,2026-07-13 18:52:06,general_profile_info_update
+7676,TKT-YJ3SBAYA,1,58625,ARPIT21,8.0,closed,Refferal change,Account Profile,0,2026-07-14 00:20:32,2026-07-14 11:49:36,general_profile_info_update
+8153,TKT-QYI1M3TR,1,13465,SKT9,9.0,closed,Account Profile,Account Profile,0,2026-07-17 18:38:52,2026-07-21 14:41:01,general_profile_info_update
+8567,TKT-WW5L1CFH,2,621076,NAIMAA20,4.0,closed,Profile change,Account Profile,0,2026-07-23 19:40:08,2026-08-20 17:07:50,general_profile_info_update
+8848,TKT-HGLXDQYW,1,22081,JAYPRAKASHPASWAN,8.0,closed,Intrest not credited,Account Profile,0,2026-07-27 14:56:50,2026-07-27 15:29:03,general_profile_info_update
+8890,TKT-SNEXTSBB,1,22081,JAYPRAKASHPASWAN,9.0,closed,Intrest not credit,Account Profile,0,2026-07-28 01:51:01,2026-07-28 14:38:43,general_profile_info_update
+9074,TKT-QLB6AW71,2,641195,NAIMAA25,4.0,closed,Profile,Account Profile,0,2026-07-30 19:00:42,2026-08-20 17:07:26,general_profile_info_update
+9210,TKT-CECFRBTN,1,29187,SCRYPTO,9.0,solved,Wallet update,Account Profile,0,2026-08-01 14:08:42,2026-08-03 16:29:58,general_profile_info_update
+9237,TKT-ZWU3FMV6,1,60258,SPACEX,8.0,closed,Update rank,Account Profile,0,2026-08-01 22:49:07,2026-08-03 14:23:37,general_profile_info_update
+10001,TKT-V3TDEEKT,2,379291,NAUSHAD104,4.0,closed,Profile cerrection,Account Profile,0,2026-08-12 16:06:24,2026-08-12 16:40:31,general_profile_info_update
+10002,TKT-REWTURV9,2,379291,NAUSHAD104,4.0,closed,Profile cerrection,Account Profile,0,2026-08-12 16:08:25,2026-08-20 17:06:16,general_profile_info_update
+10203,TKT-9NVXOMOD,1,18172,GSETHI,9.0,closed,Account Profile,Account Profile,0,2026-08-15 16:37:47,2026-08-17 15:51:40,general_profile_info_update
+10285,TKT-RFZHNCLM,1,2233,SANJIR20,8.0,closed,New Rank senior executive update,Account Profile,0,2026-08-17 09:35:51,2026-08-17 11:04:28,general_profile_info_update
+10310,TKT-1QBZXHUC,2,14956,HARINDER1970,4.0,closed,Profile,Account Profile,0,2026-08-17 16:17:30,2026-08-20 16:16:11,general_profile_info_update
+10368,TKT-J2QHLR00,1,51255,NISAR92,9.0,solved,Credit Profit Not Received,Account Profile,0,2026-08-18 11:21:10,2026-08-18 19:01:40,general_profile_info_update
+10374,TKT-PBZVTHIG,1,2233,SANJIR20,8.0,solved,New Rank senior executive update,Account Profile,0,2026-08-18 13:05:14,2026-08-18 13:07:20,general_profile_info_update
+10587,TKT-O3SRUXE3,1,47860,MKING,9.0,solved,Check and update,Account Profile,0,2026-08-22 03:13:12,2026-08-27 15:38:24,general_profile_info_update
+10613,TKT-8V9MDNRQ,1,51913,MEENAZ8,8.0,closed,Usdx  not credited,Account Profile,0,2026-08-22 20:15:23,2026-08-24 16:50:20,general_profile_info_update
+10749,TKT-PVHIEETW,2,145561,SAPANA75,8.0,solved,Profile,Account Profile,0,2026-08-25 13:34:56,2026-08-25 14:16:09,general_profile_info_update
+10750,TKT-NAVGT6SI,2,493231,KINDER73,8.0,solved,Profile,Account Profile,0,2026-08-25 13:44:34,2026-08-25 14:16:03,general_profile_info_update
+10751,TKT-8RBKVIYC,2,242337,CHIRANJILAL1985,4.0,closed,Profile,Account Profile,0,2026-08-25 13:47:47,2026-08-31 12:41:24,general_profile_info_update
+10785,TKT-JXMX5Z0A,2,145561,SAPANA75,4.0,closed,Profile,Account Profile,0,2026-08-26 08:17:26,2026-08-27 16:04:47,general_profile_info_update

@@ -1,0 +1,221 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+22,TKT-EXHVAU7D,1,12852,SSPANDOR01,3.0,solved,Withdrawal Pending,Withdrawal,0,2026-01-27 09:06:39,2026-01-28 13:03:21,pending_delayed_stuck
+71,TKT-NJLYTLGN,1,13381,GURIII,8.0,solved,Withdraw is in pending,Withdrawal,0,2026-02-04 19:44:33,2026-02-06 13:39:44,pending_delayed_stuck
+81,TKT-ISTFBNPI,2,856194,MARDE916,10.0,open,Pending withdrwal,Withdrawal,0,2026-02-06 16:14:47,2026-02-16 17:41:44,pending_delayed_stuck
+82,TKT-7FXDPOKB,2,856197,MARDE918,10.0,open,Pending withdrwal,Withdrawal,0,2026-02-06 16:17:33,2026-02-16 17:41:28,pending_delayed_stuck
+83,TKT-6WW9KOG2,2,868668,MARDE921,3.0,open,Pending,Withdrawal,0,2026-02-06 16:25:58,2026-02-06 16:27:21,pending_delayed_stuck
+84,TKT-FPDR2UWQ,2,868669,MARDE922,10.0,open,Pending,Withdrawal,0,2026-02-06 16:27:38,2026-02-16 17:41:18,pending_delayed_stuck
+85,TKT-GRMQZBWK,2,762655,MARDE981RISER,10.0,open,Pending,Withdrawal,0,2026-02-06 16:29:18,2026-02-16 17:40:59,pending_delayed_stuck
+86,TKT-YI76BXUN,2,770387,RISER930MARDE,10.0,open,Pending,Withdrawal,0,2026-02-06 16:31:49,2026-02-16 17:40:29,pending_delayed_stuck
+157,TKT-Q3KSS0Y7,2,40318,SUBHASH94,10.0,open,Withdrawal pending,Withdrawal,0,2026-02-11 21:45:48,2026-02-16 17:44:59,pending_delayed_stuck
+203,TKT-AOK1RJGI,2,56633,RESHI222,,open,About pending withdrawal,Withdrawal,0,2026-02-16 10:33:27,2026-02-16 10:33:27,pending_delayed_stuck
+248,TKT-4KCDDVDJ,1,16494,KIRAN5669,10.0,open,Withdrawal pending problem,Withdrawal,0,2026-02-20 16:10:17,2026-02-23 11:53:07,pending_delayed_stuck
+264,TKT-JLZEZGAA,2,145897,PREET73,,open,Withdrawal Pending,Withdrawal,0,2026-02-22 18:35:16,2026-02-22 18:35:16,pending_delayed_stuck
+265,TKT-EGXKDOFO,2,145895,KAKA73,,open,Withdrawal Pending,Withdrawal,0,2026-02-22 18:38:55,2026-02-22 18:38:55,pending_delayed_stuck
+279,TKT-0MJIHUK1,2,822203,ABBU1800,,open,Pending withdrawal,Withdrawal,0,2026-02-23 22:19:58,2026-02-23 22:19:58,pending_delayed_stuck
+280,TKT-BFHCAZGI,2,167861,ZAIDHASAN01,,open,withdraw still in pending why,Withdrawal,0,2026-02-23 23:20:20,2026-02-23 23:20:20,pending_delayed_stuck
+301,TKT-TJKWKEQ3,2,35053,DEVIDAS1948,,open,Widrawal Pending,Withdrawal,0,2026-02-25 20:38:52,2026-02-25 20:38:52,pending_delayed_stuck
+317,TKT-GYJPBMWT,2,418015,SATVINDERVIRK4,,open,Status Pending,Withdrawal,0,2026-02-26 18:10:29,2026-02-26 18:10:29,pending_delayed_stuck
+318,TKT-GTBIPZ27,2,120333,JANGBAHADUR4,,open,Withdrawal pending,Withdrawal,0,2026-02-26 18:18:13,2026-02-26 18:18:13,pending_delayed_stuck
+329,TKT-Q4DLF3O5,2,24545,TEHBA07,10.0,open,Invoice still in pending,Withdrawal,0,2026-02-27 13:48:41,2026-02-27 15:02:29,pending_delayed_stuck
+332,TKT-RSDNQQXM,2,848551,MOHDMETA5400,,open,Pending invoice,Withdrawal,0,2026-02-27 15:50:48,2026-02-27 15:50:48,pending_delayed_stuck
+336,TKT-VHJX0LGQ,1,1002,BAAQUIR1,10.0,open,pending invoice,Withdrawal,0,2026-02-27 22:07:44,2026-03-02 13:05:56,pending_delayed_stuck
+338,TKT-EW0CUBVR,2,768935,RAMKUMAR35,,open,withdrawal pending,Withdrawal,0,2026-02-27 23:25:46,2026-02-27 23:25:46,pending_delayed_stuck
+373,TKT-L9QN7Q8I,2,849447,ALIMETA990RISER,,open,Pending invoice,Withdrawal,0,2026-03-01 20:29:16,2026-03-01 20:29:16,pending_delayed_stuck
+381,TKT-LPCRCLUY,2,768935,RAMKUMAR35,,open,withdrawal pending,Withdrawal,0,2026-03-02 13:04:21,2026-03-02 13:04:21,pending_delayed_stuck
+424,TKT-CPTSUPDZ,2,430909,ROH123,,open,Withdrawal  Pending,Withdrawal,0,2026-03-06 23:51:58,2026-03-06 23:51:58,pending_delayed_stuck
+447,TKT-LNGNGSY0,2,69087,SATVINDERVIRK3,,open,Withdrawal is pending,Withdrawal,0,2026-03-08 19:52:34,2026-03-08 19:52:34,pending_delayed_stuck
+448,TKT-X3AFKWMK,2,69113,YASHVIRK4,,open,Withdrawal pending,Withdrawal,0,2026-03-08 19:58:44,2026-03-08 19:58:44,pending_delayed_stuck
+450,TKT-1AYTRSXF,2,28836,VIRKYASH1,,open,Withdrawal pending issue,Withdrawal,0,2026-03-08 20:02:37,2026-03-08 20:02:37,pending_delayed_stuck
+453,TKT-PFLBZXVK,2,34282,MOHDFAHIM,,open,"23 Feb, 2026 - 01:53 PM	0020ad0bba64	Pending	214e0727be61 - $900 Exclusive Package",Withdrawal,0,2026-03-09 05:11:02,2026-03-09 05:11:02,pending_delayed_stuck
+467,TKT-QN9J2HZ2,2,38786,VIJAYTANEJA02,,open,Riser withdrawal pending,Withdrawal,0,2026-03-09 18:46:55,2026-03-09 18:46:55,pending_delayed_stuck
+471,TKT-SJL9D9BW,2,848551,MOHDMETA5400,,open,Pending invoice,Withdrawal,0,2026-03-09 20:46:49,2026-03-09 20:46:49,pending_delayed_stuck
+523,TKT-7NS9HNXD,2,53399,1988RKM,,open,Withdrawal request pending,Withdrawal,0,2026-03-12 21:59:35,2026-03-12 21:59:35,pending_delayed_stuck
+612,TKT-OEHSXPCN,1,36158,M20X,10.0,open,W25 profit withdrawal pending,Withdrawal,0,2026-03-17 12:58:54,2026-03-17 12:59:21,pending_delayed_stuck
+714,TKT-TWLILUSB,1,17208,SEHRAN54,9.0,closed,Withdrawal in progress,Withdrawal,0,2026-03-23 13:01:08,2026-03-26 15:34:33,pending_delayed_stuck
+776,TKT-PB0L70DZ,2,852397,JASHAN630,3.0,open,Withdrawal delayed,Withdrawal,0,2026-03-27 17:18:28,2026-03-30 12:20:07,pending_delayed_stuck
+798,TKT-SO3H6J99,1,23899,JITX10800,9.0,closed,withdrawal  pending,Withdrawal,0,2026-03-30 10:28:06,2026-03-31 13:23:07,pending_delayed_stuck
+870,TKT-WFLVRXEC,2,212420,NIZARUL,10.0,open,Invoice pending,Withdrawal,0,2026-04-06 14:39:31,2026-04-06 15:41:29,pending_delayed_stuck
+879,TKT-VNRXJNK3,2,344758,USMANKHAN786007,,open,Withdrawal pending of RISER,Withdrawal,0,2026-04-07 09:11:45,2026-04-07 09:11:45,pending_delayed_stuck
+907,TKT-DERKQIPA,1,7805,MEHROZ01,10.0,open,Withdrawal pending,Withdrawal,0,2026-04-08 14:32:27,2026-04-08 14:39:56,pending_delayed_stuck
+914,TKT-JLU8VFCA,2,390136,BKU39,8.0,closed,Pending withdrawal,Withdrawal,0,2026-04-09 08:45:44,2026-08-17 18:23:57,pending_delayed_stuck
+915,TKT-3ULJSE9N,2,653299,GURNEET6,10.0,open,Pending withdrawal,Withdrawal,0,2026-04-09 08:52:48,2026-08-17 18:23:51,pending_delayed_stuck
+959,TKT-BYRGIKVS,2,219915,MOHDARSHAD809,8.0,closed,Withdrawal is pending,Withdrawal,0,2026-04-12 16:17:29,2026-05-13 11:33:41,pending_delayed_stuck
+967,TKT-X4HK8XFN,2,212420,NIZARUL,10.0,open,Pending invoice,Withdrawal,0,2026-04-12 22:54:28,2026-04-15 12:19:36,pending_delayed_stuck
+993,TKT-COZAQAAZ,2,54171,TUTEJA83,10.0,open,Riser withdrawal Pending,Withdrawal,0,2026-04-14 17:34:35,2026-04-14 17:54:22,pending_delayed_stuck
+1112,TKT-VJWGLVMU,1,7012,NIKKU1986,10.0,open,Payment pending,Withdrawal,0,2026-04-19 10:52:58,2026-04-20 11:50:32,pending_delayed_stuck
+1124,TKT-QP6DZ0RL,1,3322,HARJEET12,10.0,open,Withdrawal pending,Withdrawal,0,2026-04-19 21:25:06,2026-04-20 11:39:22,pending_delayed_stuck
+1174,TKT-QD4FTELQ,1,7822,PS889,8.0,closed,Withdrawal delay,Withdrawal,0,2026-04-21 09:13:57,2026-04-21 12:43:15,pending_delayed_stuck
+1239,TKT-PY9LOJPL,2,186373,PANKAJ589,8.0,closed,Complaint Regarding Loss Due to Delayed Withdrawal,Withdrawal,0,2026-04-23 10:24:47,2026-04-23 12:09:25,pending_delayed_stuck
+1283,TKT-2BJSZNCB,1,7822,PS889,10.0,open,WITHRAL DELAY,Withdrawal,0,2026-04-24 15:00:11,2026-04-27 11:52:18,pending_delayed_stuck
+1308,TKT-VYURHZEX,1,14001,AAFREEN01,10.0,open,Withdrawal pending,Withdrawal,0,2026-04-25 10:38:32,2026-04-27 12:10:10,pending_delayed_stuck
+1333,TKT-PG4UHPRH,2,186373,PANKAJ589,8.0,closed,Delayed withdrawal,Withdrawal,0,2026-04-26 16:37:12,2026-04-27 11:50:24,pending_delayed_stuck
+1378,TKT-RBO6HE7O,2,162586,VISHAVJEET2000,10.0,open,Withdraw pending,Withdrawal,0,2026-04-29 08:54:48,2026-04-29 12:11:36,pending_delayed_stuck
+1398,TKT-URCX4EZV,2,57172,AZHER786,10.0,open,Pending process,Withdrawal,0,2026-04-30 08:19:58,2026-04-30 11:38:09,pending_delayed_stuck
+1399,TKT-QNXWD3KP,2,174480,ASMA2000,10.0,open,Pending process,Withdrawal,0,2026-04-30 08:21:54,2026-04-30 11:37:48,pending_delayed_stuck
+1413,TKT-0ZJEANDX,1,5196,JAGDISH9111,8.0,solved,96$ ka withdrawal 28 ko kiya tha abhi tak in progress dikha raha hai,Withdrawal,0,2026-04-30 18:43:16,2026-05-04 11:22:47,pending_delayed_stuck
+1433,TKT-ZMQJ7N9D,2,582731,UDHAM6248,8.0,closed,Riser withdrawal is pending,Withdrawal,0,2026-05-02 02:44:47,2026-05-04 13:13:16,pending_delayed_stuck
+1504,TKT-07VXS2EZ,1,13077,MUZAFFARW25,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-05 02:58:25,2026-05-05 09:16:22,pending_delayed_stuck
+1516,TKT-LZGBIBLT,1,24991,VANDANA95,10.0,open,Withdraw pending,Withdrawal,0,2026-05-05 10:38:42,2026-05-05 10:59:21,pending_delayed_stuck
+1533,TKT-OAR3EBLV,1,22120,BOTX1,9.0,closed,Pending Withdrawal,Withdrawal,0,2026-05-06 10:48:23,2026-05-11 15:24:18,pending_delayed_stuck
+1546,TKT-COP4KOVK,1,20233,SATPUTE65,10.0,open,Withdrwal pending,Withdrawal,0,2026-05-07 07:23:46,2026-05-07 10:05:35,pending_delayed_stuck
+1547,TKT-M1SDIIB8,1,20233,SATPUTE65,10.0,open,Withdral pending,Withdrawal,0,2026-05-07 07:27:15,2026-05-07 10:05:15,pending_delayed_stuck
+1550,TKT-74YRLPUB,1,21032,PROBOTM,9.0,closed,Withdrawal pending,Withdrawal,0,2026-05-07 12:27:12,2026-05-11 16:31:06,pending_delayed_stuck
+1573,TKT-CKUBVM05,1,35704,JOT103,9.0,closed,Pending widral,Withdrawal,0,2026-05-08 18:07:30,2026-05-11 17:52:00,pending_delayed_stuck
+1673,TKT-CWU28XBH,2,394810,RAP5,10.0,open,Withdrawal Pending,Withdrawal,0,2026-05-15 02:12:17,2026-05-15 10:25:22,pending_delayed_stuck
+1687,TKT-PQJNWFIU,2,293382,RAP3,8.0,closed,Withdrawal Pending,Withdrawal,0,2026-05-16 00:26:07,2026-05-18 10:42:46,pending_delayed_stuck
+1698,TKT-KM2DJE8A,1,18620,AZKANOOR05,10.0,open,My withdrawal pending,Withdrawal,0,2026-05-16 19:27:22,2026-05-18 10:39:17,pending_delayed_stuck
+1699,TKT-HQ3HLHYZ,2,222427,9814316507,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-16 19:30:24,2026-05-18 10:39:05,pending_delayed_stuck
+1704,TKT-B1VZ6RWR,1,22318,AAMIRM20X2,8.0,closed,My withdrawal pending,Withdrawal,0,2026-05-17 12:32:43,2026-05-18 10:39:29,pending_delayed_stuck
+1745,TKT-TPBXDDIK,1,50799,LADDU2003,10.0,open,Withdraw in progress,Withdrawal,0,2026-05-19 11:19:56,2026-05-19 11:20:17,pending_delayed_stuck
+1746,TKT-5ICSC9G0,1,50799,LADDU2003,10.0,open,Withdraw pending,Withdrawal,0,2026-05-19 11:22:00,2026-05-19 11:23:27,pending_delayed_stuck
+1771,TKT-XTPUMJEA,1,42895,RAMNEEK13,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-20 07:54:04,2026-05-20 10:59:15,pending_delayed_stuck
+1790,TKT-SK9PNX8M,2,844283,FARHEENRISER1800,10.0,open,Invoice pending,Withdrawal,0,2026-05-20 23:20:37,2026-05-21 11:02:59,pending_delayed_stuck
+1956,TKT-RVX8QJCP,1,22331,MOHDGRUP,10.0,open,Withdraw delayed,Withdrawal,0,2026-05-23 19:40:19,2026-05-25 11:30:06,pending_delayed_stuck
+1961,TKT-MT8D6LOQ,2,60965,NADEEMMM786,8.0,closed,Invoice pending,Withdrawal,0,2026-05-23 22:21:15,2026-05-25 12:14:56,pending_delayed_stuck
+1973,TKT-DDNN2LCR,1,14838,NPAL2025,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-24 09:25:43,2026-05-25 11:28:25,pending_delayed_stuck
+1981,TKT-WILVTV3H,2,864448,HYDS1,10.0,open,Withdrawal Pending,Withdrawal,0,2026-05-24 13:31:45,2026-05-25 11:26:00,pending_delayed_stuck
+1983,TKT-6HGRI2IA,1,10152,FAIZA97,10.0,open,Pending withdrawal,Withdrawal,0,2026-05-24 14:03:47,2026-05-25 11:25:31,pending_delayed_stuck
+2060,TKT-6FM3OBNW,2,16077,DALBIR2040,8.0,closed,Withdrawal pending,Withdrawal,0,2026-05-25 19:06:12,2026-05-29 12:02:37,pending_delayed_stuck
+2071,TKT-M3GTRGNH,2,864448,HYDS1,10.0,open,withdrawa pending,Withdrawal,0,2026-05-25 21:18:39,2026-06-01 12:39:23,pending_delayed_stuck
+2143,TKT-9UCLMRSN,2,848551,MOHDMETA5400,8.0,closed,Invoice pending please paid fast,Withdrawal,0,2026-05-26 22:19:20,2026-06-03 12:42:46,pending_delayed_stuck
+2147,TKT-PUIZJQL4,1,12209,AKP399,10.0,open,Withdraw delay,Withdrawal,0,2026-05-27 03:31:02,2026-06-01 14:43:18,pending_delayed_stuck
+2197,TKT-9FGMKZUU,1,51270,BKYPKR2,10.0,open,WITHDRAWAL PENDING,Withdrawal,0,2026-05-27 18:55:56,2026-05-29 12:22:50,pending_delayed_stuck
+2198,TKT-W0DZ5WEZ,1,32985,MOHITKR,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 18:56:46,2026-05-29 12:22:31,pending_delayed_stuck
+2199,TKT-W4XXOXCH,1,32989,MKPRAMANIK,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 19:05:12,2026-05-29 12:22:13,pending_delayed_stuck
+2200,TKT-KE5GBT5K,1,32984,MANJEETA,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 19:09:40,2026-05-29 12:21:42,pending_delayed_stuck
+2201,TKT-25B0K5XG,1,32999,MKUMARI,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 19:13:12,2026-05-29 10:33:39,pending_delayed_stuck
+2202,TKT-NSXFMO0W,1,33003,ANITAMANOJ,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 19:17:01,2026-05-29 10:33:18,pending_delayed_stuck
+2204,TKT-STZKKQ0U,1,32982,DEVIANITA,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-27 19:28:46,2026-05-29 12:21:02,pending_delayed_stuck
+2254,TKT-68C3GVPD,1,37791,BHUSHAN,10.0,open,Withdrawal pending,Withdrawal,0,2026-05-29 09:49:05,2026-05-29 10:25:33,pending_delayed_stuck
+2270,TKT-UKTI5HRS,1,14695,DK249,10.0,open,Pending,Withdrawal,0,2026-05-29 17:14:54,2026-05-30 13:25:41,pending_delayed_stuck
+2368,TKT-B7DLBFGU,2,51077,HARDEEP1972,10.0,open,Withdraw pending,Withdrawal,0,2026-06-01 07:39:18,2026-06-01 10:40:18,pending_delayed_stuck
+2369,TKT-6AV6KGYK,2,535861,AMANDEEPKAUR1998,10.0,open,Withdraw pending,Withdrawal,0,2026-06-01 07:43:10,2026-06-01 10:39:16,pending_delayed_stuck
+2636,TKT-BUCJZ1YI,2,51077,HARDEEP1972,10.0,open,Withdraw pending,Withdrawal,0,2026-06-05 07:16:57,2026-06-05 11:03:09,pending_delayed_stuck
+2838,TKT-YTZOWG6J,2,585512,ASHISH1401,9.0,closed,Why my withdrawal is delayed,Withdrawal,0,2026-06-08 01:35:34,2026-06-17 12:19:17,pending_delayed_stuck
+3514,TKT-PDOLICFR,1,33622,ANJANA101,8.0,closed,Withdraw in progress,Withdrawal,0,2026-06-17 13:31:38,2026-06-17 13:35:13,pending_delayed_stuck
+3523,TKT-OENSRDEF,1,18052,BRIJESH1995,10.0,open,Withdraw in progress,Withdrawal,0,2026-06-17 14:05:29,2026-06-17 14:09:43,pending_delayed_stuck
+3524,TKT-4X3DTO07,1,33621,ANJANA100,8.0,closed,Withdraw in progress,Withdrawal,0,2026-06-17 14:10:06,2026-06-17 14:13:48,pending_delayed_stuck
+3722,TKT-WBGEZLUJ,1,17209,SEHRAN55,9.0,closed,Pending Withdrawal,Withdrawal,0,2026-06-17 23:29:11,2026-06-18 13:02:06,pending_delayed_stuck
+3785,TKT-SFIUVXKO,1,17204,SHABNAM90,9.0,closed,Pending Withdrawal,Withdrawal,0,2026-06-18 10:29:06,2026-06-19 12:45:07,pending_delayed_stuck
+4085,TKT-CUYEAUE3,2,415987,JUBAIR202,8.0,closed,Pending Withdrawal,Withdrawal,0,2026-06-19 11:14:27,2026-06-19 11:52:21,pending_delayed_stuck
+4087,TKT-PHA8QICB,2,436206,ASAD998,8.0,closed,Pending Withdrawal,Withdrawal,0,2026-06-19 11:20:26,2026-06-19 11:52:18,pending_delayed_stuck
+4431,TKT-9LZZVV0J,1,17209,SEHRAN55,9.0,closed,Pending Withdrawal,Withdrawal,0,2026-06-21 11:17:10,2026-06-22 18:09:14,pending_delayed_stuck
+4653,TKT-J5TDTS4P,2,584308,NANDKISHOR31,10.0,open,Pending off My withdrawal,Withdrawal,0,2026-06-22 14:54:03,2026-06-22 14:56:31,pending_delayed_stuck
+4996,TKT-BCRQS0AU,1,54042,AHMAD1993,8.0,closed,hlo sir my withdrawal is pending,Withdrawal,0,2026-06-24 10:31:06,2026-06-24 11:30:18,pending_delayed_stuck
+5116,TKT-CK56YGYQ,1,20930,SIDRA05,9.0,closed,Withdrawal pending,Withdrawal,0,2026-06-24 20:56:00,2026-06-26 19:20:44,pending_delayed_stuck
+5424,TKT-FD6MVGBQ,1,12528,W25FIXED,9.0,closed,Withdraw delay,Withdrawal,0,2026-06-27 09:23:32,2026-06-29 13:58:55,pending_delayed_stuck
+5425,TKT-KDKE2EKC,1,12209,AKP399,10.0,open,Withdraw delay,Withdrawal,0,2026-06-27 09:24:44,2026-06-29 14:00:53,pending_delayed_stuck
+5426,TKT-UBQXAAOA,1,6254,SANT31200,9.0,closed,Withdraw delay,Withdrawal,0,2026-06-27 09:26:32,2026-06-29 13:58:38,pending_delayed_stuck
+5427,TKT-1AGFBJ2W,1,5687,RAJKUMAR3547,9.0,closed,Withdraw delay,Withdrawal,0,2026-06-27 09:27:44,2026-06-29 13:58:20,pending_delayed_stuck
+5440,TKT-YQXD0OK9,1,35245,SMRUTI3004,8.0,closed,Delay in Withdrawal,Withdrawal,0,2026-06-27 10:36:11,2026-06-29 13:59:45,pending_delayed_stuck
+5508,TKT-QFSJSYAZ,1,12583,NAIK2404,9.0,closed,Payment Pending,Withdrawal,0,2026-06-27 20:19:04,2026-06-29 14:16:12,pending_delayed_stuck
+5712,TKT-WWZJI5VS,1,38310,AHAN02,10.0,open,Delay withdrawal,Withdrawal,0,2026-06-29 14:17:40,2026-06-29 14:30:59,pending_delayed_stuck
+5909,TKT-WEOPVAHQ,1,12583,NAIK2404,8.0,closed,Widrawal Pending,Withdrawal,0,2026-06-30 17:06:15,2026-06-30 17:19:21,pending_delayed_stuck
+6072,TKT-7OHGXQQA,2,206333,SATANR121,10.0,open,Withdrawal Pending,Withdrawal,0,2026-07-01 19:04:22,2026-07-02 12:16:40,pending_delayed_stuck
+6223,TKT-SAXQJXC5,2,186373,PANKAJ589,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-02 16:07:30,2026-07-02 16:15:20,pending_delayed_stuck
+6234,TKT-ECCU2DPA,2,348391,MAACHAMUNDA1,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-02 17:19:07,2026-07-02 17:55:17,pending_delayed_stuck
+6371,TKT-73X4SOEY,1,20149,YOGESH2170,9.0,closed,467$ Withdrawal Pending,Withdrawal,0,2026-07-03 12:51:16,2026-07-03 16:10:02,pending_delayed_stuck
+6512,TKT-P80CULV9,1,15814,MAHFUJ786,9.0,closed,Widrowal pending hai sir,Withdrawal,0,2026-07-04 07:20:10,2026-07-06 16:17:19,pending_delayed_stuck
+6724,TKT-RCLONJJW,2,196066,GULZARKJ,10.0,open,Withdrawl pending,Withdrawal,0,2026-07-06 09:37:07,2026-07-06 12:18:58,pending_delayed_stuck
+6766,TKT-K613FPYG,2,46944,HARJINDER70,10.0,open,Wadral pending,Withdrawal,0,2026-07-06 14:50:39,2026-07-06 14:52:55,pending_delayed_stuck
+6964,TKT-ABIE1OQL,1,14716,SKS249,9.0,closed,Pending withdrawal,Withdrawal,0,2026-07-08 05:23:18,2026-07-08 16:38:44,pending_delayed_stuck
+7104,TKT-960FBNRR,1,15773,UPY04,8.0,closed,W25 Profit Invoice Pending,Withdrawal,0,2026-07-09 08:50:15,2026-07-09 14:54:33,pending_delayed_stuck
+7183,TKT-E9QQIYEI,1,45775,DIKSHA01,9.0,closed,Withdrawal Payment Pending – Username: DIKSHA01,Withdrawal,0,2026-07-09 18:09:48,2026-07-09 18:47:53,pending_delayed_stuck
+7185,TKT-95L3PQLV,1,50225,SHISHUPAL02,9.0,closed,Pending Withdrawal Request – Username: SHISHUPAL02,Withdrawal,0,2026-07-09 18:13:00,2026-07-09 18:47:08,pending_delayed_stuck
+7193,TKT-WFB2VW6O,1,15814,MAHFUJ786,9.0,closed,Widrowal pending,Withdrawal,0,2026-07-09 19:11:53,2026-07-10 17:17:11,pending_delayed_stuck
+7194,TKT-QYGPLLAE,1,15814,MAHFUJ786,9.0,closed,Widrowal pending,Withdrawal,0,2026-07-09 19:15:53,2026-07-10 17:19:03,pending_delayed_stuck
+7263,TKT-JOBIIRX6,1,34231,SATHI2112,9.0,closed,Withdrawal Pending,Withdrawal,0,2026-07-10 10:41:03,2026-07-10 14:40:14,pending_delayed_stuck
+7283,TKT-1LCGJTLM,1,15116,DK81,9.0,closed,Withdrawal delayed,Withdrawal,0,2026-07-10 13:05:12,2026-07-10 14:38:27,pending_delayed_stuck
+7471,TKT-LTZVTT82,1,22744,NAUSHAD120,9.0,closed,"Withdrawal Delay – Funds Transferred July 3, Not Yet Released",Withdrawal,0,2026-07-11 19:47:47,2026-07-13 18:52:12,pending_delayed_stuck
+7503,TKT-QVZLIHKY,2,120109,ZEENATAMAAN,10.0,open,Withdrawal are Pending,Withdrawal,0,2026-07-12 05:46:53,2026-07-13 15:05:34,pending_delayed_stuck
+7520,TKT-T8QPL9HP,1,25990,ARCHANASAHU,10.0,open,Withdraw pending,Withdrawal,0,2026-07-12 10:12:22,2026-07-13 14:40:57,pending_delayed_stuck
+7570,TKT-MWDSLRLK,1,15814,MAHFUJ786,8.0,solved,Widrowal pending,Withdrawal,0,2026-07-12 21:11:12,2026-07-13 11:19:39,pending_delayed_stuck
+7589,TKT-F712XYDH,2,402990,AMRINDER999,10.0,open,withdrawl pending,Withdrawal,0,2026-07-13 09:27:54,2026-07-13 11:17:48,pending_delayed_stuck
+7590,TKT-OXHWKAU5,1,38996,RANU8541,8.0,closed,Withdraw pending,Withdrawal,0,2026-07-13 09:46:54,2026-07-13 11:17:36,pending_delayed_stuck
+7688,TKT-DQR9MA4A,1,41770,SITA888888,10.0,open,My withdrawal invoice pending,Withdrawal,0,2026-07-14 07:25:24,2026-07-14 10:46:50,pending_delayed_stuck
+7704,TKT-JXPSGPF3,1,9742,MINABEN1964,10.0,open,widhral pending,Withdrawal,0,2026-07-14 09:36:08,2026-07-14 10:36:56,pending_delayed_stuck
+7715,TKT-QCUOWCB6,1,12528,W25FIXED,10.0,open,Withdraw delay,Withdrawal,0,2026-07-14 11:04:03,2026-07-14 11:38:01,pending_delayed_stuck
+7792,TKT-4ZVGWQSJ,1,20976,RKM02CR,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-14 20:16:10,2026-07-15 10:31:55,pending_delayed_stuck
+7795,TKT-OTVGHBQA,1,37884,NEERAJ1406,9.0,closed,WITHDRAWAL PENDING,Withdrawal,0,2026-07-14 20:52:10,2026-07-15 17:17:42,pending_delayed_stuck
+7799,TKT-O12FRQTM,1,22323,SEEMA97,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-14 22:02:32,2026-07-15 10:31:45,pending_delayed_stuck
+7950,TKT-WPI00CGJ,1,12528,W25FIXED,10.0,open,Delay withdraw,Withdrawal,0,2026-07-16 06:35:23,2026-07-16 11:39:53,pending_delayed_stuck
+7964,TKT-A0VOGZFO,1,1928,HARHARGANGE,10.0,open,Withdrawal delay,Withdrawal,0,2026-07-16 09:00:10,2026-07-16 11:28:45,pending_delayed_stuck
+8005,TKT-OA4KPD10,1,13377,SANGALBIDHYA6,10.0,open,Urgent: Withdrawal Delay - Request for Status Update (Transaction Date: July 2nd,Withdrawal,0,2026-07-16 14:14:54,2026-07-16 14:33:05,pending_delayed_stuck
+8016,TKT-DOISQIWJ,1,23619,MARYAMADNAN,10.0,open,PENDING W25 WITHDRAWAL,Withdrawal,0,2026-07-16 15:03:43,2026-07-16 15:45:43,pending_delayed_stuck
+8017,TKT-ACYEKALM,1,30841,BISHWANATHPIPRA2,10.0,open,Delay in withdrawal payments,Withdrawal,0,2026-07-16 15:11:34,2026-07-16 15:45:17,pending_delayed_stuck
+8018,TKT-OFZWXBXU,1,267,RAJUGUDIYA,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-16 15:15:18,2026-07-16 15:45:04,pending_delayed_stuck
+8022,TKT-IGUWV3LX,1,15308,HABIBUL01,10.0,open,Withdrawal  status pending,Withdrawal,0,2026-07-16 15:35:23,2026-07-16 15:44:00,pending_delayed_stuck
+8078,TKT-OQSD1MGF,1,18451,PROBOTSHUBHAM3,10.0,open,Till my withdrawal pending,Withdrawal,0,2026-07-17 06:44:49,2026-07-17 11:07:26,pending_delayed_stuck
+8162,TKT-ATST1QDC,2,373398,SUNDARLAL76,10.0,open,Withdrawal are Pending,Withdrawal,0,2026-07-17 21:45:52,2026-07-20 15:35:48,pending_delayed_stuck
+8182,TKT-MSTW9DGK,1,41008,BSS2007,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-18 08:46:22,2026-07-20 15:33:26,pending_delayed_stuck
+8200,TKT-6CYNXKHZ,1,25287,MANGA2700,10.0,open,Pending withdrawal,Withdrawal,0,2026-07-18 11:28:17,2026-07-20 15:34:30,pending_delayed_stuck
+8203,TKT-TUPUGXCX,1,21504,JEEVAN13500,10.0,open,Withdrew pending,Withdrawal,0,2026-07-18 11:33:23,2026-07-20 15:33:13,pending_delayed_stuck
+8263,TKT-BHMTCPZK,1,42895,RAMNEEK13,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-19 09:40:08,2026-07-20 15:27:57,pending_delayed_stuck
+8327,TKT-6HCZ1S9Q,1,12528,W25FIXED,10.0,open,withdraw more delay,Withdrawal,0,2026-07-20 09:33:18,2026-07-20 11:11:46,pending_delayed_stuck
+8354,TKT-Z0WA97PY,1,35457,RISHI2006,9.0,closed,Withdrawal pending,Withdrawal,0,2026-07-20 17:38:59,2026-07-20 18:36:53,pending_delayed_stuck
+8358,TKT-FRF6NT1K,2,174553,PRIYANKADEVI,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-20 18:46:16,2026-07-20 19:17:02,pending_delayed_stuck
+8359,TKT-SYPPDEWA,2,154785,DEVI87,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-20 18:48:47,2026-07-20 19:16:38,pending_delayed_stuck
+8385,TKT-W4N0W0YK,1,20721,HAMZA786,9.0,closed,Withdrawal are Pending,Withdrawal,0,2026-07-21 06:28:48,2026-07-21 18:59:06,pending_delayed_stuck
+8405,TKT-JS39ABMF,1,16268,RUPINDERPB12,10.0,open,Pending Withdrawal,Withdrawal,0,2026-07-21 09:36:45,2026-07-21 11:54:37,pending_delayed_stuck
+8447,TKT-95AK9H4B,1,267,RAJUGUDIYA,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-22 03:17:33,2026-07-22 11:47:56,pending_delayed_stuck
+8453,TKT-BLVB1JQE,1,12528,W25FIXED,10.0,open,Withdraw so delay,Withdrawal,0,2026-07-22 06:38:54,2026-07-22 11:50:06,pending_delayed_stuck
+8454,TKT-D6QJJ8ZQ,1,12209,AKP399,10.0,open,Withdraw so delay,Withdrawal,0,2026-07-22 06:41:46,2026-07-22 11:47:06,pending_delayed_stuck
+8484,TKT-VGTBZVWG,1,50870,MANTU5248,10.0,open,Withdrawal request pending,Withdrawal,0,2026-07-22 14:44:26,2026-07-22 15:22:35,pending_delayed_stuck
+8489,TKT-V9XYIXD9,1,15116,DK81,9.0,closed,Withdrawl delayed,Withdrawal,0,2026-07-22 15:45:15,2026-07-22 16:07:27,pending_delayed_stuck
+8552,TKT-4UZV3VHP,1,13047,SUBH54,10.0,open,PENDING WITHDRAWAL,Withdrawal,0,2026-07-23 16:05:22,2026-07-23 16:12:13,pending_delayed_stuck
+8562,TKT-NLCPH8BP,1,45044,RENU89,9.0,closed,For withdrawal request pending,Withdrawal,0,2026-07-23 17:40:53,2026-07-23 18:08:38,pending_delayed_stuck
+8614,TKT-OMK46F7J,1,21553,PROBOTA,9.0,closed,Withdrawal pending,Withdrawal,0,2026-07-24 16:00:03,2026-07-24 16:24:38,pending_delayed_stuck
+8744,TKT-X6CI0WLN,1,20623,LALITA010,10.0,open,Urgent Request to Process Pending Withdrawal,Withdrawal,0,2026-07-26 08:56:51,2026-07-27 12:16:50,pending_delayed_stuck
+8751,TKT-XY1OXQNW,1,13644,AROHI1,10.0,open,Withral delay,Withdrawal,0,2026-07-26 10:14:12,2026-07-27 12:22:55,pending_delayed_stuck
+8806,TKT-DE0RTNPS,2,26765,AZAD092,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-27 06:29:44,2026-07-27 12:07:06,pending_delayed_stuck
+8935,TKT-EGGBUFKW,1,9549,NIVEDITABOTX,9.0,closed,Pending Withdrawal,Withdrawal,0,2026-07-28 16:52:30,2026-07-28 18:29:55,pending_delayed_stuck
+8967,TKT-ZIR5OC3P,1,17662,AJAVED78,10.0,open,Withdrawal is pending,Withdrawal,0,2026-07-29 08:07:30,2026-07-29 13:15:45,pending_delayed_stuck
+9030,TKT-Z0ZEGK8V,1,20630,KAMAR,10.0,open,Withdrawal pending,Withdrawal,0,2026-07-30 06:21:04,2026-07-30 14:11:37,pending_delayed_stuck
+9031,TKT-N0TC0UUV,1,21769,PITAMBER,8.0,closed,my k y c under progress,Withdrawal,0,2026-07-30 06:21:09,2026-07-30 11:31:50,pending_delayed_stuck
+9045,TKT-EKW9IXFN,1,36468,NAVPAW03,10.0,open,WITHDRAWALS ARE PENDING,Withdrawal,0,2026-07-30 11:43:38,2026-07-30 15:07:29,pending_delayed_stuck
+9083,TKT-MJ1TQM2H,1,14666,TALHA6,9.0,closed,Withdral pending,Withdrawal,0,2026-07-30 22:50:55,2026-07-31 15:36:27,pending_delayed_stuck
+9119,TKT-JS9ITLFP,1,14753,JEEVAN1200,9.0,closed,Withdrew pending,Withdrawal,0,2026-07-31 10:44:41,2026-07-31 15:54:43,pending_delayed_stuck
+9334,TKT-BTWYMEND,1,13209,JASVIR2250,8.0,closed,Withdrew pending,Withdrawal,0,2026-08-03 09:36:54,2026-08-03 11:53:10,pending_delayed_stuck
+9354,TKT-YUEMGW3H,1,56394,BHUPINDERCHOPRA8,8.0,closed,payment delay,Withdrawal,0,2026-08-03 14:42:17,2026-08-03 14:43:25,pending_delayed_stuck
+9375,TKT-ZWLPMVO6,1,22395,SAANVI15,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-03 20:12:19,2026-08-04 11:02:04,pending_delayed_stuck
+9477,TKT-6DRE6ZZR,1,27118,PINTU1983,8.0,closed,Withdrawal pending,Withdrawal,0,2026-08-04 23:33:59,2026-08-05 10:30:59,pending_delayed_stuck
+9501,TKT-AQOMBWF4,1,23247,JASHAN108,8.0,closed,Delay,Withdrawal,0,2026-08-05 08:23:24,2026-08-05 12:07:51,pending_delayed_stuck
+9502,TKT-M1PWWIXY,1,8466,RITESH123,9.0,closed,Invoice Transaction Sync in Progress,Withdrawal,0,2026-08-05 08:27:16,2026-08-05 14:53:45,pending_delayed_stuck
+9515,TKT-XF8SP5IL,1,22161,GHANSHYAM00,8.0,closed,Request to Process Pending Withdrawal,Withdrawal,0,2026-08-05 11:03:29,2026-08-05 11:21:48,pending_delayed_stuck
+9516,TKT-KH9LORPH,1,22190,GGSAGANE,8.0,closed,Request to Process Pending Withdrawal,Withdrawal,0,2026-08-05 11:05:04,2026-08-05 11:21:42,pending_delayed_stuck
+9517,TKT-SEPXOU21,1,22192,KYBADGUJAR,8.0,closed,Request to Process Pending Withdrawal,Withdrawal,0,2026-08-05 11:06:57,2026-08-05 11:21:37,pending_delayed_stuck
+9518,TKT-VTTGVQHO,1,16857,ALIDXB,8.0,closed,Delaying,Withdrawal,0,2026-08-05 11:10:51,2026-08-05 11:21:30,pending_delayed_stuck
+9524,TKT-QBO736RS,1,22161,GHANSHYAM00,10.0,open,Request to Process Pending Withdrawal,Withdrawal,0,2026-08-05 11:48:16,2026-08-05 12:07:03,pending_delayed_stuck
+9533,TKT-5K2BINUY,1,8127,BRIJWASI399,8.0,closed,Withdrawal pending,Withdrawal,0,2026-08-05 12:35:58,2026-08-05 12:46:04,pending_delayed_stuck
+9540,TKT-K3ZUKZSN,1,42895,RAMNEEK13,10.0,open,Pending withdrawal,Withdrawal,0,2026-08-05 13:01:16,2026-08-05 13:12:20,pending_delayed_stuck
+9541,TKT-HPYUFCI5,1,26767,RAMNEEK77,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-05 13:02:58,2026-08-05 13:12:09,pending_delayed_stuck
+9560,TKT-CCLLDLJB,1,12016,KASHIF,8.0,closed,Delayed withdrawal problem,Withdrawal,0,2026-08-05 17:00:23,2026-08-05 17:07:40,pending_delayed_stuck
+9591,TKT-UK8DU2CJ,1,22161,GHANSHYAM00,10.0,open,Request to Process Pending Withdrawal,Withdrawal,0,2026-08-06 06:10:02,2026-08-06 10:34:38,pending_delayed_stuck
+9595,TKT-VC8HGFVA,1,12528,W25FIXED,10.0,open,Withdraw so delay,Withdrawal,0,2026-08-06 08:44:39,2026-08-06 10:33:41,pending_delayed_stuck
+9657,TKT-MIJ0INGU,1,27817,NARITPAL92,10.0,open,Withdrawal  pending,Withdrawal,0,2026-08-07 05:41:07,2026-08-07 11:15:44,pending_delayed_stuck
+9705,TKT-XDFAS9CX,1,14866,BASUDEVROYM20,9.0,closed,Withdrawal pending,Withdrawal,0,2026-08-07 17:07:29,2026-08-07 17:49:51,pending_delayed_stuck
+9736,TKT-76GVTYXV,1,16043,GROWFINITY,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-07 22:45:14,2026-08-10 13:06:09,pending_delayed_stuck
+9789,TKT-VNVKQGLH,1,47601,MUGHIS110,10.0,open,Follow-up on Pending Withdrawal Request – $144,Withdrawal,0,2026-08-08 13:36:32,2026-08-10 13:19:07,pending_delayed_stuck
+9791,TKT-SY7ZBCRW,1,54684,MUGHIS120,10.0,open,Follow-up on Pending Withdrawal Request – $144,Withdrawal,0,2026-08-08 13:44:36,2026-08-10 13:19:21,pending_delayed_stuck
+9870,TKT-GOOMJYOB,1,12016,KASHIF,10.0,open,New withdrawal are pending,Withdrawal,0,2026-08-09 18:17:25,2026-08-10 13:23:33,pending_delayed_stuck
+9877,TKT-IXB7XBM0,1,22161,GHANSHYAM00,10.0,open,Pending withdrawal prosess,Withdrawal,0,2026-08-09 22:26:43,2026-08-10 13:24:00,pending_delayed_stuck
+9923,TKT-YIUFPMUK,1,15719,KEHAR3,10.0,open,Invoice pending,Withdrawal,0,2026-08-10 14:25:21,2026-08-10 14:26:37,pending_delayed_stuck
+9979,TKT-GWQVQ2OU,1,40845,SUNITASONDHI,10.0,open,Pending Withdrawal,Withdrawal,0,2026-08-11 22:03:45,2026-08-12 10:31:49,pending_delayed_stuck
+10018,TKT-KT5QY0S9,1,1151,ALLAHHUAKBAR,9.0,solved,Pending withdrawal,Withdrawal,0,2026-08-12 20:08:41,2026-08-17 16:23:16,pending_delayed_stuck
+10460,TKT-WXOQYNTZ,2,86340,JAGESHWAR94,9.0,closed,Withdrawal pending,Withdrawal,0,2026-08-19 23:37:51,2026-08-20 11:07:54,pending_delayed_stuck
+10495,TKT-ISINKSKJ,2,45243,SHITAL123,10.0,open,Withdrawal Delay,Withdrawal,0,2026-08-20 15:01:45,2026-08-20 15:23:23,pending_delayed_stuck
+10582,TKT-Q9ZLKLIO,1,40840,EDENSONDHI,10.0,open,Pending Withdrawal,Withdrawal,0,2026-08-22 00:51:07,2026-08-24 12:32:18,pending_delayed_stuck
+10600,TKT-JBBMYBYD,2,45243,SHITAL123,10.0,open,Delay in withdrawal,Withdrawal,0,2026-08-22 12:13:14,2026-08-24 16:44:10,pending_delayed_stuck
+10635,TKT-0WMQPVSV,2,692623,VVIP5,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-23 14:25:02,2026-08-24 10:38:22,pending_delayed_stuck
+10649,TKT-CGBIWFXQ,2,263370,AMITSPILKTR,10.0,open,Withdrawal Pending,Withdrawal,0,2026-08-23 20:19:17,2026-08-24 10:34:42,pending_delayed_stuck
+10777,TKT-DRHP9FGT,1,40409,TAHAKHAN001,10.0,open,Withdrawal delay,Withdrawal,0,2026-08-26 00:43:32,2026-08-27 13:15:16,pending_delayed_stuck
+10793,TKT-8U7PQHFD,2,290305,MOHAN798,10.0,open,About  delay withdrwal,Withdrawal,0,2026-08-26 11:42:53,2026-08-27 16:03:40,pending_delayed_stuck
+10858,TKT-VHEAZE18,2,152875,RANI7101,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-27 13:24:32,2026-08-27 13:32:25,pending_delayed_stuck
+10861,TKT-1RAH5TLH,2,11907,JASVIRPB,10.0,open,Widral pending,Withdrawal,0,2026-08-27 14:21:26,2026-08-27 15:13:47,pending_delayed_stuck
+10882,TKT-5N9ZWNCW,2,53142,ATIFALI12345,10.0,open,Withdrawal Pending,Withdrawal,0,2026-08-27 23:11:28,2026-08-28 11:45:59,pending_delayed_stuck
+10895,TKT-YQBYIADH,2,149661,RAMA94,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-28 10:21:32,2026-08-28 11:45:30,pending_delayed_stuck
+10992,TKT-VVUNVXXW,2,640840,MR40,10.0,open,Withdrawal pending,Withdrawal,0,2026-08-31 07:39:44,2026-08-31 10:59:37,pending_delayed_stuck
+11040,TKT-DGOWHSUJ,2,257772,SONAL1982,9.0,closed,Withdrawal pending,Withdrawal,0,2026-09-01 11:21:06,2026-09-01 13:35:32,pending_delayed_stuck
+11148,TKT-X5Y7SSUM,1,62122,CAVG,9.0,open,WITHDRAWAL PENDING,Withdrawal,0,2026-09-03 19:13:40,2026-09-04 17:51:38,pending_delayed_stuck
+11199,TKT-KHAM8CMA,1,62069,DINNU02,,open,Pending withdrawal,Withdrawal,0,2026-09-05 08:15:19,2026-09-05 08:15:19,pending_delayed_stuck

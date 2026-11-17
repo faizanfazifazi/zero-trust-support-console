@@ -1,0 +1,20 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+308,TKT-I1GLCHKY,3,2,Test User 2,4.0,closed,Second 2,Withdraw,0,2026-02-26 00:51:21,2026-03-09 11:22:23,general_unspecified_withdraw
+876,TKT-C59ZSGW8,3,107,Ravi Ranjan Kumar,8.0,solved,task completed,Withdraw,0,2026-04-06 20:35:26,2026-04-08 11:26:24,general_unspecified_withdraw
+1080,TKT-SJBF52KE,3,1218,ADITAY Gond,9.0,closed,200,Withdraw,0,2026-04-18 06:40:31,2026-04-20 13:08:24,general_unspecified_withdraw
+1134,TKT-BU7MQ1SR,3,1493,Gaurav kumar,8.0,solved,science,Withdraw,0,2026-04-20 08:55:37,2026-04-20 11:35:18,general_unspecified_withdraw
+1166,TKT-4JZ09P7H,3,2231,solu kumar,8.0,closed,Paisa,Withdraw,0,2026-04-20 22:12:59,2026-04-21 12:44:32,general_unspecified_withdraw
+1176,TKT-5RV7TCFT,3,4362,Firoj Ansari,8.0,closed,firoj,Withdraw,0,2026-04-21 10:04:49,2026-04-21 12:43:25,general_unspecified_withdraw
+1241,TKT-KIQCOFOV,3,5686,md kausar alam,8.0,closed,hindi,Withdraw,0,2026-04-23 10:35:08,2026-04-23 12:08:44,general_unspecified_withdraw
+1262,TKT-PEN8ZEPX,3,6036,CHAKRAVARTY KUMAR,9.0,closed,math,Withdraw,0,2026-04-24 05:36:19,2026-04-24 12:09:51,general_unspecified_withdraw
+1281,TKT-8Z8K7EJK,3,6127,kishan kumar,9.0,closed,हिंदी,Withdraw,0,2026-04-24 13:03:59,2026-04-28 17:55:07,general_unspecified_withdraw
+1420,TKT-YTHBITK9,3,4832,Mukesh Thakur,8.0,solved,refferal bonous,Withdraw,0,2026-05-01 10:09:43,2026-05-04 13:15:37,general_unspecified_withdraw
+1535,TKT-SEEKDDXV,3,2508,PABAN RABIDAS,9.0,closed,500,Withdraw,0,2026-05-06 14:10:30,2026-05-06 18:35:54,general_unspecified_withdraw
+1640,TKT-0KGLECMX,3,3668,Ramiz Raza,8.0,closed,p,Withdraw,0,2026-05-12 17:36:57,2026-05-13 10:45:16,general_unspecified_withdraw
+3533,TKT-SGYYB0Z6,3,1930,Nitish Kumar verma,9.0,closed,Ghast tower,Withdraw,0,2026-06-17 14:37:19,2026-06-17 14:44:27,general_unspecified_withdraw
+4941,TKT-IKXER8YL,3,1197,Omkarnath Upadhyay,8.0,closed,b 7 kz. b iloo00ooo000olooooo0lol0000l0ll0l00o0ol00ll000000l0ll,Withdraw,0,2026-06-23 20:11:21,2026-06-24 11:42:57,general_unspecified_withdraw
+4942,TKT-ND3PWJLK,3,1197,Omkarnath Upadhyay,8.0,closed,b 7 kz. b iloo00ooo000olooooo0lol0000l0ll0l00o0ol00ll000000l0ll,Withdraw,0,2026-06-23 20:11:21,2026-06-24 11:43:07,general_unspecified_withdraw
+5253,TKT-F5YA2EKR,3,9816,rahil khan,9.0,closed,game,Withdraw,0,2026-06-25 22:48:39,2026-06-29 17:19:04,general_unspecified_withdraw
+7277,TKT-4YAU2WBO,3,9895,Aditya Gond,8.0,solved,10,Withdraw,0,2026-07-10 12:24:17,2026-07-13 14:39:15,general_unspecified_withdraw
+8586,TKT-CBM8Q674,3,9307,Uwais hakim,8.0,solved,about use adup problem,Withdraw,0,2026-07-24 07:58:07,2026-07-28 11:14:26,general_unspecified_withdraw
+11163,TKT-9PXI6XIZ,3,9307,Uwais hakim,8.0,solved,about my account,Withdraw,0,2026-09-04 07:42:30,2026-09-04 12:04:09,general_unspecified_withdraw

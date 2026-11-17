@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+3282,TKT-Y9XXCNBI,1,14622,MKMGS2024,8.0,closed,Unable to Access MK2024 Account – Request from MKMGS2024,Account Security,0,2026-06-14 22:20:14,2026-06-15 19:36:39,login_access_issues

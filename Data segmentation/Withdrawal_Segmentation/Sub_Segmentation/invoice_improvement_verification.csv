@@ -1,0 +1,17 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+568,TKT-0OWU3YCX,2,11493,RIYAZ98,,open,Invoice attempt failed,Withdrawal,0,2026-03-14 18:20:49,2026-03-14 18:20:49,general_unspecified_withdrawal
+1138,TKT-4BDXKXY6,1,1394,SINGH99,8.0,solved,Please invoice update,Withdrawal,0,2026-04-20 11:30:45,2026-04-20 11:32:06,general_unspecified_withdrawal
+1140,TKT-BEALS4PD,1,9511,RANVEER100,10.0,open,Invoice  Not Generated,Withdrawal,0,2026-04-20 11:34:38,2026-04-20 11:35:05,general_unspecified_withdrawal
+4494,TKT-SHL98VLD,1,51256,PARDEEP0133,10.0,open,For improve Invoice,Withdrawal,0,2026-06-21 18:44:27,2026-06-22 13:45:02,general_unspecified_withdrawal
+4495,TKT-QRBEN8HV,1,51257,PARDEEP0233,10.0,open,For improve my invoice,Withdrawal,0,2026-06-21 18:46:13,2026-06-22 13:44:41,general_unspecified_withdrawal
+6363,TKT-5DYNXGNH,1,52966,PARDEEP064,9.0,closed,For improve my invoice,Withdrawal,0,2026-07-03 12:01:31,2026-07-07 12:26:12,general_unspecified_withdrawal
+6364,TKT-4MI4HGMQ,1,52987,PARDEEP0164,9.0,closed,For improve my invoice,Withdrawal,0,2026-07-03 12:03:07,2026-07-07 12:27:38,general_unspecified_withdrawal
+6588,TKT-NY9IORE5,1,42224,SANDEEP785,9.0,closed,For improve my invoice,Withdrawal,0,2026-07-04 17:31:39,2026-07-07 12:28:34,general_unspecified_withdrawal
+7092,TKT-RURHUELZ,1,42224,SANDEEP785,10.0,open,For improve my invoice,Withdrawal,0,2026-07-09 05:26:43,2026-07-09 11:50:40,general_unspecified_withdrawal
+7461,TKT-R6FQSGPY,1,42224,SANDEEP785,9.0,closed,For improve my invoice,Withdrawal,0,2026-07-11 17:45:49,2026-07-13 16:32:15,general_unspecified_withdrawal
+8691,TKT-SNVWT5I2,1,51256,PARDEEP0133,10.0,open,For improve my invoice,Withdrawal,0,2026-07-25 16:02:10,2026-07-27 13:29:08,general_unspecified_withdrawal
+8692,TKT-X8WCNMUG,1,17060,DHARM03426,10.0,open,Please improve my invoice,Withdrawal,0,2026-07-25 16:04:35,2026-07-27 13:29:18,general_unspecified_withdrawal
+8693,TKT-GJDTVUVH,1,52966,PARDEEP064,10.0,open,Please improve my invoice,Withdrawal,0,2026-07-25 16:06:16,2026-07-27 13:28:59,general_unspecified_withdrawal
+8694,TKT-RCY3BFTJ,1,52987,PARDEEP0164,10.0,open,Please improve my invoice,Withdrawal,0,2026-07-25 16:08:06,2026-07-27 13:28:50,general_unspecified_withdrawal
+8695,TKT-40GKZBC3,1,17429,BHAGWANT0433,10.0,open,For improve my invoice,Withdrawal,0,2026-07-25 16:09:59,2026-07-27 13:28:35,general_unspecified_withdrawal
+8750,TKT-ZQMZBAC2,1,19488,ATHER01,8.0,solved,Invoice not found,Withdrawal,0,2026-07-26 10:10:00,2026-07-27 12:42:43,general_unspecified_withdrawal

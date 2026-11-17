@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+159,TKT-KBCB1MFD,2,91014,JASHAN1980,10.0,open,How to withdraw usd,Withdrawal,0,2026-02-11 21:57:14,2026-02-16 17:42:55,guidance_howto

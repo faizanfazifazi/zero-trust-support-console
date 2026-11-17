@@ -1,0 +1,20 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+324,TKT-8KVJ7717,1,11512,KNISHA1,3.0,open,Invoice issue,Withdrawal,0,2026-02-27 09:13:09,2026-02-27 11:21:21,general_unspecified_withdrawal
+409,TKT-OLOSKGFY,2,850807,FIROZ0105,9.0,closed,Invoice,Withdrawal,0,2026-03-05 06:31:52,2026-03-16 14:25:15,general_unspecified_withdrawal
+422,TKT-EGK8G6UX,2,851420,WA12,10.0,open,Remove my inverified invoice,Withdrawal,0,2026-03-06 17:05:07,2026-03-09 11:50:13,general_unspecified_withdrawal
+493,TKT-GMVB6BTA,2,864347,DAUD207,,open,Invoice,Withdrawal,0,2026-03-11 11:07:23,2026-03-11 11:07:23,general_unspecified_withdrawal
+598,TKT-SXSJNJ5U,1,14591,SUJITINSYNC,10.0,open,Invoice not paid,Withdrawal,0,2026-03-16 13:20:12,2026-03-16 14:04:26,general_unspecified_withdrawal
+991,TKT-QQM4YMLD,2,861088,DAUD200,10.0,open,Invoice,Withdrawal,0,2026-04-14 16:44:28,2026-04-15 12:20:26,general_unspecified_withdrawal
+994,TKT-XTOMTYI1,2,608795,DAUD117,3.0,closed,Invoice,Withdrawal,0,2026-04-14 18:13:25,2026-06-03 18:08:28,general_unspecified_withdrawal
+1015,TKT-ILWGKXXY,2,285472,DAUD10,10.0,open,Invoice,Withdrawal,0,2026-04-15 13:32:39,2026-04-15 13:37:24,general_unspecified_withdrawal
+1111,TKT-YG6LKRCV,1,14591,SUJITINSYNC,10.0,open,Invoice not paid,Withdrawal,0,2026-04-19 10:43:57,2026-04-20 11:50:56,general_unspecified_withdrawal
+1915,TKT-JWUPDTUV,1,13359,YADAV100,10.0,open,My invoice 11/05/2026,Withdrawal,0,2026-05-23 05:32:58,2026-05-25 12:28:20,general_unspecified_withdrawal
+2632,TKT-Y5CWUTM7,2,477176,DAUD72,8.0,closed,Invoice,Withdrawal,0,2026-06-05 02:27:00,2026-06-05 16:33:21,general_unspecified_withdrawal
+2765,TKT-X8AUKIQB,2,477176,DAUD72,10.0,open,Invoice,Withdrawal,0,2026-06-07 01:22:23,2026-06-08 14:05:23,general_unspecified_withdrawal
+2876,TKT-0TBBLXGS,2,475623,DAUD068,8.0,closed,Invoice,Withdrawal,0,2026-06-08 13:34:59,2026-06-08 13:59:56,general_unspecified_withdrawal
+6804,TKT-HVXNCNA2,1,56741,ASIF5400,10.0,open,Invoice,Withdrawal,0,2026-07-06 21:03:35,2026-07-07 12:24:15,general_unspecified_withdrawal
+7233,TKT-IQHU4HPK,1,20903,ADITYA02,9.0,closed,My invoice,Withdrawal,0,2026-07-10 07:01:08,2026-07-10 17:27:42,general_unspecified_withdrawal
+8406,TKT-HY4TA6ZA,1,26809,ZIYA786,10.0,open,Invoice,Withdrawal,0,2026-07-21 09:38:33,2026-07-21 11:54:18,general_unspecified_withdrawal
+8943,TKT-HAOCVTTM,1,19441,ANAYA2,10.0,open,Invoice,Withdrawal,0,2026-07-28 19:29:34,2026-07-29 12:55:21,general_unspecified_withdrawal
+10655,TKT-6O4HJ4YX,1,19817,IBRAHIM11,8.0,closed,Invoice Transaction Sync,Withdrawal,0,2026-08-23 22:42:15,2026-08-24 10:31:11,general_unspecified_withdrawal
+11007,TKT-TDI0B7J9,2,648984,FIROZ71,10.0,open,Invoice,Withdrawal,0,2026-08-31 13:54:27,2026-08-31 14:10:16,general_unspecified_withdrawal

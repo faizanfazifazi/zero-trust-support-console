@@ -1,0 +1,6 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+3117,TKT-VWCB5ZX6,1,11088,SMARTVIJAY,9.0,closed,eBank Withdraw Error,Withdrawal,0,2026-06-12 10:33:37,2026-06-15 12:43:42,bank_ebanking_transfer
+3134,TKT-8GO7KPVO,1,19425,SWATI143,9.0,closed,Getting error on withdrawal from ebank,Withdrawal,0,2026-06-12 15:32:40,2026-06-15 12:54:25,bank_ebanking_transfer
+8025,TKT-ZJJQ0ZTO,1,36468,NAVPAW03,8.0,solved,ERROR IN E BANK WITHDRAWALS,Withdrawal,0,2026-07-16 15:39:21,2026-07-16 15:43:29,bank_ebanking_transfer
+9576,TKT-EIGO9YSQ,1,14853,SIDDHANT,9.0,closed,Payment gateway not available,Withdrawal,0,2026-08-05 19:57:45,2026-08-06 14:42:23,bank_ebanking_transfer
+9995,TKT-ZU6EEWFX,1,11597,BBK25,8.0,closed,Payment Gateway Maintenance Error,Withdrawal,0,2026-08-12 12:04:17,2026-08-12 12:46:21,bank_ebanking_transfer

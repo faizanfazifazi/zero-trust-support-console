@@ -1,0 +1,8 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+16,TKT-7UOKRUYJ,1,38026,KARTIKED,9.0,closed,Unable to join the Telegram,Bug Report,0,2026-01-25 08:50:26,2026-01-27 14:02:31,communication_link_bugs
+17,TKT-MXXE9EIO,1,790,YESH,9.0,closed,Telegram channel,Bug Report,0,2026-01-25 11:26:59,2026-01-27 13:59:31,communication_link_bugs
+4070,TKT-50OFJCE7,1,12055,RAVI70,4.0,closed,Not received verification mail link,Bug Report,0,2026-06-19 10:00:29,2026-08-20 17:05:10,communication_link_bugs
+4920,TKT-ETXQNCQX,1,25470,DRSAHEEMKAMAL4,9.0,closed,Link,Bug Report,0,2026-06-23 18:17:19,2026-06-23 18:33:40,communication_link_bugs
+4943,TKT-PIZNU0JO,1,25470,DRSAHEEMKAMAL4,8.0,closed,Link option,Bug Report,0,2026-06-23 20:11:31,2026-06-24 11:42:51,communication_link_bugs
+5011,TKT-BOQFCZZR,1,25470,DRSAHEEMKAMAL4,9.0,closed,Link option,Bug Report,0,2026-06-24 12:13:06,2026-06-24 12:19:38,communication_link_bugs
+5384,TKT-TO8GSGAY,1,19813,IBRAHIM10,8.0,closed,KYC Link,Bug Report,0,2026-06-26 22:25:09,2026-06-29 12:35:43,communication_link_bugs

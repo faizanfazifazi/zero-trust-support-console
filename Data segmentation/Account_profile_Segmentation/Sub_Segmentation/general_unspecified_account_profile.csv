@@ -1,0 +1,429 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+5,TKT-QY7GTUBC,1,1050,RK69,9.0,closed,Trading education & Trading singnal,Account Profile,0,2026-01-22 22:31:30,2026-01-27 15:07:29,general_unspecified_account_profile
+11,TKT-MYYVIBZ1,1,7499,MANDALPK2001,3.0,solved,Subscription Expired,Account Profile,0,2026-01-24 06:06:37,2026-01-25 08:03:41,general_unspecified_account_profile
+13,TKT-QGGIHBIQ,1,41096,TUSHARJEE,3.0,solved,Wealth25 Intra. Bonus,Account Profile,0,2026-01-24 11:11:25,2026-01-25 08:01:52,general_unspecified_account_profile
+14,TKT-A94Q1HOJ,1,20516,GST07,3.0,solved,wrong calculation in Leadership bonus Progress for the current month,Account Profile,0,2026-01-24 13:32:02,2026-01-26 06:23:06,general_unspecified_account_profile
+19,TKT-1PW7FFUD,1,13640,TPDHYAVARTIWAR123,3.0,closed,Wrong package buy,Account Profile,0,2026-01-26 08:54:11,2026-01-26 11:11:28,general_unspecified_account_profile
+23,TKT-MSFMACGD,1,17741,SURINDER999,9.0,closed,telegram,Account Profile,0,2026-01-27 16:44:29,2026-01-27 16:58:42,general_unspecified_account_profile
+25,TKT-BNFETNSV,1,41505,ASO19,3.0,closed,Id settlement,Account Profile,0,2026-01-27 23:58:31,2026-01-28 13:01:15,general_unspecified_account_profile
+28,TKT-5Q1VXTRQ,1,38510,S70,8.0,solved,MCARD,Account Profile,0,2026-01-28 21:30:29,2026-02-02 18:30:42,general_unspecified_account_profile
+31,TKT-NQNDOZMD,1,30640,DIVYA225,9.0,closed,DIVYA225 /EXECUTIVE RANK NOT SHOWING,Account Profile,0,2026-01-29 07:01:03,2026-02-02 17:56:07,general_unspecified_account_profile
+32,TKT-HFQRXJDN,1,15772,UPY03,9.0,closed,Regarding Dubai Trip,Account Profile,0,2026-01-29 09:46:18,2026-01-29 14:35:27,general_unspecified_account_profile
+47,TKT-UYCJW9SI,1,7745,JYOTI009,3.0,closed,Team building bonuse,Account Profile,0,2026-01-31 09:38:43,2026-02-02 12:29:27,general_unspecified_account_profile
+66,TKT-ZG9ILZWD,1,22246,NAP49,3.0,open,Mcard not received,Account Profile,0,2026-02-03 23:47:11,2026-02-06 13:44:34,general_unspecified_account_profile
+67,TKT-VJAAO9FB,1,1418,TKR19,3.0,closed,Mcard not received till date,Account Profile,0,2026-02-03 23:53:35,2026-04-14 23:46:02,general_unspecified_account_profile
+69,TKT-LMCPMODS,1,39703,YUP72,8.0,closed,MCARD not created in Dashboard,Account Profile,0,2026-02-04 10:38:00,2026-02-06 13:28:00,general_unspecified_account_profile
+118,TKT-UVLHPTMJ,2,53878,NAVNEET49,4.0,closed,Mestaik,Account Profile,0,2026-02-08 22:21:17,2026-08-19 16:26:26,general_unspecified_account_profile
+135,TKT-FYI7CSEY,1,7589,SHAH9420,3.0,closed,PCM,Account Profile,0,2026-02-09 22:57:33,2026-02-10 05:11:35,general_unspecified_account_profile
+138,TKT-OUXT8XZD,2,219742,MOHDHANIF1800,8.0,closed,Fix stating,Account Profile,0,2026-02-10 10:09:32,2026-02-10 12:07:19,general_unspecified_account_profile
+160,TKT-VEDT47LR,2,410850,YASER5551,9.0,closed,Why My Account Dormant,Account Profile,0,2026-02-12 02:11:58,2026-02-12 12:50:32,general_unspecified_account_profile
+215,TKT-QNSCF2MU,1,2151,KUNDAN78,3.0,closed,Team buliding bonus not received,Account Profile,0,2026-02-16 18:25:36,2026-04-14 23:44:30,general_unspecified_account_profile
+219,TKT-QAF7F02K,1,17982,RAZA110,8.0,closed,Leadership bonus,Account Profile,0,2026-02-17 00:32:11,2026-02-18 12:28:34,general_unspecified_account_profile
+221,TKT-UTBV6CQW,2,123500,PRASHANT5400,9.0,closed,MY id not murj,Account Profile,0,2026-02-17 12:00:25,2026-02-17 13:28:16,general_unspecified_account_profile
+222,TKT-DJLH2ZGZ,2,123500,PRASHANT5400,9.0,closed,NOT MURJ,Account Profile,0,2026-02-17 12:03:55,2026-02-17 13:29:44,general_unspecified_account_profile
+231,TKT-PUI0ZGD4,1,15281,PINDERDHALIWAL,8.0,closed,Updation of Rank,Account Profile,0,2026-02-18 16:06:06,2026-02-25 11:00:21,general_unspecified_account_profile
+241,TKT-LBNWNR5A,2,851390,DPKLBAJAJ,8.0,solved,Why dormant?,Account Profile,0,2026-02-20 00:36:54,2026-02-25 11:22:50,general_unspecified_account_profile
+243,TKT-1PHWJDGO,1,7737,PUSKAR2008,9.0,closed,trading signal access,Account Profile,0,2026-02-20 10:47:40,2026-02-25 11:13:38,general_unspecified_account_profile
+244,TKT-N4W8ZF7M,2,68299,UGP2,3.0,open,Account Link Related,Account Profile,0,2026-02-20 11:50:48,2026-02-20 11:57:56,general_unspecified_account_profile
+261,TKT-ZUJBVVHD,2,823436,RAJAT6993,9.0,solved,LINK WITH MAIN ACCOUNT,Account Profile,0,2026-02-22 12:17:31,2026-02-26 11:18:53,general_unspecified_account_profile
+263,TKT-DMFD4IPE,1,9127,KEHAR1,8.0,closed,Package activation,Account Profile,0,2026-02-22 15:43:04,2026-03-02 12:36:51,general_unspecified_account_profile
+290,TKT-YGALWG9X,2,785158,RI1200,10.0,open,Staking release,Account Profile,0,2026-02-25 03:28:07,2026-02-25 11:03:19,general_unspecified_account_profile
+293,TKT-SBXPFRJW,1,3003,RIZWAN1999,9.0,closed,Wealth 25 residual income not received,Account Profile,0,2026-02-25 11:31:24,2026-02-26 11:19:18,general_unspecified_account_profile
+302,TKT-OW1A80GH,1,7737,PUSKAR2008,8.0,solved,Trading singnal access,Account Profile,0,2026-02-25 21:33:02,2026-03-11 12:34:19,general_unspecified_account_profile
+303,TKT-MXRWAK68,2,428331,GIAN130,10.0,open,Account balance,Account Profile,0,2026-02-25 23:04:41,2026-02-26 11:17:49,general_unspecified_account_profile
+320,TKT-D4URK38Y,2,307830,NACHATTAR7053,4.0,closed,Mestaik,Account Profile,0,2026-02-26 22:44:43,2026-03-10 11:19:24,general_unspecified_account_profile
+361,TKT-P8R6IPIQ,2,132978,WHITEDEVILMK7,10.0,open,Enquiry About Fixed Mcoin Staking Order Id 	f35642c144dc.,Account Profile,0,2026-02-28 21:31:39,2026-03-03 11:26:44,general_unspecified_account_profile
+367,TKT-SWFO2AHI,1,19232,AISHA786,3.0,closed,RANK UPGRADADTION,Account Profile,0,2026-03-01 11:28:18,2026-03-12 17:43:27,general_unspecified_account_profile
+408,TKT-PRKFJLRF,2,410850,YASER5551,,open,My Transaction Show Dormant,Account Profile,0,2026-03-05 00:02:04,2026-03-05 00:02:04,general_unspecified_account_profile
+430,TKT-YTRNZSVF,1,7050,SUNILUP61,9.0,closed,Leadership bonus problem,Account Profile,0,2026-03-07 12:35:28,2026-03-11 12:47:40,general_unspecified_account_profile
+431,TKT-J2WNUNYL,1,5319,IRSHAD100,9.0,closed,Wealth 25 funds,Account Profile,0,2026-03-07 13:15:58,2026-03-11 13:45:32,general_unspecified_account_profile
+455,TKT-QY5PLD6L,1,5286,PRAMODM20,8.0,solved,excutive rank,Account Profile,0,2026-03-09 10:31:53,2026-03-11 12:35:00,general_unspecified_account_profile
+575,TKT-AX6WSZKZ,1,14661,MONIKASACHDEV,9.0,closed,Amount not received on 13th of every month,Account Profile,0,2026-03-15 01:04:06,2026-03-26 18:05:51,general_unspecified_account_profile
+588,TKT-NONHM9XC,2,390119,KANWALJIT63,10.0,open,Regarding mcoin balance,Account Profile,0,2026-03-15 18:47:49,2026-03-16 14:27:21,general_unspecified_account_profile
+594,TKT-SEWSLBFY,1,9134,PKUMAR7634,8.0,solved,Regarding extra 50% reward on achievement of 18000$ slot target,Account Profile,0,2026-03-16 09:31:11,2026-03-16 14:28:20,general_unspecified_account_profile
+601,TKT-IHVHUVQK,1,44442,RANDY2312,9.0,closed,trading signal,Account Profile,0,2026-03-16 16:24:48,2026-03-19 14:53:27,general_unspecified_account_profile
+625,TKT-3JHY27GI,1,4033,HARSHIT,9.0,closed,Intro bonus,Account Profile,0,2026-03-18 09:28:51,2026-03-18 11:39:01,general_unspecified_account_profile
+642,TKT-YE4OVMKF,1,614,STR2,8.0,closed,Rank reward,Account Profile,0,2026-03-19 14:19:16,2026-03-21 12:53:54,general_unspecified_account_profile
+647,TKT-SWEF9Z2P,2,343529,JAGTAR576,10.0,open,Old back office 420 Transfer to new back office,Account Profile,0,2026-03-19 18:57:19,2026-06-03 12:44:22,general_unspecified_account_profile
+648,TKT-KASLSFKY,1,573,INDIA,9.0,closed,NO Acess TREDING SIGNAL,Account Profile,0,2026-03-19 20:06:36,2026-04-13 16:38:06,general_unspecified_account_profile
+666,TKT-P34E7ZYW,2,343529,JAGTAR576,3.0,open,Pro share old back office 420 ustd transfer to new back office,Account Profile,0,2026-03-20 16:17:54,2026-03-25 15:37:51,general_unspecified_account_profile
+685,TKT-Z1CDQG1W,2,31336,VARSHA09,,open,fixed mcoin issue,Account Profile,0,2026-03-22 17:26:13,2026-03-22 17:26:13,general_unspecified_account_profile
+696,TKT-6KVKC5KZ,1,19085,BOT001,9.0,closed,Rank did not reflected,Account Profile,0,2026-03-22 22:48:50,2026-03-26 17:17:09,general_unspecified_account_profile
+697,TKT-Y2CS0MLG,2,422407,HASSAN3413,3.0,open,Request to speak customer care,Account Profile,0,2026-03-22 23:12:52,2026-03-24 11:42:55,general_unspecified_account_profile
+701,TKT-1QV0YZXK,1,14499,DUSHYANT1234,10.0,open,Roi,Account Profile,0,2026-03-23 07:20:35,2026-03-24 11:51:05,general_unspecified_account_profile
+753,TKT-V3VK8RLV,2,119747,MUKESHV,,open,Mcoin,Account Profile,0,2026-03-26 20:05:02,2026-03-26 20:05:02,general_unspecified_account_profile
+754,TKT-NUARWFUS,2,119747,MUKESHV,,open,Mcoin,Account Profile,0,2026-03-26 20:12:40,2026-03-26 20:12:40,general_unspecified_account_profile
+766,TKT-8IWEYGFQ,2,875021,OMS1,9.0,closed,Rank,Account Profile,0,2026-03-27 11:28:54,2026-03-30 16:42:29,general_unspecified_account_profile
+783,TKT-FKB8DUMK,1,9427,MSPANDAV,9.0,closed,ebank income is close why reasion,Account Profile,0,2026-03-28 13:13:05,2026-04-13 11:59:07,general_unspecified_account_profile
+791,TKT-YLRE4JTG,1,5668,SUMIT2024,9.0,closed,Mcard  not receive me.,Account Profile,0,2026-03-29 01:18:27,2026-04-06 12:48:08,general_unspecified_account_profile
+812,TKT-ISZX1VDC,2,252814,HARBANS70,8.0,solved,Mistake,Account Profile,0,2026-03-31 21:06:34,2026-04-01 12:06:11,general_unspecified_account_profile
+814,TKT-SZ0DBURL,2,348391,MAACHAMUNDA1,9.0,closed,Lost my authenticator QR,Account Profile,0,2026-04-01 11:22:40,2026-04-13 16:38:49,general_unspecified_account_profile
+815,TKT-PUDOED0A,1,1847,VINODDASMCION,9.0,closed,Regarding Mcard,Account Profile,0,2026-04-01 19:53:53,2026-04-06 16:10:29,general_unspecified_account_profile
+817,TKT-E98FCOOT,2,132180,ASMASULTANA,8.0,solved,Account Opening Issue,Account Profile,0,2026-04-01 21:40:02,2026-04-06 14:19:14,general_unspecified_account_profile
+834,TKT-BATWOINE,2,206654,PRIYANKA2195,8.0,closed,Account Linked,Account Profile,0,2026-04-03 10:05:43,2026-04-06 11:51:51,general_unspecified_account_profile
+872,TKT-SWSMTGD8,1,1140,VIKRAMVEER,8.0,solved,Authenticator losses,Account Profile,0,2026-04-06 19:52:40,2026-04-08 11:26:46,general_unspecified_account_profile
+943,TKT-Q7KJXJIR,2,31848,ASIF1985,8.0,closed,Mether,Account Profile,0,2026-04-10 19:07:15,2026-06-17 16:12:15,general_unspecified_account_profile
+948,TKT-VVF3FVMY,2,680099,MAN1010,8.0,solved,User ID man1010,Account Profile,0,2026-04-11 09:39:09,2026-04-17 12:22:50,general_unspecified_account_profile
+954,TKT-Y4EB9ZP6,1,43426,PATELSAHIL1997,3.0,closed,i didnot received march month profit weaith 25,Account Profile,0,2026-04-11 17:48:25,2026-04-14 23:40:30,general_unspecified_account_profile
+955,TKT-4PHW8VPD,2,286561,AASIM57,4.0,closed,Correction,Account Profile,0,2026-04-11 19:38:55,2026-08-20 13:00:02,general_unspecified_account_profile
+1001,TKT-LGWCXUSL,1,42638,RAJNISHJI,3.0,closed,ebank negative,Account Profile,0,2026-04-15 06:35:33,2026-04-15 10:50:10,general_unspecified_account_profile
+1037,TKT-W9DPLHTM,1,51812,SMARTVIJAY1,9.0,closed,Unable to login in account,Account Profile,0,2026-04-16 13:28:48,2026-04-20 17:05:55,general_unspecified_account_profile
+1049,TKT-IQ70YDPD,2,54722,NKHANAM,8.0,closed,Rank Reward Pending,Account Profile,0,2026-04-16 23:20:19,2026-04-20 11:58:20,general_unspecified_account_profile
+1054,TKT-KOTY1H66,1,17983,NAUSHAD110,8.0,closed,Trading Signal,Account Profile,0,2026-04-17 09:51:23,2026-04-20 11:58:56,general_unspecified_account_profile
+1066,TKT-FBVO92WF,1,328,BHAGVANTA1,8.0,solved,Promotion Bonus Report,Account Profile,0,2026-04-17 16:33:40,2026-04-20 11:56:32,general_unspecified_account_profile
+1073,TKT-EKDSOG2B,2,829368,GODAWARI1983,8.0,closed,ABOUT TO ADD MY ACCOUNT,Account Profile,0,2026-04-17 20:07:16,2026-04-20 15:51:02,general_unspecified_account_profile
+1074,TKT-UJ9JZR6H,2,829368,GODAWARI1983,8.0,closed,ABOUT WALLET ADDRESS,Account Profile,0,2026-04-17 20:19:17,2026-04-20 13:21:13,general_unspecified_account_profile
+1090,TKT-LTQIURVC,1,4006,BISHAN506,8.0,solved,Otp not receved,Account Profile,0,2026-04-18 12:13:23,2026-04-20 11:54:54,general_unspecified_account_profile
+1120,TKT-IUYO0JYT,2,176968,PRADUMN86,8.0,closed,ACCOUNT SHOW DORMANT,Account Profile,0,2026-04-19 18:18:03,2026-04-20 15:50:24,general_unspecified_account_profile
+1121,TKT-EGMOG2CL,2,176968,PRADUMN86,8.0,closed,wallete address,Account Profile,0,2026-04-19 18:23:16,2026-04-20 15:50:11,general_unspecified_account_profile
+1146,TKT-OFDBPD0F,2,504652,MMB1,8.0,closed,fix staking not shown,Account Profile,0,2026-04-20 15:32:18,2026-04-20 17:33:23,general_unspecified_account_profile
+1206,TKT-BHBXHKM8,1,51812,SMARTVIJAY1,8.0,closed,Id SMARTVIJAY -suspension Illigaly,Account Profile,0,2026-04-21 23:05:10,2026-04-23 12:11:56,general_unspecified_account_profile
+1218,TKT-1ECYJCPF,1,1252,SUMMER192021,8.0,closed,Regading 5x limit reached,Account Profile,0,2026-04-22 10:03:07,2026-04-22 11:28:57,general_unspecified_account_profile
+1219,TKT-QNU9S4SN,1,8385,MOHIT94,8.0,closed,Reagrding Trading Signal Aceess,Account Profile,0,2026-04-22 11:28:42,2026-04-22 11:29:49,general_unspecified_account_profile
+1237,TKT-JJCN3EZF,1,15402,BABAGURU3,9.0,closed,Residual bonus,Account Profile,0,2026-04-23 07:08:48,2026-04-27 13:51:28,general_unspecified_account_profile
+1243,TKT-YSFPALO8,1,11963,SUNILBTM,8.0,closed,Probot x login,Account Profile,0,2026-04-23 12:04:16,2026-04-23 12:08:19,general_unspecified_account_profile
+1251,TKT-SGLWAY6T,1,8385,MOHIT94,8.0,closed,Regarding Telegram trading signal group,Account Profile,0,2026-04-23 14:53:57,2026-05-08 12:03:58,general_unspecified_account_profile
+1253,TKT-2P48YGHV,1,51812,SMARTVIJAY1,4.0,closed,My account is not working and ticket closed without response,Account Profile,0,2026-04-23 16:09:30,2026-08-20 16:17:53,general_unspecified_account_profile
+1304,TKT-UDBULHJ0,2,60965,NADEEMMM786,8.0,closed,Rank reward,Account Profile,0,2026-04-25 07:09:37,2026-04-27 13:00:59,general_unspecified_account_profile
+1329,TKT-EE7TKO0Y,1,7387,OMKAR,8.0,solved,Trading signals access,Account Profile,0,2026-04-26 11:33:31,2026-04-27 11:54:47,general_unspecified_account_profile
+1371,TKT-ODCHDRNH,2,63395,DRNADEEM7351,9.0,closed,Rank reward of manager,Account Profile,0,2026-04-28 22:23:47,2026-05-01 10:59:32,general_unspecified_account_profile
+1387,TKT-KDRKMPZ8,2,864715,GORA754,4.0,closed,Mistake,Account Profile,0,2026-04-29 18:31:30,2026-08-20 16:18:14,general_unspecified_account_profile
+1404,TKT-EH2QIWUT,2,459545,ASHIYA120,8.0,closed,Rank reward,Account Profile,0,2026-04-30 13:41:36,2026-05-04 10:57:58,general_unspecified_account_profile
+1415,TKT-33EOMZOA,1,2545,BSS67,8.0,solved,Executive,Account Profile,0,2026-04-30 22:49:04,2026-05-04 11:36:46,general_unspecified_account_profile
+1418,TKT-TPBBT2GY,1,44682,MINZAR90,8.0,solved,Regarding Leadership Bonus,Account Profile,0,2026-05-01 09:33:35,2026-05-04 11:36:55,general_unspecified_account_profile
+1429,TKT-H7G5THJ0,1,7301,ASHISHSUNIL,9.0,closed,I HAVEN'T RECEIVED MY ADVISORY BONUS PLEASE DEPOSIT  MY ADVISORY BONUS TO MY ID,Account Profile,0,2026-05-01 21:18:40,2026-05-05 17:12:28,general_unspecified_account_profile
+1484,TKT-C6MSNW7Y,1,975,PAWAN94,8.0,solved,Rank updation,Account Profile,0,2026-05-04 10:23:21,2026-05-08 11:57:21,general_unspecified_account_profile
+1494,TKT-KYZHQ8ST,1,6036,K211283,9.0,closed,mcoin not Recived,Account Profile,0,2026-05-04 17:28:15,2026-05-06 18:18:48,general_unspecified_account_profile
+1521,TKT-UNV0ZMYA,1,25477,DILSHAD84,9.0,closed,Trending Fand,Account Profile,0,2026-05-05 17:13:06,2026-05-05 17:57:42,general_unspecified_account_profile
+1522,TKT-9ENCFMEH,1,8385,MOHIT94,8.0,solved,Access in Telegram trading signal group,Account Profile,0,2026-05-05 18:38:31,2026-05-07 10:21:53,general_unspecified_account_profile
+1532,TKT-K9SSQ0CE,1,53544,ASDASD123,9.0,closed,wddwwd,Account Profile,0,2026-05-06 10:25:12,2026-05-06 18:33:05,general_unspecified_account_profile
+1537,TKT-LCAVLRNY,1,25477,DILSHAD84,9.0,closed,Trending fand,Account Profile,0,2026-05-06 14:26:12,2026-05-06 17:54:00,general_unspecified_account_profile
+1563,TKT-KEMCOHYA,2,182959,UTTAM2012,8.0,solved,Sm,Account Profile,0,2026-05-08 10:06:17,2026-05-08 10:48:25,general_unspecified_account_profile
+1566,TKT-QAJUVSHW,2,182959,UTTAM2012,8.0,solved,Sm,Account Profile,0,2026-05-08 11:22:29,2026-05-08 11:53:37,general_unspecified_account_profile
+1576,TKT-5BXS46NK,1,11410,RPDJBD11,8.0,closed,April Leadership matching issue,Account Profile,0,2026-05-08 21:57:37,2026-05-11 11:32:33,general_unspecified_account_profile
+1577,TKT-A1XYXKRB,1,46111,KHATRIMAYANK001,8.0,closed,Mcard issue,Account Profile,0,2026-05-08 22:05:28,2026-05-11 11:34:38,general_unspecified_account_profile
+1580,TKT-FNQ6IPMO,1,8664,DINANATH2026,8.0,solved,Mcard not diliverd,Account Profile,0,2026-05-09 11:29:00,2026-05-11 13:09:19,general_unspecified_account_profile
+1581,TKT-QGQGBIQK,1,9485,DINANATH2027,8.0,solved,M card was not diliverd,Account Profile,0,2026-05-09 11:31:42,2026-05-11 13:09:58,general_unspecified_account_profile
+1598,TKT-WDXYG9VG,2,54722,NKHANAM,8.0,closed,The pending reward to release,Account Profile,0,2026-05-10 18:06:19,2026-05-11 13:10:30,general_unspecified_account_profile
+1644,TKT-CXXGUM1C,1,19550,PARTHU,8.0,closed,Trading,Account Profile,0,2026-05-13 09:37:40,2026-05-13 10:42:52,general_unspecified_account_profile
+1659,TKT-TDNLUSHL,1,41771,HSBHANGU86,8.0,closed,W25 residual bonus,Account Profile,0,2026-05-14 13:07:03,2026-05-14 16:47:16,general_unspecified_account_profile
+1684,TKT-TTFIZMGA,1,11410,RPDJBD11,8.0,solved,leadership bonus,Account Profile,0,2026-05-15 21:10:14,2026-05-18 10:44:49,general_unspecified_account_profile
+1690,TKT-AUX1ZSH7,1,7092,SUMERUDDINA,8.0,closed,Exicutive Rank,Account Profile,0,2026-05-16 11:37:36,2026-05-18 10:47:43,general_unspecified_account_profile
+1723,TKT-KOHBESRV,1,54653,SHRUTI123,9.0,closed,Delete my account,Account Profile,0,2026-05-18 16:53:50,2026-05-22 12:24:06,general_unspecified_account_profile
+1729,TKT-3LQPSD2G,1,5319,IRSHAD100,8.0,solved,Leadership bonus,Account Profile,0,2026-05-19 00:13:05,2026-05-19 11:01:46,general_unspecified_account_profile
+1736,TKT-94GDQSEN,1,1222,AMIQUE07,8.0,closed,Issue Regarding E-Bank Balance Showing -405 DT,Account Profile,0,2026-05-19 08:44:03,2026-05-19 12:23:06,general_unspecified_account_profile
+1749,TKT-YZEMH8X5,1,1470,RKFBR01,9.0,closed,Leadership bonus business deduction issue,Account Profile,0,2026-05-19 12:59:20,2026-05-20 17:00:23,general_unspecified_account_profile
+1750,TKT-ZPR8GTL2,1,15646,IAMSHIVAMKUMAR,9.0,closed,April Leadership Bonus Progress Issue – Please Recheck Total,Account Profile,0,2026-05-19 13:22:54,2026-05-20 17:00:30,general_unspecified_account_profile
+1784,TKT-7LFKCV5P,1,16035,NAYANABEN1,9.0,closed,My card not Link,Account Profile,0,2026-05-20 16:52:57,2026-05-20 17:12:53,general_unspecified_account_profile
+1795,TKT-RG42J1U2,1,8354,SKYADAV65,8.0,closed,Trading bonus not released,Account Profile,0,2026-05-21 07:58:41,2026-05-21 11:02:32,general_unspecified_account_profile
+1808,TKT-KSOQHPLC,1,8354,SKYADAV65,8.0,solved,Trading bonus not released yet,Account Profile,0,2026-05-21 12:50:54,2026-05-21 13:20:17,general_unspecified_account_profile
+1828,TKT-P3CTIULM,1,8354,SKYADAV65,8.0,closed,Trading bonus not released,Account Profile,0,2026-05-21 20:14:54,2026-05-22 11:49:17,general_unspecified_account_profile
+1909,TKT-3UDPGGLV,1,19303,MS001,8.0,solved,Trading bonus not released,Account Profile,0,2026-05-22 20:44:22,2026-05-25 12:36:23,general_unspecified_account_profile
+1912,TKT-NKNKCC8W,1,22277,COTDUBAI,10.0,open,Sana Parveen,Account Profile,0,2026-05-23 01:57:22,2026-05-25 12:39:50,general_unspecified_account_profile
+1913,TKT-3JCC5N6M,1,14485,SBLDUBAI,10.0,open,Mohd sharukh,Account Profile,0,2026-05-23 02:00:24,2026-05-25 12:33:06,general_unspecified_account_profile
+1965,TKT-H7NOM31G,1,7845,PUJARAJ2003,9.0,closed,Rank Upgrade,Account Profile,0,2026-05-23 23:25:50,2026-05-29 10:54:58,general_unspecified_account_profile
+2070,TKT-BVGHVMSX,1,13568,NKP123,8.0,closed,ebank balance mismatch,Account Profile,0,2026-05-25 20:55:06,2026-06-01 14:58:28,general_unspecified_account_profile
+2118,TKT-EJPOKYNG,2,360346,RADHAKINKAR,8.0,solved,spelling mistake.,Account Profile,0,2026-05-26 14:03:43,2026-06-01 15:00:33,general_unspecified_account_profile
+2158,TKT-P9ZXD8AR,1,20222,KASSAR07,9.0,solved,For Rank,Account Profile,0,2026-05-27 06:31:39,2026-06-04 15:22:35,general_unspecified_account_profile
+2206,TKT-27TNR9ZT,2,62356,SHIV91,8.0,closed,Dhair sir,Account Profile,0,2026-05-27 20:18:08,2026-06-03 12:49:57,general_unspecified_account_profile
+2245,TKT-LK8IZ5PC,1,52657,SAM,8.0,closed,Sitesh Arijit Mishra,Account Profile,0,2026-05-28 21:14:37,2026-05-29 12:17:00,general_unspecified_account_profile
+2262,TKT-WADOM6MT,1,11061,PROBO0001,8.0,closed,MCARD NOT DELIVERED,Account Profile,0,2026-05-29 13:37:04,2026-06-01 12:52:51,general_unspecified_account_profile
+2267,TKT-O1PEK328,1,55813,PINTU19831,8.0,closed,hi,Account Profile,0,2026-05-29 14:56:53,2026-05-29 15:06:08,general_unspecified_account_profile
+2272,TKT-AG3NFKMV,1,23328,EZHA605,9.0,closed,You say to complete 1&3 days,Account Profile,0,2026-05-29 18:40:22,2026-06-04 13:26:07,general_unspecified_account_profile
+2293,TKT-H31PRPSJ,2,31243,PARMINDER11,8.0,closed,riser not showinh,Account Profile,0,2026-05-30 11:34:25,2026-06-03 12:50:15,general_unspecified_account_profile
+2334,TKT-K1HQMPVK,1,21587,SURESH1972,8.0,closed,E bank income,Account Profile,0,2026-05-31 12:56:51,2026-06-01 12:49:03,general_unspecified_account_profile
+2335,TKT-4D18D7AC,2,576129,HARI1964,8.0,closed,HARI1964,Account Profile,0,2026-05-31 13:06:43,2026-06-01 12:46:16,general_unspecified_account_profile
+2341,TKT-HEIEW3RY,1,18378,PARVEEN1998,8.0,closed,Regading my rank,Account Profile,0,2026-05-31 18:00:19,2026-06-01 12:44:46,general_unspecified_account_profile
+2370,TKT-MNKGJ5QV,1,4210,DILSHAD82,8.0,closed,Lidarship bonas,Account Profile,0,2026-06-01 08:02:40,2026-06-01 10:40:53,general_unspecified_account_profile
+2378,TKT-F4NKJPGU,1,10072,SAYED2001,8.0,closed,Leadership Bonus Issues,Account Profile,0,2026-06-01 11:48:48,2026-06-01 11:50:23,general_unspecified_account_profile
+2538,TKT-V2MERHCJ,1,21362,RB1995,3.0,closed,Id not open,Account Profile,0,2026-06-03 17:19:11,2026-06-03 18:07:28,general_unspecified_account_profile
+2581,TKT-C7J6JBZG,2,250985,KKR6,8.0,closed,MY AGE 18 BELOW,Account Profile,0,2026-06-04 09:20:07,2026-06-04 11:14:11,general_unspecified_account_profile
+2590,TKT-HR3DEI0N,1,2523,SKLIFE1700,8.0,closed,Kyu,Account Profile,0,2026-06-04 11:28:24,2026-06-04 11:41:59,general_unspecified_account_profile
+2628,TKT-TLA2E498,1,9519,NEMPAL100,9.0,closed,Treding profit,Account Profile,0,2026-06-04 23:45:08,2026-06-08 16:47:17,general_unspecified_account_profile
+2637,TKT-IDUMPQ7M,1,14584,VISHWA76,8.0,closed,Adhar back,Account Profile,0,2026-06-05 07:45:10,2026-06-05 11:03:24,general_unspecified_account_profile
+2705,TKT-X4HQBUGB,2,146350,MOHDALI080,8.0,closed,Account,Account Profile,0,2026-06-05 21:35:52,2026-06-09 16:07:15,general_unspecified_account_profile
+2740,TKT-OR8QP6HU,2,54722,NKHANAM,8.0,closed,Diamond Reward,Account Profile,0,2026-06-06 15:24:10,2026-06-09 16:06:31,general_unspecified_account_profile
+2746,TKT-JJ1VSFY7,1,41753,FATEMA03,9.0,closed,Please Help,Account Profile,0,2026-06-06 16:10:12,2026-06-08 12:38:41,general_unspecified_account_profile
+2817,TKT-ATKCEIOF,1,1588,ANITAKG4,9.0,solved,Rank,Account Profile,0,2026-06-07 17:33:57,2026-06-09 16:15:15,general_unspecified_account_profile
+3048,TKT-LIFUPU5F,1,21564,WEALTHCREATION,8.0,closed,Rank upgrade,Account Profile,0,2026-06-11 07:21:06,2026-06-11 12:07:14,general_unspecified_account_profile
+3053,TKT-UA5CDHXK,1,4441,22555,9.0,closed,Account Adjustment,Account Profile,0,2026-06-11 09:41:33,2026-06-12 12:46:45,general_unspecified_account_profile
+3088,TKT-UXQVRORI,1,25691,LOVE198815,9.0,closed,Myself,Account Profile,0,2026-06-11 20:36:42,2026-06-12 12:45:42,general_unspecified_account_profile
+3123,TKT-ZP4DWJBU,1,10321,PRAKASHRAJ2025,9.0,closed,Trading signals,Account Profile,0,2026-06-12 12:29:35,2026-06-15 12:43:50,general_unspecified_account_profile
+3154,TKT-LDHDOMQT,1,5752,SADIK842,8.0,closed,Mcard status,Account Profile,0,2026-06-12 22:40:11,2026-06-15 13:40:11,general_unspecified_account_profile
+3155,TKT-HYQ0WYQC,2,678880,RUBEENA025,8.0,closed,Not released all mcoin,Account Profile,0,2026-06-12 22:50:54,2026-06-15 13:02:17,general_unspecified_account_profile
+3189,TKT-4W8OPHKJ,1,36485,ABU78610,9.0,closed,Trading issue,Account Profile,0,2026-06-13 14:22:38,2026-06-16 14:52:07,general_unspecified_account_profile
+3201,TKT-SQX8TM56,1,57689,SHUBHAM1989,9.0,closed,Id w25 activation,Account Profile,0,2026-06-13 16:34:39,2026-06-15 13:42:29,general_unspecified_account_profile
+3205,TKT-XXTARPW3,2,462852,KASHIF98086,8.0,closed,Legacy mcoin received,Account Profile,0,2026-06-13 17:55:14,2026-06-15 13:22:02,general_unspecified_account_profile
+3224,TKT-ISGNLPVH,2,465184,JOGA78,4.0,closed,Mestek,Account Profile,0,2026-06-13 23:45:29,2026-08-19 11:45:38,general_unspecified_account_profile
+3246,TKT-V31H9QIX,2,134046,BH3132,8.0,solved,Balance is incorrect,Account Profile,0,2026-06-14 10:38:34,2026-06-15 13:11:20,general_unspecified_account_profile
+3248,TKT-OCBP0Z1R,2,134046,BH3132,8.0,solved,Balance is incorrect,Account Profile,0,2026-06-14 10:45:18,2026-06-15 13:11:08,general_unspecified_account_profile
+3331,TKT-V7TAUJQS,1,4441,22555,9.0,closed,Account Adjustable,Account Profile,0,2026-06-15 15:14:45,2026-06-17 15:26:08,general_unspecified_account_profile
+3332,TKT-6U22V0F8,1,4441,22555,8.0,closed,100$ Settlement not received,Account Profile,0,2026-06-15 15:18:33,2026-06-15 15:28:01,general_unspecified_account_profile
+3335,TKT-XZXAGKVP,1,53642,LALKHAN,8.0,closed,Please Adjustment account,Account Profile,0,2026-06-15 15:50:12,2026-06-15 15:55:56,general_unspecified_account_profile
+3398,TKT-YDZ12XXU,1,17983,NAUSHAD110,8.0,closed,Residual bonus,Account Profile,0,2026-06-16 14:05:18,2026-06-16 14:42:38,general_unspecified_account_profile
+3400,TKT-9HANZUTM,1,17983,NAUSHAD110,8.0,closed,Trading signal,Account Profile,0,2026-06-16 14:08:40,2026-06-19 12:30:41,general_unspecified_account_profile
+3409,TKT-GKZQ18P4,1,34126,RAGINI34,8.0,closed,Withdrawal related,Account Profile,0,2026-06-16 16:49:58,2026-06-16 16:51:05,general_unspecified_account_profile
+3439,TKT-RYMQJ18F,1,1002,BAAQUIR1,9.0,closed,Trading bonus issue,Account Profile,0,2026-06-17 01:49:38,2026-06-17 17:06:28,general_unspecified_account_profile
+3452,TKT-LLRMOIT8,2,556080,SHOP3,8.0,closed,Package,Account Profile,0,2026-06-17 09:01:54,2026-06-17 12:59:43,general_unspecified_account_profile
+3455,TKT-OFYYLQBF,2,647910,RAGI063,8.0,closed,Package,Account Profile,0,2026-06-17 09:15:13,2026-06-17 12:58:56,general_unspecified_account_profile
+3457,TKT-TBNIMNMQ,2,659559,HARSHIT281,8.0,closed,PACKAGE,Account Profile,0,2026-06-17 09:27:49,2026-06-17 12:58:29,general_unspecified_account_profile
+3465,TKT-SFT5G8PU,1,3324,RNECLIPSE,8.0,closed,kyv,Account Profile,0,2026-06-17 10:20:43,2026-06-17 10:40:35,general_unspecified_account_profile
+3479,TKT-AOTELNM9,1,990,BAAQUIR,8.0,closed,outstanding balance,Account Profile,0,2026-06-17 11:41:29,2026-06-18 13:28:16,general_unspecified_account_profile
+3653,TKT-IH4ZLMQD,1,19719,ALI06,9.0,closed,Leadership baonas,Account Profile,0,2026-06-17 18:09:45,2026-06-19 17:51:11,general_unspecified_account_profile
+3655,TKT-BCH2UETB,1,56395,ALI11,9.0,closed,Leadership baonas,Account Profile,0,2026-06-17 18:15:53,2026-06-19 17:50:55,general_unspecified_account_profile
+3684,TKT-MHEAXUED,2,556080,SHOP3,8.0,closed,Package,Account Profile,0,2026-06-17 20:18:07,2026-06-18 13:29:47,general_unspecified_account_profile
+3721,TKT-C979QJOG,1,1002,BAAQUIR1,10.0,open,Settlement,Account Profile,0,2026-06-17 23:25:53,2026-06-18 13:27:33,general_unspecified_account_profile
+3731,TKT-EH5OGDUU,2,647887,RAGI06,8.0,closed,Package,Account Profile,0,2026-06-18 06:05:37,2026-06-18 13:27:04,general_unspecified_account_profile
+3734,TKT-9PA1JZ5T,2,647916,RAGI064,10.0,open,Package,Account Profile,0,2026-06-18 06:18:10,2026-06-18 13:25:58,general_unspecified_account_profile
+3741,TKT-AFFNW96F,2,648039,RAGI066,8.0,closed,Package,Account Profile,0,2026-06-18 06:35:13,2026-06-18 13:27:00,general_unspecified_account_profile
+3770,TKT-QGSKYXUK,1,48237,RAGINI45,9.0,closed,Withdrawal related,Account Profile,0,2026-06-18 09:05:26,2026-06-19 12:47:41,general_unspecified_account_profile
+3847,TKT-GAI3I1VT,1,49916,SUNILPRO10800,8.0,closed,m card,Account Profile,0,2026-06-18 13:38:18,2026-06-18 13:48:53,general_unspecified_account_profile
+3877,TKT-KLNR2KIX,1,990,BAAQUIR,8.0,closed,settlement issue,Account Profile,0,2026-06-18 14:59:31,2026-06-22 13:24:07,general_unspecified_account_profile
+3935,TKT-9R8ORNZH,1,21291,NITIN2008,8.0,closed,Under review,Account Profile,0,2026-06-18 16:47:29,2026-06-18 16:55:01,general_unspecified_account_profile
+3998,TKT-J8LE09BL,1,36299,RANO25,9.0,solved,Regarding to executive rank,Account Profile,0,2026-06-18 20:04:00,2026-06-22 13:20:35,general_unspecified_account_profile
+4056,TKT-P0LBQYTO,1,17192,PROBOTX026,8.0,closed,Trading bonus,Account Profile,0,2026-06-19 08:54:19,2026-06-19 12:31:31,general_unspecified_account_profile
+4058,TKT-QEMD6M9B,1,51665,SANTOSH1984,8.0,closed,Please My kay,Account Profile,0,2026-06-19 08:57:03,2026-06-19 10:21:45,general_unspecified_account_profile
+4063,TKT-SMCS8XKC,1,17983,NAUSHAD110,8.0,closed,Residual Bonus,Account Profile,0,2026-06-19 09:30:14,2026-06-19 12:30:35,general_unspecified_account_profile
+4065,TKT-5AUE7JVD,1,17983,NAUSHAD110,8.0,closed,Trading BV Accumulation,Account Profile,0,2026-06-19 09:35:55,2026-06-19 12:05:26,general_unspecified_account_profile
+4097,TKT-A8LLRY2O,1,15420,METHERXPRO,8.0,closed,Pending yc,Account Profile,0,2026-06-19 11:31:46,2026-06-19 11:52:03,general_unspecified_account_profile
+4214,TKT-6MK1DIGK,1,5420,PROBOT100X,8.0,closed,What is account settlement and why it's come to my I'd dashboard,Account Profile,0,2026-06-19 18:03:59,2026-06-22 13:25:43,general_unspecified_account_profile
+4303,TKT-PDMVM7YM,1,1615,SURAJ962,10.0,open,Withdrawal related,Account Profile,0,2026-06-20 10:55:37,2026-06-22 13:17:43,general_unspecified_account_profile
+4317,TKT-FZ4F5M5Z,1,35681,SHARN01,8.0,closed,Sharn01,Account Profile,0,2026-06-20 12:58:10,2026-06-22 14:24:27,general_unspecified_account_profile
+4318,TKT-1KLTSOT7,1,35681,SHARN01,8.0,closed,Sharn01,Account Profile,0,2026-06-20 12:59:55,2026-06-22 14:24:20,general_unspecified_account_profile
+4347,TKT-NAPBIZL2,1,19719,ALI06,8.0,closed,Leadership baonas,Account Profile,0,2026-06-20 16:33:20,2026-06-22 14:21:08,general_unspecified_account_profile
+4349,TKT-EQC2ISWL,1,56395,ALI11,9.0,closed,Leadership baonas,Account Profile,0,2026-06-20 16:37:10,2026-06-22 14:16:32,general_unspecified_account_profile
+4478,TKT-VT6WSXU0,1,20411,DUBAI101,8.0,closed,K y c,Account Profile,0,2026-06-21 15:05:21,2026-06-22 13:48:33,general_unspecified_account_profile
+4529,TKT-EUZTBCIT,1,52461,PROBOTXCHAMPION,8.0,closed,Bali indonesia,Account Profile,0,2026-06-22 06:53:18,2026-06-22 13:42:05,general_unspecified_account_profile
+4557,TKT-3ZU8VIJ8,1,42194,ARN044,8.0,closed,KYK,Account Profile,0,2026-06-22 09:59:13,2026-06-22 12:27:20,general_unspecified_account_profile
+4560,TKT-Q7UZFN4G,1,777,YUSUF01,8.0,closed,Account,Account Profile,0,2026-06-22 10:06:56,2026-06-22 11:22:27,general_unspecified_account_profile
+4625,TKT-ZI8L9F3M,1,1371,RAMAN11,8.0,closed,Bali,Account Profile,0,2026-06-22 13:23:49,2026-06-22 14:39:57,general_unspecified_account_profile
+4709,TKT-YODM7MEQ,1,57368,PUSHPENDRA01,8.0,closed,Urgent need,Account Profile,0,2026-06-22 18:29:36,2026-06-23 11:54:53,general_unspecified_account_profile
+4770,TKT-CG1ZP5TZ,1,14257,DKUMAR44,8.0,closed,Links Account,Account Profile,0,2026-06-23 08:51:12,2026-06-23 10:32:37,general_unspecified_account_profile
+4796,TKT-BBLJPMVY,1,34524,KUMARMANOJ,8.0,closed,Regarding approval of wallet address,Account Profile,0,2026-06-23 10:41:51,2026-06-23 10:53:40,general_unspecified_account_profile
+4900,TKT-JVIBH1AD,1,1555,ANUSHKA2011,10.0,open,Total buisness volume,Account Profile,0,2026-06-23 17:15:42,2026-06-23 18:11:33,general_unspecified_account_profile
+4913,TKT-PIJ4QIXF,1,33369,APRINDERDEOL2,9.0,solved,KUC,Account Profile,0,2026-06-23 17:51:53,2026-06-23 18:32:11,general_unspecified_account_profile
+4958,TKT-BLF6IEZR,1,11339,SHAHI,8.0,closed,I'm not able link my child's account,Account Profile,0,2026-06-24 00:29:36,2026-06-24 11:40:56,general_unspecified_account_profile
+4987,TKT-JHKH2D1P,1,14321,DKC1971,8.0,closed,ID: DKC1971,Account Profile,0,2026-06-24 09:14:57,2026-06-24 11:33:11,general_unspecified_account_profile
+5009,TKT-31J3BJ5P,1,2523,SKLIFE1700,8.0,closed,Di no link,Account Profile,0,2026-06-24 11:41:03,2026-06-24 11:42:23,general_unspecified_account_profile
+5044,TKT-AFNLSTMS,2,96000,ANU131,8.0,closed,Link Anu30 with Account Anu131,Account Profile,0,2026-06-24 14:21:28,2026-06-24 14:24:29,general_unspecified_account_profile
+5050,TKT-DUPCQTIV,1,15821,JILANI55,8.0,closed,Withdrawal related,Account Profile,0,2026-06-24 14:39:31,2026-06-24 14:45:10,general_unspecified_account_profile
+5080,TKT-RSK0GWFJ,1,13775,PRABHATSH,8.0,closed,BALI RETREAT FORM NOT PROCESS .ALWYS SHOWN SERVER DOWN,Account Profile,0,2026-06-24 16:21:06,2026-06-24 16:50:17,general_unspecified_account_profile
+5081,TKT-5CQIHVQ6,1,13775,PRABHATSH,8.0,closed,BALI FORM NOT PROCESS,Account Profile,0,2026-06-24 16:22:51,2026-06-24 16:50:32,general_unspecified_account_profile
+5108,TKT-J7QVSZCZ,1,18562,SIRAJ72,8.0,closed,Kuc,Account Profile,0,2026-06-24 20:09:14,2026-06-25 16:43:45,general_unspecified_account_profile
+5234,TKT-D6XTFSWR,2,250238,IMC,9.0,solved,AUTHENTICATOR REQUIRED,Account Profile,0,2026-06-25 20:26:54,2026-07-07 12:23:07,general_unspecified_account_profile
+5243,TKT-HHTJNVHX,1,46595,ABHI2,9.0,closed,I'd not open,Account Profile,0,2026-06-25 20:45:57,2026-06-29 17:20:34,general_unspecified_account_profile
+5256,TKT-MXJSC0HA,1,51599,AIYUBVALI,8.0,closed,About kuc,Account Profile,0,2026-06-25 23:44:47,2026-06-29 16:26:56,general_unspecified_account_profile
+5261,TKT-F1BIZ6K0,1,16551,IMRAN7117,9.0,closed,About becoming a manager,Account Profile,0,2026-06-26 05:59:32,2026-07-06 16:27:00,general_unspecified_account_profile
+5264,TKT-5MYNRTFG,1,40415,GURPREET25,9.0,closed,Regarding,Account Profile,0,2026-06-26 07:12:26,2026-06-29 17:10:14,general_unspecified_account_profile
+5353,TKT-UUTG65WV,1,55934,RADHA2,8.0,closed,Mcard dispatch,Account Profile,0,2026-06-26 16:17:59,2026-06-29 16:27:11,general_unspecified_account_profile
+5402,TKT-XK0UXVZN,1,30854,KINJAL31,9.0,closed,Renk,Account Profile,0,2026-06-27 06:53:37,2026-06-29 14:35:24,general_unspecified_account_profile
+5422,TKT-QJZZLBNY,1,1371,RAMAN11,9.0,solved,Bali Indonesia Retreat,Account Profile,0,2026-06-27 09:05:41,2026-06-30 17:20:44,general_unspecified_account_profile
+5438,TKT-CRBIIEKI,2,31243,PARMINDER11,10.0,open,my riser is not showing,Account Profile,0,2026-06-27 10:21:59,2026-06-29 14:47:41,general_unspecified_account_profile
+5490,TKT-NWK60OKW,1,13664,MANPREET7868,9.0,closed,Kuc,Account Profile,0,2026-06-27 15:25:29,2026-06-29 14:35:03,general_unspecified_account_profile
+5499,TKT-F5ZH2DCH,1,21509,LALIT007,9.0,closed,executive rank not received,Account Profile,0,2026-06-27 17:39:37,2026-06-29 17:29:37,general_unspecified_account_profile
+5521,TKT-FQJMSFHW,2,54722,NKHANAM,10.0,open,Diamond Reward Still Pending,Account Profile,0,2026-06-27 22:54:24,2026-06-29 14:15:39,general_unspecified_account_profile
+5594,TKT-QG2BYTGC,1,34645,SHREE2024,8.0,closed,Bhagya lakshmi devi,Account Profile,0,2026-06-28 15:31:13,2026-06-29 13:12:53,general_unspecified_account_profile
+5611,TKT-COGYZKRU,2,569229,RAJ1000,8.0,closed,E Bank Withdrawal,Account Profile,0,2026-06-28 18:15:38,2026-06-29 13:02:54,general_unspecified_account_profile
+5616,TKT-TDMXPIKK,2,66166,DKUMAR44,8.0,closed,E Bank Withdrawal,Account Profile,0,2026-06-28 18:54:02,2026-06-29 13:02:40,general_unspecified_account_profile
+5647,TKT-U8WHCAX7,1,20109,ZABED020,8.0,closed,Zabed020,Account Profile,0,2026-06-29 08:39:26,2026-06-29 12:48:53,general_unspecified_account_profile
+5768,TKT-SKGNRNEX,1,48237,RAGINI45,9.0,closed,Withdrawal related,Account Profile,0,2026-06-29 20:27:34,2026-06-30 12:10:10,general_unspecified_account_profile
+5776,TKT-M8ECCGWV,1,15735,BALAJI7096,9.0,closed,LINKED ACCOUNT,Account Profile,0,2026-06-29 20:50:26,2026-06-30 12:00:30,general_unspecified_account_profile
+5783,TKT-JM9FIYI2,1,19697,AHMAD77,9.0,closed,Team building bonas,Account Profile,0,2026-06-29 23:27:39,2026-06-30 19:01:25,general_unspecified_account_profile
+5790,TKT-7KJ9AAFT,1,16551,IMRAN7117,9.0,closed,About renk,Account Profile,0,2026-06-30 00:47:13,2026-06-30 11:38:59,general_unspecified_account_profile
+5794,TKT-LQPPFYIN,1,46595,ABHI2,4.0,closed,ID IS NOT  OPENING,Account Profile,0,2026-06-30 03:14:50,2026-07-09 17:16:59,general_unspecified_account_profile
+5891,TKT-AYKYEVUX,1,30618,CKT88,9.0,closed,Withdrawal Clearance delay,Account Profile,0,2026-06-30 16:08:28,2026-06-30 16:29:11,general_unspecified_account_profile
+6054,TKT-JKVHSMW1,1,17983,NAUSHAD110,10.0,open,"Add missing payment release status fields under ""My Earnings""",Account Profile,0,2026-07-01 17:26:08,2026-07-01 17:58:15,general_unspecified_account_profile
+6070,TKT-GCWSTD0A,1,55512,AMMIJAANR2N1,9.0,solved,Rank releted,Account Profile,0,2026-07-01 18:49:25,2026-07-02 12:17:40,general_unspecified_account_profile
+6073,TKT-Z8VGNPNU,1,18569,RISHI,8.0,closed,My kya submit 3 days over my ky apvrode please,Account Profile,0,2026-07-01 19:06:54,2026-07-02 12:16:35,general_unspecified_account_profile
+6239,TKT-JGLVQJXK,1,18782,ANAYA01,9.0,solved,Medical emergency need,Account Profile,0,2026-07-02 17:51:48,2026-07-02 17:56:45,general_unspecified_account_profile
+6256,TKT-MXPXP3F1,1,33578,RAVI024,9.0,closed,RAVI024,Account Profile,0,2026-07-02 18:40:28,2026-07-03 17:58:46,general_unspecified_account_profile
+6406,TKT-CDFXIRDH,1,22451,NISHDEV1000,9.0,closed,Emergency Medical need,Account Profile,0,2026-07-03 15:21:19,2026-07-03 17:59:33,general_unspecified_account_profile
+6430,TKT-QRSJNL1H,1,38436,SLAL,8.0,closed,Emergency medical need,Account Profile,0,2026-07-03 17:44:49,2026-07-06 14:25:35,general_unspecified_account_profile
+6448,TKT-4NCI9EGR,1,42962,AVNISH25,9.0,closed,Regarding my visa card,Account Profile,0,2026-07-03 18:31:39,2026-07-07 12:25:14,general_unspecified_account_profile
+6473,TKT-RGXJSTCA,1,21509,LALIT007,9.0,closed,executive rank not given,Account Profile,0,2026-07-03 20:07:26,2026-07-06 16:29:48,general_unspecified_account_profile
+6637,TKT-TWURMTMD,1,44873,KHALSA01,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 11:57:56,2026-07-06 14:28:55,general_unspecified_account_profile
+6639,TKT-4IQ7BPRZ,1,14577,SINGH1200,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:00:27,2026-07-06 14:29:03,general_unspecified_account_profile
+6640,TKT-POLXPRYM,1,14572,SINGH1986,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:02:12,2026-07-06 14:29:09,general_unspecified_account_profile
+6641,TKT-JKTIUTUY,1,44875,KHALSA03,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:03:56,2026-07-06 14:29:13,general_unspecified_account_profile
+6642,TKT-L8DAXW1B,1,44876,KHALSA04,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:05:57,2026-07-06 14:29:27,general_unspecified_account_profile
+6643,TKT-TITYBO8R,1,44877,KHALSA05,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:07:28,2026-07-06 14:29:21,general_unspecified_account_profile
+6644,TKT-E5BMO6AV,1,44878,KHALSA06,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:09:18,2026-07-06 14:29:32,general_unspecified_account_profile
+6645,TKT-EXSNPWKE,1,44879,KHALSA07,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:10:55,2026-07-06 14:29:37,general_unspecified_account_profile
+6646,TKT-OKE9UMSP,1,44874,KHALSA02,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-05 12:12:34,2026-07-06 14:29:42,general_unspecified_account_profile
+6675,TKT-OTQE8QGH,1,38452,SLAL11,9.0,closed,Emergency Medical need,Account Profile,0,2026-07-05 18:21:01,2026-07-06 14:25:47,general_unspecified_account_profile
+6677,TKT-RB1CEYFI,1,38457,SLAL22,8.0,closed,Emergency Medical need,Account Profile,0,2026-07-05 18:24:45,2026-07-06 12:49:34,general_unspecified_account_profile
+6678,TKT-ZT4IXVWG,1,38455,SLAL111,8.0,closed,Emergency Medical need,Account Profile,0,2026-07-05 18:35:41,2026-07-06 12:49:26,general_unspecified_account_profile
+6727,TKT-YPIY74BZ,1,34122,RAGINI12,9.0,closed,Withdrawal related,Account Profile,0,2026-07-06 10:18:29,2026-07-06 14:34:21,general_unspecified_account_profile
+6749,TKT-T6WSDZ58,1,9956,RPDJBD111,9.0,closed,Related to RANK UPGRADATION,Account Profile,0,2026-07-06 12:25:00,2026-07-06 16:30:49,general_unspecified_account_profile
+6768,TKT-ROFG0ZT1,1,56343,RAJESHKUMAR77,9.0,solved,authenticator,Account Profile,0,2026-07-06 15:01:22,2026-07-06 16:28:08,general_unspecified_account_profile
+6833,TKT-1T7RU34Q,1,57001,TALIV900,9.0,closed,mcoin release problem 4% or 5%,Account Profile,0,2026-07-07 07:44:21,2026-07-07 12:35:04,general_unspecified_account_profile
+6841,TKT-GHAXMQLZ,1,412,MAYADEVI12,9.0,closed,Residual income related,Account Profile,0,2026-07-07 09:32:49,2026-07-07 12:31:43,general_unspecified_account_profile
+6858,TKT-IJFVHJRY,1,18238,JAIN99,8.0,solved,Authenticator,Account Profile,0,2026-07-07 12:16:18,2026-07-07 12:18:02,general_unspecified_account_profile
+6859,TKT-DWCRKKID,1,34935,MONA1,9.0,solved,Authenticator,Account Profile,0,2026-07-07 12:24:56,2026-07-07 12:50:17,general_unspecified_account_profile
+6990,TKT-N4LWDWXN,1,53019,KIRANJIT36,9.0,closed,Withdrawal,Account Profile,0,2026-07-08 10:12:16,2026-07-08 12:41:22,general_unspecified_account_profile
+6991,TKT-H2NMLYNP,1,20446,LAKHWINDER36,9.0,closed,Withdrawal,Account Profile,0,2026-07-08 10:26:08,2026-07-08 12:35:11,general_unspecified_account_profile
+7048,TKT-UOVTTM7A,1,14584,VISHWA76,9.0,closed,Vishwa76,Account Profile,0,2026-07-08 17:59:05,2026-07-08 18:05:41,general_unspecified_account_profile
+7098,TKT-E1KOWWKD,1,12570,ASGAR1,8.0,solved,Asgar1,Account Profile,0,2026-07-09 06:41:09,2026-07-09 11:16:02,general_unspecified_account_profile
+7186,TKT-3WN4YRKF,1,412,MAYADEVI12,9.0,closed,Residual income related,Account Profile,0,2026-07-09 18:14:45,2026-07-09 18:46:28,general_unspecified_account_profile
+7237,TKT-JI99CNKA,1,39257,AKASH09T,9.0,closed,WEST BENGAL,Account Profile,0,2026-07-10 07:30:34,2026-07-10 17:24:57,general_unspecified_account_profile
+7280,TKT-OXZ059QB,1,9956,RPDJBD111,8.0,closed,Rank related,Account Profile,0,2026-07-10 12:31:46,2026-07-10 12:43:06,general_unspecified_account_profile
+7301,TKT-GQEUFAWO,1,18378,PARVEEN1998,9.0,solved,Regading my rank,Account Profile,0,2026-07-10 15:12:18,2026-07-10 16:25:49,general_unspecified_account_profile
+7337,TKT-TXBUVFAA,1,58754,TANWIR01,9.0,closed,Probotx.io,Account Profile,0,2026-07-10 20:34:04,2026-07-13 17:05:59,general_unspecified_account_profile
+7353,TKT-KRGZGCZW,1,60166,DOC,9.0,solved,Rank not promoted,Account Profile,0,2026-07-10 23:36:34,2026-07-13 18:52:51,general_unspecified_account_profile
+7368,TKT-HDCUTPF2,1,46059,IAMARICK,9.0,closed,kyx pending,Account Profile,0,2026-07-11 06:57:27,2026-07-13 16:55:29,general_unspecified_account_profile
+7375,TKT-KFAWXPM9,1,20205,ZABED021,9.0,closed,Zabed021,Account Profile,0,2026-07-11 07:49:47,2026-07-13 17:03:03,general_unspecified_account_profile
+7392,TKT-RAJKN0VP,1,412,MAYADEVI12,9.0,closed,Residual income related,Account Profile,0,2026-07-11 10:30:33,2026-07-13 17:02:58,general_unspecified_account_profile
+7404,TKT-HAPFDLV2,1,4072,PWSINGEWAR,9.0,solved,Account kaise murj kare,Account Profile,0,2026-07-11 11:33:34,2026-07-13 16:58:00,general_unspecified_account_profile
+7411,TKT-H5NLUZVV,1,19393,AKSIR,9.0,closed,Trading walet releted,Account Profile,0,2026-07-11 12:26:33,2026-07-13 16:51:57,general_unspecified_account_profile
+7488,TKT-SIN1ACUX,1,60204,DCP2,9.0,closed,Rank not promoted,Account Profile,0,2026-07-11 22:26:20,2026-07-13 15:11:27,general_unspecified_account_profile
+7496,TKT-BCGLVCQ6,1,60339,DDS1,9.0,solved,Rank not reflect,Account Profile,0,2026-07-11 23:51:11,2026-07-13 15:08:18,general_unspecified_account_profile
+7531,TKT-I6ETDHN1,1,39182,CHARAN1,9.0,closed,Big family emergency,Account Profile,0,2026-07-12 12:11:33,2026-07-13 14:47:45,general_unspecified_account_profile
+7539,TKT-23JYBODM,1,683,NARESH333,8.0,closed,Rank promotion,Account Profile,0,2026-07-12 12:59:47,2026-07-13 14:40:26,general_unspecified_account_profile
+7571,TKT-I4R1GJHM,1,60258,SPACEX,8.0,closed,Executive rank,Account Profile,0,2026-07-12 22:44:03,2026-07-13 11:03:05,general_unspecified_account_profile
+7617,TKT-SQNSRBXE,1,58375,MANAWWAR03,8.0,closed,Probotx io,Account Profile,0,2026-07-13 13:56:22,2026-07-13 13:57:32,general_unspecified_account_profile
+7619,TKT-KNLPA6BG,1,58754,TANWIR01,9.0,solved,Probotx.io,Account Profile,0,2026-07-13 13:59:19,2026-07-13 14:00:02,general_unspecified_account_profile
+7620,TKT-EWXLGRC2,1,58754,TANWIR01,9.0,closed,Probotx.io,Account Profile,0,2026-07-13 14:01:01,2026-07-13 14:01:58,general_unspecified_account_profile
+7670,TKT-CKWB8EHX,1,34122,RAGINI12,10.0,closed,Withdrawal related,Account Profile,0,2026-07-13 22:59:39,2026-07-14 15:38:14,general_unspecified_account_profile
+7691,TKT-YRHQSXTC,1,44879,KHALSA07,8.0,closed,𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚏𝚒𝚛𝚖𝚎𝚍 𝚔𝚢𝚌,Account Profile,0,2026-07-14 08:06:06,2026-07-14 10:37:47,general_unspecified_account_profile
+7754,TKT-Z6MAMUOB,1,34126,RAGINI34,10.0,open,Withdrawal related,Account Profile,0,2026-07-14 14:12:55,2026-07-14 14:40:04,general_unspecified_account_profile
+7815,TKT-KJAOKK04,1,58325,SIBRA900,9.0,closed,Stake 25,Account Profile,0,2026-07-15 07:00:20,2026-07-15 14:54:44,general_unspecified_account_profile
+7849,TKT-W2ASXQH3,1,38448,1925ASO,8.0,closed,Emergency medical need,Account Profile,0,2026-07-15 12:04:10,2026-07-15 12:16:19,general_unspecified_account_profile
+7850,TKT-VW5WI1HJ,1,38442,2519ASO,8.0,closed,Medical emergency need,Account Profile,0,2026-07-15 12:07:41,2026-07-15 12:09:36,general_unspecified_account_profile
+7864,TKT-SHKM74JM,1,47738,SUDHA1978,8.0,closed,Sudha,Account Profile,0,2026-07-15 13:32:36,2026-07-15 13:44:23,general_unspecified_account_profile
+7895,TKT-BXMOZQ2M,1,15700,BALAJI7094,9.0,closed,bonus withdrawal,Account Profile,0,2026-07-15 17:52:42,2026-07-15 18:29:40,general_unspecified_account_profile
+7915,TKT-9BEXDM64,1,15323,KALPANA2025,8.0,closed,Rank not show,Account Profile,0,2026-07-15 20:56:23,2026-07-16 14:37:15,general_unspecified_account_profile
+8001,TKT-8OIUAURP,1,18736,LACHHMAN,8.0,closed,link my multiple account,Account Profile,0,2026-07-16 13:25:48,2026-07-16 13:37:11,general_unspecified_account_profile
+8015,TKT-NJLELW7P,1,38096,VASIMMEMON1,8.0,closed,K Y C,Account Profile,0,2026-07-16 14:57:27,2026-07-16 14:57:54,general_unspecified_account_profile
+8186,TKT-015ZTRNA,1,35876,AKHILESHBR44,9.0,closed,S25 residual bonus error,Account Profile,0,2026-07-18 09:33:59,2026-07-20 19:23:23,general_unspecified_account_profile
+8211,TKT-RWF9SUDX,2,368929,MASS2730,10.0,open,Withdrawal,Account Profile,0,2026-07-18 11:52:58,2026-07-20 15:31:36,general_unspecified_account_profile
+8276,TKT-F7JLZYMR,1,33579,RAVI025,9.0,solved,Ravi025,Account Profile,0,2026-07-19 13:09:05,2026-07-28 14:04:15,general_unspecified_account_profile
+8307,TKT-MF6GMQLI,1,44877,KHALSA05,8.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-19 20:10:46,2026-07-20 11:13:58,general_unspecified_account_profile
+8308,TKT-TS5FWT9C,1,44878,KHALSA06,8.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-19 20:12:42,2026-07-20 11:13:50,general_unspecified_account_profile
+8329,TKT-RG5VDRDU,1,18238,JAIN99,8.0,closed,kyx pending,Account Profile,0,2026-07-20 09:46:11,2026-07-20 11:11:26,general_unspecified_account_profile
+8422,TKT-ABLRNYNU,1,52969,TIGER15,8.0,closed,K Y C,Account Profile,0,2026-07-21 14:11:28,2026-07-21 14:21:49,general_unspecified_account_profile
+8457,TKT-A9QCYN3Z,1,33579,RAVI025,8.0,closed,Ravi025,Account Profile,0,2026-07-22 08:35:55,2026-07-22 11:36:46,general_unspecified_account_profile
+8511,TKT-3MXRV0PF,1,34397,RANJEETPATEL123,8.0,closed,RANJEETPATEL123,Account Profile,0,2026-07-22 19:03:17,2026-07-23 12:03:59,general_unspecified_account_profile
+8512,TKT-CWK00VDL,1,30635,DIVYA125,8.0,closed,ID APPROVAL REQUEST - DIVYA125,Account Profile,0,2026-07-22 19:14:14,2026-07-23 12:04:10,general_unspecified_account_profile
+8546,TKT-UMEWYMX2,1,24278,AKRAM950,9.0,closed,About,Account Profile,0,2026-07-23 13:27:53,2026-07-23 13:43:43,general_unspecified_account_profile
+8555,TKT-I7CSXCPX,1,44878,KHALSA06,9.0,closed,𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚏𝚒𝚛𝚖𝚎𝚍 𝚔𝚢𝚌,Account Profile,0,2026-07-23 16:51:24,2026-07-23 18:08:08,general_unspecified_account_profile
+8556,TKT-RKXRTBBU,1,44877,KHALSA05,9.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-23 16:54:53,2026-07-23 18:08:14,general_unspecified_account_profile
+8605,TKT-3OTQ8PUS,1,43949,S254,8.0,closed,REUPLODED,Account Profile,0,2026-07-24 14:05:45,2026-07-24 14:27:47,general_unspecified_account_profile
+8611,TKT-DV9Y5DBV,1,18224,DHANNU,8.0,solved,K y c pending,Account Profile,0,2026-07-24 15:44:01,2026-07-24 15:45:33,general_unspecified_account_profile
+8641,TKT-FZ9WEPHR,1,60192,DCP1,9.0,solved,Rank did not reflected,Account Profile,0,2026-07-25 01:49:31,2026-07-27 12:38:06,general_unspecified_account_profile
+8671,TKT-SDYRU9UL,1,41990,MAKHDUM4,8.0,closed,About,Account Profile,0,2026-07-25 10:37:37,2026-07-27 13:27:48,general_unspecified_account_profile
+8730,TKT-BA1BLOPN,1,20837,AMH,9.0,closed,Added wallet is not whitelisted,Account Profile,0,2026-07-26 03:02:36,2026-07-27 17:48:29,general_unspecified_account_profile
+8734,TKT-MMSKSG2H,2,550080,SANJARI20,9.0,solved,Sanjari20,Account Profile,0,2026-07-26 03:32:59,2026-07-27 13:08:47,general_unspecified_account_profile
+8735,TKT-SCVJIIYH,1,55226,SANDHU18,10.0,open,Withdrawal,Account Profile,0,2026-07-26 06:15:09,2026-07-27 12:17:42,general_unspecified_account_profile
+8740,TKT-LL8V07EZ,1,33579,RAVI025,8.0,closed,Ravi025,Account Profile,0,2026-07-26 07:34:00,2026-07-27 12:25:38,general_unspecified_account_profile
+8761,TKT-OVGDPSTL,1,19471,BROTHER2,10.0,open,Withdrawal,Account Profile,0,2026-07-26 11:37:28,2026-07-27 12:13:50,general_unspecified_account_profile
+8786,TKT-OTBDLEG5,1,47336,SANJAYG126,8.0,closed,SANJAYG126,Account Profile,0,2026-07-26 20:32:48,2026-07-27 12:34:17,general_unspecified_account_profile
+8789,TKT-BDL5S7YZ,1,48335,SANJAYG326,9.0,closed,SANJAYG126,Account Profile,0,2026-07-26 20:40:53,2026-07-27 12:32:43,general_unspecified_account_profile
+8804,TKT-MZIXEFMQ,1,44878,KHALSA06,8.0,closed,𝙺𝚢𝚌 𝚊𝚙𝚙𝚛𝚘𝚟𝚊𝚕,Account Profile,0,2026-07-27 06:05:56,2026-07-27 12:09:54,general_unspecified_account_profile
+8823,TKT-WXRPO9LE,1,42194,ARN044,8.0,solved,Wallet,Account Profile,0,2026-07-27 10:30:08,2026-07-27 12:21:17,general_unspecified_account_profile
+8824,TKT-TMLINWLX,1,13775,PRABHATSH,8.0,solved,self package is not able to buy from ebank,Account Profile,0,2026-07-27 10:31:16,2026-07-27 12:10:42,general_unspecified_account_profile
+8840,TKT-Z4H4PNUJ,1,55676,BALJITDHURI02,8.0,closed,Request to Link Multiple Accounts,Account Profile,0,2026-07-27 12:28:59,2026-07-27 12:33:33,general_unspecified_account_profile
+8877,TKT-NN3DPVP1,2,847624,PARGATSINGH0074,10.0,open,Refresh account,Account Profile,0,2026-07-27 19:46:33,2026-07-28 14:43:35,general_unspecified_account_profile
+8882,TKT-IVFDHHF6,2,739530,VINDER8357,10.0,open,Refresh account,Account Profile,0,2026-07-27 21:32:34,2026-07-28 14:21:45,general_unspecified_account_profile
+8931,TKT-MBYVOQQW,1,57331,LACHHMAN05,8.0,solved,Request to Link Multiple Accounts,Account Profile,0,2026-07-28 15:42:22,2026-07-28 16:16:24,general_unspecified_account_profile
+8932,TKT-4SIYR4TC,2,805748,GURPREET6949,8.0,solved,Refresh account,Account Profile,0,2026-07-28 15:51:27,2026-07-28 16:17:02,general_unspecified_account_profile
+8978,TKT-5BAFOEU2,1,18214,ROUNAK9,8.0,closed,Hello sir,Account Profile,0,2026-07-29 10:28:17,2026-07-29 11:23:16,general_unspecified_account_profile
+8988,TKT-MSFGCPLC,1,19602,SSGABRU,8.0,closed,Urgent need,Account Profile,0,2026-07-29 13:14:34,2026-07-29 13:16:00,general_unspecified_account_profile
+9010,TKT-7AM9GH8V,1,14977,PSG1989,8.0,closed,About my trading bonus,Account Profile,0,2026-07-29 19:27:09,2026-07-30 14:07:47,general_unspecified_account_profile
+9015,TKT-10OM35KR,2,764929,ANIKAJI3,8.0,solved,844510 remove my account,Account Profile,0,2026-07-29 20:50:18,2026-07-30 13:17:42,general_unspecified_account_profile
+9046,TKT-EFFKVG7J,1,1252,SUMMER192021,8.0,closed,not recive my rank bonus,Account Profile,0,2026-07-30 11:55:35,2026-07-30 13:01:28,general_unspecified_account_profile
+9072,TKT-FRIDGNQJ,1,60384,UMAIR002,9.0,closed,K y c,Account Profile,0,2026-07-30 18:32:35,2026-07-31 15:43:13,general_unspecified_account_profile
+9097,TKT-CKXA771R,1,45738,MUJJAHIR71,9.0,solved,Pobodx. Ixo,Account Profile,0,2026-07-31 07:37:55,2026-07-31 15:37:21,general_unspecified_account_profile
+9103,TKT-METQVJ85,2,206654,PRIYANKA2195,10.0,open,Link my another account,Account Profile,0,2026-07-31 09:06:05,2026-07-31 15:22:27,general_unspecified_account_profile
+9130,TKT-PPJEW5OY,2,848069,MANJIT005,10.0,open,Refresh id,Account Profile,0,2026-07-31 12:43:20,2026-07-31 14:16:56,general_unspecified_account_profile
+9153,TKT-MG33R6GP,1,13625,PUNEET2005,9.0,closed,Wealth 25,Account Profile,0,2026-07-31 17:40:50,2026-08-03 16:27:23,general_unspecified_account_profile
+9195,TKT-IZMINV9R,1,35949,MARYAMADNAN2,9.0,closed,Bali tour,Account Profile,0,2026-08-01 10:38:19,2026-08-05 16:55:46,general_unspecified_account_profile
+9198,TKT-8EAFDAHA,1,59783,GURCHARANS1,9.0,closed,Wealth36,Account Profile,0,2026-08-01 11:35:34,2026-08-03 16:57:19,general_unspecified_account_profile
+9215,TKT-SSFJBUQP,1,59771,PAR08,9.0,closed,Have not gained full profit,Account Profile,0,2026-08-01 15:26:15,2026-08-03 16:25:44,general_unspecified_account_profile
+9227,TKT-T1INCGFB,1,47094,PRO10,9.0,closed,Residual incom,Account Profile,0,2026-08-01 18:29:55,2026-08-03 16:39:28,general_unspecified_account_profile
+9264,TKT-YW3TSFSJ,1,17339,NUKESH1,8.0,closed,Hello sir,Account Profile,0,2026-08-02 09:44:55,2026-08-03 14:17:55,general_unspecified_account_profile
+9293,TKT-JVF7XG91,1,4441,22555,8.0,closed,Please check the settlement of my account and correct the account balance.,Account Profile,0,2026-08-02 14:40:25,2026-08-03 12:21:20,general_unspecified_account_profile
+9299,TKT-SBNI2OQ0,1,25476,DILSHAD83,8.0,closed,My income in residual bunas,Account Profile,0,2026-08-02 17:11:58,2026-08-03 11:59:22,general_unspecified_account_profile
+9300,TKT-ZXLVLVGC,1,4210,DILSHAD82,8.0,closed,My income,Account Profile,0,2026-08-02 17:14:37,2026-08-03 11:59:15,general_unspecified_account_profile
+9303,TKT-KFN3KHAK,1,9928,METHERHERO,8.0,closed,Resudul problem,Account Profile,0,2026-08-02 17:53:01,2026-08-03 11:59:33,general_unspecified_account_profile
+9361,TKT-ACVRXZNB,1,9928,METHERHERO,9.0,closed,Resudul problem,Account Profile,0,2026-08-03 16:39:31,2026-08-04 13:23:21,general_unspecified_account_profile
+9420,TKT-RZPMSAVY,1,53335,PM1983,8.0,closed,Stake25  intro bonus no coming in e bank,Account Profile,0,2026-08-04 11:46:11,2026-08-04 12:09:41,general_unspecified_account_profile
+9424,TKT-CJCCG0S2,1,9373,JIGAR123,8.0,solved,Stake25 intro bonus  and stake25 residual bonus in my grup,Account Profile,0,2026-08-04 11:54:04,2026-08-04 12:07:17,general_unspecified_account_profile
+9453,TKT-7JTDFF8E,1,59961,AISHA44,8.0,closed,Ky,Account Profile,0,2026-08-04 18:23:21,2026-08-05 14:24:35,general_unspecified_account_profile
+9456,TKT-QXLPHTYJ,1,1740,ARN44,8.0,closed,wallet add,Account Profile,0,2026-08-04 18:54:57,2026-08-05 14:53:28,general_unspecified_account_profile
+9503,TKT-SR6LW1WA,1,13625,PUNEET2005,10.0,open,Wealth 25,Account Profile,0,2026-08-05 08:31:06,2026-08-05 12:08:03,general_unspecified_account_profile
+9504,TKT-KC5LVPDC,1,9928,METHERHERO,9.0,closed,Correct resudul income,Account Profile,0,2026-08-05 08:35:28,2026-08-05 14:48:59,general_unspecified_account_profile
+9554,TKT-OWMITOKQ,1,53268,HARJESH25,8.0,closed,Kuc is not done,Account Profile,0,2026-08-05 16:07:29,2026-08-05 16:19:37,general_unspecified_account_profile
+9601,TKT-WZPKJOCA,2,190269,LKH78847,8.0,solved,Acount link,Account Profile,0,2026-08-06 10:10:39,2026-08-06 10:49:44,general_unspecified_account_profile
+9639,TKT-U45DGDOE,2,24163,01ATHAR,10.0,open,Reward not release,Account Profile,0,2026-08-06 19:20:48,2026-08-07 16:14:46,general_unspecified_account_profile
+9700,TKT-I3V8ZEUJ,2,187542,SHRUTI2211,9.0,solved,Nam3e,Account Profile,0,2026-08-07 15:41:48,2026-08-07 16:04:30,general_unspecified_account_profile
+9702,TKT-GBPP7ZUF,1,9928,METHERHERO,9.0,closed,Resudul problem,Account Profile,0,2026-08-07 16:31:16,2026-08-07 16:49:09,general_unspecified_account_profile
+9807,TKT-PIXJIMQP,1,15718,PRISHA1,8.0,closed,Car fund did not receive,Account Profile,0,2026-08-08 17:11:27,2026-08-10 14:22:10,general_unspecified_account_profile
+9841,TKT-4SFMKR8W,1,15948,SONUPROBOT,10.0,open,Wealth 36 resudul problem,Account Profile,0,2026-08-09 08:21:07,2026-08-10 14:20:03,general_unspecified_account_profile
+9886,TKT-KD66CHZV,2,55289,FARAZ02,8.0,solved,Mcoin Vouchers,Account Profile,0,2026-08-09 23:52:05,2026-08-10 14:16:57,general_unspecified_account_profile
+9908,TKT-NMHBUK6W,1,13625,PUNEET2005,8.0,closed,Probot x,Account Profile,0,2026-08-10 08:50:26,2026-08-10 12:47:27,general_unspecified_account_profile
+9918,TKT-MQ0T1XGA,1,55320,AISHA33,8.0,closed,Kya,Account Profile,0,2026-08-10 13:07:52,2026-08-10 13:44:46,general_unspecified_account_profile
+9947,TKT-EH4T9TFR,1,32537,PUNAM0001,9.0,closed,Stake 25 Resudul bonas,Account Profile,0,2026-08-11 00:53:17,2026-08-11 13:55:37,general_unspecified_account_profile
+9953,TKT-0WA7D9EY,2,139989,GRE47,8.0,solved,Acount link,Account Profile,0,2026-08-11 09:09:29,2026-08-11 15:56:28,general_unspecified_account_profile
+10000,TKT-LG1K2YW1,1,3896,THAKUR5566,8.0,closed,Updation of my new wallet of safepal,Account Profile,0,2026-08-12 14:51:47,2026-08-12 15:24:39,general_unspecified_account_profile
+10017,TKT-APKDF9TD,1,4023,ANSAR24,8.0,closed,Rank,Account Profile,0,2026-08-12 19:18:15,2026-08-13 14:30:16,general_unspecified_account_profile
+10023,TKT-X5UQHFEU,2,24509,FARAZSBL,10.0,open,Residual Bonus,Account Profile,0,2026-08-12 22:20:23,2026-08-13 14:46:18,general_unspecified_account_profile
+10024,TKT-IRKR7BA6,1,4169,SARIFUL24,8.0,closed,Problem my new rank executive.,Account Profile,0,2026-08-12 23:01:42,2026-08-13 15:16:59,general_unspecified_account_profile
+10027,TKT-WV3WYXYW,2,24509,FARAZSBL,10.0,open,Residual Bonus Missing,Account Profile,0,2026-08-13 01:46:19,2026-08-13 14:46:08,general_unspecified_account_profile
+10081,TKT-ZJZ0HUBV,1,22294,CHHOTU1997,8.0,solved,Refere income,Account Profile,0,2026-08-14 10:13:46,2026-08-17 17:59:30,general_unspecified_account_profile
+10098,TKT-1ZDXIMFZ,1,37884,NEERAJ1406,8.0,closed,Profit not received,Account Profile,0,2026-08-14 12:08:28,2026-08-17 18:25:30,general_unspecified_account_profile
+10102,TKT-NN0BXKPI,1,528,ANAND3570,8.0,closed,eBank wa profit related,Account Profile,0,2026-08-14 12:54:23,2026-08-17 18:22:49,general_unspecified_account_profile
+10104,TKT-HUI8HITF,1,528,ANAND3570,8.0,closed,eBank wa profit related,Account Profile,0,2026-08-14 12:55:17,2026-08-17 18:17:06,general_unspecified_account_profile
+10107,TKT-N8RBYXKM,1,48237,RAGINI45,8.0,closed,Profit related,Account Profile,0,2026-08-14 12:59:53,2026-08-17 18:16:55,general_unspecified_account_profile
+10109,TKT-DQYNBGHH,1,17584,ATHARV3570,8.0,closed,E Bank and profits dollar,Account Profile,0,2026-08-14 13:06:49,2026-08-17 18:24:19,general_unspecified_account_profile
+10110,TKT-7NNFKHLL,1,34122,RAGINI12,8.0,closed,On profit related,Account Profile,0,2026-08-14 13:11:22,2026-08-17 18:25:57,general_unspecified_account_profile
+10132,TKT-LJRMHS50,1,5789,MURTAZA0143,9.0,closed,Residual income issue,Account Profile,0,2026-08-14 15:53:49,2026-08-17 18:15:03,general_unspecified_account_profile
+10158,TKT-9SD60QX4,1,39436,SHASHI35,9.0,closed,Profit essue,Account Profile,0,2026-08-14 21:10:10,2026-08-17 17:28:27,general_unspecified_account_profile
+10163,TKT-28POMCIU,1,56397,ALI12,9.0,closed,Usdt,Account Profile,0,2026-08-14 23:38:08,2026-08-17 17:25:26,general_unspecified_account_profile
+10166,TKT-0KW6KKCY,1,8555,SANGITADEVI,9.0,closed,Wealth 25,Account Profile,0,2026-08-15 03:08:27,2026-08-17 17:22:20,general_unspecified_account_profile
+10175,TKT-3WLJ0SW6,1,16551,IMRAN7117,8.0,closed,Acount,Account Profile,0,2026-08-15 08:35:10,2026-08-17 17:06:12,general_unspecified_account_profile
+10181,TKT-O3TRCKXM,1,56727,KALEEM01,9.0,closed,Payment not showing,Account Profile,0,2026-08-15 11:34:24,2026-08-17 17:17:08,general_unspecified_account_profile
+10184,TKT-GCOB6PQX,1,5660,ARNAV21,9.0,closed,I am not found my 450 dollars package,Account Profile,0,2026-08-15 12:36:04,2026-08-17 17:14:47,general_unspecified_account_profile
+10188,TKT-LSUET4OB,1,39827,RITIKA1998,9.0,closed,Fund,Account Profile,0,2026-08-15 13:14:05,2026-08-17 16:45:30,general_unspecified_account_profile
+10198,TKT-CFW0VNPS,1,13938,GURNAM1,9.0,closed,Id gurnam 1,Account Profile,0,2026-08-15 15:17:58,2026-08-17 16:17:54,general_unspecified_account_profile
+10226,TKT-JI6JFEQM,2,24509,FARAZSBL,10.0,open,Residual Coins,Account Profile,0,2026-08-16 02:01:50,2026-08-17 15:17:20,general_unspecified_account_profile
+10228,TKT-I9CGHXSP,1,10072,SAYED2001,9.0,closed,Stake 25 Resident Bonus,Account Profile,0,2026-08-16 04:55:44,2026-08-17 17:08:06,general_unspecified_account_profile
+10246,TKT-NJ2IKEUQ,1,37470,AAMIRM20X3,9.0,closed,sar ID mein well25 profit wala mein ya FIR aur bhi e Bank mein sari jagah dollar minus me dikha raha hai ya FIR dikha hi nahin Raha Hai sar Aisa kyon,Account Profile,0,2026-08-16 11:53:40,2026-08-17 15:13:58,general_unspecified_account_profile
+10247,TKT-Z1YJB5EU,1,38929,DEEPAKG003,10.0,open,profit,Account Profile,0,2026-08-16 12:02:39,2026-08-17 13:04:09,general_unspecified_account_profile
+10271,TKT-3HGEUEFL,1,17841,SAJANKUMAR,8.0,closed,Leadership bonus,Account Profile,0,2026-08-16 18:20:21,2026-08-17 14:55:09,general_unspecified_account_profile
+10334,TKT-YLF6HFS8,1,11088,SMARTVIJAY,9.0,closed,Account W25 Profit Incorrect,Account Profile,0,2026-08-17 22:47:56,2026-08-18 18:11:05,general_unspecified_account_profile
+10336,TKT-OUZHXMXE,1,19599,PARKAR,8.0,closed,Wealth25 showing in negative when can withdrawal August month profit,Account Profile,0,2026-08-17 22:55:19,2026-08-21 12:17:38,general_unspecified_account_profile
+10392,TKT-UAFCWUH4,1,14856,PUJAPROBOT,8.0,solved,June month MCOIN RETURN,Account Profile,0,2026-08-18 16:22:22,2026-08-18 16:30:12,general_unspecified_account_profile
+10398,TKT-X0YYTRBE,1,9179,SHAIKHSIDDIK31,9.0,closed,Tereding  id  not show,Account Profile,0,2026-08-18 19:50:19,2026-08-19 17:00:45,general_unspecified_account_profile
+10412,TKT-LPDUEM5V,1,51941,PROBOTABUL,9.0,closed,Why is my profit showing(-)?,Account Profile,0,2026-08-19 00:37:08,2026-08-19 11:01:56,general_unspecified_account_profile
+10413,TKT-1ZEUE7UD,1,55824,ISTAKAR51,9.0,solved,Usdt and Mcoin,Account Profile,0,2026-08-19 01:21:20,2026-08-19 16:56:34,general_unspecified_account_profile
+10414,TKT-QZAFNVZA,1,55824,ISTAKAR51,9.0,closed,Leadership bonus,Account Profile,0,2026-08-19 01:22:49,2026-08-21 15:27:53,general_unspecified_account_profile
+10424,TKT-MRWMCMRG,1,11088,SMARTVIJAY,9.0,closed,Negative Profit,Account Profile,0,2026-08-19 09:04:22,2026-08-19 17:18:16,general_unspecified_account_profile
+10429,TKT-WVRQ5BE5,1,30232,MP55,9.0,solved,Auto investment Fund,Account Profile,0,2026-08-19 09:43:09,2026-08-19 16:46:43,general_unspecified_account_profile
+10442,TKT-IEZEBVWF,1,39827,RITIKA1998,8.0,closed,Withdrawal,Account Profile,0,2026-08-19 16:08:02,2026-08-19 16:25:49,general_unspecified_account_profile
+10471,TKT-XW0KC1GT,1,57004,TALIVHUSAIN900,9.0,closed,My reward is not showing,Account Profile,0,2026-08-20 09:05:16,2026-08-20 17:17:21,general_unspecified_account_profile
+10474,TKT-6GSUWNJW,1,56346,TALIVHUSAIN,9.0,closed,I want to report that the 2-month rewards for my Probot X Stake 25 are not visible. Please release the 25 MCoins and USDT for my Stake 25 (270) package.,Account Profile,0,2026-08-20 09:11:43,2026-08-20 17:16:38,general_unspecified_account_profile
+10493,TKT-V2VBGHBU,1,15734,BALAJI7095,8.0,closed,Withdraw,Account Profile,0,2026-08-20 14:19:41,2026-08-20 14:36:04,general_unspecified_account_profile
+10506,TKT-GF0VUCZV,1,16036,TABASSUMBSSB,8.0,closed,Mcoin short 8800,Account Profile,0,2026-08-20 18:36:52,2026-08-21 15:22:08,general_unspecified_account_profile
+10507,TKT-T7LCH64I,1,16033,NASRINBSSB,9.0,closed,Dollar Mismatch,Account Profile,0,2026-08-20 18:44:53,2026-08-21 16:25:18,general_unspecified_account_profile
+10526,TKT-QOPKLUEC,1,11088,SMARTVIJAY,8.0,solved,Reference- Ticket #TKT-MRWMCMRG,Account Profile,0,2026-08-20 23:23:20,2026-08-21 15:17:00,general_unspecified_account_profile
+10534,TKT-BYFMT6FY,1,55824,ISTAKAR51,8.0,closed,About leadership bonus,Account Profile,0,2026-08-21 02:27:52,2026-08-21 15:37:28,general_unspecified_account_profile
+10538,TKT-GORGZNP3,2,465403,RUNAL1986,8.0,closed,Coin didn't show,Account Profile,0,2026-08-21 07:40:36,2026-08-21 12:25:07,general_unspecified_account_profile
+10585,TKT-U5CAN8PP,1,47860,MKING,9.0,solved,Delayed,Account Profile,0,2026-08-22 03:01:13,2026-08-27 15:30:33,general_unspecified_account_profile
+10586,TKT-ZRJWHAQI,1,47860,MKING,9.0,solved,Please resolve,Account Profile,0,2026-08-22 03:12:49,2026-08-27 15:38:10,general_unspecified_account_profile
+10614,TKT-PPUDADGE,1,33889,MALAY2001,9.0,closed,Regarding Negative balance,Account Profile,0,2026-08-22 21:05:27,2026-08-27 16:10:38,general_unspecified_account_profile
+10616,TKT-D0V84BHB,2,193909,369ANOWAR,8.0,solved,my id mether  issue,Account Profile,0,2026-08-22 23:16:16,2026-08-24 13:31:56,general_unspecified_account_profile
+10619,TKT-BWIT3KB3,1,47860,MKING,8.0,closed,Delayed why?,Account Profile,0,2026-08-23 05:29:11,2026-08-24 12:49:10,general_unspecified_account_profile
+10629,TKT-HKJCBTQG,1,9967,RPG1964,8.0,closed,Follow up user ID MKING,Account Profile,0,2026-08-23 10:37:37,2026-08-24 10:42:40,general_unspecified_account_profile
+10707,TKT-YMQFBIO4,1,13403,RAVI26,4.0,open,Google Authenticator QR code required,Account Profile,0,2026-08-24 19:50:36,2026-08-27 16:22:26,general_unspecified_account_profile
+10708,TKT-9ASWOZEY,1,39703,YUP72,4.0,closed,Google Authenticator QR code required,Account Profile,0,2026-08-24 19:57:36,2026-08-27 16:09:31,general_unspecified_account_profile
+10711,TKT-VYLV9PWX,1,14894,RML26,4.0,open,Google Authenticator QR code required,Account Profile,0,2026-08-24 21:15:29,2026-08-27 16:05:56,general_unspecified_account_profile
+10721,TKT-RWMMIZNT,1,12580,NITIN123,9.0,closed,My trade bonus is not showing,Account Profile,0,2026-08-25 01:13:03,2026-08-25 17:02:09,general_unspecified_account_profile
+10730,TKT-1YVS8KWQ,1,33383,RAHULG2189,9.0,solved,Profit not add my account,Account Profile,0,2026-08-25 08:12:31,2026-08-25 17:00:58,general_unspecified_account_profile
+10731,TKT-SZRQR2FU,1,36464,DEEPIKAR2897,9.0,solved,Profit not add my account,Account Profile,0,2026-08-25 08:17:34,2026-08-25 17:00:40,general_unspecified_account_profile
+10786,TKT-WRSLIWXH,1,12580,NITIN123,9.0,solved,Where is my old bonus gone,Account Profile,0,2026-08-26 09:50:05,2026-08-27 16:50:14,general_unspecified_account_profile
+10866,TKT-XHQLAXTT,1,570,ANIL9621,8.0,solved,Ebank bailance,Account Profile,0,2026-08-27 16:08:27,2026-08-27 16:40:02,general_unspecified_account_profile
+10879,TKT-6DS49SNV,2,465403,RUNAL1986,10.0,open,Staking coins are not showing,Account Profile,0,2026-08-27 22:31:02,2026-08-28 17:26:46,general_unspecified_account_profile
+10880,TKT-MGUPFAUJ,2,332814,RUNAL786,10.0,open,All Staking coins didn't get,Account Profile,0,2026-08-27 22:35:12,2026-08-28 17:26:38,general_unspecified_account_profile
+10953,TKT-5GBLINDY,1,55081,PROBOTNASRIN,9.0,solved,When will it be back to normal?,Account Profile,0,2026-08-30 00:00:09,2026-08-31 18:58:31,general_unspecified_account_profile
+11014,TKT-1QHKQHS8,1,3410,DKP1982,9.0,solved,M coin,Account Profile,0,2026-08-31 15:59:18,2026-08-31 17:57:21,general_unspecified_account_profile
+11193,TKT-WCTGHRYH,2,222577,DALJEET53,,open,Mesttak,Account Profile,0,2026-09-04 21:38:35,2026-09-04 21:38:35,general_unspecified_account_profile

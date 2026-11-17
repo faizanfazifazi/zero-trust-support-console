@@ -1,0 +1,3 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+416,TKT-UPQR5QCK,3,138,Ritish Kumar,8.0,closed,OFFER COMPLETED BUT DIDN'T GET THE REWARD YET,Account,0,2026-03-05 17:36:07,2026-03-11 12:34:11,general_account_identifiers
+1448,TKT-RCRIDRTQ,3,4681,PAWAN SHARMA,8.0,solved,refral people not show my account,Account,0,2026-05-02 14:44:51,2026-05-04 11:01:40,general_account_identifiers

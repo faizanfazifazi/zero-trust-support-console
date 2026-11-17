@@ -1,0 +1,52 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+428,TKT-SVLKFWEP,2,37849,FARHAN95,,open,Withdrwal cancil,Withdrawal,0,2026-03-07 08:56:12,2026-03-07 08:56:12,general_unspecified_withdrawal
+618,TKT-XQ3UJOLF,1,542,AJ4045,8.0,solved,Relese withdrwal,Withdrawal,0,2026-03-17 19:24:31,2026-03-19 14:26:10,general_unspecified_withdrawal
+668,TKT-45QWVEOY,1,26432,KINGZAID1,9.0,closed,Withdrwala problem,Withdrawal,0,2026-03-20 17:53:17,2026-04-10 15:45:06,general_unspecified_withdrawal
+1030,TKT-U4HJ0CLN,1,12342,RAJMANU,9.0,closed,withdrwal not recived,Withdrawal,0,2026-04-16 07:17:46,2026-04-20 17:05:01,general_unspecified_withdrawal
+1044,TKT-3C3C8RTA,1,22612,ALFIAYA0111,10.0,open,Widrol,Withdrawal,0,2026-04-16 19:19:54,2026-04-17 12:06:54,general_unspecified_withdrawal
+1582,TKT-NMRY75VT,1,35704,JOT103,8.0,closed,Widral,Withdrawal,0,2026-05-09 12:25:12,2026-05-11 11:36:09,general_unspecified_withdrawal
+1604,TKT-LDMKBZLZ,1,37987,RRY3318,10.0,closed,Widral,Withdrawal,0,2026-05-11 07:00:53,2026-06-01 20:45:01,general_unspecified_withdrawal
+1709,TKT-Y5SV4TXI,1,1996,POOJA1998,8.0,closed,Withwral issue,Withdrawal,0,2026-05-17 19:57:43,2026-05-18 10:37:57,general_unspecified_withdrawal
+1903,TKT-HI8B0O8I,2,35571,FARHAN94,8.0,closed,Withdrwal,Withdrawal,0,2026-05-22 18:54:54,2026-05-25 11:41:26,general_unspecified_withdrawal
+2072,TKT-DPSIU3XY,1,1996,POOJA1998,10.0,open,Withwral issues,Withdrawal,0,2026-05-25 21:33:13,2026-06-01 12:31:38,general_unspecified_withdrawal
+2185,TKT-RQNNSYSG,1,13258,SACHINVAIDYA,10.0,open,Withdrwal relatwd,Withdrawal,0,2026-05-27 15:37:33,2026-06-01 14:42:58,general_unspecified_withdrawal
+2250,TKT-Q0J7QMFK,1,1996,POOJA1998,10.0,open,Withwral issues,Withdrawal,0,2026-05-29 04:07:29,2026-05-29 10:25:15,general_unspecified_withdrawal
+2271,TKT-4DSOMHEG,2,16656,RADHADANG,10.0,open,withdrwal,Withdrawal,0,2026-05-29 17:59:31,2026-06-01 14:42:42,general_unspecified_withdrawal
+2291,TKT-5X4UQFBP,1,582,JAGAN73,10.0,open,Widral,Withdrawal,0,2026-05-30 10:38:59,2026-05-30 12:15:13,general_unspecified_withdrawal
+2295,TKT-I1NLGFD1,2,310270,ASAD460,10.0,open,Widro problem,Withdrawal,0,2026-05-30 12:25:29,2026-06-01 15:43:41,general_unspecified_withdrawal
+2755,TKT-YUI3BTRO,1,150,JANKIY,9.0,closed,Widral,Withdrawal,0,2026-06-06 19:51:21,2026-06-09 16:16:04,general_unspecified_withdrawal
+3102,TKT-UUQSYKSF,1,156,MURATY,9.0,closed,Widral,Withdrawal,0,2026-06-12 01:23:28,2026-06-15 12:50:02,general_unspecified_withdrawal
+4215,TKT-TR9GALYT,1,24236,ANASH02,9.0,closed,Widro,Withdrawal,0,2026-06-19 18:08:37,2026-06-19 18:16:39,general_unspecified_withdrawal
+5333,TKT-SN76ZTRI,1,41431,AI0007,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 14:48:48,2026-06-26 19:24:49,general_unspecified_withdrawal
+5334,TKT-BLWJYE6X,1,17409,AI0003,8.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 14:52:48,2026-06-29 15:16:30,general_unspecified_withdrawal
+5335,TKT-QCBPU5R9,1,18239,AI0004,8.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 14:54:09,2026-06-29 15:16:21,general_unspecified_withdrawal
+5336,TKT-8YCQOCEH,1,39914,AI9,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 14:55:19,2026-06-29 12:19:01,general_unspecified_withdrawal
+5337,TKT-C4RTQJBY,1,40350,AI0006,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 14:56:25,2026-06-29 17:23:24,general_unspecified_withdrawal
+5342,TKT-PYZLHCLN,1,53002,MI10800,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:28:34,2026-06-29 17:23:19,general_unspecified_withdrawal
+5343,TKT-4EMVFYG2,1,53001,MI1200,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:29:42,2026-06-26 19:25:19,general_unspecified_withdrawal
+5346,TKT-8O5BCEDW,1,48774,HARDEEP5400,8.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:44:02,2026-06-29 15:16:12,general_unspecified_withdrawal
+5348,TKT-8OLTSCA2,1,52188,HARDEEPSINGH5400,8.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:45:42,2026-06-29 15:16:03,general_unspecified_withdrawal
+5349,TKT-FZEJYA6Z,1,52594,HARDEEP10800,9.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:47:20,2026-06-26 19:24:18,general_unspecified_withdrawal
+5352,TKT-FGFG0ZKJ,1,52189,SINGH5400,8.0,closed,Withdrwal issue,Withdrawal,0,2026-06-26 15:50:57,2026-06-29 15:15:23,general_unspecified_withdrawal
+5629,TKT-ERXWOKIY,1,48774,HARDEEP5400,8.0,solved,Withdrwal issue,Withdrawal,0,2026-06-28 21:47:30,2026-06-29 12:58:25,general_unspecified_withdrawal
+5780,TKT-AHWTY8QM,1,51797,AAAAAYUSHMRY,10.0,open,For widroll,Withdrawal,0,2026-06-29 21:53:43,2026-06-30 11:47:01,general_unspecified_withdrawal
+5988,TKT-F8PJKHKM,2,483599,AMY002,10.0,open,Widral,Withdrawal,0,2026-07-01 12:04:08,2026-07-01 12:14:41,general_unspecified_withdrawal
+5989,TKT-2KG1OVLD,2,380904,JANKIY76,10.0,open,Widral,Withdrawal,0,2026-07-01 12:11:43,2026-07-01 12:14:07,general_unspecified_withdrawal
+6918,TKT-ZQWPXZBR,2,12832,NAGMANI123,10.0,open,Widral,Withdrawal,0,2026-07-07 19:58:01,2026-07-08 14:28:35,general_unspecified_withdrawal
+8167,TKT-C9L0AOJ3,1,20233,SATPUTE65,10.0,open,Regarding withdrwal,Withdrawal,0,2026-07-17 22:14:36,2026-07-20 15:36:02,general_unspecified_withdrawal
+8288,TKT-6PRQCOMP,2,20385,AKASH23,10.0,open,Widral,Withdrawal,0,2026-07-19 14:32:07,2026-07-20 14:16:06,general_unspecified_withdrawal
+9429,TKT-I21LLX4O,1,35704,JOT103,10.0,open,Plz prosess my widral,Withdrawal,0,2026-08-04 12:40:35,2026-08-04 12:57:00,general_unspecified_withdrawal
+9879,TKT-KZPVFLHJ,1,150,JANKIY,8.0,closed,Widral,Withdrawal,0,2026-08-09 22:30:08,2026-08-10 13:47:10,general_unspecified_withdrawal
+9935,TKT-BXVLUJAE,1,42699,JANKIY01,8.0,closed,Widral,Withdrawal,0,2026-08-10 18:47:26,2026-08-11 14:01:07,general_unspecified_withdrawal
+9936,TKT-KPMONBE1,1,37743,SONA74,8.0,closed,Widral,Withdrawal,0,2026-08-10 19:00:03,2026-08-11 14:01:01,general_unspecified_withdrawal
+9964,TKT-UCBEFOEX,1,13972,MURATY01,8.0,closed,Widral,Withdrawal,0,2026-08-11 12:05:02,2026-08-11 13:42:30,general_unspecified_withdrawal
+10385,TKT-PKNLFRCT,1,5879,AMAN19,8.0,closed,Widral,Withdrawal,0,2026-08-18 14:16:47,2026-08-19 16:03:14,general_unspecified_withdrawal
+10489,TKT-2P4WZO6A,1,41984,SS4445,8.0,closed,Widral,Withdrawal,0,2026-08-20 13:00:52,2026-08-20 13:12:44,general_unspecified_withdrawal
+10531,TKT-MD7GLZAL,1,41984,SS4445,8.0,closed,Widral,Withdrawal,0,2026-08-21 00:58:03,2026-08-21 14:38:12,general_unspecified_withdrawal
+10551,TKT-C2MOAXCI,2,20385,AKASH23,10.0,open,Widral,Withdrawal,0,2026-08-21 12:55:45,2026-08-21 14:20:13,general_unspecified_withdrawal
+10602,TKT-KLM2SNNA,1,41984,SS4445,8.0,closed,Widral,Withdrawal,0,2026-08-22 12:55:44,2026-08-24 13:14:45,general_unspecified_withdrawal
+10920,TKT-Y2801IXU,1,5879,AMAN19,9.0,closed,Widral,Withdrawal,0,2026-08-28 19:09:48,2026-08-28 20:45:05,general_unspecified_withdrawal
+10961,TKT-VMIUCJZG,1,41984,SS4445,9.0,closed,Widral,Withdrawal,0,2026-08-30 10:05:56,2026-08-31 17:58:11,general_unspecified_withdrawal
+10987,TKT-MZU51GOE,1,5879,AMAN19,8.0,solved,Widral,Withdrawal,0,2026-08-30 21:09:52,2026-08-31 12:33:26,general_unspecified_withdrawal
+11081,TKT-ULQNZHDN,1,41984,SS4445,8.0,closed,Widral,Withdrawal,0,2026-09-02 10:59:16,2026-09-02 11:00:44,general_unspecified_withdrawal
+11228,TKT-2AEDCFHF,2,112351,KANCHAN6840,,open,Withdrwal,Withdrawal,0,2026-09-06 10:35:03,2026-09-06 10:35:03,general_unspecified_withdrawal

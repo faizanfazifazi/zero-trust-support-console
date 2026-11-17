@@ -1,0 +1,16 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+109,TKT-33XUMAYT,2,521402,RAHMAN59,9.0,closed,New ticket,Withdrawal,0,2026-02-08 12:38:18,2026-02-09 18:34:30,general_unspecified_withdrawal
+110,TKT-ITTSB4WP,2,693035,RAHMAN76,9.0,closed,New ticket,Withdrawal,0,2026-02-08 12:48:05,2026-02-09 12:58:49,general_unspecified_withdrawal
+111,TKT-IOGXC1EH,2,460395,LMP791,8.0,closed,New ticket,Withdrawal,0,2026-02-08 12:58:51,2026-02-11 17:43:03,general_unspecified_withdrawal
+150,TKT-H27PNMKG,2,460395,LMP791,10.0,open,New ticket,Withdrawal,0,2026-02-11 16:13:41,2026-02-16 17:44:29,general_unspecified_withdrawal
+207,TKT-5MM0HZZC,2,693035,RAHMAN76,10.0,open,New ticket,Withdrawal,0,2026-02-16 13:59:13,2026-02-16 17:41:06,general_unspecified_withdrawal
+259,TKT-KZ2CVKSD,2,521402,RAHMAN59,,open,New ticket,Withdrawal,0,2026-02-22 09:50:11,2026-02-22 09:50:11,general_unspecified_withdrawal
+1364,TKT-UWJJWGTY,1,15457,SONALI123,10.0,closed,Still not resolved Ticket #TKT-BHILAQYO,Withdrawal,0,2026-04-28 18:33:12,2026-07-02 13:54:21,general_unspecified_withdrawal
+1757,TKT-SG7DJKUX,1,24855,KAUSHALKISHORE,10.0,closed,Earlier ticket is closed without solution,Withdrawal,0,2026-05-19 16:44:08,2026-07-01 15:02:09,general_unspecified_withdrawal
+2621,TKT-ZNT6FNFQ,1,14514,TEAMAMBITION15,9.0,closed,please consider ticket TKT-NCE7V7IV,Withdrawal,0,2026-06-04 21:05:36,2026-06-08 16:47:09,general_unspecified_withdrawal
+2800,TKT-PMVUO0DB,1,14514,TEAMAMBITION15,9.0,closed,regarding TKT-NCE7V7IV ticket,Withdrawal,0,2026-06-07 15:20:02,2026-06-12 12:46:22,general_unspecified_withdrawal
+3076,TKT-WLTDOSE0,2,353309,SARBJI002,8.0,solved,Ticket not respond,Withdrawal,0,2026-06-11 13:52:14,2026-06-11 14:05:02,general_unspecified_withdrawal
+6235,TKT-J7XVQU58,1,20623,LALITA010,9.0,closed,Balance Not Normalized (Follow-up to Ticket #TKT-7JYPKIVR),Withdrawal,0,2026-07-02 17:21:37,2026-07-02 17:55:06,general_unspecified_withdrawal
+9409,TKT-LTM7JFN1,1,22375,JOSHDIAMOND,8.0,solved,Ticket raised not solved,Withdrawal,0,2026-08-04 09:23:18,2026-08-04 10:39:49,general_unspecified_withdrawal
+10378,TKT-TETPROG0,1,37931,SAMC,8.0,solved,Reference Ticket TKT-GKAZBJVU,Withdrawal,0,2026-08-18 13:31:25,2026-08-20 12:02:17,general_unspecified_withdrawal
+10379,TKT-R1MTJ1RA,1,57579,SAMC01,8.0,solved,Reference ticket 4WEURB74,Withdrawal,0,2026-08-18 13:33:50,2026-08-20 12:02:22,general_unspecified_withdrawal

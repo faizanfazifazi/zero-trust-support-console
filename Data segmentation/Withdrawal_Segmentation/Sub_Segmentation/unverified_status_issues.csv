@@ -1,0 +1,9 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+44,TKT-JP0DLL9B,1,398,OPVERMA888,8.0,solved,Withdrawal unverified,Withdrawal,0,2026-01-30 20:10:34,2026-01-30 22:02:02,otp_login_verification
+213,TKT-BUFMKFXV,2,116466,TIKA9716,10.0,open,Withdrawal unverified,Withdrawal,0,2026-02-16 15:38:10,2026-02-16 17:39:42,otp_login_verification
+442,TKT-MU4QDJX6,2,765738,SONIKA96,,open,Unverified withdrawal,Withdrawal,0,2026-03-08 12:35:13,2026-03-08 12:35:13,otp_login_verification
+781,TKT-4JX6PYY8,2,864347,DAUD207,10.0,open,Unverified,Withdrawal,0,2026-03-27 21:38:43,2026-04-02 11:34:49,otp_login_verification
+913,TKT-LFRJ6NBH,2,754762,FA115,10.0,open,Withdrawal unverified,Withdrawal,0,2026-04-09 07:00:55,2026-08-20 12:53:10,otp_login_verification
+977,TKT-TWVSIN05,1,8252,TOUSEEF77,3.0,closed,My invoice is unverified,Withdrawal,0,2026-04-13 14:02:05,2026-04-14 23:36:14,otp_login_verification
+3241,TKT-6UV6GWPD,2,348439,DEVENDRA98142,8.0,closed,Invoice unverified,Withdrawal,0,2026-06-14 09:38:09,2026-06-15 13:13:00,otp_login_verification
+7270,TKT-WUTDYM4B,2,37098,RUBI88,8.0,closed,Unverified,Withdrawal,0,2026-07-10 11:54:12,2026-07-10 12:06:48,otp_login_verification

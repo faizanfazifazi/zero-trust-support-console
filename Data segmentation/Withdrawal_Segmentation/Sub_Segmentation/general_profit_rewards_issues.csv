@@ -1,0 +1,63 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+217,TKT-LBGOELTT,2,54722,NKHANAM,9.0,closed,Diamond rank reward,Withdrawal,0,2026-02-16 21:56:59,2026-02-20 15:18:18,staking_rewards_profit
+400,TKT-0N8NYRJK,1,42660,SANGEETA01,9.0,closed,PROFIT NOT CREDITED,Withdrawal,0,2026-03-03 15:46:59,2026-03-04 12:42:33,staking_rewards_profit
+411,TKT-FRDEPYZK,1,3603,RAJKUMAR1976,8.0,solved,Welth25se profit withdrawal,Withdrawal,0,2026-03-05 09:54:15,2026-03-11 12:33:53,staking_rewards_profit
+969,TKT-MQBYCNBN,1,47120,KHALID111,8.0,closed,Not able to withdraw profit,Withdrawal,0,2026-04-13 06:09:17,2026-04-15 12:17:02,staking_rewards_profit
+983,TKT-L8XX8DF8,1,39318,MAAZ080,8.0,closed,Not able to withdraw profit,Withdrawal,0,2026-04-14 00:21:51,2026-04-15 12:19:20,staking_rewards_profit
+1035,TKT-AQWWOLNV,1,15700,BALAJI7094,9.0,closed,Error while withdrawing reward,Withdrawal,0,2026-04-16 11:38:14,2026-04-16 12:58:18,staking_rewards_profit
+1046,TKT-M3ZJ1VIZ,1,15700,BALAJI7094,8.0,closed,Error reward withdrawal,Withdrawal,0,2026-04-16 22:02:06,2026-04-20 11:58:09,staking_rewards_profit
+1265,TKT-8QFSJ8QW,1,36568,SABIRBHAI2,8.0,closed,Profit withdrawal,Withdrawal,0,2026-04-24 08:05:41,2026-04-24 12:31:19,staking_rewards_profit
+1568,TKT-LK9VWPS8,1,41716,NANDAPATIL,10.0,open,Welth25 Profit withdrawal,Withdrawal,0,2026-05-08 12:02:35,2026-05-08 12:04:36,staking_rewards_profit
+1944,TKT-BPHINFS5,1,9407,GHALIB025,8.0,closed,Withdrawal profit nahi aane k sambandh mai,Withdrawal,0,2026-05-23 13:18:41,2026-05-25 12:26:26,staking_rewards_profit
+2000,TKT-RDQN6MHS,1,9407,GHALIB025,8.0,closed,Profit vollet se har chuka hai,Withdrawal,0,2026-05-24 21:29:03,2026-05-25 11:25:04,staking_rewards_profit
+2125,TKT-WOMYYFZA,1,13568,NKP123,10.0,open,my april month pcm reward deducted why,Withdrawal,0,2026-05-26 16:08:15,2026-06-02 15:35:23,staking_rewards_profit
+3025,TKT-1LYBVQLE,1,6651,DIVYAM,9.0,closed,profit withdrawal,Withdrawal,0,2026-06-10 21:10:02,2026-06-12 17:49:38,staking_rewards_profit
+3360,TKT-YWNASWQK,2,812213,HARJEET14,8.0,closed,Regarding proshare withdraw,Withdrawal,0,2026-06-15 22:08:07,2026-06-16 12:47:34,staking_rewards_profit
+3657,TKT-BSXE5GHW,1,7012,NIKKU1986,8.0,closed,Welth 25 profit withdrawal issue,Withdrawal,0,2026-06-17 18:22:52,2026-06-18 13:30:53,staking_rewards_profit
+3779,TKT-NCTOG84C,2,819923,PPROSHARE1,8.0,closed,Proshare withdrawal not enable,Withdrawal,0,2026-06-18 09:56:14,2026-06-18 13:24:35,staking_rewards_profit
+7747,TKT-SJOY3F4Y,1,34906,CHUNNILAL44,9.0,closed,Profit Withdrawal,Withdrawal,0,2026-07-14 13:27:31,2026-07-14 13:30:53,staking_rewards_profit
+7748,TKT-AHOIICHP,1,42847,DEENA1000,9.0,closed,Profit Withdrawal,Withdrawal,0,2026-07-14 13:29:31,2026-07-14 13:30:29,staking_rewards_profit
+7749,TKT-JWB5SS42,1,21502,KULD1000,9.0,closed,Profit Withdrawal,Withdrawal,0,2026-07-14 13:30:50,2026-07-14 13:31:55,staking_rewards_profit
+7929,TKT-BY4U3HHD,1,34906,CHUNNILAL44,10.0,open,W 25 Profits Withdrawal,Withdrawal,0,2026-07-15 23:21:25,2026-07-16 14:35:27,staking_rewards_profit
+7930,TKT-27E1FSST,1,31760,RAMNATH44,10.0,open,W 25 Profits Withdrawal,Withdrawal,0,2026-07-15 23:29:15,2026-07-16 14:35:13,staking_rewards_profit
+8631,TKT-NVU1Y35X,1,18569,RISHI,9.0,solved,Profit,Withdrawal,0,2026-07-24 19:16:57,2026-07-24 19:22:15,staking_rewards_profit
+8838,TKT-MIG0KPVJ,1,47120,KHALID111,8.0,closed,Not able to withdraw Wealth36 profit,Withdrawal,0,2026-07-27 12:14:25,2026-07-27 12:20:35,staking_rewards_profit
+8843,TKT-P0SABEF9,1,21282,EWNK8877,8.0,solved,Profit withdrawal on token pocket,Withdrawal,0,2026-07-27 13:34:16,2026-07-27 13:35:42,staking_rewards_profit
+8852,TKT-C4QTDRJQ,1,12776,SUKHWANTXXX,8.0,closed,Withdrawal profit,Withdrawal,0,2026-07-27 15:53:01,2026-07-27 16:29:04,staking_rewards_profit
+8925,TKT-DJRWITMA,1,55257,MOJZA100,8.0,closed,Profit,Withdrawal,0,2026-07-28 13:53:29,2026-07-28 14:01:39,staking_rewards_profit
+9123,TKT-KCZ776WU,1,17741,SURINDER999,9.0,closed,withdrawl manage trading profit,Withdrawal,0,2026-07-31 11:15:57,2026-07-31 14:35:55,staking_rewards_profit
+9235,TKT-DZBATRAJ,1,55716,RS23PAC,9.0,closed,Profit not trnsafar my wlllet,Withdrawal,0,2026-08-01 22:01:14,2026-08-03 16:38:08,staking_rewards_profit
+9314,TKT-I2EIB8BI,2,823436,RAJAT6993,9.0,closed,PROSHARE,Withdrawal,0,2026-08-02 21:36:09,2026-08-03 14:32:17,staking_rewards_profit
+9445,TKT-YL1FBJ1V,1,51753,VINITARYA,8.0,closed,About profit withdrawal,Withdrawal,0,2026-08-04 16:44:27,2026-08-05 14:34:08,staking_rewards_profit
+9550,TKT-D6YXR030,1,13372,SANGALBIDHYA3,8.0,closed,Profit Withdrawal,Withdrawal,0,2026-08-05 15:17:28,2026-08-05 15:37:13,staking_rewards_profit
+9562,TKT-OF5LB5GR,2,823436,RAJAT6993,10.0,open,PROSHARE,Withdrawal,0,2026-08-05 18:15:19,2026-08-05 18:30:44,staking_rewards_profit
+9655,TKT-ONYETI9Z,1,32536,VISHAL0001,8.0,solved,Profit withdrawal,Withdrawal,0,2026-08-07 02:08:11,2026-08-07 11:16:16,staking_rewards_profit
+9869,TKT-KORQ32SU,1,9126,LOVEGUNJU1,8.0,closed,profit withdrawal,Withdrawal,0,2026-08-09 18:08:34,2026-08-10 13:23:26,staking_rewards_profit
+9975,TKT-KVRO1K0I,1,22701,RIDDHI1,9.0,closed,Profit withdrawal issue,Withdrawal,0,2026-08-11 21:19:03,2026-08-12 15:10:46,staking_rewards_profit
+10040,TKT-UKXVY02T,2,131689,PARAM9910,8.0,closed,Dimond rank reward,Withdrawal,0,2026-08-13 12:09:04,2026-08-13 14:29:31,staking_rewards_profit
+10082,TKT-0QGCFCRS,1,36568,SABIRBHAI2,10.0,open,Profit,Withdrawal,0,2026-08-14 10:14:24,2026-08-17 17:58:50,staking_rewards_profit
+10119,TKT-UARDAIU9,1,52946,ARMAAN10800,8.0,closed,PROFIT LOST,Withdrawal,0,2026-08-14 14:15:47,2026-08-17 18:16:25,staking_rewards_profit
+10124,TKT-URUCTVOL,1,14642,AMITSINGHJEH1234,8.0,solved,Profit & Withdrawal – Exact Date/Month Required,Withdrawal,0,2026-08-14 14:56:18,2026-08-17 18:19:58,staking_rewards_profit
+10143,TKT-4M6T8CGY,1,22744,NAUSHAD120,8.0,closed,Doller is not available in Training profit,Withdrawal,0,2026-08-14 18:05:27,2026-08-17 18:04:55,staking_rewards_profit
+10178,TKT-YWKDE7A8,1,27118,PINTU1983,9.0,closed,Profit Balance wrong and Withdrawal  not credited,Withdrawal,0,2026-08-15 10:52:32,2026-08-17 17:18:15,staking_rewards_profit
+10191,TKT-OOPAST9H,1,43813,MUGHIS100,9.0,closed,Profite withdrawal issue,Withdrawal,0,2026-08-15 14:20:20,2026-08-17 15:58:23,staking_rewards_profit
+10233,TKT-7ML6XRDE,1,58023,SONAM126,9.0,closed,Profit withdrawal issue,Withdrawal,0,2026-08-16 08:45:52,2026-08-17 15:12:35,staking_rewards_profit
+10245,TKT-C8VP6JME,1,52943,RABIA10800,10.0,open,profit,Withdrawal,0,2026-08-16 11:48:22,2026-08-17 13:04:23,staking_rewards_profit
+10275,TKT-ITOXXJEP,1,54374,IMVIKRAM1,8.0,closed,Regarding non-profit,Withdrawal,0,2026-08-16 20:24:10,2026-08-17 14:52:12,staking_rewards_profit
+10303,TKT-P8JEMVLF,1,58515,IRFANPATEL,10.0,open,Regarding profit,Withdrawal,0,2026-08-17 14:11:33,2026-08-17 14:47:11,staking_rewards_profit
+10383,TKT-1DJSE3MV,1,10088,KEHAR2,8.0,solved,June profit withdrawal,Withdrawal,0,2026-08-18 14:15:16,2026-08-18 14:25:04,staking_rewards_profit
+10388,TKT-FVVPIR4V,1,36485,ABU78610,8.0,solved,My profit,Withdrawal,0,2026-08-18 15:28:53,2026-08-27 15:13:27,staking_rewards_profit
+10389,TKT-EPOCNHDV,1,36487,ABU78611,8.0,solved,My profit,Withdrawal,0,2026-08-18 15:33:41,2026-08-27 11:37:11,staking_rewards_profit
+10390,TKT-SPMH3ZXZ,1,36490,ABU78692,8.0,solved,My profit,Withdrawal,0,2026-08-18 15:35:28,2026-08-27 11:37:07,staking_rewards_profit
+10431,TKT-Z8XRZIYP,1,46046,DHANA3,8.0,closed,Clarity on SIP Profit,Withdrawal,0,2026-08-19 10:26:04,2026-08-19 11:38:50,staking_rewards_profit
+10496,TKT-NNGVNIST,1,49829,BINAK,8.0,solved,Welth25 ka profit nahi araha h,Withdrawal,0,2026-08-20 15:03:23,2026-08-20 15:22:59,staking_rewards_profit
+10505,TKT-W8O8VAV7,1,47120,KHALID111,8.0,closed,Removal of profits,Withdrawal,0,2026-08-20 18:30:21,2026-08-21 15:23:43,staking_rewards_profit
+10570,TKT-6OJZS9LD,1,58625,ARPIT21,9.0,solved,Monthly Profit,Withdrawal,0,2026-08-21 20:55:01,2026-08-24 18:24:26,staking_rewards_profit
+10618,TKT-2KVN8JWQ,1,44398,MEHRAJ25,8.0,closed,Profit,Withdrawal,0,2026-08-23 04:16:06,2026-08-24 13:48:11,staking_rewards_profit
+10747,TKT-ZQWF70DC,1,14803,YOGITABOKADE,8.0,closed,Profit not shown properly,Withdrawal,0,2026-08-25 12:36:17,2026-08-31 15:45:11,staking_rewards_profit
+10928,TKT-NSLLCNLM,1,44398,MEHRAJ25,9.0,solved,Profit,Withdrawal,0,2026-08-29 00:30:14,2026-08-31 18:58:53,staking_rewards_profit
+10984,TKT-JH1A9TJN,1,58812,SADIYA080,9.0,closed,Profit not credited,Withdrawal,0,2026-08-30 18:18:27,2026-08-31 18:58:09,staking_rewards_profit
+11035,TKT-1GJMKSJM,1,13077,MUZAFFARW25,9.0,closed,Profit,Withdrawal,0,2026-09-01 08:42:17,2026-09-01 14:42:25,staking_rewards_profit
+11098,TKT-GCEU9TCD,1,41255,DHRUV1,8.0,solved,Profit not coming,Withdrawal,0,2026-09-02 13:46:41,2026-09-02 13:56:51,staking_rewards_profit
+11140,TKT-DSR1SCWU,1,16496,DEOK1965,9.0,solved,Profit withdraw,Withdrawal,0,2026-09-03 17:43:16,2026-09-03 19:09:02,staking_rewards_profit
+11176,TKT-LNHPFBFI,1,58598,MUZAFFAR36,8.0,closed,Profit,Withdrawal,0,2026-09-04 14:12:07,2026-09-04 14:37:58,staking_rewards_profit

@@ -1,0 +1,130 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+212,TKT-2LXT4KZ5,2,164377,KAKORI1,10.0,open,Legacy ebank withdrawal,Withdrawal,0,2026-02-16 15:12:47,2026-02-16 17:40:40,bank_ebanking_transfer
+291,TKT-1VCMBINF,2,91329,MUKESHBILLO,10.0,open,eBank Withdrawal,Withdrawal,0,2026-02-25 09:59:51,2026-07-06 14:27:25,bank_ebanking_transfer
+351,TKT-FVWBYOJO,2,36433,ARJUMAND9,,open,Is legacy e bank withdrawals open,Withdrawal,0,2026-02-28 15:54:39,2026-02-28 15:54:39,bank_ebanking_transfer
+440,TKT-9EMK3N06,1,3603,RAJKUMAR1976,9.0,closed,Ebank withdrawal,Withdrawal,0,2026-03-08 11:48:47,2026-03-10 11:34:00,bank_ebanking_transfer
+449,TKT-PT5KDES4,2,92769,GHANSHYAMJEE,,open,E-bank withdrawal 139,Withdrawal,0,2026-03-08 20:01:33,2026-03-08 20:01:33,bank_ebanking_transfer
+496,TKT-JNRGPUD5,2,66166,DKUMAR44,,open,E Bank Withdrawal,Withdrawal,0,2026-03-11 13:53:57,2026-03-11 13:53:57,bank_ebanking_transfer
+505,TKT-EEEEU0QE,2,177251,MOHDMUZAHIR2700,10.0,open,Ebank withdrawal,Withdrawal,0,2026-03-11 19:04:39,2026-07-06 14:26:54,bank_ebanking_transfer
+650,TKT-CXRQOZ6X,1,542,AJ4045,9.0,closed,Ebank Withdrawal,Withdrawal,0,2026-03-19 22:49:31,2026-04-13 11:57:11,bank_ebanking_transfer
+726,TKT-EYFGK3JK,2,629185,NAVNEET9199,10.0,open,E bank,Withdrawal,0,2026-03-24 21:10:34,2026-03-25 12:22:04,bank_ebanking_transfer
+727,TKT-GDHJBE5S,2,629185,NAVNEET9199,10.0,open,Ebank,Withdrawal,0,2026-03-24 21:19:18,2026-03-26 16:08:54,bank_ebanking_transfer
+731,TKT-6BNFKDIQ,2,66166,DKUMAR44,10.0,open,E Bank Withdrawal Issue,Withdrawal,0,2026-03-25 12:27:28,2026-03-25 12:27:51,bank_ebanking_transfer
+768,TKT-D9H9AB1M,2,29660,HAKAM11,10.0,open,Withdrawal Ebank,Withdrawal,0,2026-03-27 11:42:56,2026-07-06 14:26:37,bank_ebanking_transfer
+1055,TKT-OPOB5V3C,1,17983,NAUSHAD110,8.0,closed,eBank Transfer,Withdrawal,0,2026-04-17 09:57:01,2026-04-20 11:56:47,bank_ebanking_transfer
+1125,TKT-AWOYBZWK,1,14257,DKUMAR44,10.0,open,E Bank Withdrawal Not Dispatch,Withdrawal,0,2026-04-19 21:50:22,2026-04-20 11:38:51,bank_ebanking_transfer
+1143,TKT-TSAQNQIO,1,1968,KISHOREV068,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-04-20 14:46:18,2026-04-20 15:00:27,bank_ebanking_transfer
+1483,TKT-KNXL3FN5,2,468260,ATULD120,8.0,solved,Ebank Balance Not Show in Ebank Withdrawal Option,Withdrawal,0,2026-05-04 10:10:58,2026-05-04 10:14:37,bank_ebanking_transfer
+1505,TKT-YMINHPZQ,1,1990,DHRUV2022,8.0,closed,Ebank Withdrawal,Withdrawal,0,2026-05-05 05:53:27,2026-05-08 12:00:07,bank_ebanking_transfer
+1558,TKT-J9YWYGTB,1,19704,ALI87,10.0,open,Ebank withdrawal,Withdrawal,0,2026-05-08 05:35:44,2026-05-08 10:52:13,bank_ebanking_transfer
+1559,TKT-OUCNIOLM,1,11693,RIYAZ84,10.0,open,Ebank withdrawal,Withdrawal,0,2026-05-08 05:44:15,2026-05-08 10:51:24,bank_ebanking_transfer
+1593,TKT-EKR3FSZL,1,15928,SS0916,9.0,closed,Ebank withdrawal,Withdrawal,0,2026-05-10 12:21:14,2026-05-13 14:50:30,bank_ebanking_transfer
+1665,TKT-39QIDNBJ,2,595072,ASIFARAIN1,10.0,open,Ebank Withdrawal Issue,Withdrawal,0,2026-05-14 16:02:44,2026-05-14 16:29:47,bank_ebanking_transfer
+1737,TKT-PCWNNEXW,1,394,369DEEPAKK,8.0,closed,ebank,Withdrawal,0,2026-05-19 09:00:31,2026-05-19 12:22:40,bank_ebanking_transfer
+1748,TKT-QP5TQU4K,1,1968,KISHOREV068,8.0,solved,Ebank,Withdrawal,0,2026-05-19 12:24:33,2026-05-19 12:25:01,bank_ebanking_transfer
+1880,TKT-RCEFDSRN,2,595072,ASIFARAIN1,8.0,solved,Ebank withdrwal,Withdrawal,0,2026-05-22 15:01:13,2026-05-22 15:07:59,bank_ebanking_transfer
+1972,TKT-FJPTTVOM,2,62102,NADEEMMMM,8.0,closed,Order ebank,Withdrawal,0,2026-05-24 09:22:15,2026-05-25 11:29:44,bank_ebanking_transfer
+2051,TKT-VGKU9NSS,2,595072,ASIFARAIN1,8.0,closed,Ebank Invoice payment,Withdrawal,0,2026-05-25 16:41:57,2026-06-01 11:05:05,bank_ebanking_transfer
+2127,TKT-1P9PV7MT,2,595072,ASIFARAIN1,8.0,closed,Ebank Not Working,Withdrawal,0,2026-05-26 17:04:27,2026-06-03 12:41:43,bank_ebanking_transfer
+2209,TKT-FQ26MK4K,1,22110,AMAR1966,8.0,closed,Chack My e bank wedrawal,Withdrawal,0,2026-05-27 21:32:38,2026-05-29 12:21:58,bank_ebanking_transfer
+2329,TKT-IOOQFKMR,1,6057,ANIL1976,8.0,closed,ebank tatha wealth 25 withdrawal nahin ho raha hai,Withdrawal,0,2026-05-31 10:53:30,2026-06-01 11:38:25,bank_ebanking_transfer
+2393,TKT-8TNH8WVH,1,4441,22555,8.0,closed,Ebank withdrawal issue,Withdrawal,0,2026-06-01 15:17:43,2026-06-03 11:50:34,bank_ebanking_transfer
+2447,TKT-Q4DXNALY,1,22110,AMAR1966,9.0,closed,eBank settlement of $135 already paid on 26 may 2026,Withdrawal,0,2026-06-02 11:32:02,2026-06-04 14:52:26,bank_ebanking_transfer
+2488,TKT-B7ZPUQOH,1,4441,22555,8.0,closed,Ebank transfer ishu,Withdrawal,0,2026-06-03 08:36:37,2026-06-03 11:12:12,bank_ebanking_transfer
+2583,TKT-47WUWF1O,1,4441,22555,8.0,closed,EBANK AMOUNT NOT TRANSFER,Withdrawal,0,2026-06-04 09:24:24,2026-06-04 11:13:54,bank_ebanking_transfer
+2751,TKT-VFSGULW6,1,4441,22555,9.0,closed,EBANK TRANSFER,Withdrawal,0,2026-06-06 19:14:45,2026-06-12 12:46:13,bank_ebanking_transfer
+2840,TKT-0SNKXBCT,1,21509,LALIT007,9.0,solved,ebank settlement $38,Withdrawal,0,2026-06-08 02:00:13,2026-06-09 16:12:15,bank_ebanking_transfer
+2909,TKT-F32M0KUP,1,4441,22555,8.0,closed,Ebank sowing Insufficient bailance,Withdrawal,0,2026-06-08 23:35:02,2026-06-09 12:19:51,bank_ebanking_transfer
+2914,TKT-RDA2Q20H,1,8978,ARMY25,8.0,closed,My ebank not withdrawal,Withdrawal,0,2026-06-09 06:33:02,2026-06-09 12:18:59,bank_ebanking_transfer
+3212,TKT-UCYZW98K,1,5169,RAMESHLK1965,9.0,solved,ebank,Withdrawal,0,2026-06-13 20:45:35,2026-06-16 14:53:14,bank_ebanking_transfer
+3301,TKT-IY6XXMJB,1,19425,SWATI143,8.0,closed,Ebank Withdrawal,Withdrawal,0,2026-06-15 10:14:49,2026-06-15 12:50:38,bank_ebanking_transfer
+3307,TKT-BMQKR02Z,1,5296,SANDIPSUIKE,8.0,closed,Ebank withdraw not working,Withdrawal,0,2026-06-15 11:00:13,2026-06-15 16:35:19,bank_ebanking_transfer
+3329,TKT-UWOIMPDN,1,20928,MASHROOM02,8.0,closed,ebank,Withdrawal,0,2026-06-15 14:43:58,2026-06-15 14:44:44,bank_ebanking_transfer
+3337,TKT-YQLCUESA,1,14349,ABHISHEKJ007,8.0,closed,ebank withdraw,Withdrawal,0,2026-06-15 16:13:58,2026-06-15 16:16:22,bank_ebanking_transfer
+3361,TKT-IN2ZIWQC,1,1996,POOJA1998,8.0,closed,Ebank withwral,Withdrawal,0,2026-06-15 22:19:30,2026-06-16 12:46:36,bank_ebanking_transfer
+3405,TKT-85P1PV78,1,2882,SMARTBOY,9.0,closed,Unable to withdraw ebank,Withdrawal,0,2026-06-16 16:21:38,2026-06-17 16:56:10,bank_ebanking_transfer
+3422,TKT-WNWZHWGJ,1,6895,PRATIBHA89,9.0,closed,Ebank,Withdrawal,0,2026-06-16 19:03:56,2026-06-18 12:46:30,bank_ebanking_transfer
+3433,TKT-A3FKDLBY,1,26432,KINGZAID1,9.0,closed,E bank problem,Withdrawal,0,2026-06-16 23:35:44,2026-06-18 13:32:13,bank_ebanking_transfer
+3498,TKT-MNGV8E7G,1,17243,PRIYANKA1996,8.0,closed,E Bank withdrawal issue,Withdrawal,0,2026-06-17 12:56:27,2026-06-17 12:56:53,bank_ebanking_transfer
+3516,TKT-TCZQP399,1,19425,SWATI143,8.0,closed,E-BANK Withdrawal update,Withdrawal,0,2026-06-17 13:36:44,2026-06-17 13:46:04,bank_ebanking_transfer
+3870,TKT-4NZ96RQV,1,22372,KAMALGURUJI,9.0,closed,E bank withdrawal,Withdrawal,0,2026-06-18 14:43:57,2026-06-19 17:52:18,bank_ebanking_transfer
+4061,TKT-WDVHTZCZ,1,7864,BHUPINDERCHOPRA,8.0,closed,Issue Regarding E-Bank Withdrawal Not Working,Withdrawal,0,2026-06-19 09:05:41,2026-06-19 12:30:57,bank_ebanking_transfer
+4271,TKT-6TCLRTTN,1,5080,GUNJU143,9.0,closed,ebank withdrawal,Withdrawal,0,2026-06-20 08:03:12,2026-06-22 18:09:21,bank_ebanking_transfer
+4348,TKT-ZI9GRPJN,1,2295,KIRPAL1966,9.0,closed,E bank,Withdrawal,0,2026-06-20 16:34:58,2026-06-22 18:09:54,bank_ebanking_transfer
+4483,TKT-CCEBXJE4,2,760588,PROS1800,8.0,closed,Pro shere e bank,Withdrawal,0,2026-06-21 15:58:01,2026-06-22 13:45:23,bank_ebanking_transfer
+4528,TKT-VXLVJE7W,1,2295,KIRPAL1966,8.0,solved,Ebank,Withdrawal,0,2026-06-22 06:15:22,2026-06-22 13:43:00,bank_ebanking_transfer
+4760,TKT-CELKJ3MX,1,5080,GUNJU143,9.0,closed,ebank withdrawal,Withdrawal,0,2026-06-23 08:20:03,2026-06-23 18:23:37,bank_ebanking_transfer
+4794,TKT-HVZQMHSW,2,92769,GHANSHYAMJEE,8.0,closed,Withdrawal e bank,Withdrawal,0,2026-06-23 10:26:56,2026-06-23 10:28:59,bank_ebanking_transfer
+4817,TKT-TGUTZTRF,1,26432,KINGZAID1,9.0,closed,E bank,Withdrawal,0,2026-06-23 11:53:48,2026-06-23 18:23:42,bank_ebanking_transfer
+4827,TKT-IKJBXKRT,1,14349,ABHISHEKJ007,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-23 12:55:27,2026-06-24 14:45:30,bank_ebanking_transfer
+4891,TKT-WIKJ295P,1,7012,NIKKU1986,9.0,closed,eBank withdrawal,Withdrawal,0,2026-06-23 16:07:29,2026-06-23 16:09:01,bank_ebanking_transfer
+4983,TKT-0FXHCGD2,1,1258,KANIKA14,8.0,closed,Ebank widrawal,Withdrawal,0,2026-06-24 09:01:58,2026-06-24 11:35:08,bank_ebanking_transfer
+5043,TKT-Q3JL1Q7G,1,13701,PANKAJ8987,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-24 13:57:48,2026-06-24 13:59:53,bank_ebanking_transfer
+5115,TKT-7MFXDNIQ,1,2870,HANDSOMEGUY,9.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-24 20:54:49,2026-06-26 19:19:42,bank_ebanking_transfer
+5132,TKT-OX7DRNJA,1,19425,SWATI143,8.0,closed,Unable to Withdraw Funds from eBank to Other Exchanges – Urgent Support Required,Withdrawal,0,2026-06-25 01:50:45,2026-06-25 16:40:55,bank_ebanking_transfer
+5133,TKT-YPQHQJK1,1,13701,PANKAJ8987,8.0,closed,Unable to Withdraw Funds from eBank to Other Exchanges – Urgent Support Required,Withdrawal,0,2026-06-25 01:59:06,2026-06-25 16:40:43,bank_ebanking_transfer
+5155,TKT-B796WWOC,1,22370,PINTA2,8.0,closed,Withdrawal from wealth 25 / ebank,Withdrawal,0,2026-06-25 10:05:48,2026-06-25 16:41:03,bank_ebanking_transfer
+5164,TKT-DUC4RQFW,1,14853,SIDDHANT,9.0,closed,Unable to withdraw ebank,Withdrawal,0,2026-06-25 11:04:13,2026-06-26 19:21:39,bank_ebanking_transfer
+5207,TKT-Z4MXEUJP,1,26432,KINGZAID1,9.0,closed,e bank problem,Withdrawal,0,2026-06-25 16:02:31,2026-06-26 19:21:53,bank_ebanking_transfer
+5221,TKT-7RCI4CQT,1,14154,ABDUL1986,9.0,closed,Regarding e bank withdrawal,Withdrawal,0,2026-06-25 17:45:51,2026-06-29 17:22:11,bank_ebanking_transfer
+5258,TKT-UTDDNNLK,1,42656,IRFAN1973,9.0,closed,E bank,Withdrawal,0,2026-06-26 01:21:56,2026-06-29 17:39:32,bank_ebanking_transfer
+5386,TKT-MRODBMT5,1,7905,MITHLESHKUMAR8,9.0,closed,Plz update my withdrawal ebank,Withdrawal,0,2026-06-26 22:44:26,2026-06-29 17:30:07,bank_ebanking_transfer
+5393,TKT-BECPQNT6,1,19425,SWATI143,9.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-27 01:04:43,2026-06-29 14:35:59,bank_ebanking_transfer
+5506,TKT-LEP3PT2P,2,852397,JASHAN630,10.0,open,Ebank withdrawal,Withdrawal,0,2026-06-27 20:03:10,2026-06-29 13:52:50,bank_ebanking_transfer
+5518,TKT-PTBQQTCT,2,760588,PROS1800,10.0,open,Pro shere e bank,Withdrawal,0,2026-06-27 21:59:07,2026-06-29 14:15:52,bank_ebanking_transfer
+5725,TKT-6H9LUBBI,1,19425,SWATI143,8.0,solved,Ebank withdrawal,Withdrawal,0,2026-06-29 15:05:15,2026-06-29 15:10:25,bank_ebanking_transfer
+5738,TKT-BJRH3DX1,1,19425,SWATI143,8.0,closed,Withdrawal update for Ebank,Withdrawal,0,2026-06-29 16:01:44,2026-06-30 12:46:52,bank_ebanking_transfer
+5771,TKT-RPJK8I4W,1,19463,PAPAJP143,10.0,open,Ebank withdrawal,Withdrawal,0,2026-06-29 20:30:18,2026-06-30 12:09:50,bank_ebanking_transfer
+5814,TKT-S5OIIHV3,2,760588,PROS1800,10.0,open,Pro shere e bank,Withdrawal,0,2026-06-30 08:21:51,2026-06-30 12:00:39,bank_ebanking_transfer
+5847,TKT-FONGTVWG,1,17192,PROBOTX026,8.0,closed,Ebank  withdrawal,Withdrawal,0,2026-06-30 13:32:19,2026-06-30 14:29:21,bank_ebanking_transfer
+5856,TKT-1RNFDF9C,1,19425,SWATI143,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-30 13:55:33,2026-06-30 14:29:06,bank_ebanking_transfer
+5890,TKT-62BF4WPV,1,20928,MASHROOM02,9.0,closed,e bank withdrawal,Withdrawal,0,2026-06-30 16:07:48,2026-06-30 16:28:09,bank_ebanking_transfer
+5895,TKT-RKRWKVRL,1,19425,SWATI143,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-30 16:21:15,2026-06-30 16:54:15,bank_ebanking_transfer
+5898,TKT-9HWWOOMJ,1,19425,SWATI143,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-06-30 16:23:59,2026-07-02 12:33:01,bank_ebanking_transfer
+5994,TKT-LKJMHX20,1,9127,KEHAR1,9.0,closed,E bank withdrawal,Withdrawal,0,2026-07-01 13:20:28,2026-07-01 14:01:26,bank_ebanking_transfer
+5995,TKT-A7CAVHZM,1,19425,SWATI143,9.0,solved,Ebank withdrawal,Withdrawal,0,2026-07-01 13:23:32,2026-07-07 18:00:09,bank_ebanking_transfer
+6081,TKT-JNXR3AUH,1,14757,RAJ1985,9.0,closed,Ebank Withdrawal,Withdrawal,0,2026-07-01 19:33:58,2026-07-02 16:56:13,bank_ebanking_transfer
+6105,TKT-SXXK9RZA,1,35480,SACHINKM22,9.0,closed,My ebank not Withdrawal,Withdrawal,0,2026-07-01 22:18:56,2026-07-02 16:55:16,bank_ebanking_transfer
+6106,TKT-SGUQUP7K,1,5080,GUNJU143,9.0,closed,ebank withdrawal,Withdrawal,0,2026-07-01 22:20:14,2026-07-02 16:55:10,bank_ebanking_transfer
+6202,TKT-CBLZ2UZS,1,3987,AMARJIT66,8.0,closed,I want to know about my eBank withdrawal,Withdrawal,0,2026-07-02 13:59:13,2026-07-02 14:05:51,bank_ebanking_transfer
+6272,TKT-84EELNZE,1,8466,RITESH123,9.0,closed,Unable to withdraw from eBank,Withdrawal,0,2026-07-02 20:02:46,2026-07-03 17:58:23,bank_ebanking_transfer
+6297,TKT-XCP7GXJ8,1,18824,ABHISHEK1993,9.0,closed,ebank withdrawal issue,Withdrawal,0,2026-07-03 00:28:46,2026-07-03 16:05:21,bank_ebanking_transfer
+6299,TKT-UNX23V3D,1,2295,KIRPAL1966,9.0,closed,E bank,Withdrawal,0,2026-07-03 05:37:59,2026-07-03 17:57:58,bank_ebanking_transfer
+6428,TKT-4IBPUDAC,1,24070,KAWAL77,9.0,solved,Ebank withdraw,Withdrawal,0,2026-07-03 17:03:20,2026-07-03 17:59:10,bank_ebanking_transfer
+6504,TKT-X8KAOFBY,1,2295,KIRPAL1966,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-07-04 04:40:19,2026-07-06 14:22:19,bank_ebanking_transfer
+6572,TKT-XHWMZVW8,2,760588,PROS1800,10.0,open,Pro shere e bank,Withdrawal,0,2026-07-04 14:23:17,2026-07-06 16:17:01,bank_ebanking_transfer
+6683,TKT-EEPCLSSR,1,8466,RITESH123,9.0,closed,Ref Ticket: TKT-84EELNZE Unable to withdraw from eBank,Withdrawal,0,2026-07-05 20:02:42,2026-07-07 12:18:57,bank_ebanking_transfer
+6685,TKT-TWEWICPM,1,10446,SHIVSHANKAR,9.0,closed,e bank withdrawal problem,Withdrawal,0,2026-07-05 20:31:26,2026-07-07 12:23:00,bank_ebanking_transfer
+7011,TKT-EDCKHSAF,2,53759,PASHA004,8.0,solved,E Bank withdrawal,Withdrawal,0,2026-07-08 13:18:25,2026-07-08 14:20:49,bank_ebanking_transfer
+7058,TKT-11XRVGFE,1,19480,JAVVAD99,8.0,closed,Ebank,Withdrawal,0,2026-07-08 19:41:29,2026-07-09 12:58:56,bank_ebanking_transfer
+7081,TKT-R0EY3FC9,1,13701,PANKAJ8987,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-07-09 00:20:34,2026-07-09 11:52:17,bank_ebanking_transfer
+7521,TKT-1WFUTBP6,1,25990,ARCHANASAHU,9.0,closed,ebank withdraw  problem,Withdrawal,0,2026-07-12 10:18:13,2026-07-13 14:48:51,bank_ebanking_transfer
+7522,TKT-80NPU8FM,1,25981,THAKURRAM,9.0,closed,ebank prafit withdraw problem,Withdrawal,0,2026-07-12 10:24:45,2026-07-13 14:48:16,bank_ebanking_transfer
+7705,TKT-NTIRA3EI,1,35602,DCDHINGRA1,8.0,closed,E bank withdrawal,Withdrawal,0,2026-07-14 09:43:08,2026-07-14 10:46:30,bank_ebanking_transfer
+7785,TKT-CGGTCSLE,1,12405,MTHIND45,9.0,closed,EBank widthrawal,Withdrawal,0,2026-07-14 18:50:14,2026-07-15 14:44:30,bank_ebanking_transfer
+7884,TKT-39FOYDWH,1,12405,MTHIND45,9.0,closed,E Bank widthrawal,Withdrawal,0,2026-07-15 16:10:55,2026-07-15 17:17:04,bank_ebanking_transfer
+8057,TKT-OOM0LFXE,1,22697,RIDDHI,10.0,open,E bank,Withdrawal,0,2026-07-16 21:46:15,2026-07-17 11:07:11,bank_ebanking_transfer
+8112,TKT-6A4OZ6T3,1,6927,LUBABAADNAN,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-07-17 12:11:36,2026-07-17 12:20:18,bank_ebanking_transfer
+8283,TKT-DNY7V6KV,2,760588,PROS1800,10.0,open,Pro shere ebank,Withdrawal,0,2026-07-19 13:55:04,2026-07-20 18:38:19,bank_ebanking_transfer
+8321,TKT-RVR6N61N,1,13701,PANKAJ8987,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-07-20 00:47:41,2026-07-20 12:07:26,bank_ebanking_transfer
+8618,TKT-H9RTB47M,1,7715,MANDIRA16,9.0,closed,For my ebank,Withdrawal,0,2026-07-24 16:19:16,2026-07-24 16:50:53,bank_ebanking_transfer
+8791,TKT-AG2PGGV7,1,12405,MTHIND45,9.0,closed,E bank widthrawal,Withdrawal,0,2026-07-26 20:55:41,2026-07-29 17:26:56,bank_ebanking_transfer
+8871,TKT-1P74SSKF,1,36471,SUNITA01,8.0,closed,E BANK WITHDRAWAL SUSPENDED,Withdrawal,0,2026-07-27 18:58:39,2026-07-30 15:52:06,bank_ebanking_transfer
+8990,TKT-GXITFPFU,2,130807,ABBAS00,8.0,solved,Ebank,Withdrawal,0,2026-07-29 13:53:18,2026-07-29 13:55:00,bank_ebanking_transfer
+9063,TKT-JRABM2YG,1,3324,RNECLIPSE,9.0,closed,EBANk Withdrawal,Withdrawal,0,2026-07-30 17:30:36,2026-07-30 17:52:35,bank_ebanking_transfer
+9245,TKT-DAZIDSJP,1,20928,MASHROOM02,9.0,closed,ebank,Withdrawal,0,2026-08-02 01:00:22,2026-08-03 16:11:22,bank_ebanking_transfer
+9271,TKT-MUIVTDMZ,1,2328,BIPIN8298,9.0,closed,E-bank,Withdrawal,0,2026-08-02 10:50:18,2026-08-03 16:35:26,bank_ebanking_transfer
+9273,TKT-ZKBKDHRS,1,9706,M20BLOCKCHAIN,8.0,closed,E bank withdraw,Withdrawal,0,2026-08-02 11:07:52,2026-08-03 12:21:46,bank_ebanking_transfer
+9328,TKT-EBY8WC8N,1,9127,KEHAR1,8.0,closed,E bank,Withdrawal,0,2026-08-03 08:17:02,2026-08-03 12:19:14,bank_ebanking_transfer
+9632,TKT-3VD88VCN,1,456,VINAYAKITES,9.0,closed,E bank withdrawal,Withdrawal,0,2026-08-06 18:15:34,2026-08-06 18:52:41,bank_ebanking_transfer
+9988,TKT-L9GHWMUX,2,30505,MANJIT11,,closed,Ebank withdrawal,Withdrawal,0,2026-08-12 06:07:02,2026-08-12 06:07:47,bank_ebanking_transfer
+10420,TKT-MZ0PD1KY,1,60812,DSAH,9.0,closed,Ebank withdrawal aproved,Withdrawal,0,2026-08-19 08:18:26,2026-08-19 16:39:20,bank_ebanking_transfer
+10660,TKT-2FKDS3KZ,1,58276,CRAZYBUDDY,8.0,closed,Ebank Withdrawal,Withdrawal,0,2026-08-24 01:09:33,2026-08-24 10:34:28,bank_ebanking_transfer
+10671,TKT-4V8CKAVP,1,58276,CRAZYBUDDY,8.0,closed,Ebank withdrawal issue,Withdrawal,0,2026-08-24 11:23:00,2026-08-24 11:25:18,bank_ebanking_transfer
+10709,TKT-PJQ9XPXG,1,18833,VICKY1,9.0,closed,E-bank balance removed,Withdrawal,0,2026-08-24 21:00:06,2026-08-27 15:31:39,bank_ebanking_transfer
+10712,TKT-0MQRALAW,2,76427,W41,10.0,open,Ebank withdrawal,Withdrawal,0,2026-08-24 22:18:54,2026-08-25 16:53:32,bank_ebanking_transfer
+10753,TKT-OICQWGZC,1,614,STR2,8.0,solved,E Bank Funds deduction,Withdrawal,0,2026-08-25 14:23:52,2026-08-25 14:35:25,bank_ebanking_transfer
+10776,TKT-LQL1MJYR,2,76427,W41,8.0,open,Ebank withdrawal,Withdrawal,0,2026-08-26 00:27:15,2026-09-06 04:24:03,bank_ebanking_transfer
+10778,TKT-JZLI3S1W,2,76429,W43,8.0,solved,Ebank withdrawal,Withdrawal,0,2026-08-26 01:48:26,2026-08-27 13:15:05,bank_ebanking_transfer
+11083,TKT-WHEHMSVH,1,9127,KEHAR1,8.0,closed,Ebank withdrawal,Withdrawal,0,2026-09-02 11:42:19,2026-09-02 12:09:55,bank_ebanking_transfer
+11211,TKT-EPGBZAB3,1,23216,GURMEET901,,open,E bank minus,Withdrawal,0,2026-09-05 16:35:58,2026-09-05 16:35:58,bank_ebanking_transfer

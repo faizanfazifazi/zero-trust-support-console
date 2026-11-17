@@ -1,0 +1,3 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+4720,TKT-A3X3DZZI,3,9753,Pallavi Sakhrodia,8.0,closed,I don't get my rewards I played panda game n I crossed 50 levels,Withdraw,0,2026-06-22 19:17:43,2026-06-23 12:54:51,kyc_verification_issues
+5222,TKT-E7IVXFIC,3,9307,Uwais hakim,9.0,closed,Missing M Coin Rewards and Verification Delay,Withdraw,0,2026-06-25 17:59:43,2026-06-29 14:13:46,kyc_verification_issues

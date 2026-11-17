@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+1506,TKT-AW92EDIY,1,40588,DILSHAD88,8.0,closed,Trending fand,Withdrawal,0,2026-05-05 07:18:55,2026-05-08 11:55:34,general_unspecified_withdrawal

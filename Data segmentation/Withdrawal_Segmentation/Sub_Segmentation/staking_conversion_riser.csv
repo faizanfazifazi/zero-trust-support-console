@@ -1,0 +1,23 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+92,TKT-36EZCHSV,2,411521,MOMO4,10.0,open,RISER RILISED PLS,Withdrawal,0,2026-02-06 20:54:21,2026-02-16 17:42:18,staking_rewards_profit
+139,TKT-EFJIEXDQ,2,219742,MOHDHANIF1800,8.0,closed,Convert to fix staking to smart staking,Withdrawal,0,2026-02-10 10:13:50,2026-02-16 17:44:08,staking_rewards_profit
+353,TKT-LPQTLQOM,2,167352,NAZISHY3K,,open,No profit showing from riser fixed staking,Withdrawal,0,2026-02-28 16:57:47,2026-02-28 16:57:47,staking_rewards_profit
+412,TKT-QVRF0YGS,2,748412,RISER04SARBJEET,,open,Riser,Withdrawal,0,2026-03-05 09:55:17,2026-03-05 09:55:17,staking_rewards_profit
+511,TKT-M37WWFLK,2,726974,WAKEELAHMED910,,open,Legacy Riser Withdrawal Not Paid,Withdrawal,0,2026-03-12 12:35:34,2026-03-12 12:35:34,staking_rewards_profit
+524,TKT-UFZCDNY3,2,55582,PMYADAV,,open,Riser withdrawal,Withdrawal,0,2026-03-13 04:52:30,2026-03-13 04:52:30,staking_rewards_profit
+527,TKT-VEHV51TY,2,96525,LALGOLAFIRST,,open,RISER NOT RECIVED,Withdrawal,0,2026-03-13 08:47:11,2026-03-13 08:47:11,staking_rewards_profit
+633,TKT-9W3NAZCZ,2,802051,RKP0144,,open,Riser,Withdrawal,0,2026-03-18 19:45:46,2026-03-18 19:45:46,staking_rewards_profit
+634,TKT-VSWWOBSD,2,805965,BKG454,,open,Legacy riser,Withdrawal,0,2026-03-18 19:48:45,2026-03-18 19:48:45,staking_rewards_profit
+941,TKT-PHUUADAF,2,812322,ABHI2898,8.0,solved,Riser staking period,Withdrawal,0,2026-04-10 16:43:06,2026-04-13 12:30:07,staking_rewards_profit
+1045,TKT-6ZWRLNNH,2,862208,KUSUM56,10.0,open,Withdraw riser,Withdrawal,0,2026-04-16 20:43:40,2026-04-17 12:06:34,staking_rewards_profit
+1062,TKT-4BY5HGH9,2,802043,RKP140,10.0,open,Legacy Riser Withdrawal,Withdrawal,0,2026-04-17 13:40:03,2026-04-17 14:23:52,staking_rewards_profit
+1287,TKT-GB2NCLH1,2,866337,ANASQURESHI99,10.0,open,I have not withdrawl my riser please refresh my account,Withdrawal,0,2026-04-24 16:02:56,2026-04-24 16:07:28,staking_rewards_profit
+1444,TKT-JUUVTPDM,2,582725,ANU54627,10.0,open,Riser withdrawal,Withdrawal,0,2026-05-02 10:23:25,2026-05-04 13:16:26,staking_rewards_profit
+1783,TKT-VCSOSU1M,2,131020,SIMRAN190,10.0,open,One month not withrol my riser,Withdrawal,0,2026-05-20 16:32:58,2026-05-21 11:08:39,staking_rewards_profit
+2365,TKT-L8P5ZWFM,2,651625,NADEEM450FIX,8.0,closed,Not available for withdrawal fixed staking balance,Withdrawal,0,2026-06-01 07:26:54,2026-06-01 10:43:19,staking_rewards_profit
+2463,TKT-XGY41RTG,2,651625,NADEEM450FIX,8.0,closed,Fix staking not available for withdrawal,Withdrawal,0,2026-06-02 15:01:09,2026-06-03 12:45:03,staking_rewards_profit
+2907,TKT-BEWHXCJZ,2,273657,MAHRULNISHA,8.0,closed,Fixed Staking,Withdrawal,0,2026-06-08 21:41:32,2026-06-09 15:54:15,staking_rewards_profit
+2996,TKT-QFCCRQ53,2,875008,FIROZ114,9.0,closed,Riser withdrawal,Withdrawal,0,2026-06-10 13:45:19,2026-06-11 13:05:50,staking_rewards_profit
+8506,TKT-VZOPTCES,2,808032,ANITA5932,10.0,open,Please do Riser withdrawal  enable,Withdrawal,0,2026-07-22 18:39:22,2026-07-23 11:40:17,staking_rewards_profit
+8800,TKT-LATB5WPS,2,724513,BK8298,10.0,open,riser withdraw,Withdrawal,0,2026-07-26 22:23:19,2026-07-27 12:28:06,staking_rewards_profit
+9862,TKT-AP3BETEW,2,784744,GOURAV4,8.0,closed,Riser smart staking not show,Withdrawal,0,2026-08-09 15:09:29,2026-08-10 14:18:28,staking_rewards_profit

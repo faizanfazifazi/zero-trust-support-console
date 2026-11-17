@@ -1,0 +1,383 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+61,TKT-PFK0P434,1,9425,VEENA,8.0,closed,W25 bonus issue,Bug Report,0,2026-02-02 11:02:34,2026-02-05 00:27:05,bonus_staking_coin_bugs
+63,TKT-ZKMWXZZ4,1,1099,AKASH23,3.0,solved,Residual w25,Bug Report,0,2026-02-03 01:25:54,2026-02-05 10:28:49,bonus_staking_coin_bugs
+70,TKT-ITCTJOXJ,1,1832,RAJPAL100,3.0,open,Mcard issu,Bug Report,0,2026-02-04 11:39:04,2026-02-06 15:41:03,bonus_staking_coin_bugs
+102,TKT-WHGZBXJY,2,63848,ZAKI07,8.0,closed,Fixed staking coin,Bug Report,0,2026-02-07 20:36:28,2026-02-16 12:35:17,bonus_staking_coin_bugs
+113,TKT-136YOQH7,1,39160,MSRANIA01,3.0,solved,Residual bonus,Bug Report,0,2026-02-08 15:48:50,2026-02-10 04:09:45,bonus_staking_coin_bugs
+114,TKT-C9KO0WHF,1,39155,MSRANIA,3.0,solved,W25 Residual bonus,Bug Report,0,2026-02-08 16:22:20,2026-02-10 04:09:31,bonus_staking_coin_bugs
+115,TKT-QV6CUPJW,1,18233,MSARORA,3.0,solved,W25 Residual bonus,Bug Report,0,2026-02-08 16:26:29,2026-02-10 04:09:12,bonus_staking_coin_bugs
+116,TKT-P1RUOVAC,1,307,MUKESH170480,3.0,solved,W25 Residual bonus,Bug Report,0,2026-02-08 16:31:26,2026-02-10 04:10:03,bonus_staking_coin_bugs
+142,TKT-GYPZ71OP,2,811700,FIROZ092,9.0,closed,Package,Bug Report,0,2026-02-11 01:58:43,2026-02-11 16:19:40,bonus_staking_coin_bugs
+144,TKT-1NPK3YHE,1,25921,SONIYA,3.0,open,MCARD,Bug Report,0,2026-02-11 10:24:51,2026-02-11 12:45:23,bonus_staking_coin_bugs
+155,TKT-UBJ0R4VU,1,42303,13JSB84,9.0,solved,Mcard  option not available,Bug Report,0,2026-02-11 18:45:00,2026-02-13 17:55:33,bonus_staking_coin_bugs
+164,TKT-DJZWIWIU,2,119520,FIROZ23,9.0,closed,Residual bonus,Bug Report,0,2026-02-13 02:33:23,2026-02-13 15:05:48,bonus_staking_coin_bugs
+173,TKT-1EHOX3W0,2,273657,MAHRULNISHA,,open,Fixed Staking,Bug Report,0,2026-02-13 20:11:14,2026-02-13 20:11:14,bonus_staking_coin_bugs
+211,TKT-1C8D10ZW,1,40186,ZULFIKAR11,8.0,closed,My direct intro bonus not create,Bug Report,0,2026-02-16 15:07:40,2026-02-18 12:28:10,bonus_staking_coin_bugs
+268,TKT-FVXWXAO5,2,811700,FIROZ092,9.0,closed,Package issue,Bug Report,0,2026-02-23 06:03:46,2026-03-11 13:14:23,bonus_staking_coin_bugs
+272,TKT-CCLSOGMF,2,63848,ZAKI07,10.0,closed,Fixed staking coin is not showing,Bug Report,0,2026-02-23 09:44:41,2026-03-29 16:01:50,bonus_staking_coin_bugs
+273,TKT-DOEMRRPT,2,63843,ZAKI02,,open,Fixed staking mcoin is not showing,Bug Report,0,2026-02-23 09:48:27,2026-02-23 09:48:27,bonus_staking_coin_bugs
+287,TKT-GF2MBRS3,2,833071,VIP1200,,open,Coin not seen my account,Bug Report,0,2026-02-24 23:30:04,2026-02-24 23:30:04,bonus_staking_coin_bugs
+288,TKT-FM3RAO6D,2,833071,VIP1200,,open,Coin not seen my account,Bug Report,0,2026-02-24 23:31:01,2026-02-24 23:31:01,bonus_staking_coin_bugs
+316,TKT-IJ6M7YUM,2,373246,MATARANI01,,open,Prosharer data,Bug Report,0,2026-02-26 16:40:18,2026-02-26 16:40:18,bonus_staking_coin_bugs
+392,TKT-HXCHFBOK,1,20112,IMPPA2,8.0,closed,Residual bonus,Bug Report,0,2026-03-03 01:46:45,2026-03-05 11:18:37,bonus_staking_coin_bugs
+394,TKT-KSMMPRZ0,1,20850,VIJAY9999,8.0,closed,Residual  regarding,Bug Report,0,2026-03-03 06:39:55,2026-03-05 11:18:44,bonus_staking_coin_bugs
+396,TKT-7PI26LPH,1,29868,IMMAHESH1,9.0,closed,Residual bonus,Bug Report,0,2026-03-03 07:58:54,2026-03-05 14:46:48,bonus_staking_coin_bugs
+421,TKT-5DM5WYZ5,1,33191,MAHFUZ78692,8.0,solved,Profit note received,Bug Report,0,2026-03-06 13:59:45,2026-03-11 12:34:26,bonus_staking_coin_bugs
+429,TKT-51I1V1ZI,2,118611,FARHAN2021,,open,Coin stCking,Bug Report,0,2026-03-07 09:14:44,2026-03-07 09:14:44,bonus_staking_coin_bugs
+507,TKT-DBTHFKYR,1,17428,SUNIL1996,9.0,closed,Mcard not received,Bug Report,0,2026-03-11 21:28:02,2026-03-16 13:39:18,bonus_staking_coin_bugs
+544,TKT-EH9KU8VE,2,702867,BHARTI5110,,open,Mcoin not released,Bug Report,0,2026-03-14 09:56:26,2026-03-14 09:56:26,bonus_staking_coin_bugs
+574,TKT-BMDS180Q,2,400431,NAJRANAK92,,open,Not seen mcoin fixed,Bug Report,0,2026-03-14 22:54:15,2026-03-14 22:54:15,bonus_staking_coin_bugs
+578,TKT-LAQUV22M,2,795485,RSUNITA313,,open,Relase riser coin not show,Bug Report,0,2026-03-15 10:59:15,2026-03-15 10:59:15,bonus_staking_coin_bugs
+610,TKT-QYK3MYZZ,2,412565,FAREEDHASAN1,8.0,solved,Less Mcoin Showing.,Bug Report,0,2026-03-17 12:44:02,2026-03-31 12:14:44,bonus_staking_coin_bugs
+611,TKT-ZA9F5YHZ,1,271,HOSNI007,8.0,solved,Feb Extra Bonus,Bug Report,0,2026-03-17 12:57:38,2026-03-17 14:35:21,bonus_staking_coin_bugs
+622,TKT-2PS1K6AA,2,811700,FIROZ092,9.0,closed,Package issue,Bug Report,0,2026-03-18 08:23:59,2026-03-19 14:10:20,bonus_staking_coin_bugs
+637,TKT-MEEVSEOP,2,561933,DUBAI54000,8.0,closed,legacy mcoin,Bug Report,0,2026-03-19 11:48:16,2026-03-24 12:02:04,bonus_staking_coin_bugs
+638,TKT-9IZRJEFH,2,694135,RKP0123,9.0,closed,mcoin,Bug Report,0,2026-03-19 12:29:21,2026-03-26 17:17:38,bonus_staking_coin_bugs
+645,TKT-DFPP2LEJ,2,267171,RKP3,,open,mcoin,Bug Report,0,2026-03-19 15:32:01,2026-03-19 15:32:01,bonus_staking_coin_bugs
+646,TKT-TGW3NOGQ,2,714659,RKP080,,closed,Mcoin,Bug Report,0,2026-03-19 15:42:20,2026-08-28 05:14:39,bonus_staking_coin_bugs
+687,TKT-O73QLVIT,2,57817,AMAAN0102,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:02:11,2026-03-22 21:02:11,bonus_staking_coin_bugs
+688,TKT-CVDTMMOR,2,16492,SAMAN379,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:16:24,2026-03-22 21:16:24,bonus_staking_coin_bugs
+689,TKT-XQXESWQ3,2,63848,ZAKI07,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:17:35,2026-03-22 21:17:35,bonus_staking_coin_bugs
+691,TKT-XTAO8OOM,2,16451,ZEHRAN0106,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:21:56,2026-03-22 21:21:56,bonus_staking_coin_bugs
+692,TKT-JOMNMOBV,2,16490,FURQAN0110,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:26:01,2026-03-22 21:26:01,bonus_staking_coin_bugs
+693,TKT-NI5QIFET,2,412848,USMAN2003,,open,For remaing mcoin,Bug Report,0,2026-03-22 21:30:35,2026-03-22 21:30:35,bonus_staking_coin_bugs
+721,TKT-Z0ZI3VIL,2,811700,FIROZ092,9.0,closed,Package issue,Bug Report,0,2026-03-24 03:33:46,2026-03-26 14:23:38,bonus_staking_coin_bugs
+735,TKT-S3CERRY5,2,94132,GABRIA8720,8.0,solved,Pro Sharer Bonus not reflecting on new back office,Bug Report,0,2026-03-25 15:57:35,2026-03-26 11:14:17,bonus_staking_coin_bugs
+736,TKT-PBTSS9GL,1,7401,AMANDAL,9.0,closed,MCARD,Bug Report,0,2026-03-25 18:03:25,2026-03-31 13:17:34,bonus_staking_coin_bugs
+793,TKT-NNX2WP9V,2,561933,DUBAI54000,8.0,closed,Legacy mCoins,Bug Report,0,2026-03-29 08:46:18,2026-05-08 12:03:42,bonus_staking_coin_bugs
+813,TKT-TXU3EQQP,1,9706,M20BLOCKCHAIN,8.0,solved,Advisory bonus didnot received so far,Bug Report,0,2026-04-01 11:18:13,2026-04-01 12:48:14,bonus_staking_coin_bugs
+845,TKT-IH63DQXB,1,40186,ZULFIKAR11,8.0,solved,Wealth 25 intro bonus not credited,Bug Report,0,2026-04-03 21:05:21,2026-04-06 11:50:55,bonus_staking_coin_bugs
+899,TKT-VZW49SGR,2,148591,RAJAK26,8.0,solved,Smart staking couns not released  properly,Bug Report,0,2026-04-08 02:11:51,2026-04-10 11:30:52,bonus_staking_coin_bugs
+962,TKT-AXMPEZYT,2,63869,SAMI06,8.0,closed,For remaing mcoin,Bug Report,0,2026-04-12 19:29:14,2026-04-22 17:26:34,bonus_staking_coin_bugs
+968,TKT-9KTDCNMP,2,811700,FIROZ092,9.0,closed,Package issue,Bug Report,0,2026-04-13 02:07:50,2026-04-16 17:56:15,bonus_staking_coin_bugs
+1126,TKT-G2EYKHIS,2,875009,FIROZ115,8.0,solved,Package issue,Bug Report,0,2026-04-19 22:03:05,2026-04-20 11:38:35,bonus_staking_coin_bugs
+1167,TKT-MSHIORNH,2,835049,SUHEV105,8.0,closed,Missing 112 Ris coin,Bug Report,0,2026-04-20 23:14:05,2026-04-23 17:37:00,bonus_staking_coin_bugs
+1212,TKT-M1PD31Y5,1,1074,SKCHOUDHARY,8.0,solved,Promotion bonus,Bug Report,0,2026-04-21 23:30:42,2026-04-22 11:31:16,bonus_staking_coin_bugs
+1235,TKT-U97XHFCS,1,456,VINAYAKITES,8.0,closed,W25 Residual,Bug Report,0,2026-04-22 23:48:03,2026-04-23 12:15:05,bonus_staking_coin_bugs
+1252,TKT-MX7SMWWN,1,6963,TAHSEENSALMAN786,9.0,closed,Full residual not  receive,Bug Report,0,2026-04-23 16:00:51,2026-04-27 13:10:48,bonus_staking_coin_bugs
+1286,TKT-A8SWAVGH,1,20787,W2025,8.0,closed,W25 Residual,Bug Report,0,2026-04-24 15:48:49,2026-04-24 15:50:24,bonus_staking_coin_bugs
+1291,TKT-TBD4WBPG,2,835049,SUHEV105,8.0,solved,Missing Ris coin,Bug Report,0,2026-04-24 18:58:11,2026-04-27 13:06:39,bonus_staking_coin_bugs
+1302,TKT-AWZPWJIP,1,19830,ADABALI,9.0,closed,Residual income,Bug Report,0,2026-04-25 06:24:10,2026-04-27 12:41:53,bonus_staking_coin_bugs
+1330,TKT-WB01CAN1,1,45947,MUSTAQ1964,8.0,closed,March package offer Mcoin not received,Bug Report,0,2026-04-26 13:48:39,2026-04-27 11:52:02,bonus_staking_coin_bugs
+1340,TKT-ZWYCDF1T,1,20787,W2025,8.0,closed,Residual Bouns,Bug Report,0,2026-04-27 12:27:53,2026-04-27 12:56:37,bonus_staking_coin_bugs
+1347,TKT-IJ3BG7IT,2,835049,SUHEV105,8.0,closed,Missing 112 Ris coin,Bug Report,0,2026-04-27 18:12:35,2026-05-04 10:57:19,bonus_staking_coin_bugs
+1461,TKT-UC51EYS7,2,875021,OMS1,8.0,closed,Staking,Bug Report,0,2026-05-03 09:54:34,2026-05-04 13:16:49,bonus_staking_coin_bugs
+1462,TKT-GDCYFCJF,2,561933,DUBAI54000,8.0,closed,staking issue,Bug Report,0,2026-05-03 10:00:20,2026-05-04 13:16:39,bonus_staking_coin_bugs
+1512,TKT-IZGMXVZA,2,833071,VIP1200,8.0,solved,Coin not seen,Bug Report,0,2026-05-05 10:01:35,2026-05-08 11:58:25,bonus_staking_coin_bugs
+1622,TKT-SVFYBG4V,1,19830,ADABALI,8.0,closed,Residual income,Bug Report,0,2026-05-11 11:36:28,2026-05-11 11:37:29,bonus_staking_coin_bugs
+1639,TKT-EQYGW263,2,811700,FIROZ092,8.0,closed,Package issue,Bug Report,0,2026-05-12 14:22:21,2026-05-12 15:00:21,bonus_staking_coin_bugs
+1642,TKT-N2KBERTO,2,835049,SUHEV105,8.0,solved,Missing 112 Ris coin,Bug Report,0,2026-05-13 01:43:05,2026-05-13 10:58:01,bonus_staking_coin_bugs
+1666,TKT-18BT0U4C,1,90,VIKRAM0707,8.0,closed,Residual,Bug Report,0,2026-05-14 16:44:06,2026-05-14 16:47:06,bonus_staking_coin_bugs
+1680,TKT-INVHKWSD,2,15485,SANDHU24,8.0,solved,less mcoin show acording to old back office,Bug Report,0,2026-05-15 16:51:01,2026-05-18 10:49:18,bonus_staking_coin_bugs
+1692,TKT-MXRPZCLJ,2,875021,OMS1,8.0,closed,Riser Staking,Bug Report,0,2026-05-16 14:01:00,2026-06-08 12:16:09,bonus_staking_coin_bugs
+1710,TKT-MGKUZKUV,2,875009,FIROZ115,8.0,solved,Coin Released,Bug Report,0,2026-05-17 20:25:51,2026-05-22 11:25:08,bonus_staking_coin_bugs
+1711,TKT-KGMQIAJ8,1,18378,PARVEEN1998,10.0,open,My leadership bonus is not show to me,Bug Report,0,2026-05-17 23:41:00,2026-05-18 12:20:52,bonus_staking_coin_bugs
+1730,TKT-ECG80CBQ,1,11714,KAMAL43,9.0,closed,Residual,Bug Report,0,2026-05-19 00:41:04,2026-05-20 16:59:18,bonus_staking_coin_bugs
+1769,TKT-WRSIZOSG,1,16264,ALI5355,8.0,solved,Residual not received,Bug Report,0,2026-05-20 06:24:45,2026-05-20 11:00:42,bonus_staking_coin_bugs
+1777,TKT-OQOPQT6T,1,456,VINAYAKITES,8.0,solved,Residual Bouns,Bug Report,0,2026-05-20 09:40:20,2026-05-20 10:53:45,bonus_staking_coin_bugs
+1793,TKT-W8HUULE5,1,5752,SADIK842,9.0,closed,My Mcard not received,Bug Report,0,2026-05-21 05:20:32,2026-06-04 14:46:39,bonus_staking_coin_bugs
+1801,TKT-UB0ILB9X,2,289089,PAUNAHARI0206,8.0,solved,Lagacy Mcoin staking,Bug Report,0,2026-05-21 11:17:56,2026-05-21 11:28:27,bonus_staking_coin_bugs
+1802,TKT-OGU4XPMZ,2,538519,CHAVI0715,8.0,solved,Lagacy Mcoin staking,Bug Report,0,2026-05-21 11:20:45,2026-05-21 11:28:19,bonus_staking_coin_bugs
+1803,TKT-PKNIRY7C,2,538591,SIDDH1417,8.0,solved,Lagacy Mcoin staking,Bug Report,0,2026-05-21 11:22:38,2026-05-21 11:28:10,bonus_staking_coin_bugs
+1814,TKT-BXGOOJMU,1,54838,RUPESH5440,9.0,closed,Stake25,Bug Report,0,2026-05-21 15:06:55,2026-05-25 15:59:11,bonus_staking_coin_bugs
+1840,TKT-0EOC4VUU,2,533100,SINGH413,8.0,solved,Lagacy Mcoin staking,Bug Report,0,2026-05-22 00:17:22,2026-05-22 12:01:05,bonus_staking_coin_bugs
+1906,TKT-MACFXZRI,2,476082,SAM103,8.0,closed,mcoin stake coin,Bug Report,0,2026-05-22 20:03:30,2026-05-25 12:35:39,bonus_staking_coin_bugs
+1907,TKT-LXBT7FTD,2,468990,ANILGOYALHUF02,8.0,solved,mcoin staking coin,Bug Report,0,2026-05-22 20:16:42,2026-05-25 13:13:27,bonus_staking_coin_bugs
+1948,TKT-7R63QTKG,2,258203,JIAANLAMBHE,8.0,closed,Remain coin related,Bug Report,0,2026-05-23 15:51:45,2026-08-31 11:07:07,bonus_staking_coin_bugs
+1966,TKT-LSHX6JHL,1,19303,MS001,8.0,closed,Monthly Trading bonus related,Bug Report,0,2026-05-24 05:37:52,2026-05-25 12:30:48,bonus_staking_coin_bugs
+1977,TKT-RQY1T8OH,1,17192,PROBOTX026,9.0,closed,Trading bonus,Bug Report,0,2026-05-24 11:55:41,2026-05-29 10:54:50,bonus_staking_coin_bugs
+1979,TKT-HT9B0ET7,1,52352,FIROZ5,9.0,closed,Residual bonus,Bug Report,0,2026-05-24 13:07:15,2026-05-29 10:47:07,bonus_staking_coin_bugs
+2012,TKT-7YLUCAI8,1,19304,MS002,8.0,closed,Trading bonus related,Bug Report,0,2026-05-25 06:58:38,2026-05-25 11:24:02,bonus_staking_coin_bugs
+2013,TKT-WSBF45UU,1,17201,KTRSUDAN,8.0,closed,Trading bonus related,Bug Report,0,2026-05-25 07:01:14,2026-05-25 11:01:11,bonus_staking_coin_bugs
+2021,TKT-XGY3E0MG,1,22776,JMK,8.0,closed,Trading profit not received,Bug Report,0,2026-05-25 09:11:54,2026-06-01 14:58:40,bonus_staking_coin_bugs
+2036,TKT-VTRBVVA2,1,7570,SHARMABOT,8.0,solved,Trading bonus related,Bug Report,0,2026-05-25 14:30:30,2026-05-25 14:34:47,bonus_staking_coin_bugs
+2057,TKT-CLJXZ9CZ,2,595210,RANJU78217,8.0,closed,Coin not released,Bug Report,0,2026-05-25 18:45:42,2026-06-01 11:04:42,bonus_staking_coin_bugs
+2059,TKT-ZQYGNZ0Q,2,528681,AJAY78217,8.0,closed,All coin not released,Bug Report,0,2026-05-25 18:50:56,2026-06-01 11:04:55,bonus_staking_coin_bugs
+2111,TKT-NC8N8LBI,1,8466,RITESH123,9.0,closed,Wrong calculation in W25 Residual Bonus,Bug Report,0,2026-05-26 12:19:22,2026-06-04 15:48:54,bonus_staking_coin_bugs
+2132,TKT-FZB0MSKL,1,11714,KAMAL43,9.0,closed,Residual entry Not credited after 3 May,Bug Report,0,2026-05-26 19:23:21,2026-06-04 15:14:12,bonus_staking_coin_bugs
+2134,TKT-T4VRGGLT,1,11819,DRSAHEEMKAMAL,9.0,closed,Residual not credited after 5 may,Bug Report,0,2026-05-26 19:30:47,2026-06-04 14:48:57,bonus_staking_coin_bugs
+2182,TKT-DOS3UKGT,2,468333,ANILGOYALHUF,8.0,closed,released coin,Bug Report,0,2026-05-27 15:29:38,2026-06-03 12:41:27,bonus_staking_coin_bugs
+2183,TKT-RVPKJVCI,2,468977,ANILGOYALHUF01,8.0,closed,released mcoin,Bug Report,0,2026-05-27 15:31:22,2026-06-03 12:41:19,bonus_staking_coin_bugs
+2184,TKT-F5NUNDXG,2,476043,SAM102,8.0,closed,released coin,Bug Report,0,2026-05-27 15:33:57,2026-06-03 12:41:11,bonus_staking_coin_bugs
+2186,TKT-JO0HFAVY,2,476014,SAM101,8.0,closed,released coin,Bug Report,0,2026-05-27 15:39:12,2026-06-03 12:41:03,bonus_staking_coin_bugs
+2189,TKT-MB4MMGFV,2,476082,SAM103,8.0,closed,released coin,Bug Report,0,2026-05-27 15:42:00,2026-06-03 11:47:30,bonus_staking_coin_bugs
+2246,TKT-Z895D0IY,2,65428,KOMAL614,8.0,closed,Legacy mcoin,Bug Report,0,2026-05-28 21:14:40,2026-05-29 12:16:47,bonus_staking_coin_bugs
+2251,TKT-HFBANJKN,2,72551,SMKUMAR,8.0,closed,Mcoin related,Bug Report,0,2026-05-29 06:31:12,2026-05-29 12:14:05,bonus_staking_coin_bugs
+2253,TKT-7MI7MJU3,1,10321,PRAKASHRAJ2025,8.0,closed,Trending bonus low..,Bug Report,0,2026-05-29 07:54:29,2026-05-29 11:43:30,bonus_staking_coin_bugs
+2266,TKT-NTI1F1QC,2,613542,BIMLA2423,8.0,closed,Lagacy Mcoin Staking,Bug Report,0,2026-05-29 14:45:15,2026-05-29 15:17:10,bonus_staking_coin_bugs
+2301,TKT-3EK0PGQ1,2,486234,MWHARDEEPMLK,8.0,closed,Mcoin not show in mCoin voucher,Bug Report,0,2026-05-30 14:08:01,2026-06-03 12:49:20,bonus_staking_coin_bugs
+2307,TKT-4LFMVMIT,1,5879,AMAN19,8.0,closed,Trading bonus,Bug Report,0,2026-05-30 16:08:00,2026-06-01 15:03:57,bonus_staking_coin_bugs
+2310,TKT-AKBFBJIY,2,450823,REWAT3351,8.0,closed,Mcoin regarding mismatching,Bug Report,0,2026-05-30 17:52:50,2026-06-01 12:53:11,bonus_staking_coin_bugs
+2326,TKT-FFGEABHW,2,151217,MEHTAB98,8.0,closed,Fixe staking convert to vaucher code,Bug Report,0,2026-05-31 09:42:48,2026-06-01 12:51:01,bonus_staking_coin_bugs
+2347,TKT-PLXKER34,1,1981,MANU2402,8.0,closed,why my trading bonus is in minius,Bug Report,0,2026-05-31 23:46:46,2026-06-01 12:42:02,bonus_staking_coin_bugs
+2355,TKT-4PXPMJH0,1,4229,DHRUV2024,8.0,closed,Leadership Bonus (01/05 to 15/05),Bug Report,0,2026-06-01 05:25:18,2026-06-01 12:41:17,bonus_staking_coin_bugs
+2363,TKT-CYF5UTCY,1,6818,RAJ2402,10.0,open,leadership bonus not recived,Bug Report,0,2026-06-01 06:50:24,2026-06-01 10:46:38,bonus_staking_coin_bugs
+2366,TKT-IGKARR2E,1,22110,AMAR1966,8.0,closed,Leadership bonus status showing “Not Obtained “,Bug Report,0,2026-06-01 07:32:25,2026-06-01 10:42:53,bonus_staking_coin_bugs
+2379,TKT-2WKZPIFK,1,19388,GULZAR123,8.0,closed,Regarding my profit,Bug Report,0,2026-06-01 11:52:07,2026-06-01 12:08:19,bonus_staking_coin_bugs
+2382,TKT-ZU2LYE4L,1,307,MUKESH170480,8.0,closed,Regarding leadership bonus,Bug Report,0,2026-06-01 13:19:51,2026-06-01 13:29:22,bonus_staking_coin_bugs
+2436,TKT-QH8KLTDK,1,4976,MISHRA99,9.0,closed,Monthly trading profit not released,Bug Report,0,2026-06-02 08:21:47,2026-06-04 14:53:13,bonus_staking_coin_bugs
+2483,TKT-AIGHCSAF,2,561933,DUBAI54000,8.0,solved,Legacy mCoin,Bug Report,0,2026-06-03 04:30:52,2026-08-04 11:04:10,bonus_staking_coin_bugs
+2484,TKT-TSEDHBBO,1,22110,AMAR1966,8.0,closed,Leadership bonus status showing “Not obtained “,Bug Report,0,2026-06-03 07:01:21,2026-06-03 11:40:57,bonus_staking_coin_bugs
+2513,TKT-S4PXM1XE,2,538591,SIDDH1417,8.0,closed,Lagacy Mcoin Staking,Bug Report,0,2026-06-03 14:24:18,2026-06-03 14:50:43,bonus_staking_coin_bugs
+2514,TKT-ZFOGUOAE,2,538519,CHAVI0715,8.0,closed,Legacy Mcoin Staking,Bug Report,0,2026-06-03 14:37:38,2026-06-03 14:50:05,bonus_staking_coin_bugs
+2515,TKT-UFSZ6KX4,2,613542,BIMLA2423,8.0,closed,Legacy Mcoin Staking,Bug Report,0,2026-06-03 14:39:41,2026-06-03 14:49:58,bonus_staking_coin_bugs
+2528,TKT-CFRAIQIU,2,709865,NISHA996,8.0,solved,Legacy Mcoin Staking,Bug Report,0,2026-06-03 15:45:04,2026-06-03 16:14:31,bonus_staking_coin_bugs
+2529,TKT-DNSQRJCR,2,628118,KARNAIL0184,8.0,closed,Legacy Mcoin Staking,Bug Report,0,2026-06-03 15:51:36,2026-06-03 16:15:17,bonus_staking_coin_bugs
+2531,TKT-DMGJFPEM,1,53350,MISBAH06,8.0,closed,Mcoin percentage mistake,Bug Report,0,2026-06-03 16:02:40,2026-06-03 16:13:35,bonus_staking_coin_bugs
+2537,TKT-POJ0AECC,1,53350,MISBAH06,9.0,closed,Mcoin percentage mistake,Bug Report,0,2026-06-03 17:16:43,2026-06-05 17:05:36,bonus_staking_coin_bugs
+2567,TKT-OLRSBBDM,1,7301,ASHISHSUNIL,9.0,closed,My stake 25 package Bonus of mcoin was something else earlier and now it has reduced,Bug Report,0,2026-06-03 23:12:43,2026-06-05 17:06:01,bonus_staking_coin_bugs
+2706,TKT-QZEVDFDI,1,4976,MISHRA99,9.0,closed,Trading profit related,Bug Report,0,2026-06-05 22:27:46,2026-06-08 17:42:47,bonus_staking_coin_bugs
+2718,TKT-ZCYGFMVM,1,4126,SEN810KAPPU,9.0,closed,Residual Bonus related,Bug Report,0,2026-06-06 06:01:18,2026-06-09 18:01:00,bonus_staking_coin_bugs
+2724,TKT-UCO92UHF,1,19104,BOT017,9.0,closed,Trading profit not received,Bug Report,0,2026-06-06 08:00:54,2026-06-09 18:01:05,bonus_staking_coin_bugs
+2844,TKT-HEQEESRC,2,875021,OMS1,8.0,closed,Riser Staking,Bug Report,0,2026-06-08 04:34:41,2026-06-09 16:01:58,bonus_staking_coin_bugs
+2885,TKT-HL2CNFNH,2,693131,MAHINDER8082,8.0,closed,Not show coin,Bug Report,0,2026-06-08 17:44:26,2026-06-09 15:55:59,bonus_staking_coin_bugs
+3003,TKT-G8DQOHW7,1,23513,PRATAP44,9.0,solved,Residual Bonus,Bug Report,0,2026-06-10 14:02:40,2026-06-10 17:03:04,bonus_staking_coin_bugs
+3029,TKT-HCSGWTNJ,1,12613,PANNA37,9.0,closed,Trading bonus not received,Bug Report,0,2026-06-10 22:06:08,2026-06-12 17:49:31,bonus_staking_coin_bugs
+3125,TKT-LVJ1IPAB,1,7301,ASHISHSUNIL,10.0,open,Incorrect MCOIN allocation based on market price,Bug Report,0,2026-06-12 12:39:35,2026-06-12 14:28:03,bonus_staking_coin_bugs
+3214,TKT-FWSL9WHT,2,640065,AAMIRYTS,8.0,closed,Request to Cancel Accidentally Generated M Coin Voucher,Bug Report,0,2026-06-13 21:31:53,2026-06-15 13:19:37,bonus_staking_coin_bugs
+3238,TKT-3CHWIXRK,2,299935,DEVENDRA03870,8.0,closed,Released mcoin not correct,Bug Report,0,2026-06-14 08:47:51,2026-06-15 13:14:39,bonus_staking_coin_bugs
+3240,TKT-LW2CWOB2,2,712897,GARG5400,8.0,closed,Legacy mcoin,Bug Report,0,2026-06-14 09:03:33,2026-06-15 13:13:26,bonus_staking_coin_bugs
+3242,TKT-0LPYTG00,1,33678,RAVI0A2,9.0,closed,Trading bonus,Bug Report,0,2026-06-14 09:56:37,2026-06-16 14:53:46,bonus_staking_coin_bugs
+3288,TKT-LDFIFHAK,2,875008,FIROZ114,8.0,closed,Riser coin dayli release,Bug Report,0,2026-06-15 01:07:03,2026-06-15 13:04:14,bonus_staking_coin_bugs
+3293,TKT-PRP8XOY6,1,2953,RAJPAL101,8.0,closed,TRADING BONUS WALLET MAINS 98.49 BUT,Bug Report,0,2026-06-15 07:51:58,2026-06-15 12:51:21,bonus_staking_coin_bugs
+3298,TKT-Y3MREHVJ,2,62282,PINTUPATRA,8.0,closed,Residual income,Bug Report,0,2026-06-15 09:27:35,2026-06-15 13:03:17,bonus_staking_coin_bugs
+3321,TKT-MF2Q5UMI,1,7181,ATUL1988,8.0,closed,236usdt not trading profit not received,Bug Report,0,2026-06-15 13:29:45,2026-06-15 13:37:33,bonus_staking_coin_bugs
+3341,TKT-4FHXC9PA,2,363771,RRAI18,8.0,closed,Pro sharer bonus,Bug Report,0,2026-06-15 16:29:09,2026-06-15 16:35:49,bonus_staking_coin_bugs
+3352,TKT-YPKBR0BL,2,205833,DEEP15,8.0,closed,Prosharer bonus is not showing in new mether id,Bug Report,0,2026-06-15 20:10:37,2026-06-16 12:48:17,bonus_staking_coin_bugs
+3370,TKT-HSA5WUV9,1,54344,GUPTA77,8.0,closed,W25 residual,Bug Report,0,2026-06-16 07:38:34,2026-06-16 12:45:41,bonus_staking_coin_bugs
+3423,TKT-9CE3UVLY,1,23710,RISHIKESH,10.0,open,Residual bonus mismatch,Bug Report,0,2026-06-16 19:40:48,2026-06-17 12:42:17,bonus_staking_coin_bugs
+3473,TKT-BRBUXQPX,1,5375,RAJANSR77,10.0,open,Leadership bonus,Bug Report,0,2026-06-17 11:02:02,2026-06-17 12:31:02,bonus_staking_coin_bugs
+3474,TKT-LAMNYO9K,2,449359,RAJIV700,8.0,closed,Mcoin related,Bug Report,0,2026-06-17 11:11:51,2026-06-17 13:26:28,bonus_staking_coin_bugs
+3771,TKT-0H2Q3VMP,2,216874,DIL015,8.0,closed,Prosharer bonus,Bug Report,0,2026-06-18 09:06:16,2026-06-18 13:26:25,bonus_staking_coin_bugs
+3772,TKT-DHVEUCGM,2,223834,DILSHAD211,10.0,open,Prosharer bonus,Bug Report,0,2026-06-18 09:10:29,2026-06-18 13:26:15,bonus_staking_coin_bugs
+3775,TKT-G2OXFAII,2,389770,16BR,8.0,closed,Prosharer bonus,Bug Report,0,2026-06-18 09:27:11,2026-06-18 13:25:35,bonus_staking_coin_bugs
+3776,TKT-5JHL2WQX,2,429519,17BR,8.0,closed,Prosharer,Bug Report,0,2026-06-18 09:36:01,2026-06-18 13:25:24,bonus_staking_coin_bugs
+3778,TKT-PPSVUTXU,2,244872,23RAJDEEP,8.0,closed,Prosharer bonus,Bug Report,0,2026-06-18 09:51:42,2026-06-18 13:25:07,bonus_staking_coin_bugs
+3813,TKT-Y7K3CRTP,1,42419,MISBAH05,8.0,closed,Rasudul bonus issue,Bug Report,0,2026-06-18 12:26:44,2026-06-18 12:27:42,bonus_staking_coin_bugs
+3815,TKT-FJZPQCZV,1,42419,MISBAH05,8.0,closed,Rasudual bonus issue,Bug Report,0,2026-06-18 12:28:19,2026-06-18 12:29:36,bonus_staking_coin_bugs
+3817,TKT-LKUK5VQR,1,13287,MAHIRA007,8.0,closed,Rasudual bonus issue,Bug Report,0,2026-06-18 12:32:06,2026-06-18 13:23:38,bonus_staking_coin_bugs
+3846,TKT-B2GGVYQC,2,115788,PITAMBER292,8.0,closed,MCOIN related,Bug Report,0,2026-06-18 13:36:43,2026-06-18 13:49:33,bonus_staking_coin_bugs
+3858,TKT-RMNEQCCJ,2,164652,BHUBNESHWARI1892,8.0,closed,Mcoin related,Bug Report,0,2026-06-18 14:10:20,2026-06-18 14:21:32,bonus_staking_coin_bugs
+3970,TKT-DPLPNPKB,2,595210,RANJU78217,10.0,open,Release Coins Request,Bug Report,0,2026-06-18 18:01:36,2026-06-18 18:19:18,bonus_staking_coin_bugs
+3974,TKT-5ELVXU3I,2,528681,AJAY78217,10.0,open,Release Coins Request,Bug Report,0,2026-06-18 18:08:13,2026-06-19 12:44:05,bonus_staking_coin_bugs
+4127,TKT-IPCMOFAT,1,54308,SANDEEPRANIA,8.0,closed,Regarding residual bonus,Bug Report,0,2026-06-19 12:42:24,2026-06-19 12:43:11,bonus_staking_coin_bugs
+4225,TKT-VIUPLVSY,1,8457,PRINCE266,8.0,closed,Leadership bonus,Bug Report,0,2026-06-19 19:15:37,2026-06-22 14:31:03,bonus_staking_coin_bugs
+4301,TKT-E6XNMEQH,1,14322,RN123,8.0,closed,I am paid I'd 6600 usdt in stake 25 but my portfolio BV is not updated,Bug Report,0,2026-06-20 10:51:36,2026-06-22 14:25:04,bonus_staking_coin_bugs
+4336,TKT-JJ24BPG0,2,635527,KULDEEP77386,8.0,closed,Mcoin missing,Bug Report,0,2026-06-20 15:31:08,2026-06-22 14:23:25,bonus_staking_coin_bugs
+4512,TKT-SM1MTKG4,2,811700,FIROZ092,8.0,closed,Riser issue,Bug Report,0,2026-06-22 01:24:31,2026-06-22 13:43:53,bonus_staking_coin_bugs
+4613,TKT-YXIPB8SL,1,36490,ABU78692,8.0,closed,did not receive the trading bonus,Bug Report,0,2026-06-22 13:08:17,2026-06-22 13:11:44,bonus_staking_coin_bugs
+4718,TKT-ZFH0ZNWL,2,811700,FIROZ092,8.0,closed,Riser issue,Bug Report,0,2026-06-22 19:15:10,2026-06-24 11:44:47,bonus_staking_coin_bugs
+4857,TKT-XVGYBIZY,1,1847,VINODDASMCION,8.0,closed,Mcard problem,Bug Report,0,2026-06-23 14:41:59,2026-06-23 14:48:02,bonus_staking_coin_bugs
+4963,TKT-PNPR4AAL,1,7301,ASHISHSUNIL,8.0,closed,Incorrect MCOIN allocation,Bug Report,0,2026-06-24 05:57:22,2026-06-24 11:40:12,bonus_staking_coin_bugs
+5014,TKT-LAK7FRBW,1,50371,ARORA02,8.0,closed,Residual bouns,Bug Report,0,2026-06-24 12:38:52,2026-06-24 12:48:56,bonus_staking_coin_bugs
+5257,TKT-VCQ1ZYJB,1,2005,MANISHWHIZZ,9.0,closed,Leadership bonus,Bug Report,0,2026-06-26 00:35:30,2026-06-30 11:55:34,bonus_staking_coin_bugs
+5284,TKT-TI2BLQEZ,1,22409,RAUSHAN1551,10.0,open,Deduction from the trading bonus wallet,Bug Report,0,2026-06-26 09:28:02,2026-06-29 17:09:21,bonus_staking_coin_bugs
+5560,TKT-LCTZQHDV,2,875021,OMS1,8.0,closed,Riser Staking,Bug Report,0,2026-06-28 12:10:44,2026-06-29 13:16:00,bonus_staking_coin_bugs
+5803,TKT-4QDM3IMN,1,40515,DILSHAD788,9.0,closed,"My trading bounce of May month is not received, so please release my trading bonus of May month.",Bug Report,0,2026-06-30 06:39:13,2026-06-30 11:39:40,bonus_staking_coin_bugs
+5813,TKT-FHKCPUFW,1,6715,MUKESH89,9.0,closed,Residual,Bug Report,0,2026-06-30 08:09:50,2026-06-30 11:36:22,bonus_staking_coin_bugs
+5902,TKT-MCTKC2EV,1,9706,M20BLOCKCHAIN,8.0,solved,"My downline userid SANDIP9443, JUST DOPSITED  900$ IN  TRADING  but  he got 72 usdt profit  ,  plz cheak and manage his profit",Bug Report,0,2026-06-30 16:28:45,2026-06-30 16:49:23,bonus_staking_coin_bugs
+6177,TKT-FMERMVG4,2,693131,MAHINDER8082,8.0,solved,Coin not show,Bug Report,0,2026-07-02 12:19:33,2026-07-02 12:28:35,bonus_staking_coin_bugs
+6501,TKT-XEPCRBXT,1,54221,JAGDESWARI2,10.0,open,commission USDT 4% and MCOIN 5%,Bug Report,0,2026-07-04 00:58:54,2026-07-06 17:34:07,bonus_staking_coin_bugs
+6586,TKT-I9E1WGN8,1,2005,MANISHWHIZZ,10.0,open,LEADERSHIP BONUS issue,Bug Report,0,2026-07-04 16:56:27,2026-07-06 16:10:11,bonus_staking_coin_bugs
+6770,TKT-WOQM3PEI,1,1903,SANDEEP99,8.0,closed,Residual bonus,Bug Report,0,2026-07-06 15:16:46,2026-07-06 17:00:34,bonus_staking_coin_bugs
+6771,TKT-IYTH6PXY,1,58720,SHADABJAHAN786,10.0,open,MCOIN MPR,Bug Report,0,2026-07-06 15:24:46,2026-07-06 18:06:14,bonus_staking_coin_bugs
+6772,TKT-QTH1TTOC,1,58753,SHADABJAHAN786786,8.0,closed,MCOIN MPR,Bug Report,0,2026-07-06 15:28:32,2026-07-06 17:01:08,bonus_staking_coin_bugs
+6830,TKT-EB15SICC,1,59368,HARIDWAR7,10.0,open,Leadership bonus is not calculated,Bug Report,0,2026-07-07 07:19:11,2026-07-07 12:37:06,bonus_staking_coin_bugs
+6831,TKT-CMIFGCXA,1,59373,HARIDWAR8,10.0,open,Leadership bonus is not proper,Bug Report,0,2026-07-07 07:23:59,2026-07-07 12:37:17,bonus_staking_coin_bugs
+6887,TKT-UFJGQUDU,1,59365,WASIMKK3,8.0,closed,Business is not accumulated in leadership bonus,Bug Report,0,2026-07-07 15:57:18,2026-07-13 14:44:55,bonus_staking_coin_bugs
+6981,TKT-9V6MITPT,1,20516,GST07,9.0,closed,W25 Residual Income,Bug Report,0,2026-07-08 08:06:23,2026-07-13 18:57:38,bonus_staking_coin_bugs
+7038,TKT-Q3229U1F,1,7419,AMITAROHI,8.0,closed,Mcoin withral,Bug Report,0,2026-07-08 16:49:36,2026-07-08 16:50:33,bonus_staking_coin_bugs
+7163,TKT-MQV4IIFR,1,35892,ZUBERM,8.0,closed,Residual Bonus Not Receive,Bug Report,0,2026-07-09 15:22:39,2026-07-09 15:54:16,bonus_staking_coin_bugs
+7164,TKT-KQ0G2CCT,1,35892,ZUBERM,8.0,closed,Residual bonus,Bug Report,0,2026-07-09 15:23:43,2026-07-09 15:54:02,bonus_staking_coin_bugs
+7174,TKT-TTCKKDUM,1,5061,FALAHI76,9.0,closed,About residual updation,Bug Report,0,2026-07-09 16:32:25,2026-07-09 17:55:23,bonus_staking_coin_bugs
+7245,TKT-JSZDHEOL,1,15756,AVINASH61,9.0,closed,W25 residual income,Bug Report,0,2026-07-10 09:02:14,2026-07-10 17:24:11,bonus_staking_coin_bugs
+7269,TKT-HPB5QWEU,1,13568,NKP123,10.0,open,rasidual bonus is not updated why?,Bug Report,0,2026-07-10 11:46:24,2026-07-10 14:39:46,bonus_staking_coin_bugs
+7430,TKT-CFFRIAAZ,1,6818,RAJ2402,10.0,open,bonus,Bug Report,0,2026-07-11 14:06:38,2026-07-13 16:32:58,bonus_staking_coin_bugs
+7465,TKT-YZ2DO4AS,1,2523,SKLIFE1700,9.0,closed,W25,Bug Report,0,2026-07-11 18:39:31,2026-07-13 16:29:47,bonus_staking_coin_bugs
+7493,TKT-TQUAVGAI,1,2005,MANISHWHIZZ,10.0,open,Leadership bonus,Bug Report,0,2026-07-11 23:03:25,2026-07-13 15:10:19,bonus_staking_coin_bugs
+7604,TKT-AG5L0USI,1,11328,JKB,8.0,closed,Monthly profit,Bug Report,0,2026-07-13 11:48:19,2026-07-13 13:23:45,bonus_staking_coin_bugs
+7626,TKT-LINXQERY,1,40610,ASGAR21,10.0,open,Stake25 Showing 9% Instead of 10% ✅,Bug Report,0,2026-07-13 15:39:47,2026-07-13 16:53:17,bonus_staking_coin_bugs
+7703,TKT-41JEXSV7,1,1981,MANU2402,8.0,closed,tranding bonus is in minus,Bug Report,0,2026-07-14 09:33:39,2026-07-14 10:47:05,bonus_staking_coin_bugs
+7928,TKT-FQYBXXQJ,1,10236,OMPRAKASHBOTX,10.0,open,Subscription Package,Bug Report,0,2026-07-15 22:50:04,2026-07-16 15:52:10,bonus_staking_coin_bugs
+7939,TKT-ITADRRZ9,1,5791,SURAJ025,8.0,closed,Residual bouns,Bug Report,0,2026-07-16 05:20:30,2026-07-16 14:35:02,bonus_staking_coin_bugs
+7941,TKT-HZ64MWGI,1,5791,SURAJ025,8.0,closed,Residual bouns,Bug Report,0,2026-07-16 05:22:14,2026-07-16 14:34:56,bonus_staking_coin_bugs
+7943,TKT-S3BBYOMN,1,17553,SUNIL025,8.0,closed,Residual bouns,Bug Report,0,2026-07-16 05:28:23,2026-07-16 14:34:49,bonus_staking_coin_bugs
+7944,TKT-UUSJIXTL,1,57959,SURAJ025A,8.0,closed,Residual bouns,Bug Report,0,2026-07-16 05:33:28,2026-07-16 14:34:41,bonus_staking_coin_bugs
+7953,TKT-NUDRNRF0,1,15742,TANZANIA,9.0,closed,My leadership bonus are not credited,Bug Report,0,2026-07-16 06:48:11,2026-07-16 14:59:26,bonus_staking_coin_bugs
+7960,TKT-BG1A0UZL,1,22048,ASHESH338,8.0,closed,stake25,Bug Report,0,2026-07-16 08:24:17,2026-07-16 11:29:58,bonus_staking_coin_bugs
+7980,TKT-RCFJ1ZK6,1,41268,SKBHARTIG2,8.0,closed,Residual Profit,Bug Report,0,2026-07-16 11:32:04,2026-07-16 14:35:56,bonus_staking_coin_bugs
+8007,TKT-LE8QZ4GQ,1,22233,PRINCE7979,8.0,closed,Residual bonus,Bug Report,0,2026-07-16 14:17:43,2026-07-16 14:33:48,bonus_staking_coin_bugs
+8070,TKT-UHHB9RFM,1,5791,SURAJ025,8.0,closed,Please update Residual bouns,Bug Report,0,2026-07-17 05:20:41,2026-07-17 11:06:04,bonus_staking_coin_bugs
+8187,TKT-8NQWV86W,1,1243,37NARINDER,9.0,closed,Stake25 residual,Bug Report,0,2026-07-18 09:38:50,2026-07-20 19:23:28,bonus_staking_coin_bugs
+8301,TKT-LIFFR4GY,1,19920,RAJESH5200,8.0,closed,Residual bonus,Bug Report,0,2026-07-19 18:24:37,2026-07-20 12:31:32,bonus_staking_coin_bugs
+8349,TKT-IFVANEQP,1,15742,TANZANIA,8.0,closed,Leadership bonus,Bug Report,0,2026-07-20 15:36:11,2026-07-20 15:50:35,bonus_staking_coin_bugs
+8416,TKT-ESNFH3F4,1,12170,PATELNILOFAR25,8.0,closed,Issue of Residual,Bug Report,0,2026-07-21 12:02:53,2026-07-21 12:37:42,bonus_staking_coin_bugs
+8425,TKT-FNNJZ9I9,1,12731,SUNITA83,8.0,solved,Trading PROFIT,Bug Report,0,2026-07-21 15:17:03,2026-07-21 15:38:10,bonus_staking_coin_bugs
+8448,TKT-VZ655ICR,1,43182,MAABABA1984,10.0,open,Regarding Mcoin withdrawl,Bug Report,0,2026-07-22 05:02:09,2026-07-22 11:47:38,bonus_staking_coin_bugs
+8490,TKT-YZ7WT79C,1,203,ADMIN1,8.0,closed,Unfair Residual income,Bug Report,0,2026-07-22 15:55:37,2026-07-22 16:32:49,bonus_staking_coin_bugs
+8492,TKT-0KV3GY2M,1,3240,PATELSARFRAJ25,8.0,closed,Residual bonus of issue,Bug Report,0,2026-07-22 16:20:29,2026-07-22 16:32:13,bonus_staking_coin_bugs
+8548,TKT-RBIEEMQE,1,19491,SARFARAZ002,8.0,closed,Stake25 residual,Bug Report,0,2026-07-23 14:41:55,2026-07-23 15:25:38,bonus_staking_coin_bugs
+8583,TKT-T8W2BYMK,1,22048,ASHESH338,8.0,closed,Residual bonus,Bug Report,0,2026-07-24 07:26:32,2026-07-24 11:09:16,bonus_staking_coin_bugs
+8584,TKT-XJDYRVTU,1,21461,UZAIR786,8.0,closed,Residual bonus,Bug Report,0,2026-07-24 07:28:52,2026-07-24 11:09:09,bonus_staking_coin_bugs
+8636,TKT-N6WUUH7S,2,428676,ANASMULTANI,10.0,open,missing mcoin,Bug Report,0,2026-07-24 22:39:38,2026-07-27 13:28:08,bonus_staking_coin_bugs
+8640,TKT-3O6AQNHB,2,859516,FIROZ0109,10.0,open,Coin Not released,Bug Report,0,2026-07-25 00:55:52,2026-07-27 13:28:38,bonus_staking_coin_bugs
+8680,TKT-WONEYZZ6,2,714755,RIZWANA22,8.0,closed,Coin not available,Bug Report,0,2026-07-25 12:31:14,2026-07-27 13:30:15,bonus_staking_coin_bugs
+8682,TKT-KC6CLQCH,2,651169,RUKIYA2,8.0,closed,Coin not available,Bug Report,0,2026-07-25 12:35:45,2026-07-27 13:29:50,bonus_staking_coin_bugs
+8708,TKT-7HSASELX,2,619719,ANAS03,10.0,open,missinf  mcoin,Bug Report,0,2026-07-25 19:21:17,2026-07-27 13:23:23,bonus_staking_coin_bugs
+8709,TKT-IQAEASTE,2,624450,MOHDANAS05,10.0,open,missing mcoin,Bug Report,0,2026-07-25 19:34:33,2026-07-27 13:23:05,bonus_staking_coin_bugs
+8755,TKT-6IQMUD3I,1,59035,MUSKAN24,10.0,open,Monthly profit,Bug Report,0,2026-07-26 11:00:07,2026-07-27 13:11:32,bonus_staking_coin_bugs
+8756,TKT-5MKKQRGH,1,58914,ANITA6390A,9.0,closed,Residual calculation not correct,Bug Report,0,2026-07-26 11:15:20,2026-07-27 17:12:29,bonus_staking_coin_bugs
+8759,TKT-BBMDHOXG,1,56124,ANITA6390,9.0,closed,Residual calculation incorrect by system please correct,Bug Report,0,2026-07-26 11:22:12,2026-07-30 15:10:54,bonus_staking_coin_bugs
+8803,TKT-2EABGMFJ,2,708025,MKSURRAYA12P,10.0,open,Please Release all coin Into Mcoin voucher,Bug Report,0,2026-07-27 02:01:30,2026-07-27 12:40:00,bonus_staking_coin_bugs
+8946,TKT-BWBFD3KN,2,875022,ROHIT7277,10.0,open,Smart staking riser realesse problem,Bug Report,0,2026-07-28 20:27:44,2026-07-29 14:41:18,bonus_staking_coin_bugs
+8962,TKT-HCKMVKOW,1,1889,KULDEEP25,8.0,closed,Regarding to residual income,Bug Report,0,2026-07-29 07:35:38,2026-07-29 14:16:04,bonus_staking_coin_bugs
+9089,TKT-WX2BBV5Q,1,59259,HARIDWAR1,9.0,closed,W36 residual income is not right,Bug Report,0,2026-07-31 01:47:23,2026-07-31 15:36:38,bonus_staking_coin_bugs
+9106,TKT-VYCNZQWU,1,11883,2829KARTIK,9.0,closed,Stake25 Residual,Bug Report,0,2026-07-31 09:33:55,2026-07-31 15:37:34,bonus_staking_coin_bugs
+9117,TKT-CI1VLRSY,1,13111,WASIMKK1,9.0,solved,Calculation of w36 residual income is not right,Bug Report,0,2026-07-31 10:34:08,2026-07-31 15:54:19,bonus_staking_coin_bugs
+9168,TKT-G5UH3UEM,1,58914,ANITA6390A,9.0,closed,Residual calculation not correct,Bug Report,0,2026-07-31 21:54:27,2026-08-03 17:18:25,bonus_staking_coin_bugs
+9171,TKT-VTUHI371,1,5791,SURAJ025,9.0,closed,Residual bouns reduced,Bug Report,0,2026-08-01 01:07:40,2026-08-03 17:26:06,bonus_staking_coin_bugs
+9190,TKT-ZSVWV5QJ,1,1595,RISHI100,9.0,closed,Stak25 residual,Bug Report,0,2026-08-01 09:56:38,2026-08-03 17:04:32,bonus_staking_coin_bugs
+9192,TKT-RAWJN2LZ,1,56124,ANITA6390,9.0,closed,Residual calculation incorrect,Bug Report,0,2026-08-01 10:26:11,2026-08-03 17:03:34,bonus_staking_coin_bugs
+9365,TKT-MTZNXOIA,1,44258,SAPNA33,9.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-03 16:44:35,2026-08-04 13:31:31,bonus_staking_coin_bugs
+9454,TKT-L1OV8AKH,1,36050,RUPALI3439,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 18:51:33,2026-08-05 14:54:57,bonus_staking_coin_bugs
+9455,TKT-S6UK3NNL,1,36053,RAJANI3439,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 18:54:15,2026-08-05 14:54:48,bonus_staking_coin_bugs
+9465,TKT-AUVH7OOA,1,39890,KETAN3439,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 21:53:46,2026-08-05 14:54:39,bonus_staking_coin_bugs
+9466,TKT-CHJPXSBM,1,39883,DISHA3439,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 21:56:32,2026-08-05 14:55:08,bonus_staking_coin_bugs
+9467,TKT-QDVEQ0VU,1,44304,KETKI333,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 21:58:38,2026-08-05 14:54:32,bonus_staking_coin_bugs
+9469,TKT-00NAWQNN,1,44294,MAYURI99,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 22:17:29,2026-08-05 14:54:25,bonus_staking_coin_bugs
+9470,TKT-4XZVIZ91,1,44286,AKASH55,8.0,closed,Residual Bonus Not Received as per 10%,Bug Report,0,2026-08-04 22:20:52,2026-08-05 14:54:16,bonus_staking_coin_bugs
+9471,TKT-BCDQKDYF,1,24246,ARUHIM200,8.0,closed,residual,Bug Report,0,2026-08-04 22:28:41,2026-08-05 14:55:57,bonus_staking_coin_bugs
+9473,TKT-2MXUYXXL,1,5286,PRAMODM20,9.0,closed,Residual,Bug Report,0,2026-08-04 22:41:31,2026-08-05 14:55:59,bonus_staking_coin_bugs
+9571,TKT-SNASRSX9,1,14642,AMITSINGHJEH1234,9.0,closed,issue:Trading Bonus Profit Not Visible,Bug Report,0,2026-08-05 19:32:51,2026-08-06 18:51:34,bonus_staking_coin_bugs
+9605,TKT-5RA5IBAZ,2,514762,ANEES2612,8.0,solved,Sir meri id par m coin release nhi ho rahe hai 0.80 aa rha ha please check,Bug Report,0,2026-08-06 10:36:33,2026-08-06 10:37:25,bonus_staking_coin_bugs
+9644,TKT-5XC9VP73,1,22161,GHANSHYAM00,9.0,closed,Residual Bonus not received,Bug Report,0,2026-08-06 20:55:12,2026-08-07 16:06:24,bonus_staking_coin_bugs
+9754,TKT-VW8R7RKO,2,745056,SOHEL143,10.0,open,Withdrwn show more than released coin,Bug Report,0,2026-08-08 01:31:16,2026-08-10 14:24:57,bonus_staking_coin_bugs
+9769,TKT-9IP4LVOW,1,5286,PRAMODM20,8.0,solved,mcoin,Bug Report,0,2026-08-08 08:40:05,2026-08-10 14:24:09,bonus_staking_coin_bugs
+9779,TKT-HPPMEEQU,2,49143,TARA1984,8.0,closed,Fix my smart mcoins,Bug Report,0,2026-08-08 11:47:30,2026-08-10 14:23:33,bonus_staking_coin_bugs
+9786,TKT-KTKSR0VP,2,648462,ZARA10830,10.0,open,MCOIN IS NOT FIX,Bug Report,0,2026-08-08 13:10:26,2026-08-10 14:22:56,bonus_staking_coin_bugs
+9849,TKT-1KVN0L6H,2,859516,FIROZ0109,8.0,closed,Coin Not released,Bug Report,0,2026-08-09 10:51:36,2026-08-10 14:19:52,bonus_staking_coin_bugs
+9850,TKT-RJ1S4TT3,2,811700,FIROZ092,10.0,open,Riser not received,Bug Report,0,2026-08-09 10:56:03,2026-08-10 14:19:33,bonus_staking_coin_bugs
+9911,TKT-OF8Z8L5O,1,19488,ATHER01,8.0,closed,Reduce bonus,Bug Report,0,2026-08-10 09:40:07,2026-08-10 12:45:37,bonus_staking_coin_bugs
+9938,TKT-27LUNM0G,1,59294,GULABG111,9.0,closed,6% Value of mcoin,Bug Report,0,2026-08-10 19:36:26,2026-08-11 14:56:54,bonus_staking_coin_bugs
+9939,TKT-E0OJQ6LR,1,4358,SHIKHAG1995,9.0,closed,6% Value of mcoin,Bug Report,0,2026-08-10 19:36:35,2026-08-11 14:55:59,bonus_staking_coin_bugs
+10061,TKT-NDWL4LZY,2,554151,MDNEYAZ,10.0,open,Fix Riser not show,Bug Report,0,2026-08-13 22:39:51,2026-08-17 16:18:21,bonus_staking_coin_bugs
+10070,TKT-L3OHJBWJ,1,9126,LOVEGUNJU1,9.0,closed,my profit,Bug Report,0,2026-08-14 08:32:11,2026-08-17 17:12:17,bonus_staking_coin_bugs
+10071,TKT-I6S3IDDR,1,5080,GUNJU143,9.0,closed,profit showing minus,Bug Report,0,2026-08-14 08:36:55,2026-08-17 17:40:04,bonus_staking_coin_bugs
+10079,TKT-8QFN9R3P,1,55513,AMMIJAANR2N2,9.0,solved,stake 25 profit not showing,Bug Report,0,2026-08-14 10:03:14,2026-08-17 18:27:25,bonus_staking_coin_bugs
+10080,TKT-1YYQNWEY,1,55512,AMMIJAANR2N1,8.0,closed,Stake 25 profit not showing,Bug Report,0,2026-08-14 10:08:41,2026-08-17 18:24:49,bonus_staking_coin_bugs
+10094,TKT-COWEF6DK,1,39398,SOHELSAYED,8.0,closed,"My profit has not been credited to my account for 2 months.""",Bug Report,0,2026-08-14 11:20:40,2026-08-17 18:26:29,bonus_staking_coin_bugs
+10111,TKT-DZATXTJH,2,473182,RAZVEE12,8.0,closed,Release the coin,Bug Report,0,2026-08-14 13:13:04,2026-08-17 18:24:35,bonus_staking_coin_bugs
+10128,TKT-Z6KVC3G7,1,53693,MAAZFAROOQUI2,9.0,closed,Trading Bonus,Bug Report,0,2026-08-14 15:09:52,2026-08-17 18:17:40,bonus_staking_coin_bugs
+10130,TKT-ZCJFUNOM,1,20789,W20252,8.0,closed,Profit issue,Bug Report,0,2026-08-14 15:19:31,2026-08-17 18:14:38,bonus_staking_coin_bugs
+10131,TKT-IB6RY4IW,1,456,VINAYAKITES,10.0,open,Profit Issue,Bug Report,0,2026-08-14 15:23:39,2026-08-17 15:06:17,bonus_staking_coin_bugs
+10145,TKT-U1508VZK,1,23070,RB2712,9.0,solved,Profit,Bug Report,0,2026-08-14 18:53:21,2026-08-17 17:54:23,bonus_staking_coin_bugs
+10157,TKT-5DXIKQ7S,1,6146,PRAVEEN025,9.0,solved,Bonus related,Bug Report,0,2026-08-14 21:10:08,2026-08-17 17:31:28,bonus_staking_coin_bugs
+10165,TKT-CXNKZMKE,1,13111,WASIMKK1,9.0,solved,W36 residual income is not right,Bug Report,0,2026-08-15 01:28:02,2026-08-17 17:23:22,bonus_staking_coin_bugs
+10170,TKT-WEUV0JSN,1,58266,JITENDER565,9.0,solved,Profit not show,Bug Report,0,2026-08-15 06:35:43,2026-08-17 17:21:03,bonus_staking_coin_bugs
+10179,TKT-AMKS2IOM,1,7499,MANDALPK2001,9.0,closed,Wealth 36 Bonus,Bug Report,0,2026-08-15 11:03:15,2026-08-17 17:17:26,bonus_staking_coin_bugs
+10195,TKT-YIVSRDKI,1,34235,FARAH2629,9.0,solved,Residual,Bug Report,0,2026-08-15 14:46:34,2026-08-17 15:56:00,bonus_staking_coin_bugs
+10201,TKT-KIUDAMWM,1,40703,PRANEETAJAIN,8.0,closed,SIP package Not Shown,Bug Report,0,2026-08-15 15:39:04,2026-08-17 12:27:58,bonus_staking_coin_bugs
+10219,TKT-DNYLLBYR,1,56774,APOORV11,8.0,closed,Wealth 25 profit not showing,Bug Report,0,2026-08-15 22:21:45,2026-08-17 15:54:34,bonus_staking_coin_bugs
+10283,TKT-YITYOD9A,1,55512,AMMIJAANR2N1,8.0,closed,profit not show,Bug Report,0,2026-08-17 07:28:09,2026-08-17 11:00:26,bonus_staking_coin_bugs
+10295,TKT-IDSZ3XPD,1,58748,HYD900,8.0,closed,stake 25 profit not show,Bug Report,0,2026-08-17 12:49:01,2026-08-17 12:56:29,bonus_staking_coin_bugs
+10296,TKT-G30LSUTV,1,55513,AMMIJAANR2N2,8.0,closed,stake 25 profit not showing,Bug Report,0,2026-08-17 12:52:40,2026-08-17 12:56:00,bonus_staking_coin_bugs
+10331,TKT-WBV83CM3,1,384,SHIVAJI91,8.0,solved,Treding bonus,Bug Report,0,2026-08-17 22:33:27,2026-08-18 15:10:46,bonus_staking_coin_bugs
+10348,TKT-UWBJAZCR,2,371993,MAYASEN810,8.0,solved,Riser related,Bug Report,0,2026-08-18 06:18:37,2026-08-18 12:40:13,bonus_staking_coin_bugs
+10360,TKT-BNWUMPJM,1,44965,SONALI5400,9.0,solved,June–July Profit Debit Issue,Bug Report,0,2026-08-18 10:20:37,2026-08-28 17:20:37,bonus_staking_coin_bugs
+10361,TKT-CUSJW1BL,1,45969,JYOTI5400,9.0,solved,Subject: June–July Profit Debit Issue,Bug Report,0,2026-08-18 10:23:57,2026-08-18 18:40:05,bonus_staking_coin_bugs
+10362,TKT-M4JHINHL,1,45769,SAHDEV1975,9.0,solved,Subject: June–July Profit Debit Issue,Bug Report,0,2026-08-18 10:25:40,2026-08-18 18:38:18,bonus_staking_coin_bugs
+10367,TKT-UDPLFS0R,1,55512,AMMIJAANR2N1,9.0,solved,stake 25 releted,Bug Report,0,2026-08-18 11:20:51,2026-08-18 18:21:31,bonus_staking_coin_bugs
+10371,TKT-JEZLGWHL,2,365013,JAWAHARLAL2023,10.0,open,Coin  release  dataany coin but,Bug Report,0,2026-08-18 11:49:36,2026-08-18 16:35:00,bonus_staking_coin_bugs
+10399,TKT-XIZPUYCZ,1,38255,ALKANARESH,9.0,closed,non receipt of profit from june 26,Bug Report,0,2026-08-18 19:54:59,2026-08-19 17:08:42,bonus_staking_coin_bugs
+10422,TKT-GYYSQWIC,1,22161,GHANSHYAM00,9.0,closed,Mcoin  Resived,Bug Report,0,2026-08-19 08:52:06,2026-08-19 16:54:17,bonus_staking_coin_bugs
+10425,TKT-7Z0SKLV4,1,58748,HYD900,9.0,closed,stake 25 wallet,Bug Report,0,2026-08-19 09:21:33,2026-08-19 16:50:42,bonus_staking_coin_bugs
+10446,TKT-BTVMVIAH,1,13317,DURGAWATI2343,9.0,closed,W25 Profit show in Negative,Bug Report,0,2026-08-19 18:18:55,2026-08-19 18:35:04,bonus_staking_coin_bugs
+10466,TKT-USWXF9E3,1,22161,GHANSHYAM00,9.0,closed,"Previous ticket closed, but Mcoins still pending",Bug Report,0,2026-08-20 04:31:50,2026-08-20 18:50:11,bonus_staking_coin_bugs
+10491,TKT-9JFMREWO,1,19789,HKSHAH2,8.0,closed,July month's profit isn't showing,Bug Report,0,2026-08-20 14:01:27,2026-08-20 14:13:47,bonus_staking_coin_bugs
+10516,TKT-P6GLDYWV,2,665579,ARMAN8081,8.0,closed,Coin not showing,Bug Report,0,2026-08-20 20:35:27,2026-08-21 15:19:30,bonus_staking_coin_bugs
+10549,TKT-9IYW2YDY,1,15056,SPP1965,8.0,closed,To know about release date of stake25 mcoin,Bug Report,0,2026-08-21 12:19:45,2026-08-21 15:38:23,bonus_staking_coin_bugs
+10573,TKT-4NCLIEZY,2,273657,MAHRULNISHA,8.0,closed,staking releted,Bug Report,0,2026-08-21 22:09:46,2026-08-24 16:46:03,bonus_staking_coin_bugs
+10589,TKT-XTQFY6IB,2,561933,DUBAI54000,8.0,closed,Legacy mCoin,Bug Report,0,2026-08-22 04:58:59,2026-08-24 16:44:59,bonus_staking_coin_bugs
+10604,TKT-PYU9RE3U,1,58916,ANITA6390B,9.0,closed,Please correct my package date,Bug Report,0,2026-08-22 13:16:50,2026-08-27 15:39:25,bonus_staking_coin_bugs
+10608,TKT-SMOJTSNS,1,40228,AFIFA786,9.0,closed,"My wealth Residual income is close. So please start it. My monthly income wealth Residual income is not start, so please start it.",Bug Report,0,2026-08-22 17:29:34,2026-08-24 17:14:37,bonus_staking_coin_bugs
+10623,TKT-XF4VSM8E,1,52011,ABDULKARIM97,8.0,solved,Package issue and profit issue,Bug Report,0,2026-08-23 08:36:32,2026-08-24 16:20:38,bonus_staking_coin_bugs
+10684,TKT-PMD2GID3,1,59448,BEHNIWAL25,9.0,solved,NOT RESCIVE 6 PERSENT IN M COIN,Bug Report,0,2026-08-24 17:39:15,2026-08-24 18:46:10,bonus_staking_coin_bugs
+10686,TKT-GKZQIKXE,1,37255,SHIVA6,8.0,closed,Mcoin holdings,Bug Report,0,2026-08-24 18:00:02,2026-08-25 11:40:37,bonus_staking_coin_bugs
+10687,TKT-TDCBIX39,1,37431,SHIVA7,8.0,closed,Mcoin Holding,Bug Report,0,2026-08-24 18:01:47,2026-08-25 11:40:41,bonus_staking_coin_bugs
+10688,TKT-SFKB9YYK,1,37433,SHIVA8,8.0,closed,Mcoin Holding,Bug Report,0,2026-08-24 18:04:05,2026-08-25 11:40:45,bonus_staking_coin_bugs
+10689,TKT-OI2CXZNY,1,38125,SHAMBHO7,8.0,closed,Mcoin Holding,Bug Report,0,2026-08-24 18:06:11,2026-08-25 11:40:53,bonus_staking_coin_bugs
+10690,TKT-IQI2SUVI,1,38124,SHAMBHO6,8.0,closed,Mcoin Holding,Bug Report,0,2026-08-24 18:07:42,2026-08-25 11:41:23,bonus_staking_coin_bugs
+10691,TKT-TKS3T03Q,1,38124,SHAMBHO6,,closed,Mcoin holding,Bug Report,0,2026-08-24 18:08:35,2026-08-24 18:08:56,bonus_staking_coin_bugs
+10692,TKT-7VQHSENV,1,38123,SHAMBHO5,8.0,closed,Mcoin,Bug Report,0,2026-08-24 18:10:18,2026-08-25 11:40:49,bonus_staking_coin_bugs
+10693,TKT-G76HGKYD,1,38122,SHAMBHO4,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:12:08,2026-08-25 11:41:00,bonus_staking_coin_bugs
+10694,TKT-BPUYNPNM,1,44949,SADASHIV7,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:14:52,2026-08-25 11:41:05,bonus_staking_coin_bugs
+10695,TKT-ZQQ00MK8,1,44948,SADASHIV6,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:16:07,2026-08-25 11:41:09,bonus_staking_coin_bugs
+10696,TKT-Y8LGRZ7T,1,44948,SADASHIV6,8.0,closed,Mcoin Holdings,Bug Report,0,2026-08-24 18:17:25,2026-08-25 11:41:27,bonus_staking_coin_bugs
+10697,TKT-NFXJWBB4,1,44945,SADASHIV5,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:19:01,2026-08-25 11:41:18,bonus_staking_coin_bugs
+10698,TKT-EF2STLZO,1,44943,SADASHIV4,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:21:26,2026-08-25 11:41:13,bonus_staking_coin_bugs
+10699,TKT-BWXEWDR0,1,49342,ADIYOGI7,8.0,closed,Mcoin holding,Bug Report,0,2026-08-24 18:23:10,2026-08-25 11:41:32,bonus_staking_coin_bugs
+10700,TKT-DPAHRHBG,1,49341,ADIYOGI6,9.0,solved,Mcoin holding,Bug Report,0,2026-08-24 18:24:34,2026-08-25 16:43:24,bonus_staking_coin_bugs
+10701,TKT-T3UUHZ5Q,1,49339,ADIYOGI5,8.0,closed,Mcoin,Bug Report,0,2026-08-24 18:26:27,2026-08-25 11:40:56,bonus_staking_coin_bugs
+10702,TKT-PTUOY4G3,1,49336,ADIYOGI4,9.0,solved,Mcoin holding,Bug Report,0,2026-08-24 18:28:38,2026-08-25 18:23:08,bonus_staking_coin_bugs
+10756,TKT-LGD2BDKW,1,10698,MANISHA1999,8.0,solved,W36 Residual bonus,Bug Report,0,2026-08-25 15:49:01,2026-08-25 16:04:41,bonus_staking_coin_bugs
+10768,TKT-CHNXGT86,1,58411,SALA1155,9.0,solved,Monthly w36 profit not received..,Bug Report,0,2026-08-25 20:30:20,2026-08-25 22:45:07,bonus_staking_coin_bugs
+10772,TKT-U54AMT9W,1,37253,SHIVA5,9.0,solved,Mcoin holding,Bug Report,0,2026-08-25 21:55:50,2026-08-25 22:27:44,bonus_staking_coin_bugs
+10775,TKT-OUUWPFO9,1,542,AJ4045,9.0,solved,Leadership Bonus,Bug Report,0,2026-08-25 23:24:21,2026-08-27 16:51:21,bonus_staking_coin_bugs
+10856,TKT-CMLBVWI9,1,1449,LAVKUSH1995,8.0,solved,Profit,Bug Report,0,2026-08-27 12:58:08,2026-08-27 13:09:54,bonus_staking_coin_bugs
+10857,TKT-UHUCE7TG,1,1449,LAVKUSH1995,8.0,solved,Profit,Bug Report,0,2026-08-27 13:03:19,2026-08-27 13:09:48,bonus_staking_coin_bugs
+10868,TKT-BHS0UAMC,2,607513,DEVENDER61,8.0,closed,Mcoin Releted,Bug Report,0,2026-08-27 17:37:14,2026-08-28 15:38:30,bonus_staking_coin_bugs
+10870,TKT-ZOBLU74D,2,597146,KAMLESH838,10.0,open,Mcoin,Bug Report,0,2026-08-27 18:51:26,2026-08-28 17:26:56,bonus_staking_coin_bugs
+10886,TKT-DLTUGOLI,2,714659,RKP080,10.0,open,Legacy mcoin,Bug Report,0,2026-08-28 05:14:20,2026-08-28 17:22:08,bonus_staking_coin_bugs
+10892,TKT-FHKRZFUB,1,44965,SONALI5400,8.0,closed,July month profit not credit,Bug Report,0,2026-08-28 08:35:55,2026-08-28 11:58:39,bonus_staking_coin_bugs
+10901,TKT-FX2YJPEE,1,1407,CRYPTOLOVER1,8.0,closed,stake 25 Profit not received,Bug Report,0,2026-08-28 13:45:26,2026-08-28 15:02:32,bonus_staking_coin_bugs
+10902,TKT-NA6JBVYB,2,603455,AMI324,8.0,closed,MCOIN,Bug Report,0,2026-08-28 16:04:56,2026-08-28 16:16:27,bonus_staking_coin_bugs
+10904,TKT-PTRFUCCE,2,602919,ASHWANI51,8.0,closed,Mcoin,Bug Report,0,2026-08-28 16:23:19,2026-08-28 16:26:27,bonus_staking_coin_bugs
+10911,TKT-GPX1UPLN,1,19788,RAJMETHER1,9.0,solved,mcoin not recived,Bug Report,0,2026-08-28 16:43:44,2026-08-28 17:08:51,bonus_staking_coin_bugs
+10922,TKT-EWHMEAWN,1,15056,SPP1965,9.0,solved,W25 mcoin holdings's releasing related,Bug Report,0,2026-08-28 21:07:53,2026-08-31 18:58:48,bonus_staking_coin_bugs
+10923,TKT-V7RBN19Q,2,125469,SHARMA879,10.0,open,mcoin,Bug Report,0,2026-08-28 21:14:00,2026-08-31 17:11:34,bonus_staking_coin_bugs
+10927,TKT-9QWPNQYT,2,767292,REEM4,10.0,open,Not seen coin,Bug Report,0,2026-08-29 00:09:14,2026-08-31 17:49:54,bonus_staking_coin_bugs
+10930,TKT-XZSKTHCD,2,573837,ROHIT262,10.0,open,Total mcoin related,Bug Report,0,2026-08-29 07:21:41,2026-08-31 17:53:51,bonus_staking_coin_bugs
+10940,TKT-WZFNWVXS,1,54038,RAJ1981,9.0,closed,Stake profit not credited,Bug Report,0,2026-08-29 13:55:11,2026-08-31 17:49:36,bonus_staking_coin_bugs
+10945,TKT-A6ORTBJ5,2,607341,RITU82,10.0,open,MCOIN,Bug Report,0,2026-08-29 16:19:32,2026-08-31 17:59:12,bonus_staking_coin_bugs
+10946,TKT-7KBABIYA,2,596511,RAKESH803,8.0,closed,mcoin,Bug Report,0,2026-08-29 16:27:49,2026-09-02 10:53:48,bonus_staking_coin_bugs
+10949,TKT-QLS2A0NU,2,602765,RS8451,8.0,closed,Mcoin,Bug Report,0,2026-08-29 20:04:44,2026-08-31 11:07:39,bonus_staking_coin_bugs
+10956,TKT-UJ9S1DLQ,2,258203,JIAANLAMBHE,8.0,closed,Mcoin wallet,Bug Report,0,2026-08-30 07:08:19,2026-08-31 11:06:55,bonus_staking_coin_bugs
+10970,TKT-ERGLKCLS,2,598884,VIJAY052,8.0,closed,Mcoin,Bug Report,0,2026-08-30 11:43:55,2026-08-31 11:03:57,bonus_staking_coin_bugs
+10973,TKT-TAICTJAC,1,12844,ADVIK,8.0,closed,Bonus not found,Bug Report,0,2026-08-30 14:57:42,2026-08-31 12:34:23,bonus_staking_coin_bugs
+10977,TKT-9QWBWWXY,2,134639,KS879,10.0,open,mcoin,Bug Report,0,2026-08-30 16:39:14,2026-08-31 11:03:10,bonus_staking_coin_bugs
+10978,TKT-ZJEIPKLV,2,125469,SHARMA879,10.0,open,mcoin,Bug Report,0,2026-08-30 16:43:42,2026-08-31 11:02:51,bonus_staking_coin_bugs
+10979,TKT-WAO0RGEF,2,125260,KAMAL879,10.0,open,mcoin,Bug Report,0,2026-08-30 16:52:09,2026-08-31 11:01:49,bonus_staking_coin_bugs
+10981,TKT-X9M9RNQU,2,125469,SHARMA879,10.0,open,mcoin,Bug Report,0,2026-08-30 16:58:07,2026-08-31 11:01:20,bonus_staking_coin_bugs
+10985,TKT-XAMBPD2O,1,56124,ANITA6390,9.0,closed,package purchage date,Bug Report,0,2026-08-30 20:01:43,2026-08-31 16:58:36,bonus_staking_coin_bugs
+11022,TKT-LK0ZA65O,2,598816,SUBHASH096,10.0,open,Mcoin,Bug Report,0,2026-08-31 20:14:25,2026-09-01 20:38:55,bonus_staking_coin_bugs
+11033,TKT-STAAHWDF,1,19788,RAJMETHER1,9.0,closed,mcoin holding,Bug Report,0,2026-09-01 08:35:27,2026-09-01 14:44:54,bonus_staking_coin_bugs
+11034,TKT-45XX6P9J,1,37870,SUMAN001,9.0,closed,mcoin,Bug Report,0,2026-09-01 08:40:52,2026-09-01 14:46:23,bonus_staking_coin_bugs
+11037,TKT-AHKY254B,2,597368,SUNIL667,10.0,open,Mcoin,Bug Report,0,2026-09-01 10:40:51,2026-09-01 21:06:24,bonus_staking_coin_bugs
+11039,TKT-QSKJNW3I,2,607474,NITISH18,10.0,open,Mcoin related,Bug Report,0,2026-09-01 11:07:04,2026-09-01 21:06:53,bonus_staking_coin_bugs
+11051,TKT-DAUHLI1D,1,35620,GURINDER7192,9.0,closed,Mcoin holding bonus,Bug Report,0,2026-09-01 14:36:42,2026-09-01 18:47:56,bonus_staking_coin_bugs
+11054,TKT-WY0UOPXV,1,13542,MANJINDER1957,9.0,closed,Profit not credited,Bug Report,0,2026-09-01 15:46:38,2026-09-01 18:48:40,bonus_staking_coin_bugs
+11056,TKT-IWTUSWOU,1,17749,KARNAIL25,9.0,closed,Residual,Bug Report,0,2026-09-01 16:09:52,2026-09-01 18:49:35,bonus_staking_coin_bugs
+11060,TKT-EF47PAME,1,38035,BIKASBERA1,9.0,solved,Holding coin issue,Bug Report,0,2026-09-01 18:40:58,2026-09-01 20:37:58,bonus_staking_coin_bugs
+11063,TKT-I9IKXY4F,1,21031,SHIKHAG111,8.0,closed,Mcoin holding,Bug Report,0,2026-09-01 19:05:51,2026-09-02 10:49:56,bonus_staking_coin_bugs
+11069,TKT-WISTPRU8,2,607513,DEVENDER61,10.0,open,Mcoin,Bug Report,0,2026-09-01 20:22:28,2026-09-02 10:49:19,bonus_staking_coin_bugs
+11070,TKT-RXE3WB3O,1,52338,REENA2000,8.0,closed,Mcoin holding,Bug Report,0,2026-09-01 20:37:24,2026-09-02 10:49:38,bonus_staking_coin_bugs
+11071,TKT-8TM2UNNM,1,52336,REENA1999,8.0,closed,Mcoin holding,Bug Report,0,2026-09-01 21:06:39,2026-09-02 10:47:38,bonus_staking_coin_bugs
+11077,TKT-HF7JWPOG,1,18833,VICKY1,8.0,closed,Settlement mistake,Bug Report,0,2026-09-02 09:44:16,2026-09-04 14:50:43,bonus_staking_coin_bugs
+11078,TKT-A5VFPT92,2,607474,NITISH18,10.0,open,Mcoin,Bug Report,0,2026-09-02 09:52:34,2026-09-02 10:46:11,bonus_staking_coin_bugs
+11085,TKT-BBR7GV6L,2,601986,KARTIK954,8.0,closed,M coin,Bug Report,0,2026-09-02 11:57:09,2026-09-02 12:08:09,bonus_staking_coin_bugs
+11088,TKT-N1TCP7RV,2,601986,KARTIK954,10.0,open,M coin,Bug Report,0,2026-09-02 12:02:48,2026-09-02 12:07:23,bonus_staking_coin_bugs
+11089,TKT-31VZ2LW3,2,601986,KARTIK954,10.0,open,M coin,Bug Report,0,2026-09-02 12:04:07,2026-09-02 12:07:13,bonus_staking_coin_bugs
+11090,TKT-DY5NRY6F,2,601986,KARTIK954,8.0,closed,M coin,Bug Report,0,2026-09-02 12:04:37,2026-09-02 12:06:49,bonus_staking_coin_bugs
+11091,TKT-BN3LBRYE,2,601986,KARTIK954,10.0,open,M coin,Bug Report,0,2026-09-02 12:05:19,2026-09-02 12:07:04,bonus_staking_coin_bugs
+11092,TKT-QG580N4M,2,607513,DEVENDER61,8.0,solved,Mcoin,Bug Report,0,2026-09-02 13:10:06,2026-09-02 15:02:26,bonus_staking_coin_bugs
+11106,TKT-S2KNOXMK,2,607509,PAWAN205,10.0,open,Mcoin,Bug Report,0,2026-09-02 18:30:36,2026-09-02 18:54:03,bonus_staking_coin_bugs
+11118,TKT-PFDDI9HH,2,587840,FAHANU627,8.0,solved,Mcoin,Bug Report,0,2026-09-03 08:25:08,2026-09-03 12:11:04,bonus_staking_coin_bugs
+11119,TKT-QV6JA15L,1,6818,RAJ2402,8.0,closed,residual bonus,Bug Report,0,2026-09-03 08:25:49,2026-09-03 16:17:22,bonus_staking_coin_bugs
+11131,TKT-AHFBF01Y,1,56318,SATISH92,8.0,closed,W36 Residual Bonus,Bug Report,0,2026-09-03 13:49:53,2026-09-03 13:52:21,bonus_staking_coin_bugs
+11136,TKT-Z6AHUMBG,2,565989,AKHLESH565,8.0,closed,Mcoin,Bug Report,0,2026-09-03 15:22:05,2026-09-04 11:06:43,bonus_staking_coin_bugs
+11146,TKT-XPJYJVVO,1,1977,PROBOTX025,9.0,closed,Stake 25 profit bonus,Bug Report,0,2026-09-03 19:10:29,2026-09-04 17:48:37,bonus_staking_coin_bugs
+11182,TKT-VHEHSZ8S,1,30563,SANA4405,9.0,closed,MCOIN release karne ke sambandh m,Bug Report,0,2026-09-04 17:49:39,2026-09-04 18:11:48,bonus_staking_coin_bugs
+11197,TKT-X4Z8FUVC,1,36568,SABIRBHAI2,,open,My auto package has been returned.,Bug Report,0,2026-09-04 23:34:57,2026-09-04 23:34:57,bonus_staking_coin_bugs
+11198,TKT-NVOAJ1YW,1,49816,TANZEEM440505,,open,MCOIN Release karne ke sambandh m,Bug Report,0,2026-09-05 06:44:25,2026-09-05 06:44:25,bonus_staking_coin_bugs
+11213,TKT-TQNSBQYC,1,56075,RANIMODI5,,open,Holding bonus,Bug Report,0,2026-09-05 17:18:57,2026-09-05 17:18:57,bonus_staking_coin_bugs
+11214,TKT-FRQPMAIN,1,48013,AKDKSVNAAAA73,,open,Profit,Bug Report,0,2026-09-05 18:08:35,2026-09-05 18:08:35,bonus_staking_coin_bugs

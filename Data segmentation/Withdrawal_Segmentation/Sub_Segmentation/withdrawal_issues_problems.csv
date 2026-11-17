@@ -1,0 +1,199 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+105,TKT-EADMGMAA,2,451388,RAJSEHGAL3,10.0,open,Withdraw not done,Withdrawal,0,2026-02-08 05:01:47,2026-02-16 17:43:10,direct_withdrawal_request
+177,TKT-W35VFYUB,2,794722,RISERDAYA,,open,Withdrawal not done,Withdrawal,0,2026-02-14 11:25:52,2026-02-14 11:25:52,direct_withdrawal_request
+233,TKT-6D1CGMDD,1,2588,MISTU,8.0,closed,Withdrawal Issues,Withdrawal,0,2026-02-19 07:44:31,2026-02-25 11:00:55,direct_withdrawal_request
+234,TKT-XE0BIC6A,2,640665,JAS1800,,open,Withdrawal problem,Withdrawal,0,2026-02-19 09:55:29,2026-02-19 09:55:29,direct_withdrawal_request
+239,TKT-DFYUOHUN,2,612380,RAJAN552,,open,Withdrawal issue,Withdrawal,0,2026-02-19 21:24:01,2026-02-19 21:24:01,direct_withdrawal_request
+315,TKT-DPOHXIZF,2,371291,NATHADHILLON,,open,Withdraw is not done,Withdrawal,0,2026-02-26 15:40:12,2026-02-26 15:40:12,direct_withdrawal_request
+354,TKT-QMOUEGXB,2,860348,NEWDILIP50,,open,Withdrawal issue,Withdrawal,0,2026-02-28 17:42:18,2026-02-28 17:42:18,direct_withdrawal_request
+418,TKT-ZZ2VBQDI,2,864347,DAUD207,,open,Withdrawal issue,Withdrawal,0,2026-03-06 05:15:32,2026-03-06 05:15:32,direct_withdrawal_request
+419,TKT-CKC9QTRO,1,16494,KIRAN5669,9.0,closed,Withdrawal problem,Withdrawal,0,2026-03-06 05:59:55,2026-03-16 14:25:25,direct_withdrawal_request
+482,TKT-W2VHQSOU,2,864347,DAUD207,,open,Withdrawal issue,Withdrawal,0,2026-03-10 16:05:36,2026-03-10 16:05:36,direct_withdrawal_request
+627,TKT-AQRR2CNA,2,518090,MONUALAM,,open,Withdrawal problem,Withdrawal,0,2026-03-18 15:20:56,2026-03-18 15:20:56,direct_withdrawal_request
+629,TKT-MZVL2ZA2,2,865844,NEETU9434,,open,Withdrawal problem Title,Withdrawal,0,2026-03-18 16:21:30,2026-03-18 16:21:30,direct_withdrawal_request
+630,TKT-TRLCQX4G,2,849656,OMKARI053,,open,Withdrawal problem Title,Withdrawal,0,2026-03-18 17:02:52,2026-03-18 17:02:52,direct_withdrawal_request
+702,TKT-CM0DRO7T,1,19830,ADABALI,9.0,closed,Withdrawal issue,Withdrawal,0,2026-03-23 07:28:07,2026-03-26 14:12:04,direct_withdrawal_request
+723,TKT-PYGWD5SL,2,823426,KUNIKA1,,open,Withdrawal not done,Withdrawal,0,2026-03-24 13:27:01,2026-03-24 13:27:01,direct_withdrawal_request
+937,TKT-BXJDLUIX,1,8421,9801MUBARAK,8.0,solved,Withdrawal problems,Withdrawal,0,2026-04-10 12:16:04,2026-04-10 12:24:25,direct_withdrawal_request
+947,TKT-K3QZSTWZ,1,8421,9801MUBARAK,9.0,closed,Withdrawal problem,Withdrawal,0,2026-04-11 07:29:49,2026-04-16 12:30:51,direct_withdrawal_request
+973,TKT-QA9KPYPP,1,21700,IZHAR9939,9.0,closed,Withdrawal issue,Withdrawal,0,2026-04-13 11:00:54,2026-04-16 12:12:14,direct_withdrawal_request
+1071,TKT-7YYQQYSQ,2,612380,RAJAN552,8.0,closed,Withdrawal issue,Withdrawal,0,2026-04-17 20:02:03,2026-04-20 13:21:34,direct_withdrawal_request
+1081,TKT-ZWRWB4NP,1,44112,HIMU01,8.0,closed,Withdraw issue,Withdrawal,0,2026-04-18 07:37:33,2026-04-20 13:18:51,direct_withdrawal_request
+1108,TKT-1IOSMCBI,1,37706,GNAYAK07,10.0,open,withdrawal issue,Withdrawal,0,2026-04-19 00:57:10,2026-04-20 11:53:03,direct_withdrawal_request
+1135,TKT-DMZLPNTH,1,14519,NEHABHARTI,10.0,open,Withdrawal issue,Withdrawal,0,2026-04-20 09:49:09,2026-04-20 11:34:46,direct_withdrawal_request
+1142,TKT-FSQ2QKIY,1,43069,ABDULOSMAN,10.0,open,Withdrawal problem,Withdrawal,0,2026-04-20 12:03:26,2026-04-20 12:04:37,direct_withdrawal_request
+1215,TKT-Y4Y7CUD3,1,23023,INDRADEV6,8.0,closed,Withdrawal issue,Withdrawal,0,2026-04-22 07:39:08,2026-04-22 11:30:00,direct_withdrawal_request
+1242,TKT-WG9O3LOA,1,10792,MADHURI014,8.0,closed,Withdrawal problem,Withdrawal,0,2026-04-23 10:41:09,2026-04-23 12:08:30,direct_withdrawal_request
+1326,TKT-BLINQULY,2,518090,MONUALAM,8.0,closed,Withdrawal problem,Withdrawal,0,2026-04-26 09:26:41,2026-04-27 11:58:37,direct_withdrawal_request
+1346,TKT-WC8GJSNW,1,19471,BROTHER2,10.0,open,Withdrawal issues,Withdrawal,0,2026-04-27 18:03:21,2026-04-28 12:20:36,direct_withdrawal_request
+1475,TKT-WZDDJXBO,1,9013,MADHAVDAS47,10.0,open,Withdrawal problem,Withdrawal,0,2026-05-03 19:23:42,2026-05-04 10:12:42,direct_withdrawal_request
+1528,TKT-BXLEUUVS,1,20234,ORHAN,9.0,closed,Withdrawal issue,Withdrawal,0,2026-05-06 06:15:02,2026-05-11 15:24:38,direct_withdrawal_request
+1529,TKT-PHGUT4HJ,1,10449,USMAN030,10.0,open,Withdrawal issue,Withdrawal,0,2026-05-06 06:48:38,2026-05-07 10:17:24,direct_withdrawal_request
+1530,TKT-IIDJ8A26,1,9407,GHALIB025,9.0,closed,Withdrawal issue,Withdrawal,0,2026-05-06 07:12:44,2026-05-06 18:32:21,direct_withdrawal_request
+1539,TKT-KWENAR4M,1,17887,SERAJUL,9.0,closed,Withdrawal issues,Withdrawal,0,2026-05-06 15:06:11,2026-05-11 15:24:12,direct_withdrawal_request
+1650,TKT-RYPAJK0O,1,33831,AMARPRAKASH,10.0,open,Withdraw issue,Withdrawal,0,2026-05-13 18:43:31,2026-05-14 10:48:24,direct_withdrawal_request
+1703,TKT-UB5W3YHM,1,9622,PAPPUSAW2024P,10.0,open,Withdrawal problem,Withdrawal,0,2026-05-17 09:21:58,2026-05-18 10:38:23,direct_withdrawal_request
+1809,TKT-SP6BYUL0,1,33831,AMARPRAKASH,9.0,closed,Withdrawal issue,Withdrawal,0,2026-05-21 14:09:10,2026-05-22 17:48:52,direct_withdrawal_request
+1940,TKT-Y2QL6YEI,1,47168,SANDEEP1,10.0,open,Withdraw issue,Withdrawal,0,2026-05-23 12:41:03,2026-05-25 12:24:31,direct_withdrawal_request
+1943,TKT-JONHZLTB,1,9407,GHALIB025,8.0,closed,Withdrawal issue,Withdrawal,0,2026-05-23 13:12:23,2026-05-25 12:14:38,direct_withdrawal_request
+2002,TKT-VZ7GTGJZ,1,21713,DREAMDT25,8.0,closed,For withdrawal issue,Withdrawal,0,2026-05-24 22:54:07,2026-05-25 11:24:51,direct_withdrawal_request
+2056,TKT-3OPTDLD5,1,22195,RASIDMUNSHI12,8.0,closed,withdraw  problem,Withdrawal,0,2026-05-25 18:39:30,2026-05-29 12:25:03,direct_withdrawal_request
+2400,TKT-DA5UPK74,1,17821,SHIVBABA,9.0,closed,Withdrawal issue,Withdrawal,0,2026-06-01 18:56:45,2026-06-04 13:24:07,direct_withdrawal_request
+2501,TKT-FZESV9XP,1,4441,22555,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-03 13:30:47,2026-06-03 13:34:40,direct_withdrawal_request
+2566,TKT-LZXBZVEU,2,133292,LOVEY8727,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-03 23:12:28,2026-06-04 13:03:34,direct_withdrawal_request
+2568,TKT-EO9HNH8A,2,133292,LOVEY8727,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-03 23:17:01,2026-06-04 11:20:19,direct_withdrawal_request
+2593,TKT-SQSGMB7V,1,33716,WEALTHPRAVIN,8.0,solved,Withdrawal problem,Withdrawal,0,2026-06-04 12:19:44,2026-06-04 12:20:05,direct_withdrawal_request
+2668,TKT-LFZLHJBJ,2,208566,JAISWAL006,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-05 14:17:45,2026-06-05 14:28:34,direct_withdrawal_request
+2947,TKT-GHC70JQZ,1,5789,MURTAZA0143,9.0,closed,Withdrawal issue,Withdrawal,0,2026-06-09 16:13:41,2026-06-09 16:28:34,direct_withdrawal_request
+3148,TKT-VT47THPV,1,12603,KHOKHARSHAB,8.0,closed,Withdrawal issue settlement 216 y,Withdrawal,0,2026-06-12 21:08:54,2026-06-15 13:01:30,direct_withdrawal_request
+3165,TKT-TLRMR3LN,1,33678,RAVI0A2,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-13 07:04:04,2026-06-15 13:00:22,direct_withdrawal_request
+3322,TKT-OKNDZDGD,1,17328,MADHU1987,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-15 13:43:48,2026-06-15 13:47:58,direct_withdrawal_request
+3489,TKT-W54Y8N2Y,1,17328,MADHU1987,8.0,closed,Regarding Withdrawal issue,Withdrawal,0,2026-06-17 12:32:16,2026-06-17 12:38:52,direct_withdrawal_request
+3654,TKT-0P8WIT9H,1,1944,JINDH22,8.0,closed,Regarding for withdrawal issue,Withdrawal,0,2026-06-17 18:15:41,2026-06-18 13:31:23,direct_withdrawal_request
+3719,TKT-0BHF96MO,1,39387,SANDHU2004,9.0,closed,Withdrawal problem,Withdrawal,0,2026-06-17 22:44:18,2026-06-19 17:52:10,direct_withdrawal_request
+3720,TKT-SCUNYDHE,1,39387,SANDHU2004,9.0,closed,Withdrawal problem,Withdrawal,0,2026-06-17 22:45:24,2026-06-19 17:52:04,direct_withdrawal_request
+3800,TKT-LYPORMXV,1,37436,MKAAFTAB3,9.0,closed,Withdrawal Issue,Withdrawal,0,2026-06-18 11:45:57,2026-06-18 18:09:25,direct_withdrawal_request
+3900,TKT-GKN9GRTL,1,25401,RIZWAN313,8.0,closed,withdrawal error,Withdrawal,0,2026-06-18 15:36:19,2026-06-18 16:30:23,direct_withdrawal_request
+4165,TKT-PGZAD207,1,39387,SANDHU2004,9.0,closed,withdrawal problem,Withdrawal,0,2026-06-19 13:37:25,2026-06-22 13:21:16,direct_withdrawal_request
+4583,TKT-GHKVJILC,1,1944,JINDH22,8.0,closed,Withdrawal error,Withdrawal,0,2026-06-22 11:33:21,2026-06-22 11:35:57,direct_withdrawal_request
+4915,TKT-CBPWRHFR,1,17328,MADHU1987,9.0,closed,Withdrawal issue,Withdrawal,0,2026-06-23 17:55:05,2026-06-23 18:21:46,direct_withdrawal_request
+4998,TKT-D0OFDTSF,1,22701,RIDDHI1,8.0,closed,Withdrawal issue,Withdrawal,0,2026-06-24 10:49:56,2026-06-24 11:29:49,direct_withdrawal_request
+5064,TKT-0CY9H84M,1,36958,PAWANGUPTA5400,8.0,closed,Withdrawal Problem,Withdrawal,0,2026-06-24 15:34:58,2026-06-24 15:52:56,direct_withdrawal_request
+5545,TKT-OGDGAGS1,2,576424,ABHI17,10.0,open,Withdraw Problem,Withdrawal,0,2026-06-28 09:51:46,2026-06-29 13:53:07,direct_withdrawal_request
+5605,TKT-9OVKYR7O,1,9205,PROBOTXAK,8.0,closed,Withdraw issue,Withdrawal,0,2026-06-28 16:03:24,2026-06-29 13:12:41,direct_withdrawal_request
+5619,TKT-ZY01KYDT,1,19441,ANAYA2,10.0,open,Withdrawal Issue,Withdrawal,0,2026-06-28 19:01:09,2026-06-29 13:02:11,direct_withdrawal_request
+5957,TKT-I9Z0K6NI,1,33831,AMARPRAKASH,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-01 06:08:02,2026-07-01 16:30:38,direct_withdrawal_request
+6799,TKT-ZHAX4PES,1,31780,SURYAKALA,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-06 20:06:46,2026-07-07 12:23:20,direct_withdrawal_request
+6846,TKT-LVU8DHAX,2,364731,CAP7988,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-07 10:08:42,2026-07-07 12:22:14,direct_withdrawal_request
+6901,TKT-2EPNV2EH,1,33446,SHILPA95,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-07 17:32:48,2026-07-08 14:47:58,direct_withdrawal_request
+6947,TKT-NBYPVGO8,1,2090,MAJAMMIL7860,9.0,closed,Withdraw problem,Withdrawal,0,2026-07-07 22:04:36,2026-07-08 14:46:05,direct_withdrawal_request
+7101,TKT-KRFLULQQ,1,16638,DEEPAK1977,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-09 07:40:15,2026-07-09 11:49:59,direct_withdrawal_request
+7102,TKT-JY3XJ97P,1,14292,DEEPAK1976,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-09 07:43:04,2026-07-09 11:49:45,direct_withdrawal_request
+7247,TKT-BMEKOPXJ,1,733,ARUNJEE1,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-10 09:11:06,2026-07-10 16:25:58,direct_withdrawal_request
+7268,TKT-NBJMCBRN,1,52912,KINGZAID3,9.0,closed,Withdrawal problem,Withdrawal,0,2026-07-10 11:21:46,2026-07-10 16:26:13,direct_withdrawal_request
+7281,TKT-T8FRS90C,1,56748,ASIF5402,8.0,closed,Withdrawl issue,Withdrawal,0,2026-07-10 12:32:38,2026-07-10 12:48:51,direct_withdrawal_request
+7286,TKT-YPPNZ7OU,1,44015,GURJANT65,9.0,closed,Problem regarding withdrawal,Withdrawal,0,2026-07-10 13:25:15,2026-07-10 14:37:00,direct_withdrawal_request
+7312,TKT-1CWCXJUN,1,33446,SHILPA95,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-10 17:03:47,2026-07-10 17:18:25,direct_withdrawal_request
+7477,TKT-ZIN4OGXS,1,21046,POONAM36,9.0,closed,Withdrawal Releted,Withdrawal,0,2026-07-11 20:18:43,2026-07-13 15:12:39,direct_withdrawal_request
+7572,TKT-BBWZD5M9,1,38068,ARUNPANDIT,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-13 03:50:39,2026-07-13 11:18:08,direct_withdrawal_request
+7592,TKT-XPGTJ1NC,2,364731,CAP7988,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-13 10:16:42,2026-07-13 10:49:11,direct_withdrawal_request
+7627,TKT-1LVAPJ0I,1,41352,RUPESHMEHTA,10.0,open,Withdrawal problem,Withdrawal,0,2026-07-13 15:43:27,2026-07-13 15:57:42,direct_withdrawal_request
+7717,TKT-QBSQYUV7,1,35245,SMRUTI3004,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-14 11:11:42,2026-07-16 11:32:41,direct_withdrawal_request
+7738,TKT-W1MQMJOG,1,17328,MADHU1987,8.0,closed,Withdrawal issue,Withdrawal,0,2026-07-14 12:49:56,2026-07-14 13:09:39,direct_withdrawal_request
+7759,TKT-BW2JEFJ4,1,40741,SIMONSONDHI,8.0,closed,Issue with the Withdrawal,Withdrawal,0,2026-07-14 14:51:07,2026-07-14 15:12:19,direct_withdrawal_request
+7780,TKT-YCVMZ1I9,1,24168,DILIP25,9.0,closed,Withdrawal problem,Withdrawal,0,2026-07-14 18:02:00,2026-07-14 19:00:48,direct_withdrawal_request
+7897,TKT-XIQ3L7ZF,2,364731,CAP7988,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-15 17:58:42,2026-07-15 18:29:56,direct_withdrawal_request
+7932,TKT-RKPY9WXN,1,56246,BAJRANGI62,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-15 23:58:14,2026-07-17 11:08:14,direct_withdrawal_request
+7981,TKT-XATS5RDU,1,13377,SANGALBIDHYA6,10.0,open,Withdrawal problem,Withdrawal,0,2026-07-16 11:40:52,2026-07-16 11:41:08,direct_withdrawal_request
+7999,TKT-AH49LW0O,1,4883,MANISH1976,8.0,solved,Withdraw problem,Withdrawal,0,2026-07-16 12:50:52,2026-07-16 12:57:21,direct_withdrawal_request
+8029,TKT-WG4Q45BL,1,12170,PATELNILOFAR25,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-16 15:57:40,2026-07-16 16:10:28,direct_withdrawal_request
+8102,TKT-ETPPNYSG,2,700651,SATINDERLAUHKA,10.0,open,Withdrawals issue,Withdrawal,0,2026-07-17 10:40:16,2026-07-17 11:01:56,direct_withdrawal_request
+8168,TKT-VVLJFWMB,1,5789,MURTAZA0143,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-17 22:43:54,2026-07-20 15:35:32,direct_withdrawal_request
+8183,TKT-ZJ7T8FMG,1,44401,LALLA30,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-18 09:11:36,2026-07-20 15:33:55,direct_withdrawal_request
+8233,TKT-EIIX3HP2,1,55513,AMMIJAANR2N2,10.0,open,withdrawal releted,Withdrawal,0,2026-07-18 17:23:58,2026-07-20 15:31:07,direct_withdrawal_request
+8286,TKT-EESFYOPN,1,19889,NPANDIT24,8.0,closed,Withdrawal issue,Withdrawal,0,2026-07-19 14:10:12,2026-07-20 15:26:40,direct_withdrawal_request
+8315,TKT-MBIKAJ4B,1,55513,AMMIJAANR2N2,10.0,open,withdrawal releted,Withdrawal,0,2026-07-19 23:06:40,2026-07-20 11:25:15,direct_withdrawal_request
+8316,TKT-9NJHK1R7,1,55512,AMMIJAANR2N1,10.0,open,withdrawal releted,Withdrawal,0,2026-07-19 23:08:38,2026-07-20 11:13:38,direct_withdrawal_request
+8325,TKT-JFQ4H4XN,2,364731,CAP7988,10.0,open,Withdrawal issue,Withdrawal,0,2026-07-20 07:27:19,2026-07-20 11:11:38,direct_withdrawal_request
+8413,TKT-IH4NSBE9,1,55513,AMMIJAANR2N2,10.0,open,withdrawal releted,Withdrawal,0,2026-07-21 11:18:08,2026-07-21 11:28:30,direct_withdrawal_request
+8468,TKT-WN3HSAIO,1,39280,RAHUL0806,10.0,open,WITHDRAWAL ISSUE,Withdrawal,0,2026-07-22 11:50:22,2026-07-22 11:51:15,direct_withdrawal_request
+8469,TKT-ZO3AXWAN,1,39277,RS08,10.0,open,withdrawal issue,Withdrawal,0,2026-07-22 11:52:33,2026-07-22 12:04:31,direct_withdrawal_request
+8529,TKT-IKYAPRMM,1,44188,YU07,9.0,closed,Withdrawal Problem,Withdrawal,0,2026-07-23 09:00:41,2026-07-23 18:11:34,direct_withdrawal_request
+8594,TKT-7QRNNFLD,1,17328,MADHU1987,10.0,open,Regarding Withdrawal issue,Withdrawal,0,2026-07-24 10:04:45,2026-07-24 11:06:35,direct_withdrawal_request
+8658,TKT-C2JLCZRQ,1,7752,INDU312000,9.0,closed,withdraw problem,Withdrawal,0,2026-07-25 08:31:51,2026-07-27 17:48:45,direct_withdrawal_request
+8757,TKT-L7IDTA5U,1,19889,NPANDIT24,8.0,closed,Withdrawal issue,Withdrawal,0,2026-07-26 11:20:00,2026-08-03 11:57:30,direct_withdrawal_request
+8769,TKT-GZFLDOMX,1,15719,KEHAR3,8.0,solved,Withdrawal  problem,Withdrawal,0,2026-07-26 13:34:28,2026-07-27 12:12:58,direct_withdrawal_request
+8841,TKT-QKC3DUIZ,1,55513,AMMIJAANR2N2,10.0,open,withdrawal releted,Withdrawal,0,2026-07-27 13:16:55,2026-07-27 13:25:56,direct_withdrawal_request
+8860,TKT-LT8DBYEM,1,40652,POOJAYADAV,9.0,closed,Withdrawal problem,Withdrawal,0,2026-07-27 17:16:31,2026-07-28 14:02:27,direct_withdrawal_request
+8870,TKT-6CS1YBS6,1,45249,RISHAB1987,9.0,closed,Withdrawal not done,Withdrawal,0,2026-07-27 18:31:13,2026-07-28 14:38:26,direct_withdrawal_request
+8938,TKT-Y7FR8JUV,1,17836,SARFARAJS,9.0,closed,Withdrawal Problem,Withdrawal,0,2026-07-28 18:40:25,2026-07-28 18:47:58,direct_withdrawal_request
+9043,TKT-SFJITRX2,1,15719,KEHAR3,8.0,solved,Ful lWithdrawal problem,Withdrawal,0,2026-07-30 11:10:36,2026-07-30 11:31:30,direct_withdrawal_request
+9078,TKT-6TTYZSI5,1,58748,HYD900,9.0,closed,withdrawal releted,Withdrawal,0,2026-07-30 20:01:44,2026-07-31 15:36:14,direct_withdrawal_request
+9079,TKT-AQDUV0KG,1,52741,RAHUL20,9.0,closed,Withdraw issue,Withdrawal,0,2026-07-30 20:39:58,2026-07-31 15:20:55,direct_withdrawal_request
+9082,TKT-JLNOQD0R,1,20189,GAUTAMBGP,9.0,closed,Sir withdrawal not done by token pocket,Withdrawal,0,2026-07-30 22:02:52,2026-07-31 15:36:23,direct_withdrawal_request
+9107,TKT-KGCLZ0L8,1,14519,NEHABHARTI,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-31 09:36:27,2026-07-31 15:54:24,direct_withdrawal_request
+9108,TKT-FUWM5VHR,1,52797,NEHABHARTI1,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-31 09:41:30,2026-07-31 15:54:27,direct_withdrawal_request
+9109,TKT-RWUUVOGQ,1,52903,SELENIUM,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-31 09:45:55,2026-07-31 15:54:31,direct_withdrawal_request
+9110,TKT-BAKFWNBJ,1,19911,LAKSHIT,9.0,closed,Withdrawal issue,Withdrawal,0,2026-07-31 09:48:51,2026-07-31 15:54:34,direct_withdrawal_request
+9124,TKT-Q4AE5R24,1,16857,ALIDXB,9.0,closed,Withdrawal issues,Withdrawal,0,2026-07-31 11:16:19,2026-07-31 15:54:52,direct_withdrawal_request
+9131,TKT-EOIUPQXX,1,44360,TEAMJMD2,9.0,closed,Withdrawal Issue,Withdrawal,0,2026-07-31 12:47:27,2026-07-31 15:55:05,direct_withdrawal_request
+9132,TKT-0JGGRRUB,1,36838,VIKASBATRA01,9.0,closed,Withdrawal Issue,Withdrawal,0,2026-07-31 12:50:13,2026-07-31 15:55:09,direct_withdrawal_request
+9144,TKT-3FJSSYH8,1,38050,TEAMJMD,9.0,closed,Withdrawal Issue,Withdrawal,0,2026-07-31 16:37:08,2026-07-31 18:56:00,direct_withdrawal_request
+9145,TKT-AFFPTKFV,1,56271,TEAMJMD4,9.0,closed,WITHDRAWL ISSUE,Withdrawal,0,2026-07-31 16:53:30,2026-07-31 18:56:38,direct_withdrawal_request
+9162,TKT-WWIO3LFN,1,41765,SPLUCKY,9.0,closed,I am unable to place a withdrawal request. Could you please let me know the reason and help me resolve this issue as soon as possible?,Withdrawal,0,2026-07-31 19:29:17,2026-08-03 17:13:11,direct_withdrawal_request
+9196,TKT-AQVBMFBD,1,7115,EWAKARSH03,9.0,closed,wealth 25 withdrawal issue,Withdrawal,0,2026-08-01 11:15:06,2026-08-03 16:58:11,direct_withdrawal_request
+9201,TKT-JINRYDDF,1,14520,KRISHANKANT,8.0,closed,Withdrawal issue.,Withdrawal,0,2026-08-01 12:17:31,2026-08-03 14:23:24,direct_withdrawal_request
+9202,TKT-TCWBG83P,1,19889,NPANDIT24,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-01 12:19:44,2026-08-03 14:23:28,direct_withdrawal_request
+9219,TKT-TRB26ZM8,1,36854,NEHAVIKASBATRA,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-01 16:13:48,2026-08-03 14:23:41,direct_withdrawal_request
+9221,TKT-YIB4TEFV,1,38043,SHUBHANBATRA13,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-01 16:18:13,2026-08-03 14:23:56,direct_withdrawal_request
+9222,TKT-S7PRKAVN,1,56216,TEAMJMD3,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-01 16:21:10,2026-08-03 14:24:01,direct_withdrawal_request
+9228,TKT-FPUZZKWE,1,54945,JITENDRA166,8.0,closed,Problem of withdrawal,Withdrawal,0,2026-08-01 19:05:41,2026-08-03 14:24:26,direct_withdrawal_request
+9270,TKT-OGTL554A,1,17243,PRIYANKA1996,8.0,closed,Regarding Withdrawal issue,Withdrawal,0,2026-08-02 10:43:49,2026-08-03 14:17:14,direct_withdrawal_request
+9317,TKT-8COQGEMN,1,12999,KAIF0099,8.0,closed,Withdrawal problem,Withdrawal,0,2026-08-03 00:07:25,2026-08-03 11:56:57,direct_withdrawal_request
+9322,TKT-ANHPAHCE,1,18940,JACK,8.0,closed,Withdrawal issues,Withdrawal,0,2026-08-03 07:06:16,2026-08-03 11:55:09,direct_withdrawal_request
+9326,TKT-IESVTOAI,1,7012,NIKKU1986,8.0,closed,Welth 25 withdrawal issues,Withdrawal,0,2026-08-03 07:45:53,2026-08-03 11:54:06,direct_withdrawal_request
+9327,TKT-LRF7WUCB,1,5247,ESHWARI20,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-03 07:46:13,2026-08-03 11:54:00,direct_withdrawal_request
+9335,TKT-WUOFWNBW,1,23222,SIKANDER5400,8.0,closed,withdrawal issue,Withdrawal,0,2026-08-03 09:49:45,2026-08-03 11:52:39,direct_withdrawal_request
+9348,TKT-EMYQWF4L,1,54039,EWAB8877,8.0,closed,Withdrawal Problem,Withdrawal,0,2026-08-03 11:50:29,2026-08-03 11:52:56,direct_withdrawal_request
+9349,TKT-IWCYLVUZ,1,54041,EWSRAJ8877,8.0,closed,Withdrawal Problem,Withdrawal,0,2026-08-03 11:54:35,2026-08-03 11:56:12,direct_withdrawal_request
+9373,TKT-YTXZUYZT,1,20189,GAUTAMBGP,9.0,closed,Withdrawal not done yet token pocket,Withdrawal,0,2026-08-03 18:59:24,2026-08-04 13:12:47,direct_withdrawal_request
+9389,TKT-8ENIMOBN,1,20093,NIKITA1989,10.0,open,Withdrawal issue,Withdrawal,0,2026-08-04 00:41:08,2026-08-04 10:59:52,direct_withdrawal_request
+9427,TKT-KQ9AWUYQ,1,47282,MANJUMGS001,8.0,closed,Withdrawal issue,Withdrawal,0,2026-08-04 12:34:24,2026-08-04 12:57:45,direct_withdrawal_request
+9437,TKT-H6CHISGH,1,36838,VIKASBATRA01,10.0,open,Withdrawal Issue,Withdrawal,0,2026-08-04 14:38:54,2026-08-04 14:40:26,direct_withdrawal_request
+9438,TKT-KRCJ6NCV,1,38050,TEAMJMD,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-04 14:40:44,2026-08-04 14:42:48,direct_withdrawal_request
+9439,TKT-HX1CBPJG,1,44360,TEAMJMD2,10.0,open,Withdrawal Issue,Withdrawal,0,2026-08-04 14:43:09,2026-08-04 15:14:58,direct_withdrawal_request
+9440,TKT-UML47PKC,1,56271,TEAMJMD4,10.0,open,Withdrawal Issue,Withdrawal,0,2026-08-04 14:46:47,2026-08-04 15:15:18,direct_withdrawal_request
+9458,TKT-YVPGGLBF,1,55512,AMMIJAANR2N1,8.0,closed,Withdrawal Releted,Withdrawal,0,2026-08-04 19:13:37,2026-08-05 14:33:03,direct_withdrawal_request
+9489,TKT-VBSBPAP9,1,55512,AMMIJAANR2N1,8.0,closed,withdrawal releted,Withdrawal,0,2026-08-05 06:57:08,2026-08-05 10:28:21,direct_withdrawal_request
+9537,TKT-J2QISPKB,1,38050,TEAMJMD,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-05 12:52:37,2026-08-05 13:13:23,direct_withdrawal_request
+9556,TKT-YKDQKVQN,1,18915,PATELSAJID25,8.0,closed,withdrawal of problem,Withdrawal,0,2026-08-05 16:10:59,2026-08-05 16:19:29,direct_withdrawal_request
+9569,TKT-ZTMNIWDY,1,15116,DK81,8.0,closed,Withdrawl Issue,Withdrawal,0,2026-08-05 19:05:39,2026-08-06 12:02:45,direct_withdrawal_request
+9579,TKT-UDGPZIDX,1,56774,APOORV11,8.0,closed,Withdrawal issue,Withdrawal,0,2026-08-05 20:50:17,2026-08-06 12:02:13,direct_withdrawal_request
+9609,TKT-SQHFCCHS,1,23247,JASHAN108,8.0,closed,Withdrawal issue,Withdrawal,0,2026-08-06 10:48:03,2026-08-06 10:50:16,direct_withdrawal_request
+9625,TKT-YHKSBFZK,1,55512,AMMIJAANR2N1,9.0,closed,withdrawal releted,Withdrawal,0,2026-08-06 16:37:55,2026-08-06 16:43:26,direct_withdrawal_request
+9658,TKT-0IU0WYZV,1,35890,3KIRPAL1966,10.0,open,Problem withdrawal,Withdrawal,0,2026-08-07 05:52:20,2026-08-07 11:15:17,direct_withdrawal_request
+9676,TKT-VGOIUK1T,1,19889,NPANDIT24,8.0,solved,Withdrawal Issue,Withdrawal,0,2026-08-07 09:29:33,2026-08-10 14:15:21,direct_withdrawal_request
+9681,TKT-QM3CABMF,1,23222,SIKANDER5400,8.0,closed,withdrawal issues,Withdrawal,0,2026-08-07 11:45:14,2026-08-07 11:48:55,direct_withdrawal_request
+9682,TKT-Z4U7PIEM,1,21170,SANJEEV9,9.0,closed,Withdrawal problem,Withdrawal,0,2026-08-07 11:51:02,2026-08-07 15:39:51,direct_withdrawal_request
+9696,TKT-FBEZPJG0,1,50322,JAVEDRAHAT44,9.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-07 14:57:25,2026-08-07 15:37:01,direct_withdrawal_request
+9776,TKT-GCA4TQFW,1,48982,SHASHWATPATEL1200,8.0,closed,Facing issue in withdrawel,Withdrawal,0,2026-08-08 11:03:47,2026-08-10 14:23:41,direct_withdrawal_request
+9809,TKT-VWMOPZYV,1,38050,TEAMJMD,10.0,open,Withdrawal Issue,Withdrawal,0,2026-08-08 19:10:12,2026-08-10 13:20:12,direct_withdrawal_request
+9836,TKT-CLLJHH5O,1,35890,3KIRPAL1966,10.0,open,My problem withdrawal,Withdrawal,0,2026-08-09 04:30:25,2026-08-10 13:22:02,direct_withdrawal_request
+9846,TKT-RCRLIB6A,1,49346,SANJAY9598,10.0,open,Withdrawal problem,Withdrawal,0,2026-08-09 09:42:08,2026-08-10 13:22:22,direct_withdrawal_request
+9926,TKT-UIKF0KFG,1,56774,APOORV11,8.0,closed,Withdrawal issue,Withdrawal,0,2026-08-10 14:43:35,2026-08-11 12:35:08,direct_withdrawal_request
+9927,TKT-G57EEVGA,2,672034,MALKIT7589,10.0,open,Withdrawal issue,Withdrawal,0,2026-08-10 14:48:06,2026-08-10 15:36:43,direct_withdrawal_request
+9933,TKT-5L7TSDMA,1,15116,DK81,9.0,closed,Withdrawal issue,Withdrawal,0,2026-08-10 18:02:33,2026-08-11 13:56:53,direct_withdrawal_request
+9969,TKT-TUSGLBWL,1,17328,MADHU1987,8.0,closed,Withdrawal issue,Withdrawal,0,2026-08-11 14:37:13,2026-08-12 10:35:46,direct_withdrawal_request
+9991,TKT-LUPCP4AQ,1,49346,SANJAY9598,8.0,solved,Withdrawal problem,Withdrawal,0,2026-08-12 07:28:36,2026-08-13 12:32:08,direct_withdrawal_request
+9996,TKT-8SPV8DHQ,1,55512,AMMIJAANR2N1,8.0,closed,withdrawal releted,Withdrawal,0,2026-08-12 12:47:58,2026-08-12 13:58:37,direct_withdrawal_request
+10007,TKT-MJLLUKUF,1,49346,SANJAY9598,9.0,solved,Withdrawal problem,Withdrawal,0,2026-08-12 17:08:40,2026-08-12 17:37:12,direct_withdrawal_request
+10041,TKT-AKZAFMC7,1,17328,MADHU1987,10.0,open,Regarding Withdrawal issue in wealth 25,Withdrawal,0,2026-08-13 12:55:13,2026-08-13 14:18:35,direct_withdrawal_request
+10103,TKT-ONAE4RHU,2,672034,MALKIT7589,10.0,open,withdrawal issue,Withdrawal,0,2026-08-14 12:55:07,2026-08-17 18:17:16,direct_withdrawal_request
+10230,TKT-IITC8EOF,2,561408,GAGANCHAHAL61,10.0,open,withdrawal problem,Withdrawal,0,2026-08-16 07:27:20,2026-08-17 15:17:04,direct_withdrawal_request
+10436,TKT-0KOF0WTN,1,21171,SINUSINGER4U,8.0,closed,Withdrawal problem,Withdrawal,0,2026-08-19 12:48:18,2026-08-19 13:05:37,direct_withdrawal_request
+10488,TKT-XVZAH3ZI,1,55513,AMMIJAANR2N2,8.0,closed,withdrawal releted,Withdrawal,0,2026-08-20 12:48:18,2026-08-20 12:50:50,direct_withdrawal_request
+10552,TKT-FR5PVWGA,1,58748,HYD900,8.0,closed,withdrawal releted,Withdrawal,0,2026-08-21 13:13:35,2026-08-21 14:20:01,direct_withdrawal_request
+10568,TKT-SS9ENXWQ,1,9407,GHALIB025,9.0,closed,Withdrawal problem,Withdrawal,0,2026-08-21 19:25:10,2026-08-24 18:07:45,direct_withdrawal_request
+10571,TKT-AWNJCSW9,1,55512,AMMIJAANR2N1,9.0,solved,withdrawal releted,Withdrawal,0,2026-08-21 21:58:39,2026-08-24 18:32:51,direct_withdrawal_request
+10598,TKT-5AFOFVD0,1,58748,HYD900,9.0,solved,withdrawal releted,Withdrawal,0,2026-08-22 11:02:30,2026-08-24 16:57:51,direct_withdrawal_request
+10599,TKT-HMAYVZK7,1,55513,AMMIJAANR2N2,9.0,closed,withdrawal releted,Withdrawal,0,2026-08-22 11:06:34,2026-08-24 17:43:47,direct_withdrawal_request
+10626,TKT-XB40KUSF,1,9407,GHALIB025,8.0,solved,Monthly withdrawal issue,Withdrawal,0,2026-08-23 09:18:30,2026-08-24 11:51:35,direct_withdrawal_request
+10654,TKT-SXE3JIRT,1,56774,APOORV11,8.0,closed,Withdrawal Issue,Withdrawal,0,2026-08-23 21:53:25,2026-08-24 10:30:58,direct_withdrawal_request
+10678,TKT-FQ8YCYAV,1,54052,MADHU1983,8.0,closed,Withdraw issue,Withdrawal,0,2026-08-24 12:48:18,2026-08-24 12:49:34,direct_withdrawal_request
+10703,TKT-5MWJEQEO,2,58957,SATINDER91,10.0,open,Withdrawals issue,Withdrawal,0,2026-08-24 18:51:01,2026-08-25 11:39:21,direct_withdrawal_request
+10704,TKT-DGGQLKJ3,2,248036,GOPIPANNU2,10.0,open,Withdrawals issue,Withdrawal,0,2026-08-24 18:54:58,2026-08-25 17:01:10,direct_withdrawal_request
+10705,TKT-0JOLZUTE,2,71731,DARSHAN48,10.0,open,Withdrawal issue,Withdrawal,0,2026-08-24 18:59:05,2026-08-25 11:35:37,direct_withdrawal_request
+10706,TKT-LA0DHY2M,2,272129,GURMEETKAUR002,10.0,open,Withdrawals issue,Withdrawal,0,2026-08-24 19:02:45,2026-08-25 11:35:25,direct_withdrawal_request
+10789,TKT-YS6G27QL,1,55513,AMMIJAANR2N2,8.0,closed,withdrawal releted,Withdrawal,0,2026-08-26 10:37:09,2026-08-27 13:14:18,direct_withdrawal_request
+10835,TKT-5FERWDXP,1,55513,AMMIJAANR2N2,8.0,solved,withdrawal releted,Withdrawal,0,2026-08-27 09:10:58,2026-08-27 13:23:35,direct_withdrawal_request
+10939,TKT-NQ7CM8QD,1,59800,HYD900TWO,9.0,closed,Withdrawal releted,Withdrawal,0,2026-08-29 12:22:15,2026-08-31 17:48:12,direct_withdrawal_request
+10958,TKT-SYPB7PSF,1,59800,HYD900TWO,9.0,closed,Withdrawal releted,Withdrawal,0,2026-08-30 08:10:16,2026-08-31 18:58:04,direct_withdrawal_request
+10965,TKT-BZNQDIGT,1,55513,AMMIJAANR2N2,9.0,closed,Withdrawal releted,Withdrawal,0,2026-08-30 11:10:16,2026-08-31 17:58:18,direct_withdrawal_request
+11042,TKT-M5OVK68G,1,22367,ASO251913,9.0,solved,Withdrawal issue,Withdrawal,0,2026-09-01 11:48:47,2026-09-01 18:53:26,direct_withdrawal_request
+11080,TKT-5LOD8TXC,2,317796,FAISAL1988,10.0,open,Withdrawal issue,Withdrawal,0,2026-09-02 10:14:19,2026-09-02 10:45:52,direct_withdrawal_request
+11120,TKT-UACZOWPX,2,650103,FUTUREAHEAD2519,10.0,open,Withdrawal issue,Withdrawal,0,2026-09-03 08:41:29,2026-09-03 11:13:07,direct_withdrawal_request
+11139,TKT-WIGDQGMK,1,13210,KUMARAJAY,9.0,solved,Withdrawal issue,Withdrawal,0,2026-09-03 17:05:37,2026-09-04 17:24:00,direct_withdrawal_request
+11192,TKT-TFORN99L,1,59800,HYD900TWO,,open,Withdrawal releted,Withdrawal,0,2026-09-04 19:54:03,2026-09-04 19:54:03,direct_withdrawal_request
+11202,TKT-V0WEALNH,1,59800,HYD900TWO,,open,Withdrawal releted,Withdrawal,0,2026-09-05 09:46:33,2026-09-05 09:46:33,direct_withdrawal_request
+11225,TKT-YGK3L9JD,1,59800,HYD900TWO,,open,Withdrawal releted,Withdrawal,0,2026-09-06 08:38:57,2026-09-06 08:38:57,direct_withdrawal_request
+11231,TKT-5VQ0YZAD,2,837417,15PRO1,,open,Withdrawal releted,Withdrawal,0,2026-09-06 11:19:40,2026-09-06 11:19:40,direct_withdrawal_request

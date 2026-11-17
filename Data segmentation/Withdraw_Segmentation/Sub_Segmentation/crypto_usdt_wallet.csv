@@ -1,0 +1,8 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+839,TKT-8WQHAWFF,3,753,Rakesh Kumar,8.0,solved,how to withdraw mcoin,Withdraw,0,2026-04-03 15:29:30,2026-04-06 11:57:40,crypto_usdt_wallet
+1395,TKT-KYZPZWU5,3,7758,Jatinder Singh,8.0,solved,wallet,Withdraw,0,2026-04-29 23:18:26,2026-04-30 11:40:41,crypto_usdt_wallet
+1531,TKT-SHKNBVIY,3,8517,azim uddin,8.0,solved,wallet address,Withdraw,0,2026-05-06 08:15:52,2026-05-07 10:16:55,crypto_usdt_wallet
+5927,TKT-86ZRCTNV,3,124,Sahil .,8.0,closed,wallet,Withdraw,0,2026-06-30 19:06:16,2026-07-01 10:50:48,crypto_usdt_wallet
+8172,TKT-L0DNJAXA,3,3432,Md Imteyaz Alam Ansari,9.0,closed,m coin,Withdraw,0,2026-07-18 00:06:19,2026-07-20 18:50:47,crypto_usdt_wallet
+10357,TKT-4ASIXOLK,3,7550,syedabid quadri,8.0,solved,i need 10000000 m coin,Withdraw,0,2026-08-18 09:21:46,2026-08-18 14:30:16,crypto_usdt_wallet
+10663,TKT-EF1UYPHZ,3,10293,syedabid quadri,8.0,closed,coin not credited,Withdraw,0,2026-08-24 07:28:21,2026-08-24 10:34:14,crypto_usdt_wallet

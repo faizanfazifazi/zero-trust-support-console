@@ -1,0 +1,17 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+252,TKT-BTXTOB4I,2,767139,RISER19SARBJEET,10.0,open,Kindly send my token in arthbit account,Withdrawal,0,2026-02-21 07:04:09,2026-02-24 12:09:08,general_unspecified_withdrawal
+487,TKT-GEMWS1SC,2,37849,FARHAN95,8.0,solved,Adres change,Withdrawal,0,2026-03-10 23:59:13,2026-03-13 12:00:07,general_unspecified_withdrawal
+869,TKT-A5AR89ML,2,748412,RISER04SARBJEET,,open,Request withrol in my arthwit account,Withdrawal,0,2026-04-06 09:51:05,2026-04-06 09:51:05,general_unspecified_withdrawal
+1019,TKT-NZKALECM,1,11596,YOGITA2,9.0,closed,Issue Regarding 5x Earning Limit Restriction on My Account,Withdrawal,0,2026-04-15 18:17:26,2026-04-16 14:50:39,general_unspecified_withdrawal
+3136,TKT-LITM2P7N,1,4441,22555,9.0,closed,Account statement adjusted bailance,Withdrawal,0,2026-06-12 15:47:19,2026-06-15 12:54:56,general_unspecified_withdrawal
+4084,TKT-T60QIH78,1,23483,KASHIF9,8.0,closed,Account link with username kashif,Withdrawal,0,2026-06-19 11:13:28,2026-06-22 14:27:12,general_unspecified_withdrawal
+7713,TKT-WCNQB7XK,1,13465,SKT9,8.0,closed,Account Profile,Withdrawal,0,2026-07-14 10:56:06,2026-07-14 10:56:29,general_unspecified_withdrawal
+7808,TKT-TQ6YPOJU,1,4441,22555,9.0,closed,Please check the transactions history on my account from May 14 to July 14 and rectify the account balance.,Withdrawal,0,2026-07-14 23:56:21,2026-07-15 18:34:35,general_unspecified_withdrawal
+8292,TKT-7HQER7X2,1,8030,YASHPC47,9.0,closed,Trading Account,Withdrawal,0,2026-07-19 16:07:20,2026-07-20 18:38:03,general_unspecified_withdrawal
+9129,TKT-7S06DXLL,1,50463,ANAYAH14,9.0,closed,Account closer,Withdrawal,0,2026-07-31 12:35:14,2026-07-31 14:21:25,general_unspecified_withdrawal
+9418,TKT-RZYBUONA,2,565053,VOLANATHGUCHHAIT,8.0,closed,Statement,Withdrawal,0,2026-08-04 11:38:51,2026-08-04 12:10:06,general_unspecified_withdrawal
+9961,TKT-AKOUETRV,1,50463,ANAYAH14,8.0,solved,Parmament account closer,Withdrawal,0,2026-08-11 11:15:15,2026-08-11 11:24:33,general_unspecified_withdrawal
+10075,TKT-Z92V0KXR,1,40662,DRSATWINDER267,8.0,solved,HOLD MY ACCOUNT,Withdrawal,0,2026-08-14 09:32:40,2026-08-17 17:58:38,general_unspecified_withdrawal
+10117,TKT-LPFOIQNR,1,14761,SIKANDER52P,8.0,solved,MINUS ACCOUNT,Withdrawal,0,2026-08-14 13:55:46,2026-08-17 14:25:34,general_unspecified_withdrawal
+10554,TKT-RGWRFS1N,1,58109,MOHAMAMD2503,9.0,closed,Request for Complete Clarification and Reconciliation of My Account,Withdrawal,0,2026-08-21 16:04:09,2026-08-21 16:53:00,general_unspecified_withdrawal
+10890,TKT-EZBZQYPX,1,17812,SHABANA007,8.0,closed,Wrong accounting,Withdrawal,0,2026-08-28 08:05:07,2026-08-28 11:59:49,general_unspecified_withdrawal

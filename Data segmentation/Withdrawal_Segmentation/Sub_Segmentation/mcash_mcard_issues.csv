@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+3051,TKT-QPDUBGBW,2,146362,ABDULLAH77,10.0,open,Mcash or ebank,Withdrawal,0,2026-06-11 09:31:12,2026-06-11 13:11:58,bank_ebanking_transfer

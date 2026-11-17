@@ -1,0 +1,10 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+829,TKT-OFAEJ4V4,1,11463,ANITA012,8.0,solved,need to stop withdrawal my wallet has been compromised!!!!!!,Withdrawal,0,2026-04-03 06:40:05,2026-04-06 11:52:20,cancellation_refunds
+832,TKT-RKRCRFDB,1,11463,ANITA012,9.0,closed,My wallet is compromised via EIP-7702 Smart Contract Delegation. Stop the transaction.,Withdrawal,0,2026-04-03 07:59:24,2026-04-08 14:50:59,cancellation_refunds
+1700,TKT-BXHZRMFQ,1,22796,MTG4,8.0,closed,Trading withdrawals stopped,Withdrawal,0,2026-05-16 21:07:31,2026-05-18 10:44:32,cancellation_refunds
+3008,TKT-WRSONR1F,2,229624,ABDULLAH06,8.0,closed,My withdrawal is showings paid in my back office but not showing in my metamask wallet 0x868335e208AD695183f1eAA50Be89c80D8f0FaEb,Withdrawal,0,2026-06-10 15:00:34,2026-06-11 13:13:06,cancellation_refunds
+5140,TKT-SQLDCSMA,1,26569,MUKESH26,8.0,closed,Subject: Request for Review – Pending Interest After Withdrawal Cancellation,Withdrawal,0,2026-06-25 08:05:01,2026-06-25 16:43:07,cancellation_refunds
+5141,TKT-KJWS0DHM,1,26571,MUKESH25,10.0,open,Subject: Withdrawal Cancellation and Missing Interest Credit,Withdrawal,0,2026-06-25 08:10:03,2026-06-25 16:31:55,cancellation_refunds
+5806,TKT-IZNHG2NJ,1,40483,DILSHAD787,9.0,closed,"Please start withdrawal of trading deposit USDT. Trading Deposit withdrawal is correctly Stopped, so please start withdrawal of trading deposit USDT.",Withdrawal,0,2026-06-30 06:43:22,2026-06-30 11:55:05,cancellation_refunds
+10279,TKT-NO9EF9XB,1,19099,BOT013,10.0,open,"My Trading profit not showing my Trading wallet & my trading profit withdrawal cancel Jul 25, 2026 12:18 AM",Withdrawal,0,2026-08-16 23:19:35,2026-08-17 14:47:49,cancellation_refunds
+10280,TKT-54LSZFOO,1,19100,BOT014,10.0,open,"My Trading profit not showing my Trading wallet & my trading profit withdrawal cancel Jul 25, 2026 12:20 AM",Withdrawal,0,2026-08-16 23:28:26,2026-08-17 14:47:37,cancellation_refunds

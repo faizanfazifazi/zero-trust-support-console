@@ -1,0 +1,74 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+38,TKT-QF9XOA5F,1,14519,NEHABHARTI,9.0,closed,Fund transfer,Withdrawal,0,2026-01-29 18:30:40,2026-02-02 17:56:16,bank_ebanking_transfer
+153,TKT-MA7L2OJP,1,18049,KAVITA,3.0,closed,PAYMENT NOT RECIVED,Withdrawal,0,2026-02-11 17:04:26,2026-04-14 23:44:56,bank_ebanking_transfer
+154,TKT-HXUAMP8D,2,310812,TARIK918,10.0,open,Withdraw amount,Withdrawal,0,2026-02-11 17:35:27,2026-02-16 17:44:43,bank_ebanking_transfer
+404,TKT-K6JJLE7K,1,9937,MUZAFFAR24,9.0,closed,Main funding is not new,Withdrawal,0,2026-03-04 00:12:54,2026-03-04 12:27:43,bank_ebanking_transfer
+713,TKT-OEWJOQY8,1,5998,SHYAMBABA06,9.0,closed,Trading Amount,Withdrawal,0,2026-03-23 12:54:02,2026-03-26 15:34:00,bank_ebanking_transfer
+1033,TKT-JNWB3GJR,1,4386,HARISHDAMOR,9.0,closed,432 USD withdrawn from Lubank,Withdrawal,0,2026-04-16 11:20:39,2026-04-20 17:46:04,bank_ebanking_transfer
+1098,TKT-HJSS92EM,1,21758,PK1992,10.0,open,"16.04.2026 After withdrawing from Probot V25, my amount has not yet reached our account.",Withdrawal,0,2026-04-18 17:58:54,2026-04-20 12:50:15,bank_ebanking_transfer
+1106,TKT-T6GX5MLE,2,655701,AFFRINSHAIKH88,8.0,closed,My legacy withdrawal amount shows 0.,Withdrawal,0,2026-04-18 22:39:49,2026-04-20 11:53:16,bank_ebanking_transfer
+1113,TKT-G1LCTZJL,1,18112,NIYAZ7860,8.0,closed,My payment not withdrawal,Withdrawal,0,2026-04-19 10:59:12,2026-04-20 15:51:41,bank_ebanking_transfer
+1238,TKT-SMRRPIH3,1,5789,MURTAZA0143,8.0,closed,L bank mai withdrawal nahi k sambandh mai (900$ ka ),Withdrawal,0,2026-04-23 09:33:26,2026-04-23 12:12:09,bank_ebanking_transfer
+1336,TKT-8KBEHP8P,2,438976,AFSHA1825,8.0,closed,Not showing full funds,Withdrawal,0,2026-04-26 20:42:48,2026-04-27 11:47:33,bank_ebanking_transfer
+1369,TKT-BU0A1QVY,1,876,DPRASAD624,10.0,open,Payment issue,Withdrawal,0,2026-04-28 22:10:15,2026-04-29 12:14:16,bank_ebanking_transfer
+1410,TKT-KUYIKWMJ,1,10792,MADHURI014,8.0,closed,Payment issue,Withdrawal,0,2026-04-30 16:06:29,2026-05-04 10:58:25,bank_ebanking_transfer
+1446,TKT-WJDPOECR,1,8899,ANAND2274,10.0,open,Fund withdrawal,Withdrawal,0,2026-05-02 10:54:25,2026-05-04 11:23:25,bank_ebanking_transfer
+1477,TKT-MGG4TA1D,1,37780,ARPIT2004,8.0,closed,Transfer Problem,Withdrawal,0,2026-05-03 22:18:31,2026-05-08 12:03:23,bank_ebanking_transfer
+1662,TKT-KEVWWIGH,1,42870,KAJAL1,10.0,open,withdrawal amount,Withdrawal,0,2026-05-14 13:40:35,2026-05-14 13:55:08,bank_ebanking_transfer
+1849,TKT-RAW1IRZB,1,876,DPRASAD624,10.0,open,Payment issue,Withdrawal,0,2026-05-22 05:55:25,2026-05-22 11:50:09,bank_ebanking_transfer
+2001,TKT-IPNFZDZQ,1,10199,MUKULPROX1,8.0,solved,Sir transfer or withdrawal,Withdrawal,0,2026-05-24 22:40:32,2026-05-25 10:56:47,bank_ebanking_transfer
+2112,TKT-FP9U4LXU,1,11934,SURINDERJI2,8.0,closed,W25 Withdrawals transfer to probotX not working,Withdrawal,0,2026-05-26 12:25:21,2026-06-01 11:46:14,bank_ebanking_transfer
+2239,TKT-LOCOG0BQ,1,5791,SURAJ025,8.0,closed,Please april month pcm car fund,Withdrawal,0,2026-05-28 17:35:06,2026-05-29 12:17:13,bank_ebanking_transfer
+2489,TKT-NQBRPWPF,1,7864,BHUPINDERCHOPRA,8.0,solved,i cant pay,Withdrawal,0,2026-06-03 09:40:09,2026-06-03 11:19:47,bank_ebanking_transfer
+2494,TKT-V4NPP83Q,1,45772,DASJI1,8.0,closed,About trading fund,Withdrawal,0,2026-06-03 12:01:30,2026-06-07 15:39:50,bank_ebanking_transfer
+2525,TKT-VXDZBW2J,1,51177,DILIP2509,8.0,closed,Trading fund withdrawal  locked,Withdrawal,0,2026-06-03 15:28:15,2026-06-03 16:14:04,bank_ebanking_transfer
+2619,TKT-U507GLHB,1,14510,ROHITSINGHRATHORE,9.0,closed,"Car Fund Displayed Successfully, but Monthly Income is Missing in Exclusive Income",Withdrawal,0,2026-06-04 18:42:49,2026-06-08 16:47:25,bank_ebanking_transfer
+2781,TKT-MP69CESZ,1,45772,DASJI1,9.0,closed,Trading fund withdraw,Withdrawal,0,2026-06-07 10:07:28,2026-06-08 17:57:33,bank_ebanking_transfer
+2804,TKT-OWXBFEGC,1,45772,DASJI1,9.0,closed,About trading fund,Withdrawal,0,2026-06-07 15:38:36,2026-06-08 17:57:30,bank_ebanking_transfer
+2970,TKT-Q7LGGIAT,1,39968,JW1800A,8.0,closed,Fund not found,Withdrawal,0,2026-06-10 06:44:26,2026-06-15 13:42:02,bank_ebanking_transfer
+3158,TKT-VUSJHKAX,1,2328,BIPIN8298,9.0,closed,Missing Re-invest Amount of $108 + Negative Balance Issue - User ID: rimghim1503,Withdrawal,0,2026-06-13 04:52:55,2026-06-17 12:42:57,bank_ebanking_transfer
+3159,TKT-GWIAXSIQ,1,2328,BIPIN8298,9.0,closed,Missing Re-invest Amount  +  Trading option Negative Balance Issue - User ID: manjuk7788,Withdrawal,0,2026-06-13 04:57:53,2026-08-03 14:25:42,bank_ebanking_transfer
+3160,TKT-I3TO9NHR,1,2328,BIPIN8298,9.0,closed,Missing Re-invest Amount  + Negative Balance Issue - User ID: manju2008,Withdrawal,0,2026-06-13 05:00:52,2026-06-22 13:00:06,bank_ebanking_transfer
+3193,TKT-W2Q8QKQO,1,11605,MAROOF399,9.0,closed,Trending fund,Withdrawal,0,2026-06-13 15:28:43,2026-06-16 14:52:12,bank_ebanking_transfer
+3233,TKT-ECTHCQJS,1,34255,AF5050,9.0,closed,Withdrawl of principle amount,Withdrawal,0,2026-06-14 04:30:34,2026-06-17 12:42:47,bank_ebanking_transfer
+4543,TKT-76AXN82E,1,2590,ROHTAS_MALHAN,9.0,closed,How can you cut my dollars  i pay the subscription  fee please  tell me,Withdrawal,0,2026-06-22 08:37:39,2026-06-22 13:18:17,bank_ebanking_transfer
+4738,TKT-Z4KI4T1O,1,11605,MAROOF399,9.0,closed,Treading fund,Withdrawal,0,2026-06-22 21:57:29,2026-06-23 18:24:02,bank_ebanking_transfer
+4815,TKT-HYDTAJB2,1,25132,RAKHI112,8.0,closed,My Trading Fund Release,Withdrawal,0,2026-06-23 11:51:01,2026-06-23 12:38:24,bank_ebanking_transfer
+4818,TKT-OMO8YMUZ,1,33601,RAKHI113,9.0,closed,My Trading Fund Release,Withdrawal,0,2026-06-23 11:56:45,2026-06-23 18:23:25,bank_ebanking_transfer
+4932,TKT-G8MR6UUG,1,40741,SIMONSONDHI,8.0,closed,Can Not Withdrawal the Amount,Withdrawal,0,2026-06-23 19:35:22,2026-06-24 11:43:19,bank_ebanking_transfer
+5461,TKT-T5TFP1QT,1,52349,OVAIS107,9.0,closed,Deduction of internal transfer,Withdrawal,0,2026-06-27 11:49:38,2026-06-29 14:47:23,bank_ebanking_transfer
+6201,TKT-CO6VRBJ5,1,15457,SONALI123,8.0,closed,Unable to withdraw amount from W25,Withdrawal,0,2026-07-02 13:58:46,2026-07-02 14:06:35,bank_ebanking_transfer
+6757,TKT-QLRACEKC,1,23098,OVAIS101,9.0,closed,Trading deposit fund,Withdrawal,0,2026-07-06 14:03:40,2026-07-06 14:25:13,bank_ebanking_transfer
+6978,TKT-8YYDSCRO,1,14931,SEEMAXEROX,9.0,closed,About Trading fund withdraw,Withdrawal,0,2026-07-08 07:57:15,2026-07-08 13:46:53,bank_ebanking_transfer
+7234,TKT-CXFBRB2R,1,13787,VIJAY7566,9.0,closed,WITHDRAWAL AMOUNT NOT DEPOSITED,Withdrawal,0,2026-07-10 07:03:16,2026-07-10 17:26:56,bank_ebanking_transfer
+7310,TKT-GKZ4C2RE,1,55833,BHUPINDERCHOPRA7,9.0,closed,PAYMENT,Withdrawal,0,2026-07-10 16:30:34,2026-07-10 17:30:59,bank_ebanking_transfer
+7410,TKT-TU8VRP6Z,1,60784,SHAKHERGARG,9.0,closed,How to add and withdraw funds option for Indian user,Withdrawal,0,2026-07-11 12:23:28,2026-07-13 17:02:53,bank_ebanking_transfer
+7692,TKT-A4VRI5WU,1,22371,ZAHID473,10.0,open,For usd payment,Withdrawal,0,2026-07-14 08:07:17,2026-07-14 10:47:34,bank_ebanking_transfer
+7781,TKT-UN7L7S5Z,1,47621,RAM1908,9.0,closed,Withdrawal problem in trading fund,Withdrawal,0,2026-07-14 18:08:55,2026-07-15 17:17:16,bank_ebanking_transfer
+7911,TKT-TII5R6BW,1,18905,SUKHRAJSINGH,9.0,closed,payment withdraw,Withdrawal,0,2026-07-15 20:47:41,2026-07-16 18:34:13,bank_ebanking_transfer
+8195,TKT-QV6ATTAS,1,13828,FIYAJ020,10.0,open,Withdrawal L bank,Withdrawal,0,2026-07-18 11:17:08,2026-07-20 15:34:11,bank_ebanking_transfer
+8493,TKT-QV63L0UT,1,33813,RAHMAN1998,10.0,open,Payment,Withdrawal,0,2026-07-22 16:20:54,2026-07-22 16:31:38,bank_ebanking_transfer
+8815,TKT-WGC2H8OU,1,14275,MSL96,10.0,open,. I am unable to withdraw my funds. Kindly update me as soon as possible. Thank you.,Withdrawal,0,2026-07-27 09:41:28,2026-07-29 11:26:10,bank_ebanking_transfer
+8922,TKT-BE9MMU4Y,1,36605,JO5406,10.0,open,Payment,Withdrawal,0,2026-07-28 13:26:22,2026-07-28 13:45:25,bank_ebanking_transfer
+9060,TKT-HADVYWA7,1,6235,REENARVIND,9.0,closed,Withdrawal of Trading Fund,Withdrawal,0,2026-07-30 17:09:03,2026-07-31 15:38:47,bank_ebanking_transfer
+9239,TKT-K9MPRH7C,1,56774,APOORV11,8.0,closed,Payment withdrawal issue,Withdrawal,0,2026-08-01 23:56:48,2026-08-03 14:24:35,bank_ebanking_transfer
+9329,TKT-A7E5HGZM,1,15116,DK81,8.0,closed,Payment withdrawal,Withdrawal,0,2026-08-03 08:43:52,2026-08-03 11:53:36,bank_ebanking_transfer
+9699,TKT-TDCMDF1K,1,34849,RADHE026,9.0,closed,Payment Problem,Withdrawal,0,2026-08-07 15:24:09,2026-08-07 16:47:58,bank_ebanking_transfer
+9739,TKT-9GBJTKVH,1,25752,ELITE897,8.0,closed,Amount is not Withdrawal,Withdrawal,0,2026-08-07 23:16:58,2026-08-10 14:07:26,bank_ebanking_transfer
+9756,TKT-KZFLOPTH,1,33895,DINNUA,8.0,closed,Welth 25 withdrawal on L bank,Withdrawal,0,2026-08-08 01:39:35,2026-08-10 14:10:16,bank_ebanking_transfer
+9828,TKT-LM6BHILK,2,244456,JAMAL1800,10.0,open,WITHDRAWAL AMOUNT NOT CREDITED MAY ACCOUNT,Withdrawal,0,2026-08-09 00:09:52,2026-08-10 13:21:11,bank_ebanking_transfer
+9847,TKT-NWZ18DQC,1,34849,RADHE026,8.0,closed,PAYMENT ISSUE,Withdrawal,0,2026-08-09 10:04:55,2026-08-10 14:19:43,bank_ebanking_transfer
+10039,TKT-6HJ116P3,1,5080,GUNJU143,8.0,closed,pay plan,Withdrawal,0,2026-08-13 11:19:14,2026-08-13 14:23:15,bank_ebanking_transfer
+10147,TKT-DQH3YKCQ,1,22277,COTDUBAI,9.0,closed,Missing fund,Withdrawal,0,2026-08-14 19:55:03,2026-08-17 17:56:38,bank_ebanking_transfer
+10149,TKT-DPJWXZLV,1,14485,SBLDUBAI,10.0,open,Fund Missing,Withdrawal,0,2026-08-14 20:11:12,2026-08-17 17:59:54,bank_ebanking_transfer
+10154,TKT-UI6SW4K0,1,9208,JAMSHED151,9.0,closed,Missing my Fund,Withdrawal,0,2026-08-14 20:38:31,2026-08-17 17:58:07,bank_ebanking_transfer
+10168,TKT-XYKDVJEC,1,5201,MUKARDAM786,9.0,solved,Amount - why,Withdrawal,0,2026-08-15 06:00:06,2026-08-17 17:21:26,bank_ebanking_transfer
+10193,TKT-WMOJEVQQ,1,58856,SK027,9.0,closed,Free My Fund,Withdrawal,0,2026-08-15 14:31:37,2026-08-17 17:08:14,bank_ebanking_transfer
+10194,TKT-YFVM82ZH,1,58857,SK029,10.0,open,Free My fund,Withdrawal,0,2026-08-15 14:35:18,2026-08-17 15:54:07,bank_ebanking_transfer
+10213,TKT-5B7MDDOW,1,22277,COTDUBAI,9.0,closed,Missing fund of June month,Withdrawal,0,2026-08-15 20:55:21,2026-08-17 16:28:39,bank_ebanking_transfer
+10214,TKT-7VJEAJAD,1,14485,SBLDUBAI,9.0,solved,Missing fund of June month,Withdrawal,0,2026-08-15 20:59:48,2026-08-17 17:10:37,bank_ebanking_transfer
+10380,TKT-RAWWO2ZB,1,13317,DURGAWATI2343,8.0,solved,Outstanding show amount $1,Withdrawal,0,2026-08-18 13:53:07,2026-08-20 11:59:34,bank_ebanking_transfer
+10444,TKT-UTP3ZCEX,1,19643,JSMJITU,9.0,closed,Urgent Request for Withdrawal to My Indian Bank Account,Withdrawal,0,2026-08-19 17:21:21,2026-08-19 18:38:50,bank_ebanking_transfer
+10645,TKT-G3R9VJID,2,434351,TAYALANKIT002,8.0,closed,want to withdrawal the amount,Withdrawal,0,2026-08-23 19:27:50,2026-08-24 10:36:55,bank_ebanking_transfer
+10873,TKT-U7YC8LG3,1,22277,COTDUBAI,9.0,closed,Missing fund,Withdrawal,0,2026-08-27 19:19:20,2026-08-28 17:35:48,bank_ebanking_transfer
+10874,TKT-4ASH0WP3,1,14485,SBLDUBAI,9.0,closed,Missing fund,Withdrawal,0,2026-08-27 19:23:48,2026-08-28 17:36:01,bank_ebanking_transfer

@@ -1,0 +1,15 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+972,TKT-4ECKXFJG,1,11862,SANJAYM11,9.0,closed,While withdrawal fund then sms otp not working,Withdrawal,0,2026-04-13 10:04:23,2026-04-16 12:11:54,otp_login_verification
+976,TKT-MN7AMS7G,1,14779,JODHBIR,8.0,closed,Sms otp,Withdrawal,0,2026-04-13 13:39:22,2026-04-15 12:17:59,otp_login_verification
+982,TKT-AHGDYR38,1,11592,HS77,9.0,closed,Mobile OTP,Withdrawal,0,2026-04-13 22:43:09,2026-04-15 17:58:21,otp_login_verification
+986,TKT-0YCZXGAS,1,8466,RITESH123,8.0,closed,"Due to not receiving SMS OTP on phone in final authentication step, unable to withdraw the amount",Withdrawal,0,2026-04-14 09:32:21,2026-04-15 12:19:13,otp_login_verification
+987,TKT-ZVN6F7GY,1,12490,TUSHAR456,8.0,closed,Sms otp error showing,Withdrawal,0,2026-04-14 10:28:43,2026-04-15 12:19:06,otp_login_verification
+988,TKT-RZWZPFZM,1,14519,NEHABHARTI,8.0,closed,Unexpected error! SMS code sending failed,Withdrawal,0,2026-04-14 12:38:54,2026-04-15 12:19:51,otp_login_verification
+998,TKT-IPZOYLN0,1,37292,AVINASH143,3.0,closed,Mobile otp not receiving two days,Withdrawal,0,2026-04-15 04:59:17,2026-06-03 18:08:02,otp_login_verification
+1000,TKT-ZZJMG2C5,1,19801,UDIT,3.0,closed,Mobile otp,Withdrawal,0,2026-04-15 06:21:12,2026-06-03 18:08:09,otp_login_verification
+1010,TKT-PULVYYXE,1,22405,VANSHIKA,3.0,closed,Mobile otp,Withdrawal,0,2026-04-15 09:23:29,2026-06-03 18:08:49,otp_login_verification
+1011,TKT-VO69B5RZ,1,16043,GROWFINITY,3.0,closed,Sms otp,Withdrawal,0,2026-04-15 09:45:24,2026-06-03 18:08:56,otp_login_verification
+1013,TKT-0MT8N8WS,2,82805,LNISHAD44,8.0,closed,Otp issue,Withdrawal,0,2026-04-15 11:54:22,2026-04-17 15:11:08,otp_login_verification
+1014,TKT-WGXCD1CY,1,13381,GURIII,8.0,solved,Otp not working,Withdrawal,0,2026-04-15 11:59:44,2026-04-15 12:08:27,otp_login_verification
+1136,TKT-AMBCMOPA,1,1512,1SUKHMM74,8.0,closed,About bar code,Withdrawal,0,2026-04-20 10:00:17,2026-04-20 15:50:20,otp_login_verification
+1393,TKT-GMFHWMXU,1,20669,AMAR10800,8.0,solved,SMS OTP NOT RECEIVED,Withdrawal,0,2026-04-29 21:39:59,2026-04-30 11:37:03,otp_login_verification

@@ -1,0 +1,14 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+1058,TKT-J1YLMIPU,1,38903,RAHUL2,10.0,open,Release intro bonus in my e bank,Withdrawal,0,2026-04-17 12:07:37,2026-04-17 12:09:46,bank_ebanking_transfer
+1063,TKT-KZCOXVWL,1,15613,ANAS01,8.0,closed,Residual bonus not reflected in E-bank,Withdrawal,0,2026-04-17 14:53:22,2026-04-20 11:57:30,bank_ebanking_transfer
+8361,TKT-SPYUASRA,1,2500,RKMBIHAR,9.0,closed,Profit fund,Withdrawal,0,2026-07-20 18:58:48,2026-07-21 14:40:34,bank_ebanking_transfer
+8524,TKT-WVBOQKWV,1,2500,RKMBIHAR,10.0,open,Fund profit,Withdrawal,0,2026-07-23 06:51:37,2026-07-23 12:03:21,bank_ebanking_transfer
+9003,TKT-VVMORD7E,1,14639,GAGANRAIPUR,9.0,closed,Profit Amount Showing less,Withdrawal,0,2026-07-29 17:09:20,2026-07-29 18:04:10,bank_ebanking_transfer
+9193,TKT-NPI6PIMY,1,15700,BALAJI7094,8.0,solved,bank bonus not withdrawal,Withdrawal,0,2026-08-01 10:31:54,2026-08-03 17:03:20,bank_ebanking_transfer
+9525,TKT-7AV9AFRW,1,52771,RAJEEVVIJ,8.0,closed,Payout withdrawl issue,Withdrawal,0,2026-08-05 11:52:59,2026-08-05 12:06:26,bank_ebanking_transfer
+9529,TKT-MXWDECO3,1,56226,SUMANVIJ01,8.0,closed,Payout Withdrawal issue,Withdrawal,0,2026-08-05 11:58:00,2026-08-05 12:05:56,bank_ebanking_transfer
+10077,TKT-4AWAU9RZ,1,7715,MANDIRA16,8.0,closed,For my e bank and profit,Withdrawal,0,2026-08-14 09:48:27,2026-08-17 18:23:41,bank_ebanking_transfer
+10141,TKT-S9X9VYXT,1,36619,RAHULIT43,9.0,closed,Profit Amount not reflecting in the account,Withdrawal,0,2026-08-14 16:56:38,2026-08-17 18:02:16,bank_ebanking_transfer
+10227,TKT-IPXC80NH,1,7814,KOUSHIK92,9.0,solved,Trading Fund and Profit Balance Missing,Withdrawal,0,2026-08-16 02:42:02,2026-08-27 15:36:11,bank_ebanking_transfer
+10492,TKT-KYVKNLIW,1,38255,ALKANARESH,8.0,closed,Non receipt of Monthly payout s of principal and profit,Withdrawal,0,2026-08-20 14:07:44,2026-08-20 14:12:59,bank_ebanking_transfer
+10782,TKT-6NWAQYTP,1,33196,MUKESH00651,9.0,closed,Leadership bonus 41$ hi ebank mai show,Withdrawal,0,2026-08-26 05:04:22,2026-08-27 16:50:27,bank_ebanking_transfer

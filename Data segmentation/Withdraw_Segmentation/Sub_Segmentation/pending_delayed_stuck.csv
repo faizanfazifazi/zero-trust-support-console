@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+9814,TKT-YSBP5LIS,3,10233,vivek deswal,8.0,closed,clear the task and earned dollar,Withdraw,0,2026-08-08 20:52:50,2026-08-10 14:22:04,pending_delayed_stuck

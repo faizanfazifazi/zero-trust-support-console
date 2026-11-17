@@ -1,0 +1,11 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+40,TKT-V3HNSXRA,1,19784,HKSHAH1,9.0,closed,Why my wallet hasn't been whitelisted,Withdrawal,0,2026-01-30 04:00:56,2026-02-02 17:57:03,crypto_usdt_wallet
+7649,TKT-57KXYOUR,1,13380,GURII,8.0,closed,Address is not showing,Withdrawal,0,2026-07-13 17:46:23,2026-07-14 14:39:32,crypto_usdt_wallet
+8746,TKT-TXE2ZIYG,1,6934,RAHMAN,9.0,closed,Wallet address not showing,Withdrawal,0,2026-07-26 09:20:14,2026-07-27 17:09:37,crypto_usdt_wallet
+8850,TKT-YKELCIXZ,1,12785,SUKHWANTXXXX,8.0,solved,Wallet address not shown,Withdrawal,0,2026-07-27 15:46:13,2026-07-28 11:46:05,crypto_usdt_wallet
+8864,TKT-QONNMBNT,1,12785,SUKHWANTXXXX,9.0,closed,Withdrawal address not shown while processing for withdrawal,Withdrawal,0,2026-07-27 18:00:53,2026-07-28 14:39:28,crypto_usdt_wallet
+9302,TKT-Z4NHRXNH,1,12857,BAI02,8.0,closed,WITHDRAWAL WALLET DROPDOWN EMPTY ISSUE,Withdrawal,0,2026-08-02 17:22:37,2026-08-03 11:59:08,crypto_usdt_wallet
+10287,TKT-ASTL6HDI,1,24356,AK2004,8.0,closed,Wallet address not showing in wealth25 profit,Withdrawal,0,2026-08-17 10:11:15,2026-08-17 11:09:14,crypto_usdt_wallet
+10304,TKT-2MR0TMV0,1,32635,ANKIT1997,8.0,closed,My wallet address not showing in wealth25 profit option,Withdrawal,0,2026-08-17 15:10:56,2026-08-17 15:15:15,crypto_usdt_wallet
+10350,TKT-C8MH5I6A,1,24356,AK2004,8.0,closed,Wallet address not showing in wealth25 profit option,Withdrawal,0,2026-08-18 07:42:03,2026-08-18 12:37:00,crypto_usdt_wallet
+11221,TKT-L8HSFU5J,1,59397,ANAYAH001,,open,Not adding the Wallet,Withdrawal,0,2026-09-06 04:09:23,2026-09-06 04:09:23,crypto_usdt_wallet

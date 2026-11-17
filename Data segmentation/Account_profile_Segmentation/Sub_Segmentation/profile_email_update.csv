@@ -1,0 +1,40 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+37,TKT-RDDQD90F,1,41758,SANAYA,8.0,solved,Not receiving OTP via Email,Account Profile,0,2026-01-29 17:54:40,2026-01-30 16:14:37,profile_email_update
+129,TKT-SP6IEL4X,2,119,BISHAN3125,4.0,closed,Mail correction,Account Profile,0,2026-02-09 17:31:44,2026-08-19 16:26:19,profile_email_update
+208,TKT-UJ1YK5GP,1,43769,ALI1990,9.0,closed,Update Gmail,Account Profile,0,2026-02-16 14:40:32,2026-02-20 15:18:26,profile_email_update
+274,TKT-WJ9HSTCO,1,19756,KISWARI,3.0,open,Gmail issue,Account Profile,0,2026-02-23 11:29:58,2026-02-23 11:58:28,profile_email_update
+432,TKT-RI1YXVDS,2,164006,ANJESH12,4.0,closed,Email changing,Account Profile,0,2026-03-07 15:12:41,2026-03-11 12:57:17,profile_email_update
+459,TKT-ZRKZZEPM,1,42941,ALKA10,9.0,solved,For Gmail otp,Account Profile,0,2026-03-09 12:27:49,2026-03-10 12:08:29,profile_email_update
+463,TKT-NG8TLS5U,2,785017,MOHSIN110,4.0,closed,Change my email id,Account Profile,0,2026-03-09 15:50:59,2026-08-19 16:26:41,profile_email_update
+500,TKT-VAIWKZXL,2,20954,ROOP2771,4.0,closed,Gmail stoped,Account Profile,0,2026-03-11 15:35:06,2026-03-16 12:23:22,profile_email_update
+862,TKT-TM9CKBXT,2,832494,SAMADMEMAN2,8.0,solved,Gmail otp,Account Profile,0,2026-04-05 10:01:42,2026-04-07 12:46:16,profile_email_update
+871,TKT-F17QJCA4,2,1530,SHUKLA12,4.0,closed,Email change related,Account Profile,0,2026-04-06 15:54:37,2026-08-20 12:59:58,profile_email_update
+1318,TKT-2FGIRCGS,1,12416,ARTIDP,8.0,solved,Probot x login message alert not active on e-mail,Account Profile,0,2026-04-25 21:11:42,2026-04-27 12:09:17,profile_email_update
+1357,TKT-C3A3KQF5,1,16978,100CR,8.0,solved,Regarding missing Email Id,Account Profile,0,2026-04-28 10:32:06,2026-04-28 12:22:46,profile_email_update
+1381,TKT-YRDPBET4,1,11459,SARABJIT001,8.0,solved,I forget my mail id,Account Profile,0,2026-04-29 11:24:54,2026-04-30 11:43:06,profile_email_update
+1400,TKT-PROHBII8,2,123636,MINHAJ22,4.0,closed,Mail update,Account Profile,0,2026-04-30 10:05:44,2026-08-20 16:18:09,profile_email_update
+1594,TKT-HKBTPFJN,2,858398,KAMAAL671,9.0,closed,Email change,Account Profile,0,2026-05-10 12:47:26,2026-05-11 12:36:07,profile_email_update
+2242,TKT-MSIN9JER,2,62356,SHIV91,9.0,closed,Gmail chenj karne ke sambandh me,Account Profile,0,2026-05-28 19:52:12,2026-05-29 10:40:28,profile_email_update
+2560,TKT-1BMEL0TL,1,13185,NIYAZ1653,8.0,closed,Email otp not received,Account Profile,0,2026-06-03 22:07:58,2026-06-04 13:37:32,profile_email_update
+3243,TKT-67DIPATT,1,13981,999MUSKAN,9.0,solved,Id email wronh,Account Profile,0,2026-06-14 09:57:14,2026-06-17 12:42:34,profile_email_update
+5054,TKT-ZWDR1CJL,2,113845,ALIAVERMA47,8.0,solved,update email id (sanjuvermabnl@gmail.com),Account Profile,0,2026-06-24 14:58:51,2026-06-24 15:09:59,profile_email_update
+5190,TKT-WZTQOKP2,1,10995,PRABHJIT20,9.0,closed,Mail,Account Profile,0,2026-06-25 13:47:05,2026-06-26 19:22:29,profile_email_update
+5704,TKT-QV6OTASP,1,13981,999MUSKAN,4.0,closed,Email wrong,Account Profile,0,2026-06-29 13:48:34,2026-06-29 16:11:29,profile_email_update
+5705,TKT-KRVXT636,1,13981,999MUSKAN,4.0,closed,Email got wrong,Account Profile,0,2026-06-29 13:50:43,2026-07-21 11:02:44,profile_email_update
+6281,TKT-IXCFYWHO,1,59813,MAMTA1991,9.0,solved,Update new email,Account Profile,0,2026-07-02 21:17:43,2026-07-06 16:25:07,profile_email_update
+7177,TKT-QCIXT4RJ,2,173850,ADNAN2P,9.0,solved,Email change,Account Profile,0,2026-07-09 17:11:11,2026-07-22 18:59:20,profile_email_update
+7386,TKT-LMKT1LP1,1,46595,ABHI2,9.0,solved,Chang my email id,Account Profile,0,2026-07-11 10:07:03,2026-07-20 18:00:58,profile_email_update
+7554,TKT-JTHHOHZE,1,8837,RAMNATHG,9.0,solved,For email change,Account Profile,0,2026-07-12 16:06:17,2026-07-13 14:08:45,profile_email_update
+7726,TKT-KLQTRFS9,2,340311,AJ1994,8.0,solved,Email id,Account Profile,0,2026-07-14 12:00:57,2026-07-15 12:30:03,profile_email_update
+8557,TKT-X35JS3FT,1,7313,EWRAVIR1650,9.0,solved,Change my email id,Account Profile,0,2026-07-23 16:59:23,2026-07-27 17:49:12,profile_email_update
+8801,TKT-5WSE1T7M,1,48111,TKDELHI,8.0,solved,Email,Account Profile,0,2026-07-26 22:33:09,2026-07-27 12:59:41,profile_email_update
+8829,TKT-INO07UQX,1,41981,ABHA1984,8.0,solved,Email code,Account Profile,0,2026-07-27 11:17:37,2026-07-27 12:06:55,profile_email_update
+9065,TKT-XKTLR64F,1,24478,SOMRANJEET001,9.0,solved,I don’t receive any e mail,Account Profile,0,2026-07-30 18:00:02,2026-07-31 15:35:55,profile_email_update
+9617,TKT-VSBX2E8D,2,119,BISHAN3125,8.0,solved,Mail corruption,Account Profile,0,2026-08-06 13:15:44,2026-08-06 13:23:06,profile_email_update
+10065,TKT-SE3DYJBY,2,349984,NEELOFAR0786,8.0,solved,Related to lost email of my husband's id,Account Profile,0,2026-08-14 02:16:50,2026-08-18 12:41:43,profile_email_update
+10377,TKT-DHHN33CK,1,17398,MUSHARRAF111,8.0,solved,email regarding,Account Profile,0,2026-08-18 13:15:29,2026-08-18 13:32:47,profile_email_update
+10397,TKT-4ITUO9GT,2,51436,KIRANJEET507,8.0,solved,Mail Change,Account Profile,0,2026-08-18 19:44:32,2026-08-20 12:00:35,profile_email_update
+10569,TKT-HWYRSHON,2,257884,CHHOTU1997,8.0,solved,Profile gmail account,Account Profile,0,2026-08-21 19:59:18,2026-08-25 10:56:09,profile_email_update
+10752,TKT-5BO1V6TQ,2,243239,FUSIONINDIA,8.0,solved,Email cod not send,Account Profile,0,2026-08-25 13:54:01,2026-08-25 14:15:47,profile_email_update
+10869,TKT-KLCDXKO2,2,51436,KIRANJEET507,8.0,solved,OTP not coming in gmail account,Account Profile,0,2026-08-27 18:46:47,2026-08-28 12:01:38,profile_email_update
+10967,TKT-SCDOIU8K,2,243239,FUSIONINDIA,8.0,solved,Change email id,Account Profile,0,2026-08-30 11:14:08,2026-08-31 11:04:44,profile_email_update

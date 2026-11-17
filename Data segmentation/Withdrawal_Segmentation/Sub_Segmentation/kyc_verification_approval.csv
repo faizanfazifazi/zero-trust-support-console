@@ -1,0 +1,71 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+132,TKT-YKW8RPF6,2,757546,SANJAY09322,10.0,open,For verifying withdrawal,Withdrawal,0,2026-02-09 20:10:06,2026-02-16 17:43:45,kyc_verification
+928,TKT-T2K7DY1G,2,842735,FA255,8.0,solved,For verifying invoice,Withdrawal,0,2026-04-09 17:43:12,2026-04-10 15:03:57,kyc_verification
+952,TKT-L8UMMCPE,2,866575,FA430,10.0,open,To verify withdrawal,Withdrawal,0,2026-04-11 14:22:12,2026-05-22 11:45:15,kyc_verification
+1257,TKT-UWRMHBSZ,2,712266,HARVINDER900,8.0,closed,Request for Verification of Legacy Mcoin Staking Allocation and Account Data,Withdrawal,0,2026-04-23 20:03:56,2026-05-04 10:10:18,kyc_verification
+1496,TKT-N90NSG58,2,712266,HARVINDER900,8.0,closed,Request for Verification of Legacy Mcoin Staking Allocation and Account Data,Withdrawal,0,2026-05-04 19:52:54,2026-05-08 11:59:00,kyc_verification
+2154,TKT-8MJXUGQR,1,20258,RASHID1919,8.0,closed,Please verify my kyc,Withdrawal,0,2026-05-27 05:51:36,2026-06-01 10:54:48,kyc_verification
+2170,TKT-KSJANW4T,1,22400,SAKIB786,8.0,closed,Verify KYC,Withdrawal,0,2026-05-27 11:03:22,2026-06-01 10:53:16,kyc_verification
+2419,TKT-MVQGO1UZ,1,1278,ASJ29,8.0,closed,Kyc approval,Withdrawal,0,2026-06-01 21:22:13,2026-06-03 13:36:23,kyc_verification
+2459,TKT-ETSDVUHT,1,22400,SAKIB786,9.0,solved,Verify kyc,Withdrawal,0,2026-06-02 14:01:20,2026-06-03 12:43:56,kyc_verification
+2682,TKT-AWM66LET,1,22697,RIDDHI,8.0,closed,Kyc not verify,Withdrawal,0,2026-06-05 16:19:13,2026-06-05 16:31:20,kyc_verification
+2738,TKT-OSU3OYF7,1,37555,SHREEGANESH,8.0,closed,For KYC verification,Withdrawal,0,2026-06-06 13:10:59,2026-06-08 12:03:28,kyc_verification
+2757,TKT-A5BVVP8D,1,36103,ALAM4080,8.0,closed,Kyc verify,Withdrawal,0,2026-06-06 20:21:35,2026-06-08 12:01:36,kyc_verification
+2830,TKT-8IQGO7KG,1,13115,FAIZ25US,9.0,closed,Identity verification kyc,Withdrawal,0,2026-06-07 22:00:46,2026-06-08 11:19:50,kyc_verification
+2926,TKT-PCZLSH1E,1,23352,NAUSAD100,8.0,closed,Identify verification kyc,Withdrawal,0,2026-06-09 09:54:19,2026-06-09 11:02:42,kyc_verification
+2994,TKT-CDNB8RFV,1,39763,RS05,8.0,closed,KYC verification,Withdrawal,0,2026-06-10 12:37:32,2026-06-10 12:46:41,kyc_verification
+3021,TKT-0ZMOGG81,1,14369,MUNNA26US,8.0,closed,Kyc verification process,Withdrawal,0,2026-06-10 19:17:26,2026-06-11 10:45:48,kyc_verification
+3085,TKT-BCC8HI3V,1,41175,RAJEEV26,9.0,closed,Kyc verification process,Withdrawal,0,2026-06-11 19:30:57,2026-06-12 16:03:13,kyc_verification
+3105,TKT-Z9LCFE4D,1,37555,SHREEGANESH,9.0,closed,About KYC verification,Withdrawal,0,2026-06-12 06:00:33,2026-06-12 17:57:21,kyc_verification
+3506,TKT-ONBSECPJ,1,19490,SARFRAZ001,8.0,solved,Urgent kyc approval request for medical emergency.,Withdrawal,0,2026-06-17 13:12:44,2026-06-17 13:26:55,kyc_verification
+3519,TKT-9JMMYOZF,1,34980,VILAS122,8.0,closed,Kindly give Kyc approval,Withdrawal,0,2026-06-17 13:44:54,2026-06-19 10:25:22,kyc_verification
+4010,TKT-YZ5WDT0B,1,20473,BABITAM25,8.0,closed,Verify my KYC,Withdrawal,0,2026-06-18 21:04:57,2026-06-19 10:27:49,kyc_verification
+4180,TKT-L499V89Z,1,15719,KEHAR3,8.0,closed,Kyc approval,Withdrawal,0,2026-06-19 15:07:13,2026-06-19 15:07:36,kyc_verification
+4212,TKT-BNBSNCQE,1,21231,DAHIYA009,9.0,closed,Kyc improve karvane ke liye,Withdrawal,0,2026-06-19 17:39:09,2026-06-19 17:53:49,kyc_verification
+4774,TKT-LBB0N6K0,1,32993,SURINDER13,9.0,closed,Kyc approval,Withdrawal,0,2026-06-23 09:03:22,2026-06-23 12:28:32,kyc_verification
+4944,TKT-3NAKKGUC,1,23483,KASHIF9,8.0,closed,Kyc verification rejected,Withdrawal,0,2026-06-23 20:16:50,2026-06-24 11:14:00,kyc_verification
+4954,TKT-GHN2UYOL,1,7814,KOUSHIK92,8.0,closed,KYC Approval & Withdrawal Inquiry,Withdrawal,0,2026-06-23 23:12:48,2026-06-24 11:04:23,kyc_verification
+5087,TKT-W46GGWQZ,1,3905,RAVISAGAR1988,9.0,solved,USERNAME.RAVISAGAR1988   identity verification is being reviewed. Non-Probotx .,Withdrawal,0,2026-06-24 17:04:14,2026-06-24 17:19:50,kyc_verification
+5777,TKT-CNRBCCZN,1,10088,KEHAR2,8.0,closed,Kyc approval massage,Withdrawal,0,2026-06-29 21:19:34,2026-06-30 12:02:10,kyc_verification
+5848,TKT-0PQUW4AF,1,7814,KOUSHIK92,8.0,closed,Urgent KYC Approval & Withdrawal Request,Withdrawal,0,2026-06-30 13:32:37,2026-06-30 14:27:47,kyc_verification
+5904,TKT-F9QS0Y9Z,1,22161,GHANSHYAM00,8.0,closed,KYC Approval,Withdrawal,0,2026-06-30 16:30:46,2026-06-30 16:40:04,kyc_verification
+6080,TKT-BMS6826D,1,37884,NEERAJ1406,8.0,closed,Kyc Verification,Withdrawal,0,2026-07-01 19:32:01,2026-07-02 12:15:49,kyc_verification
+6329,TKT-3MSDVAPM,1,54960,HADIS4US,9.0,closed,Kyc verification,Withdrawal,0,2026-07-03 10:25:34,2026-07-03 20:57:48,kyc_verification
+6380,TKT-QIDBN8JW,1,53065,BHAVNA101,9.0,closed,Please verify my kyc,Withdrawal,0,2026-07-03 13:41:21,2026-07-04 11:21:56,kyc_verification
+6384,TKT-0ZT0QVON,1,16355,CPSINGH2,9.0,closed,Please verify my kyc,Withdrawal,0,2026-07-03 13:53:57,2026-07-04 11:22:52,kyc_verification
+6385,TKT-CZC3HIQR,1,34367,VIKASH100,9.0,closed,Please verify my kyc,Withdrawal,0,2026-07-03 13:55:40,2026-07-04 11:23:26,kyc_verification
+6387,TKT-PRMO8YMZ,1,37351,YOGESH100,9.0,closed,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:02:00,2026-07-03 17:13:32,kyc_verification
+6388,TKT-MSXEZNQK,1,54940,CPSINGH3,9.0,closed,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:07:04,2026-07-03 17:12:36,kyc_verification
+6389,TKT-K2JTCSUF,1,31617,GAJRAM106,9.0,solved,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:07:18,2026-07-03 17:12:15,kyc_verification
+6392,TKT-Q46WOOEW,1,19030,GAJRAM102,9.0,closed,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:10:54,2026-07-03 17:09:38,kyc_verification
+6393,TKT-OCHF41ZR,1,31612,GAJRAM105,9.0,closed,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:13:03,2026-07-03 17:09:24,kyc_verification
+6394,TKT-CNY3D60F,1,25112,BHOLA100,9.0,closed,Please sir verify my kyc,Withdrawal,0,2026-07-03 14:21:56,2026-07-03 15:40:56,kyc_verification
+6807,TKT-OEPZZIKC,1,32094,NAIMUDDIN1982,8.0,closed,Kyc approved,Withdrawal,0,2026-07-06 21:54:17,2026-07-07 12:19:09,kyc_verification
+6808,TKT-WQHWT3PL,1,35854,SAKIB2023,8.0,closed,KYC approval,Withdrawal,0,2026-07-06 21:56:48,2026-07-07 12:19:03,kyc_verification
+6809,TKT-HZ9V01VO,1,32088,BEAHULA1980,8.0,closed,KYC approval,Withdrawal,0,2026-07-06 21:57:48,2026-07-07 12:18:56,kyc_verification
+6810,TKT-HIIP0D3O,1,34506,MASIDUR2003,8.0,closed,KYC approval,Withdrawal,0,2026-07-06 21:58:36,2026-07-07 12:18:49,kyc_verification
+6811,TKT-D1A0ZDEG,1,48437,MARGINA1991,8.0,closed,KYC approval,Withdrawal,0,2026-07-06 21:59:23,2026-07-07 12:18:41,kyc_verification
+6812,TKT-8KIHGTOQ,1,34905,MDABDULLAH1988,8.0,closed,Kyc approved,Withdrawal,0,2026-07-06 22:00:07,2026-07-07 12:18:34,kyc_verification
+6813,TKT-BP0AFNMV,1,34901,MDKAMRUL1995,8.0,closed,Kyc approved,Withdrawal,0,2026-07-06 22:00:49,2026-07-07 11:36:06,kyc_verification
+7123,TKT-OVZ5OSDR,1,48114,PUPU13,8.0,closed,KYC approval. Request delay,Withdrawal,0,2026-07-09 10:55:03,2026-07-09 11:05:23,kyc_verification
+7359,TKT-SJG9LOH4,1,35854,SAKIB2023,8.0,closed,Kyc approved,Withdrawal,0,2026-07-11 05:53:20,2026-07-13 14:32:57,kyc_verification
+7581,TKT-WU8SI6QM,1,47012,HADIS2US,8.0,closed,kyc verification,Withdrawal,0,2026-07-13 07:54:32,2026-07-13 11:16:46,kyc_verification
+7582,TKT-Z8OOSTA2,1,51876,HADIS2026,8.0,closed,Kyc verification,Withdrawal,0,2026-07-13 07:57:33,2026-07-13 10:50:04,kyc_verification
+7583,TKT-HOUKR8KT,1,60299,RAJEEV900,8.0,closed,Kyc verification,Withdrawal,0,2026-07-13 07:59:00,2026-07-13 10:49:57,kyc_verification
+7762,TKT-VGIWWBYY,1,35854,SAKIB2023,8.0,closed,KYC approval,Withdrawal,0,2026-07-14 15:28:20,2026-07-14 15:34:33,kyc_verification
+7763,TKT-XZ0RW1CA,1,32088,BEAHULA1980,8.0,closed,Kyc approved,Withdrawal,0,2026-07-14 15:29:20,2026-07-14 15:34:24,kyc_verification
+7764,TKT-B7PDASEL,1,48437,MARGINA1991,8.0,closed,KYC approval,Withdrawal,0,2026-07-14 15:31:43,2026-07-14 15:34:16,kyc_verification
+7818,TKT-Y3VVUFNJ,1,7814,KOUSHIK92,8.0,closed,Review Need KYC Approval to Withdraw Funds,Withdrawal,0,2026-07-15 07:26:08,2026-07-15 10:25:03,kyc_verification
+7825,TKT-E7IX8LJB,1,60299,RAJEEV900,8.0,closed,Kyc verification,Withdrawal,0,2026-07-15 09:23:19,2026-07-15 10:25:29,kyc_verification
+7829,TKT-MFCX4C4H,1,51876,HADIS2026,8.0,closed,KYC verification,Withdrawal,0,2026-07-15 09:27:48,2026-07-15 10:25:20,kyc_verification
+7925,TKT-PR0NYZMV,1,52372,RSINGH99,8.0,closed,Kyc verification,Withdrawal,0,2026-07-15 21:51:11,2026-07-16 11:36:54,kyc_verification
+8198,TKT-TAD4XULH,1,60299,RAJEEV900,8.0,closed,KYC verification,Withdrawal,0,2026-07-18 11:22:38,2026-07-20 11:01:57,kyc_verification
+8436,TKT-3BIRSD50,1,60299,RAJEEV900,9.0,closed,Kyc verification,Withdrawal,0,2026-07-21 18:19:14,2026-07-21 18:24:04,kyc_verification
+8470,TKT-POF6QFV5,1,60299,RAJEEV900,8.0,closed,Kyc verification,Withdrawal,0,2026-07-22 12:55:30,2026-07-22 13:01:34,kyc_verification
+8536,TKT-8SZ5QTLE,1,52372,RSINGH99,9.0,closed,Kyc verification,Withdrawal,0,2026-07-23 11:06:24,2026-07-23 11:07:01,kyc_verification
+8537,TKT-DIE4MC1H,1,52372,RSINGH99,9.0,closed,Kyc verification,Withdrawal,0,2026-07-23 11:07:01,2026-07-23 11:15:49,kyc_verification
+8616,TKT-PR2YGIMN,1,10088,KEHAR2,9.0,closed,Kyc approval,Withdrawal,0,2026-07-24 16:12:14,2026-07-24 16:24:03,kyc_verification
+8669,TKT-RGNWTLBN,1,40853,ROHEL26US,8.0,closed,Kyc verification,Withdrawal,0,2026-07-25 10:37:25,2026-07-27 11:38:23,kyc_verification
+8728,TKT-TFZTFKO6,1,17105,KUSUMLATA,9.0,solved,Verification,Withdrawal,0,2026-07-26 00:23:45,2026-07-27 13:15:06,kyc_verification
+8873,TKT-GBZPDLIT,1,16826,RISHIMOHAN,9.0,solved,Verification,Withdrawal,0,2026-07-27 19:05:31,2026-07-28 14:38:16,kyc_verification
+10664,TKT-PNJSTZZJ,1,13666,VELDANDI01,10.0,open,Verify my refund  fund,Withdrawal,0,2026-08-24 10:09:08,2026-08-24 10:31:55,kyc_verification

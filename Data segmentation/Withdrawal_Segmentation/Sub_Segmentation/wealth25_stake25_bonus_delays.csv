@@ -1,0 +1,12 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+238,TKT-PUIPLPM1,1,12239,DIAMONDSAAB05,8.0,solved,Clear invoice no #2f855dd5e423,Withdrawal,0,2026-02-19 18:44:44,2026-02-27 11:15:36,pending_delayed_stuck
+3777,TKT-DH9LNQAO,1,42224,SANDEEP785,9.0,closed,For Clear my invoice,Withdrawal,0,2026-06-18 09:51:12,2026-06-18 12:51:32,pending_delayed_stuck
+8928,TKT-A4UPUH7V,1,10899,HARSHITA97,8.0,solved,Stake25 bonus,Withdrawal,0,2026-07-28 15:19:07,2026-07-29 11:23:40,pending_delayed_stuck
+9136,TKT-DLHHKXSW,1,10899,HARSHITA97,9.0,closed,Stake25 residual bonus,Withdrawal,0,2026-07-31 13:42:30,2026-07-31 14:14:22,pending_delayed_stuck
+9191,TKT-ZSBBCCE6,1,23881,EWUTKARSH06,9.0,closed,wealth 25 withdrawal related,Withdrawal,0,2026-08-01 10:24:12,2026-08-03 16:59:06,pending_delayed_stuck
+9474,TKT-THX3MIQA,1,5364,AMIT7619,10.0,open,Invoice related,Withdrawal,0,2026-08-04 22:46:05,2026-08-05 10:35:40,pending_delayed_stuck
+10084,TKT-SSZYLPE3,1,11214,SAURABH14,8.0,closed,W25 Profit related,Withdrawal,0,2026-08-14 10:33:01,2026-08-17 15:56:16,pending_delayed_stuck
+10174,TKT-MS1WP8A0,1,42772,RAJENDRA12,9.0,solved,Stake 25,Withdrawal,0,2026-08-15 08:18:51,2026-08-17 17:19:19,pending_delayed_stuck
+10462,TKT-D4HJRCNF,1,513,KAKAJI03,8.0,closed,"Request for Clear Update on Profit Withdrawal for Wealth 25, Wealth 36 & Stake 25",Withdrawal,0,2026-08-20 00:03:22,2026-08-20 11:25:51,pending_delayed_stuck
+11050,TKT-ZJCQFVLN,1,45763,KHAN08,9.0,closed,Stake 25 withdrawal,Withdrawal,0,2026-09-01 13:47:03,2026-09-01 18:47:12,pending_delayed_stuck
+11123,TKT-SEOAAZTX,1,58914,ANITA6390A,9.0,closed,Stake 25,Withdrawal,0,2026-09-03 09:37:28,2026-09-03 16:22:06,pending_delayed_stuck

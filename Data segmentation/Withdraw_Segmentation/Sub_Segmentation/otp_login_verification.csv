@@ -1,0 +1,2 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+1776,TKT-IX5YXQIB,3,2012,DILIPKUMAR BHOGLE,8.0,solved,referral code,Withdraw,0,2026-05-20 08:59:23,2026-05-20 10:52:55,otp_login_verification

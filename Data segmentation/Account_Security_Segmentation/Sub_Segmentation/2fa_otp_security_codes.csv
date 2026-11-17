@@ -1,0 +1,67 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+9,TKT-RQB5WO8G,1,40664,DRSATWINDER0267,3.0,solved,Account Authenticator,Account Security,0,2026-01-23 22:40:48,2026-01-25 08:43:38,2fa_otp_security_codes
+10,TKT-ANVC5ODO,1,40662,DRSATWINDER267,3.0,closed,Google Authenticator,Account Security,0,2026-01-23 23:16:28,2026-01-28 13:13:46,2fa_otp_security_codes
+30,TKT-7TMC3K0V,1,25752,ELITE897,3.0,closed,Authenticator support,Account Security,0,2026-01-28 23:10:42,2026-02-02 14:54:40,2fa_otp_security_codes
+72,TKT-0DAESULQ,1,12104,PAWAN78473,3.0,closed,Reissue authenticator,Account Security,0,2026-02-05 09:10:45,2026-02-06 13:23:18,2fa_otp_security_codes
+73,TKT-VVNFKZOA,1,12105,KAMAL22013,3.0,closed,Reissue google authenticator,Account Security,0,2026-02-05 09:17:57,2026-02-06 13:23:08,2fa_otp_security_codes
+201,TKT-V4453JAN,1,16601,JVISHWAS,8.0,closed,Forgot Authentication code,Account Security,0,2026-02-15 22:11:10,2026-02-18 12:27:56,2fa_otp_security_codes
+235,TKT-CBWCFEVM,1,196,SATSWARUPRAM,8.0,closed,My Downline Authenticator  Miss,Account Security,0,2026-02-19 10:15:58,2026-02-25 11:01:04,2fa_otp_security_codes
+254,TKT-BU3A2TD6,1,9185,ANKURBOTX,3.0,closed,Request for two factor authenticator Set Up Key,Account Security,0,2026-02-21 15:56:42,2026-04-14 23:45:22,2fa_otp_security_codes
+363,TKT-RBGP45WB,1,14331,SHIVANARAYAN,8.0,solved,Google authenticatore,Account Security,0,2026-02-28 23:00:38,2026-03-02 11:54:36,2fa_otp_security_codes
+403,TKT-MYD27AKG,1,13075,TATA130,3.0,open,RESET Google authenticator code,Account Security,0,2026-03-04 00:00:28,2026-03-09 11:41:47,2fa_otp_security_codes
+495,TKT-0W5R2L6D,1,47166,BALRAMMITTAL,8.0,solved,2fa authenticator lost,Account Security,0,2026-03-11 13:38:46,2026-03-17 12:09:15,2fa_otp_security_codes
+497,TKT-XEO4BAWV,1,21136,SEHJOT2700,8.0,solved,Google authenticator deleted,Account Security,0,2026-03-11 14:11:49,2026-03-17 12:09:08,2fa_otp_security_codes
+503,TKT-U0JDIENV,1,21136,SEHJOT2700,9.0,closed,Request for google authentication code PROBOTX,Account Security,0,2026-03-11 17:55:50,2026-03-17 14:38:32,2fa_otp_security_codes
+581,TKT-N0JPLPGK,1,9594,SHARMA100,3.0,closed,Authenticator miss,Account Security,0,2026-03-15 13:40:18,2026-04-14 23:40:59,2fa_otp_security_codes
+602,TKT-NXDEMA0P,2,148882,GIRISH8384,8.0,solved,Authenticator,Account Security,0,2026-03-16 20:53:13,2026-03-19 11:43:20,2fa_otp_security_codes
+679,TKT-V3SWRCNO,1,9594,SHARMA100,8.0,closed,Authenticator new update,Account Security,0,2026-03-22 09:55:34,2026-03-24 11:57:12,2fa_otp_security_codes
+722,TKT-1VX2HTDB,2,786925,HOTCRYPTO,8.0,closed,Rest Google Authenticator,Account Security,0,2026-03-24 13:24:28,2026-03-26 11:13:41,2fa_otp_security_codes
+747,TKT-RLULLO9P,2,385512,GIRISH53100,8.0,solved,New authenticator,Account Security,0,2026-03-26 11:50:47,2026-03-31 12:27:21,2fa_otp_security_codes
+795,TKT-SNXH8BCV,2,148882,GIRISH8384,8.0,closed,New authenticator,Account Security,0,2026-03-30 06:59:32,2026-03-31 12:38:26,2fa_otp_security_codes
+863,TKT-ACMKZ5EO,2,482032,NISHA1679,8.0,solved,authenticator,Account Security,0,2026-04-05 11:34:03,2026-04-07 12:46:28,2fa_otp_security_codes
+930,TKT-SGLKUNVI,1,24769,JAIMIKA2315,8.0,solved,my authenticator otp not working,Account Security,0,2026-04-09 21:24:10,2026-04-13 12:31:55,2fa_otp_security_codes
+975,TKT-B0ZWVKNU,1,390,DURGESH12,8.0,closed,Massage Otp related,Account Security,0,2026-04-13 13:38:16,2026-04-15 12:17:16,2fa_otp_security_codes
+978,TKT-NVRWPPGE,1,8466,RITESH123,8.0,closed,Not receiving OTP on Mobile SMS for final step verification,Account Security,0,2026-04-13 14:03:54,2026-04-15 12:18:05,2fa_otp_security_codes
+995,TKT-M5SADFUB,1,39127,ABHAYPATIL,3.0,closed,MY GOOGLE AUTHENTICATOR OPTION,Account Security,0,2026-04-15 00:02:16,2026-06-03 18:08:33,2fa_otp_security_codes
+1006,TKT-64GETLVY,1,39398,SOHELSAYED,3.0,closed,Otp,Account Security,0,2026-04-15 07:53:15,2026-06-03 18:08:20,2fa_otp_security_codes
+1082,TKT-2BLB5DJI,1,23259,ANIL551,9.0,closed,Google Authenticator,Account Security,0,2026-04-18 08:42:46,2026-04-23 15:55:24,2fa_otp_security_codes
+1258,TKT-QBUIBUFQ,2,333491,SAIYAR33,9.0,closed,Authenticator reset,Account Security,0,2026-04-23 20:07:09,2026-04-27 12:57:00,2fa_otp_security_codes
+1309,TKT-9UW9LY3N,1,23792,PATELSOFIRA25,9.0,closed,i didnot received OTP in Email Id,Account Security,0,2026-04-25 10:50:34,2026-04-29 12:39:39,2fa_otp_security_codes
+1344,TKT-VKQYURJ2,1,24628,ANITA03,8.0,solved,Google authenticator,Account Security,0,2026-04-27 15:52:40,2026-04-27 16:08:31,2fa_otp_security_codes
+1902,TKT-JETYR2LT,1,627,SHANAKR,3.0,open,Authenticator Missing,Account Security,0,2026-05-22 18:45:00,2026-06-04 13:53:32,2fa_otp_security_codes
+2402,TKT-UPBJOBC5,1,19570,BALAJIN099,9.0,solved,2FA rest,Account Security,0,2026-06-01 19:29:47,2026-06-04 15:49:14,2fa_otp_security_codes
+2423,TKT-FOOCZEL2,1,21362,RB1995,9.0,closed,Email otp not received,Account Security,0,2026-06-01 23:32:46,2026-06-03 16:33:39,2fa_otp_security_codes
+2424,TKT-ZBHVYODA,1,21362,RB1995,3.0,closed,Email otp locked,Account Security,0,2026-06-01 23:34:14,2026-06-03 16:28:27,2fa_otp_security_codes
+2491,TKT-TUL86ZI0,1,53398,IBRAHIM1959,8.0,solved,Email otp verify link but show locked,Account Security,0,2026-06-03 10:41:39,2026-06-03 11:18:01,2fa_otp_security_codes
+2563,TKT-NDK5GPLT,1,21362,RB1995,9.0,solved,Email verify otp not received,Account Security,0,2026-06-03 22:51:25,2026-06-05 17:05:52,2fa_otp_security_codes
+2611,TKT-DZBQOY0O,1,15281,PINDERDHALIWAL,9.0,solved,Authenticator deleated,Account Security,0,2026-06-04 15:52:10,2026-06-05 17:06:38,2fa_otp_security_codes
+2959,TKT-UJCNYQ5O,2,638100,HA119,4.0,closed,Authenticator,Account Security,0,2026-06-09 18:57:25,2026-08-20 17:03:43,2fa_otp_security_codes
+3089,TKT-WYMADUUS,1,23293,MRANANDSAGAR,9.0,closed,How much time taken for KYC approve to very much time taken dear pls KYC approve fast ⏩,Account Security,0,2026-06-11 20:39:38,2026-06-12 12:45:58,2fa_otp_security_codes
+3101,TKT-HL07DBQA,2,638100,HA119,4.0,closed,Google authenticator,Account Security,0,2026-06-12 00:11:26,2026-08-20 17:04:03,2fa_otp_security_codes
+4000,TKT-ZARBWYJA,1,47182,JASKARAN12345,9.0,solved,Reset my google authenticator,Account Security,0,2026-06-18 20:14:10,2026-06-22 13:20:51,2fa_otp_security_codes
+4001,TKT-KSVPRLLN,1,47182,JASKARAN12345,4.0,closed,Reset my google authenticator,Account Security,0,2026-06-18 20:16:34,2026-08-20 17:03:38,2fa_otp_security_codes
+4176,TKT-A3RITCVG,2,86428,NISHAMADHVI,8.0,solved,My Dauline  Authenticator reset,Account Security,0,2026-06-19 14:23:49,2026-06-19 14:25:32,2fa_otp_security_codes
+4276,TKT-HGDRADRO,1,40823,MASY01,9.0,closed,please complete my kyc verification fast its been  a month,Account Security,0,2026-06-20 09:02:41,2026-06-22 13:14:33,2fa_otp_security_codes
+5481,TKT-BU5YWPB9,2,255467,ABHISHEK493,9.0,solved,Authenticator,Account Security,0,2026-06-27 13:44:41,2026-06-29 17:29:53,2fa_otp_security_codes
+5483,TKT-EKIPUAIB,2,161273,KARAMJEET98,9.0,solved,Authenticator,Account Security,0,2026-06-27 14:11:17,2026-06-29 17:29:48,2fa_otp_security_codes
+6738,TKT-UL7ECN91,1,24181,DHIR,9.0,solved,Google Authenticator,Account Security,0,2026-07-06 12:01:16,2026-07-06 16:28:37,2fa_otp_security_codes
+6769,TKT-1VLRXVQA,1,15281,PINDERDHALIWAL,9.0,solved,Deleted of Authenticator,Account Security,0,2026-07-06 15:01:35,2026-07-06 16:28:16,2fa_otp_security_codes
+6795,TKT-RXWUGQZD,1,56701,MUKULG,9.0,solved,Authenticator code not working on security screen,Account Security,0,2026-07-06 19:15:16,2026-07-14 13:53:46,2fa_otp_security_codes
+6852,TKT-QJ8LOQGY,1,46317,SMJ77,8.0,closed,My KYC veryfai please,Account Security,0,2026-07-07 11:25:36,2026-07-07 11:30:50,2fa_otp_security_codes
+7444,TKT-JR9QAN25,1,15933,UMAR2US,9.0,solved,lose of Authenticator,Account Security,0,2026-07-11 15:29:14,2026-07-13 18:52:39,2fa_otp_security_codes
+7474,TKT-YTJ3KP53,1,2033,SHAIKH055,9.0,solved,Authenticator,Account Security,0,2026-07-11 20:15:45,2026-07-28 14:11:46,2fa_otp_security_codes
+8178,TKT-VQOO8YOS,2,67667,OSAMA1,10.0,open,QR code lost,Account Security,0,2026-07-18 06:28:29,2026-07-20 19:20:57,2fa_otp_security_codes
+8386,TKT-PAVWYPPG,2,118996,SAMEER02,8.0,solved,QR code lost,Account Security,0,2026-07-21 06:50:37,2026-07-21 15:07:26,2fa_otp_security_codes
+8718,TKT-EVWNSUKR,1,58466,NARINDER037,8.0,solved,G mail OTP,Account Security,0,2026-07-25 22:32:48,2026-07-27 13:18:24,2fa_otp_security_codes
+9134,TKT-9FSBEWKG,1,40231,BHUPINDERCHOPRA6,8.0,solved,Google Authenticator Reset and 2FA Recovery,Account Security,0,2026-07-31 13:17:14,2026-08-12 16:35:24,2fa_otp_security_codes
+9597,TKT-UKNNEOF9,1,15009,PROBOXUS100,8.0,solved,Request for 2FA Authenticator Reset,Account Security,0,2026-08-06 08:55:00,2026-08-10 14:14:47,2fa_otp_security_codes
+9710,TKT-S9XNST5H,2,84200,MADHURI1950,9.0,solved,email otp not recived on email,Account Security,0,2026-08-07 17:47:30,2026-08-11 14:33:57,2fa_otp_security_codes
+9831,TKT-DGAERYB4,2,84200,MADHURI1950,8.0,solved,otp on email is not reciving,Account Security,0,2026-08-09 02:43:02,2026-08-10 16:44:11,2fa_otp_security_codes
+10186,TKT-BQEFXWPY,2,15242,ZUNERA,9.0,solved,Spelling correction  and add my city code,Account Security,0,2026-08-15 13:04:23,2026-08-17 16:49:09,2fa_otp_security_codes
+10312,TKT-FWE6GKPZ,2,110305,MUJEEB786,4.0,closed,Google Authenticator,Account Security,0,2026-08-17 17:22:10,2026-08-19 15:48:59,2fa_otp_security_codes
+10745,TKT-UI79GD6H,1,627,SHANAKR,8.0,solved,Authenticator Lost,Account Security,0,2026-08-25 12:28:51,2026-09-02 10:58:13,2fa_otp_security_codes
+10797,TKT-CKQBMSVL,1,55588,SEEMATHAKUR77,8.0,solved,2FA Reset,Account Security,0,2026-08-26 12:08:47,2026-08-28 16:15:50,2fa_otp_security_codes
+10863,TKT-PBQC77JJ,1,19565,ANAYA02,9.0,solved,Request to Reset 2FA Code,Account Security,0,2026-08-27 15:48:09,2026-08-27 16:01:24,2fa_otp_security_codes
+11061,TKT-OVTFZCPO,2,108816,BRI49,9.0,solved,Old id Google authenticator,Account Security,0,2026-09-01 18:41:19,2026-09-01 18:57:15,2fa_otp_security_codes
+11135,TKT-CRL0IFVX,1,41495,PUNEETKUMAR1265,8.0,solved,Reset Authenticator,Account Security,0,2026-09-03 15:21:10,2026-09-03 15:27:37,2fa_otp_security_codes
+11156,TKT-Y3NYF7YB,1,14779,JODHBIR,8.0,solved,Otp,Account Security,0,2026-09-03 21:37:37,2026-09-04 12:03:12,2fa_otp_security_codes

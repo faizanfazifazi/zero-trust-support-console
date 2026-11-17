@@ -1,0 +1,8 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+15,TKT-ZDXUGA00,1,33445,BILLIANER2042,3.0,solved,Mobile no,Account Profile,0,2026-01-24 15:37:22,2026-01-25 08:01:10,profile_phone_update
+1630,TKT-F2W8QXRM,2,560162,WIN8315,8.0,closed,Mobile number change,Account Profile,0,2026-05-11 21:53:17,2026-05-13 10:45:54,profile_phone_update
+1702,TKT-86ZHKS9N,1,25443,RANI3775,8.0,closed,New Mobile no update,Account Profile,0,2026-05-17 07:40:47,2026-05-18 10:44:18,profile_phone_update
+3330,TKT-IQA7DRV4,1,57579,SAMC01,4.0,closed,Need to update email ID and mobile number,Account Profile,0,2026-06-15 15:03:21,2026-06-18 16:24:33,profile_phone_update
+8381,TKT-4VWGJ3BU,1,58778,KUSHIAGRA,9.0,solved,Update my mobile number and mail id,Account Profile,0,2026-07-20 22:42:13,2026-07-21 18:59:30,profile_phone_update
+9238,TKT-C8OB5PCI,1,58778,KUSHIAGRA,9.0,solved,Update my mobile number,Account Profile,0,2026-08-01 23:30:35,2026-08-03 16:28:23,profile_phone_update
+10316,TKT-HF2JIXFK,1,61216,MEENAGUPTA1800PREM,8.0,solved,mobile no. changes,Account Profile,0,2026-08-17 17:56:26,2026-08-17 17:58:18,profile_phone_update

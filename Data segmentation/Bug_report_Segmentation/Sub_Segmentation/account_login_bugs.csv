@@ -1,0 +1,36 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+26,TKT-TFMENGDO,1,14469,KSINGH2,8.0,solved,Id not opened,Bug Report,0,2026-01-28 05:07:30,2026-01-30 16:14:59,account_login_bugs
+506,TKT-F5F1ADZM,1,42941,ALKA10,9.0,closed,For otp,Bug Report,0,2026-03-11 19:31:05,2026-03-16 13:38:49,account_login_bugs
+694,TKT-CTV3YDSS,2,63844,ZAKI03,8.0,closed,For unsuspend of my id ZIA2007,Bug Report,0,2026-03-22 21:34:42,2026-03-25 15:18:07,account_login_bugs
+825,TKT-DRHMCYXF,1,11459,SARABJIT001,8.0,solved,Gmail code not received,Bug Report,0,2026-04-02 15:49:19,2026-04-03 12:11:07,account_login_bugs
+1712,TKT-MRY6M1KM,1,1252,SUMMER192021,10.0,open,Maching is not show in my id 2700 maching,Bug Report,0,2026-05-17 23:44:09,2026-05-18 12:24:57,account_login_bugs
+2339,TKT-9XNPXICW,1,6750,MADHABIR,8.0,closed,My account wrong update income trading,Bug Report,0,2026-05-31 14:17:25,2026-06-01 12:44:55,account_login_bugs
+2437,TKT-EZMYPYJ6,1,14321,DKC1971,9.0,closed,SAKSHI PRIYAM ID: SAKSHI1994,Bug Report,0,2026-06-02 08:32:26,2026-06-04 15:13:28,account_login_bugs
+2438,TKT-YKRJYKK1,1,14321,DKC1971,9.0,solved,RAVI KANT VERMA ID: RAVIKANT1990,Bug Report,0,2026-06-02 08:33:48,2026-06-04 15:02:31,account_login_bugs
+2439,TKT-SGGZQJTY,1,14321,DKC1971,9.0,closed,RANJEET KUMAR SINGH ID: RANJEET1990,Bug Report,0,2026-06-02 08:35:04,2026-06-04 15:02:10,account_login_bugs
+2771,TKT-MLEYPPJ3,1,1222,AMIQUE07,9.0,solved,Team Member Account Verification Issue,Bug Report,0,2026-06-07 08:25:01,2026-06-09 16:27:09,account_login_bugs
+2849,TKT-BIVNPSP4,1,14321,DKC1971,9.0,solved,ID: RANJEET1990,Bug Report,0,2026-06-08 07:18:03,2026-06-09 16:15:08,account_login_bugs
+3252,TKT-JIBEVNKK,1,4699,NIRAJKUMARR24,8.0,closed,Regarding my account dues,Bug Report,0,2026-06-14 11:27:28,2026-06-15 13:10:04,account_login_bugs
+3401,TKT-5FAAECNP,1,4699,NIRAJKUMARR24,9.0,closed,When will be my account dues settled,Bug Report,0,2026-06-16 15:15:29,2026-06-17 16:56:00,account_login_bugs
+4183,TKT-XW2OIHVH,3,9307,Uwais hakim,8.0,closed,no AVAILABLE in my account,Bug Report,0,2026-06-19 15:15:41,2026-06-19 16:25:33,account_login_bugs
+4538,TKT-XLQYIUSL,1,14321,DKC1971,9.0,closed,dinesh kumar singh ID: DKC1971,Bug Report,0,2026-06-22 08:10:20,2026-06-22 12:20:29,account_login_bugs
+4771,TKT-5MSCZZ7P,1,14257,DKUMAR44,8.0,closed,Links Account opetion,Bug Report,0,2026-06-23 08:52:13,2026-06-23 10:32:30,account_login_bugs
+4898,TKT-EP2EHCXM,1,34435,TOUHID2025,9.0,closed,Md Touhid Alam,Bug Report,0,2026-06-23 16:58:01,2026-06-23 17:12:12,account_login_bugs
+5152,TKT-WCWGTF9S,1,22410,MAYUR23,8.0,closed,Regarding Accounts KYC,Bug Report,0,2026-06-25 09:45:00,2026-06-25 16:28:11,account_login_bugs
+5153,TKT-1ZO9W4Y8,1,22408,RADHIKA13,8.0,closed,Regarding Accounts KYC,Bug Report,0,2026-06-25 09:52:28,2026-06-25 16:27:44,account_login_bugs
+5154,TKT-LAANPWHU,1,17333,RVT2009,9.0,closed,Regarding Accounts KYC,Bug Report,0,2026-06-25 09:55:44,2026-06-25 12:16:34,account_login_bugs
+5375,TKT-PRUDDW0B,1,34435,TOUHID2025,9.0,closed,MD TOUHID ALAM,Bug Report,0,2026-06-26 18:28:12,2026-06-29 17:09:08,account_login_bugs
+5449,TKT-HLFVSJLD,1,9595,SHARMA101,4.0,closed,Not receive OTP on mail,Bug Report,0,2026-06-27 11:00:33,2026-07-03 17:56:08,account_login_bugs
+6429,TKT-3XS96CJB,3,9307,Uwais hakim,9.0,closed,check my account please dr mether team,Bug Report,0,2026-07-03 17:10:28,2026-07-03 17:58:13,account_login_bugs
+6908,TKT-JWDERORT,1,34435,TOUHID2025,9.0,closed,MD TOUHID ALAM,Bug Report,0,2026-07-07 19:06:21,2026-07-08 16:37:59,account_login_bugs
+6915,TKT-NFR2VJ45,1,50863,MASIDUR2000,9.0,closed,Masidur Rahaman,Bug Report,0,2026-07-07 19:45:11,2026-07-08 12:53:49,account_login_bugs
+7341,TKT-WHTRQCN1,3,9307,Uwais hakim,9.0,closed,hello mether team support for my account,Bug Report,0,2026-07-10 21:47:17,2026-07-13 16:46:24,account_login_bugs
+7844,TKT-TO5JMGAL,1,34435,TOUHID2025,8.0,closed,Md Touhid Alam,Bug Report,0,2026-07-15 11:47:29,2026-07-15 12:29:28,account_login_bugs
+9052,TKT-WKYJ5UCP,1,5880,PPV75,8.0,solved,Account minus,Bug Report,0,2026-07-30 13:45:06,2026-07-30 13:50:27,account_login_bugs
+10229,TKT-Z9CASGZ4,1,12221,BRIJESH78,9.0,closed,ID. BRIJESH78,Bug Report,0,2026-08-16 07:02:04,2026-08-17 15:24:15,account_login_bugs
+10256,TKT-S4BEICHI,2,145361,ROHAN2700,10.0,open,Please Murj My account of My Old Id,Bug Report,0,2026-08-16 13:37:35,2026-08-17 14:58:27,account_login_bugs
+10353,TKT-8SC6A2KE,1,47860,MKING,8.0,closed,Account bug,Bug Report,0,2026-08-18 08:50:46,2026-08-18 12:36:46,account_login_bugs
+10591,TKT-ZXYWVWNZ,1,14324,SMILE92,9.0,solved,Account correction related,Bug Report,0,2026-08-22 07:12:28,2026-08-24 18:49:23,account_login_bugs
+10668,TKT-JNZV87X8,1,9967,RPG1964,8.0,closed,Follow up ID  MKING,Bug Report,0,2026-08-24 11:10:21,2026-08-24 11:26:20,account_login_bugs
+10741,TKT-TBCLW0TA,1,34435,TOUHID2025,8.0,closed,Md Touhid Alam,Bug Report,0,2026-08-25 11:32:05,2026-08-25 11:35:08,account_login_bugs
+11032,TKT-P0QGZ9DK,1,580,MAJID9088,9.0,solved,I am not receiving the Trading Signals in my account,Bug Report,0,2026-09-01 08:17:50,2026-09-02 16:26:29,account_login_bugs

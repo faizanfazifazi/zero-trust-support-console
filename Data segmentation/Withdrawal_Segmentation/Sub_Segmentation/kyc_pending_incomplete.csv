@@ -1,0 +1,44 @@
+id,ticket_number,project_id,user_id,username,assigned_agent_id,status,subject,type,priority,created_at,updated_at,sub_segment
+2155,TKT-KRXG0RYP,1,20258,RASHID1919,8.0,closed,My kyc is pending,Withdrawal,0,2026-05-27 05:52:55,2026-06-01 10:54:39,kyc_verification
+2208,TKT-DSKEQ1YD,1,16854,SUBHASH10800,8.0,closed,KYC PENDING,Withdrawal,0,2026-05-27 20:58:26,2026-05-29 12:20:47,kyc_verification
+2330,TKT-VOE8OUNY,1,25360,PRADEEP80011,8.0,closed,Kyc pending more then 9 days,Withdrawal,0,2026-05-31 12:01:44,2026-06-01 10:49:29,kyc_verification
+2556,TKT-MJRW7SL6,1,33716,WEALTHPRAVIN,8.0,closed,Kyc pending,Withdrawal,0,2026-06-03 21:34:39,2026-06-04 11:17:50,kyc_verification
+2831,TKT-9ZVZKHUY,1,14639,GAGANRAIPUR,9.0,closed,KYC pending Yet,Withdrawal,0,2026-06-07 22:42:13,2026-06-08 11:15:30,kyc_verification
+3004,TKT-9MTFVY02,1,21772,JAYBHOLE,9.0,closed,Kyc not complete,Withdrawal,0,2026-06-10 14:04:13,2026-06-10 14:10:24,kyc_verification
+3061,TKT-HEJTXNVX,1,49724,TANEJAPROBOT,8.0,closed,Kyc pending long time,Withdrawal,0,2026-06-11 11:47:48,2026-06-11 12:06:40,kyc_verification
+3063,TKT-Y9YI5YSU,1,17127,VIJAYPROBOTX,8.0,closed,Kyc pending,Withdrawal,0,2026-06-11 11:54:07,2026-06-11 12:06:29,kyc_verification
+3065,TKT-5OY7Y8QH,1,51057,TANEJA01,8.0,closed,Kyc pending,Withdrawal,0,2026-06-11 11:56:52,2026-06-11 12:06:17,kyc_verification
+3435,TKT-JVTV4HC9,1,11787,AZAD092,8.0,closed,Kyc pending,Withdrawal,0,2026-06-17 00:12:03,2026-06-17 11:15:49,kyc_verification
+3492,TKT-JVAQLRPZ,1,14639,GAGANRAIPUR,8.0,closed,Related Kyc pending yet,Withdrawal,0,2026-06-17 12:45:37,2026-06-17 12:54:35,kyc_verification
+3586,TKT-LRNJ7CPX,1,24699,KARAM73,9.0,closed,Kyc pending,Withdrawal,0,2026-06-17 16:47:20,2026-06-17 17:56:16,kyc_verification
+3596,TKT-PNLH6SSK,1,16083,HARJINDER32,9.0,solved,Kyc  pending,Withdrawal,0,2026-06-17 17:08:15,2026-06-17 17:40:20,kyc_verification
+3740,TKT-3TQWOPPZ,1,12804,NOORUL81,8.0,closed,Kyc pending,Withdrawal,0,2026-06-18 06:32:15,2026-06-18 12:13:22,kyc_verification
+3825,TKT-THFT8IHN,1,19730,IRQUAN0786,8.0,closed,KYC NOT COMPLETE,Withdrawal,0,2026-06-18 12:42:14,2026-06-18 12:43:48,kyc_verification
+4034,TKT-EECZP0TS,1,18620,AZKANOOR05,8.0,closed,KYC pending,Withdrawal,0,2026-06-19 05:46:31,2026-06-19 10:25:34,kyc_verification
+4075,TKT-OF1HP0RM,1,12343,SAI10800,8.0,closed,My  kyc is pending 25 days please my kyc is verfiy,Withdrawal,0,2026-06-19 10:24:34,2026-06-19 10:24:40,kyc_verification
+4150,TKT-DHYNZTGJ,1,19842,DIVYAMANSA,8.0,closed,KYC pending yet,Withdrawal,0,2026-06-19 13:17:49,2026-06-19 14:30:12,kyc_verification
+4888,TKT-7RQ1X7NG,1,19842,DIVYAMANSA,9.0,closed,KYC pending,Withdrawal,0,2026-06-23 15:56:50,2026-06-23 16:00:38,kyc_verification
+4982,TKT-ERLFT9YF,1,34468,RIDDHI3,8.0,closed,KYC not done yet,Withdrawal,0,2026-06-24 08:57:22,2026-06-24 11:00:51,kyc_verification
+5303,TKT-CQJGITHR,1,34421,JASSICHHAPIAN,8.0,closed,Kyc pending,Withdrawal,0,2026-06-26 11:29:40,2026-06-29 12:43:58,kyc_verification
+5331,TKT-EHOMBJI0,1,22704,RIDDHI2,8.0,closed,Kyc not done,Withdrawal,0,2026-06-26 14:44:04,2026-06-29 12:40:26,kyc_verification
+5835,TKT-WADX33VH,1,3180,NITINSMART,8.0,closed,kyc pending,Withdrawal,0,2026-06-30 11:28:16,2026-06-30 11:31:44,kyc_verification
+6044,TKT-KNYOBB2H,1,12677,NEHAW25,8.0,closed,Kyc pending,Withdrawal,0,2026-07-01 16:39:05,2026-07-01 16:41:55,kyc_verification
+6045,TKT-S9MCRJRT,1,21044,NMALHOTRA1,8.0,closed,Kyc pending,Withdrawal,0,2026-07-01 16:48:40,2026-07-01 17:00:47,kyc_verification
+6298,TKT-FL7WXX16,1,44085,AKANKSHA001,9.0,closed,why kyc have been pending for so long,Withdrawal,0,2026-07-03 04:46:51,2026-07-03 19:40:50,kyc_verification
+6301,TKT-BY5V0RNV,1,3180,NITINSMART,9.0,closed,kyc pending,Withdrawal,0,2026-07-03 06:12:10,2026-07-03 19:46:14,kyc_verification
+6477,TKT-NK5EQ6YV,1,21044,NMALHOTRA1,8.0,closed,Pending kyc,Withdrawal,0,2026-07-03 20:39:27,2026-07-06 14:15:24,kyc_verification
+6988,TKT-BQSLJTGA,1,13465,SKT9,8.0,closed,KYC APPROVEL PENDING,Withdrawal,0,2026-07-08 09:50:29,2026-07-08 11:10:40,kyc_verification
+7010,TKT-SPXJUGZY,1,18172,GSETHI,8.0,closed,KYC PENDING,Withdrawal,0,2026-07-08 13:03:43,2026-07-08 14:21:02,kyc_verification
+7018,TKT-D3J1YXM2,1,39736,WASIM2403,9.0,closed,Pending KYC,Withdrawal,0,2026-07-08 14:39:31,2026-07-08 14:45:44,kyc_verification
+7037,TKT-LMXTYOVN,1,13465,SKT9,9.0,closed,Withdrawl Pending Due to Kyc,Withdrawal,0,2026-07-08 16:27:26,2026-07-08 16:38:17,kyc_verification
+7162,TKT-U7TQVOGQ,1,49717,WASEEM1800,10.0,open,: Verification and Status of Pending Withdrawal - User ID: Waseem1800,Withdrawal,0,2026-07-09 15:20:08,2026-07-09 15:52:46,kyc_verification
+7320,TKT-TZPGVP5J,1,39412,ATAMJEET01,9.0,closed,Pending kyc,Withdrawal,0,2026-07-10 18:11:05,2026-07-10 18:31:13,kyc_verification
+7379,TKT-FC5NE9YY,1,13465,SKT9,8.0,closed,DUE TO KYC APPROVEL WITHDRAWAL NOT DONE,Withdrawal,0,2026-07-11 08:46:06,2026-07-13 14:30:31,kyc_verification
+7405,TKT-KARCENAS,1,14866,BASUDEVROYM20,8.0,closed,Kyc pending,Withdrawal,0,2026-07-11 11:34:30,2026-07-13 14:26:07,kyc_verification
+7650,TKT-OC6V3THM,1,39736,WASIM2403,9.0,closed,KYC Still Pending,Withdrawal,0,2026-07-13 17:55:01,2026-07-13 22:29:11,kyc_verification
+8124,TKT-5Y9UZO4C,1,25229,ATHAR001,8.0,closed,Pending KYC,Withdrawal,0,2026-07-17 14:30:11,2026-07-17 14:30:37,kyc_verification
+8129,TKT-NDEXN90J,1,39412,ATAMJEET01,8.0,closed,Pending kyc stuts,Withdrawal,0,2026-07-17 15:55:36,2026-07-17 16:09:32,kyc_verification
+8194,TKT-OT94FHDZ,1,38341,ATHAR21,8.0,closed,KYC Pending,Withdrawal,0,2026-07-18 11:00:59,2026-07-20 11:10:52,kyc_verification
+8253,TKT-IJMAMGCY,1,50930,KULVIR817,8.0,closed,KYC pending,Withdrawal,0,2026-07-19 06:08:59,2026-07-20 11:08:20,kyc_verification
+8254,TKT-DNHJMOYK,1,50934,KULVIR2700A,8.0,closed,KYC pending,Withdrawal,0,2026-07-19 06:11:22,2026-07-20 11:09:18,kyc_verification
+10546,TKT-HQH4PZRI,2,353736,AVTAR72,8.0,solved,KYC IS NOT DONE,Withdrawal,0,2026-08-21 10:54:50,2026-08-21 10:58:56,kyc_verification
